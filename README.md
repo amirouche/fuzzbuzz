@@ -1,3 +1,7 @@
+# fuzzyhash
+
+**experimental use at your own risks**
+
 ```ascii
   _____
 _/ ____\_ _____________________.__.
@@ -12,7 +16,5 @@ _/ ____\_ _____________________.__.
 |___|  (____  /____  >___|  /
      \/     \/     \/     \/
 ```
-
-# fuzzyhash
 
 fuzzy hash and distance for short strings.
