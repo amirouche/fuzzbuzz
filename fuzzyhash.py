@@ -1,5 +1,5 @@
 from collections import Counter
-from hashlib import md5
+from pyblake2 import blake2b
 
 
 HASH_SIZE = 64
@@ -10,7 +10,7 @@ def ngram(string, n=2):
 
 
 def hash(string):
-    return int.from_bytes(md5(string.encode('utf-8')).digest(), 'big') % HASH_SIZE
+    return int.from_bytes(blake2b(string.encode('utf-8'), 8).digest(), 'big')
 
 
 def features(string):
@@ -28,8 +28,8 @@ def int2bits(integer):
 
 def hamming2(s1, s2):
     """Calculate the Hamming distance between two bit strings"""
-    s1 = bin(s1)[2:].zfill(HASH_SIZE)
-    s2 = bin(s2)[2:].zfill(HASH_SIZE)
+    s1 = int2bits(s1)
+    s2 = int2bits(s2)
     # Taken from https://stackoverflow.com/a/31007358/140837
     assert len(s1) == len(s2)
     return sum(c1 != c2 for c1, c2 in zip(s1, s2))
