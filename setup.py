@@ -10,7 +10,7 @@ def read(fname):
 
 setup(
     name="fuzzyhash",
-    version="0.1.1",
+    version="0.2.0",
     author="Amirouche Boubekki",
     author_email="amirouche@hyper.dev",
     url="https://github.com/amirouche/fuzzyhash",
