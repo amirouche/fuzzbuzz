@@ -20,7 +20,7 @@ def features(string):
     out = Counter()
     for token in tokens:
         iterator = chain(*[ngram(token, n) for n in range(2, len('$CONCEPT$'))])
-        for gram in ngram(token):
+        for gram in iterator:
             out[hash(gram)] += 1
     return out
 
