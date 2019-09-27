@@ -1,8 +1,9 @@
+from itertools import chain
 from collections import Counter
 from pyblake2 import blake2b
 
 
-HASH_SIZE = 64
+HASH_SIZE = 24
 
 
 def ngram(string, n=2):
@@ -10,13 +11,15 @@ def ngram(string, n=2):
 
 
 def hash(string):
-    return int.from_bytes(blake2b(string.encode('utf-8'), 8).digest(), 'big')
+    digest_size = HASH_SIZE // 8
+    return int.from_bytes(blake2b(string.encode('utf-8'), digest_size).digest(), 'big')
 
 
 def features(string):
     tokens = ['$' + token + '$' for token in string.split()]
     out = Counter()
     for token in tokens:
+        iterator = chain(*[ngram(token, n) for n in range(2, len('$CONCEPT$'))])
         for gram in ngram(token):
             out[hash(gram)] += 1
     return out
