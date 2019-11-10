@@ -3,7 +3,7 @@ from collections import Counter
 from pyblake2 import blake2b
 
 
-HASH_SIZE = 24
+HASH_SIZE = 32
 
 
 def ngram(string, n=2):
@@ -54,3 +54,6 @@ def simhash(string):
 
 
 fuzzyhash = simhash
+
+
+from sortedcontainers import SortedDict

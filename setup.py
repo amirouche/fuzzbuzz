@@ -9,15 +9,15 @@ def read(fname):
 
 
 setup(
-    name="fuzzyhash",
-    version="0.3.0",
+    name="fuzzbuzz",
+    version="0.4.0",
     author="Amirouche Boubekki",
     author_email="amirouche@hyper.dev",
     url="https://github.com/amirouche/fuzzyhash",
-    description="fuzzy hash and distance for short strings.",
+    description="Approximate string matching.",
     long_description=read("README.md"),
     long_description_content_type='text/markdown',
-    py_modules = ['fuzzyhash'],
+    py_modules = ['fuzzbuzz'],
     zip_safe=False,
     license="Apache 2.0",
     install_requires=["pyblake2"],
