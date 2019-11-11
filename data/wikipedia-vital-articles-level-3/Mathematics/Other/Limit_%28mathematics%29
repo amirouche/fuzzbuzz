@@ -1,0 +1,1264 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/880048750"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="3e904610-20b6-11e9-9d92-00b9f4704379"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="26551602"/><link rel="dc:replaces" resource="mwr:revision/876557557"/><meta property="dc:modified" content="2019-01-25T00:35:54.000Z"/><meta property="mw:revisionSHA1" content="7eb0ca4fbe6c6c26e67b58a7516f901c16c589df"/><meta property="mw:html:version" content="2.0.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Limit_(mathematics)"/><title>Limit (mathematics)</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"dablink","href":"./Template:Dablink"},"params":{"1":{"wt":"This is a partial overview of the idea of a limit in mathematics. For still more specific uses of \"limit\", see [[Limit of a sequence]] and [[Limit of a function]]."}},"i":0}}]}' id="mwAg">This is a partial overview of the idea of a limit in mathematics. For still more specific uses of "limit", see <a rel="mw:WikiLink" href="./Limit_of_a_sequence" title="Limit of a sequence">Limit of a sequence</a> and <a rel="mw:WikiLink" href="./Limit_of_a_function" title="Limit of a function">Limit of a function</a>.</div>
+
+<p id="mwAw">In <a rel="mw:WikiLink" href="./Mathematics" title="Mathematics" id="mwBA">mathematics</a>, a <b id="mwBQ">limit</b> is the value that a <a rel="mw:WikiLink" href="./Function_(mathematics)" title="Function (mathematics)" id="mwBg">function</a> (or <a rel="mw:WikiLink" href="./Sequence" title="Sequence" id="mwBw">sequence</a>) "approaches" as the input (or index) "approaches" some <a rel="mw:WikiLink" href="./Value_(mathematics)" title="Value (mathematics)" id="mwCA">value</a>.<sup about="#mwt181" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Limit_(mathematics)#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup> Limits are essential to <a rel="mw:WikiLink" href="./Calculus" title="Calculus" id="mwCQ">calculus</a> (and <a rel="mw:WikiLink" href="./Mathematical_analysis" title="Mathematical analysis" id="mwCg">mathematical analysis</a> in general) and are used to define <a rel="mw:WikiLink" href="./Continuous_function" title="Continuous function" id="mwCw">continuity</a>, <a rel="mw:WikiLink" href="./Derivative" title="Derivative" id="mwDA">derivatives</a>, and <a rel="mw:WikiLink" href="./Integral" title="Integral" id="mwDQ">integrals</a>.</p>
+
+<p id="mwDg">The concept of a <a rel="mw:WikiLink" href="./Limit_of_a_sequence" title="Limit of a sequence" id="mwDw">limit of a sequence</a> is further generalized to the concept of a limit of a <a rel="mw:WikiLink" href="./Net_(topology)" title="Net (topology)" id="mwEA" class="mw-redirect">topological net</a>, and is closely related to <a rel="mw:WikiLink" href="./Limit_(category_theory)" title="Limit (category theory)" id="mwEQ">limit</a> and <a rel="mw:WikiLink" href="./Direct_limit" title="Direct limit" id="mwEg">direct limit</a> in <a rel="mw:WikiLink" href="./Category_theory" title="Category theory" id="mwEw">category theory</a>.</p>
+
+<p id="mwFA">In formulas, a limit of a function is usually written as</p>
+<dl id="mwFQ"><dd id="mwFg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt175" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{x \\to c} f(x) = L,"}}' id="mwFw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{x\to c}f(x)=L,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi>c</mi>
+          </mrow>
+        </munder>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>L</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{x\to c}f(x)=L,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5c4adc667e687e332a498508b01cda56fbfc208" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:13.428ex; height:3.843ex;" alt="{\displaystyle \lim _{x\to c}f(x)=L,}"/></span><span about="#mwt175">
+</span></dd></dl>
+<p id="mwGA">and is read as "the limit of <span class="texhtml " about="#mwt5" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;"}},"i":0}}]}' id="mwGQ"><i>f</i></span> of <span class="texhtml " about="#mwt6" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwGg"><i>x</i></span> as <span class="texhtml mvar" style="font-style:italic;" about="#mwt7" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mvar","href":"./Template:Mvar"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwGw"><i>x</i></span> approaches <span class="texhtml " about="#mwt8" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwHA"><i>c</i></span> equals <span class="texhtml " about="#mwt9" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwHQ"><i>L</i></span>". The fact that a function <span class="texhtml " about="#mwt10" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;"}},"i":0}}]}' id="mwHg"><i>f</i></span> approaches the limit <span class="texhtml " about="#mwt11" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwHw"><i>L</i></span> as <span class="texhtml " about="#mwt12" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwIA"><i>x</i></span> approaches <span class="texhtml " about="#mwt13" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwIQ"><i>c</i></span> is sometimes denoted by a right arrow (→), as in</p>
+<dl id="mwIg"><dd id="mwIw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt177" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"f(x) \\to L \\text{ as } x \\to c."}}' id="mwJA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(x)\to L{\text{ as }}x\to c.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">→<!-- → --></mo>
+        <mi>L</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext> as </mtext>
+        </mrow>
+        <mi>x</mi>
+        <mo stretchy="false">→<!-- → --></mo>
+        <mi>c</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)\to L{\text{ as }}x\to c.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/107c9e2e66ea05b4d6ecbba70bdf35953f10b565" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:19.452ex; height:2.843ex;" alt="{\displaystyle f(x)\to L{\text{ as }}x\to c.}"/></span><span about="#mwt177">
+</span></dd></dl>
+
+</section><section data-mw-section-id="1" id="mwJQ"><h2 id="Limit_of_a_function">Limit of a function</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt15" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Limit of a function"}},"i":0}}]}' id="mwJg">Main article: <a rel="mw:WikiLink" href="./Limit_of_a_function" title="Limit of a function">Limit of a function</a></div>
+<style data-mw-deduplicate="TemplateStyles:r856303569" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt16" data-mw='{"parts":[{"template":{"target":{"wt":"Double image","href":"./Template:Double_image"},"params":{"1":{"wt":"right"},"2":{"wt":"Límite 01.svg"},"3":{"wt":"{{#expr: (200 * (800 / 800)) round 0}}"},"4":{"wt":"Limit-at-infinity-graph.png"},"5":{"wt":"{{#expr: (200 * (619 / 405)) round 0}}"},"6":{"wt":"Whenever a point {{math|&apos;&apos;x&apos;&apos;}} is within {{math|δ}} units of {{math|&apos;&apos;c&apos;&apos;}}, {{math|&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)}} is within {{math|ε}} units of {{math|&apos;&apos;L&apos;&apos;}}."},"7":{"wt":"For all {{math|&apos;&apos;x&apos;&apos; > &apos;&apos;S&apos;&apos;}}, {{math|&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)}} is within {{math|ε}} of {{math|&apos;&apos;L&apos;&apos;}}."}},"i":0}}]}' id="mwJw">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright" about="#mwt16" id="mwKA"><div class="thumbinner" style="width:514px;max-width:514px"><div class="tsingle" style="float:left;margin:1px;width:202px;max-width:202px"><div class="thumbimage"><figure-inline typeof="mw:Image"><a href="./File:Límite_01.svg"><img alt="" resource="./File:Límite_01.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L%C3%ADmite_01.svg/200px-L%C3%ADmite_01.svg.png" data-file-width="800" data-file-height="800" data-file-type="drawing" height="200" width="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L%C3%ADmite_01.svg/400px-L%C3%ADmite_01.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/L%C3%ADmite_01.svg/300px-L%C3%ADmite_01.svg.png 1.5x"/></a></figure-inline></div><div class="thumbcaption" style="clear:left">Whenever a point <span class="texhtml "><i>x</i></span> is within <span class="texhtml ">δ</span> units of <span class="texhtml "><i>c</i></span>, <span class="texhtml "><i>f</i>(<i>x</i>)</span> is within <span class="texhtml ">ε</span> units of <span class="texhtml "><i>L</i></span>.</div></div><div class="tsingle" style="float:left;margin:1px;width:308px;max-width:308px"><div class="thumbimage"><figure-inline typeof="mw:Image"><a href="./File:Limit-at-infinity-graph.png"><img alt="" resource="./File:Limit-at-infinity-graph.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Limit-at-infinity-graph.png/306px-Limit-at-infinity-graph.png" data-file-width="619" data-file-height="405" data-file-type="bitmap" height="200" width="306" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Limit-at-infinity-graph.png/612px-Limit-at-infinity-graph.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Limit-at-infinity-graph.png/459px-Limit-at-infinity-graph.png 1.5x"/></a></figure-inline></div><div class="thumbcaption" style="clear:left">For all <span class="texhtml "><i>x</i> > <i>S</i></span>, <span class="texhtml "><i>f</i>(<i>x</i>)</span> is within <span class="texhtml ">ε</span> of <span class="texhtml "><i>L</i></span>.</div></div><div style="clear:left"></div></div></div>
+
+<p id="mwKQ">Suppose <span class="texhtml " about="#mwt17" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;"}},"i":0}}]}' id="mwKg"><i>f</i></span> is a <a rel="mw:WikiLink" href="./Real-valued_function" title="Real-valued function" id="mwKw">real-valued function</a> and <span class="texhtml " about="#mwt18" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwLA"><i>c</i></span> is a <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwLQ">real number</a>. Intuitively speaking, the expression</p>
+
+<dl id="mwLg"><dd id="mwLw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt233" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{x \\to c}f(x) = L "}}' id="mwMA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{x\to c}f(x)=L}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi>c</mi>
+          </mrow>
+        </munder>
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{x\to c}f(x)=L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3f174c16cc9e61932ecc7eb71b27a4f10a44fc9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:12.781ex; height:3.843ex;" alt="\lim _{x\to c}f(x)=L"/></span><span about="#mwt233">
+</span></dd></dl>
+
+<p id="mwMQ">means that <span class="texhtml " about="#mwt20" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwMg"><i>f</i>(<i>x</i>)</span> can be made to be as close to <span class="texhtml " about="#mwt21" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwMw"><i>L</i></span> as desired by making <span class="texhtml " about="#mwt22" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwNA"><i>x</i></span> sufficiently close to <span class="texhtml " about="#mwt23" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwNQ"><i>c</i></span>.  In that case, the above equation can be read as "the limit of <span class="texhtml " about="#mwt24" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;"}},"i":0}}]}' id="mwNg"><i>f</i></span> of <span class="texhtml " about="#mwt25" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwNw"><i>x</i></span>, as <span class="texhtml " about="#mwt26" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwOA"><i>x</i></span> approaches <span class="texhtml " about="#mwt27" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwOQ"><i>c</i></span>, is <span class="texhtml " about="#mwt28" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwOg"><i>L</i></span>". </p>
+
+<p id="mwOw"><a rel="mw:WikiLink" href="./Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy" id="mwPA">Augustin-Louis Cauchy</a> in 1821,<sup about="#mwt298" class="mw-ref" id="cite_ref-Larson_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Larson"},"body":{"id":"mw-reference-text-cite_note-Larson-2"}}'><a href="./Limit_(mathematics)#cite_note-Larson-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup> followed by <a rel="mw:WikiLink" href="./Karl_Weierstrass" title="Karl Weierstrass" id="mwPQ">Karl Weierstrass</a>, formalized the definition of the limit of a function which became known as the <a rel="mw:WikiLink" href="./(ε,_δ)-definition_of_limit" title="(ε, δ)-definition of limit" id="mwPg">(ε, δ)-definition of limit</a>. The definition uses <span class="texhtml " about="#mwt33" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"[[ε]]"}},"i":0}}]}' id="mwPw"><a rel="mw:WikiLink" href="./Ε" title="Ε" class="mw-redirect">ε</a></span> (the lowercase Greek letter <i id="mwQA">epsilon</i>) to represent any small positive number, so that "<span class="texhtml " about="#mwt34" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwQQ"><i>f</i>(<i>x</i>)</span> becomes arbitrarily close to <span class="texhtml " about="#mwt35" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwQg"><i>L</i></span>" means that <span class="texhtml " about="#mwt36" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwQw"><i>f</i>(<i>x</i>)</span> eventually lies in the interval <span class="texhtml " about="#mwt37" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"(&apos;&apos;L&apos;&apos; − ε, &apos;&apos;L&apos;&apos; + ε)"}},"i":0}}]}' id="mwRA">(<i>L</i> − ε, <i>L</i> + ε)</span>, which can also be written using the absolute value sign as <span class="texhtml " about="#mwt38" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"{{abs|&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;) − &apos;&apos;L&apos;&apos;}} &lt; ε"}},"i":0}}]}' id="mwRQ"><span typeof="mw:Entity">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;"><i>f</i>(<i>x</i>) − <i>L</i></span><span typeof="mw:Entity">|</span> &lt; ε</span>.<sup about="#mwt56" class="mw-ref" id="cite_ref-Larson_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Larson"}}'><a href="./Limit_(mathematics)#cite_note-Larson-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup> The phrase "as <span class="texhtml " about="#mwt39" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwRg"><i>x</i></span> approaches <span class="texhtml " about="#mwt40" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwRw"><i>c</i></span>" then indicates that we refer to values of <span class="texhtml " about="#mwt41" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwSA"><i>x</i></span> whose distance from <span class="texhtml " about="#mwt42" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwSQ"><i>c</i></span> is less than some positive number <span class="texhtml " about="#mwt43" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"[[δ]]"}},"i":0}}]}' id="mwSg"><a rel="mw:WikiLink" href="./Δ" title="Δ" class="mw-redirect">δ</a></span> (the lower case Greek letter <i id="mwSw">delta</i>)—that is, values of <span class="texhtml " about="#mwt44" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwTA"><i>x</i></span> within either <span class="texhtml " about="#mwt45" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"(&apos;&apos;c&apos;&apos; − δ, &apos;&apos;c&apos;&apos;)"}},"i":0}}]}' id="mwTQ">(<i>c</i> − δ, <i>c</i>)</span> or <span class="texhtml " about="#mwt46" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"(&apos;&apos;c&apos;&apos;, &apos;&apos;c&apos;&apos; + δ)"}},"i":0}}]}' id="mwTg">(<i>c</i>, <i>c</i> + δ)</span>, which can be expressed with <span class="texhtml " about="#mwt47" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"0 &lt; {{abs|&apos;&apos;x&apos;&apos; − &apos;&apos;c&apos;&apos;}} &lt; δ"}},"i":0}}]}' id="mwTw">0 &lt; <span typeof="mw:Entity">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;"><i>x</i> − <i>c</i></span><span typeof="mw:Entity">|</span> &lt; δ</span>. The first inequality means that the distance between <span class="texhtml " about="#mwt48" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwUA"><i>x</i></span> and <span class="texhtml " about="#mwt49" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwUQ"><i>c</i></span> is greater than <span class="texhtml " about="#mwt50" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"0"}},"i":0}}]}' id="mwUg">0</span> and that <span class="texhtml " about="#mwt51" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos; ≠ &apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwUw"><i>x</i> ≠ <i>c</i></span>, while the second indicates that <span class="texhtml " about="#mwt52" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwVA"><i>x</i></span> is within distance <span class="texhtml " about="#mwt53" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"δ"}},"i":0}}]}' id="mwVQ">δ</span> of <span class="texhtml " about="#mwt54" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwVg"><i>c</i></span>.<sup about="#mwt58" class="mw-ref" id="cite_ref-Larson_2-2" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Larson"}}'><a href="./Limit_(mathematics)#cite_note-Larson-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup></p>
+
+<p id="mwVw">The above definition of a limit is true even if <span class="texhtml " about="#mwt59" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;c&apos;&apos;) ≠ &apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwWA"><i>f</i>(<i>c</i>) ≠ <i>L</i></span>. Indeed, the function <span class="texhtml " about="#mwt60" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;"}},"i":0}}]}' id="mwWQ"><i>f</i></span> need not even be defined at <span class="texhtml " about="#mwt61" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwWg"><i>c</i></span>.</p>
+
+<p id="mwWw">For example, if</p>
+
+<dl id="mwXA"><dd id="mwXQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt236" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" f(x) = \\frac{x^2 - 1}{x - 1} "}}' id="mwXg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(x)={\frac {x^{2}-1}{x-1}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)={\frac {x^{2}-1}{x-1}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bfb3ccf3f9a48702e27229f4b05ef37f7e88de54" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:14.739ex; height:5.843ex;" alt="f(x)={\frac {x^{2}-1}{x-1}}"/></span><span about="#mwt236">
+</span></dd></dl>
+
+<p id="mwXw">then <span class="texhtml " about="#mwt63" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(1)"}},"i":0}}]}' id="mwYA"><i>f</i>(1)</span> is not defined (see <a rel="mw:WikiLink" href="./Division_by_zero" title="Division by zero" id="mwYQ">division by zero</a>), yet as <span class="texhtml " about="#mwt64" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwYg"><i>x</i></span> moves arbitrarily close to 1, <span class="texhtml " about="#mwt65" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwYw"><i>f</i>(<i>x</i>)</span> correspondingly approaches 2:</p>
+
+<table class="wikitable" id="mwZA">
+<tbody id="mwZQ"><tr id="mwZg"><td id="mwZw"><i id="mwaA">f</i>(0.9)</td><td id="mwaQ"><i id="mwag">f</i>(0.99)</td><td id="mwaw"><i id="mwbA">f</i>(0.999)</td><td id="mwbQ"><i id="mwbg">f</i>(1.0)</td><td id="mwbw"><i id="mwcA">f</i>(1.001)</td><td id="mwcQ"><i id="mwcg">f</i>(1.01)</td><td id="mwcw"><i id="mwdA">f</i>(1.1)</td></tr>
+<tr id="mwdQ">
+<td id="mwdg">1.900</td><td id="mwdw">1.990</td><td id="mweA">1.999</td><td id="mweQ">⇒ undefined ⇐</td><td id="mweg">2.001</td><td id="mwew">2.010</td><td id="mwfA">2.100</td></tr>
+</tbody></table>
+
+<p id="mwfQ">Thus, <span class="texhtml " about="#mwt66" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwfg"><i>f</i>(<i>x</i>)</span> can be made arbitrarily close to the limit of 2 just by making <span class="texhtml " about="#mwt67" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwfw"><i>x</i></span> sufficiently close to <span class="texhtml " about="#mwt68" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"1"}},"i":0}}]}' id="mwgA">1</span>.</p>
+
+<p id="mwgQ">In other words, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt238" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{x \\to 1} \\frac{x^2-1}{x-1} = 2 "}}' id="mwgg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=2}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mn>1</mn>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73aa4e87de950552a3a652f2be98854948366075" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:15.276ex; height:5.843ex;" alt="\lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=2"/></span><span about="#mwt238">
+</span></p>
+
+<p id="mwgw">This can also be calculated algebraically, as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt240" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{x^2-1}{x-1} = \\frac{(x+1)(x-1)}{x-1} = x+1"}}' id="mwhA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {x^{2}-1}{x-1}}={\frac {(x+1)(x-1)}{x-1}}=x+1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {x^{2}-1}{x-1}}={\frac {(x+1)(x-1)}{x-1}}=x+1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8caf6569ef984e4913b0cbaffdb5b2d5ef2c2248" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:33.872ex; height:5.843ex;" alt="{\frac {x^{2}-1}{x-1}}={\frac {(x+1)(x-1)}{x-1}}=x+1"/></span><span about="#mwt240">
+</span> for all real numbers <span class="texhtml " about="#mwt71" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos; ≠ 1"}},"i":0}}]}' id="mwhQ"><i>x</i> ≠ 1</span>.</p>
+
+<p id="mwhg">Now since <span class="texhtml " about="#mwt73" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos; + 1"}},"i":0}}]}' id="mwhw"><i>x</i> + 1</span> is continuous in <span class="texhtml " about="#mwt74" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwiA"><i>x</i></span> at 1, we can now plug in 1 for <span class="texhtml " about="#mwt75" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwiQ"><i>x</i></span>, thus <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt242" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\lim_{x \\to 1} \\frac{x^2-1}{x-1} = 1+1 = 2"}}' id="mwig"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=1+1=2}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mn>1</mn>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>x</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mrow>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=1+1=2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af8b5dad83d54589812ab5b63716bf4937cd19af" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:23.54ex; height:5.843ex;" alt="\lim _{x\to 1}{\frac {x^{2}-1}{x-1}}=1+1=2"/></span><span about="#mwt242">
+</span>.</p>
+
+<p id="mwiw">In addition to limits at finite values, functions can also have limits at infinity. For example, consider</p>
+<dl id="mwjA"><dd id="mwjQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt244" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"f(x) = {2x-1 \\over x}"}}' id="mwjg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(x)={2x-1 \over x}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>x</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)={2x-1 \over x}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8934c7b6de2471770c29006b4376badbcf922da7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:14.847ex; height:5.176ex;" alt="f(x)={2x-1 \over x}"/></span><span about="#mwt244">
+</span></dd></dl>
+<ul id="mwjw"><li id="mwkA"><i id="mwkQ">f</i>(100) = 1.9900</li>
+<li id="mwkg"><i id="mwkw">f</i>(1000) = 1.9990</li>
+<li id="mwlA"><i id="mwlQ">f</i>(10000) = 1.99990</li></ul>
+
+<p id="mwlg">As <span class="texhtml " about="#mwt77" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwlw"><i>x</i></span> becomes extremely large, the value of <span class="texhtml " about="#mwt78" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwmA"><i>f</i>(<i>x</i>)</span> approaches 2, and the value of <span class="texhtml " about="#mwt79" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwmQ"><i>f</i>(<i>x</i>)</span> can be made as close to 2 as one could wish just by picking <span class="texhtml " about="#mwt80" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwmg"><i>x</i></span> sufficiently large. In this case, the limit of <span class="texhtml " about="#mwt81" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwmw"><i>f</i>(<i>x</i>)</span> as <span class="texhtml " about="#mwt82" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwnA"><i>x</i></span> approaches infinity is 2. In mathematical notation,</p>
+
+<dl id="mwnQ"><dd id="mwng"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt246" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{x \\to \\infty} \\frac{2x-1}{x} = 2. "}}' id="mwnw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{x\to \infty }{\frac {2x-1}{x}}=2.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>x</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mi>x</mi>
+              <mo>−<!-- − --></mo>
+              <mn>1</mn>
+            </mrow>
+            <mi>x</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>2.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{x\to \infty }{\frac {2x-1}{x}}=2.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd3ae906a64d6a49a74d2d4d10c19002da495a7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:16.852ex; height:5.176ex;" alt="\lim _{x\to \infty }{\frac {2x-1}{x}}=2."/></span><span about="#mwt246">
+</span></dd></dl>
+
+</section><section data-mw-section-id="2" id="mwoA"><h2 id="Limit_of_a_sequence">Limit of a sequence</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt84" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Limit of a sequence"}},"i":0}}]}' id="mwoQ">Main article: <a rel="mw:WikiLink" href="./Limit_of_a_sequence" title="Limit of a sequence">Limit of a sequence</a></div>
+
+<p id="mwog">Consider the following sequence: 1.79, 1.799, 1.7999,... It can be observed that the numbers are "approaching" 1.8, the limit of the sequence.</p>
+
+<p id="mwow">Formally, suppose <span class="texhtml " about="#mwt85" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos;&lt;sub>1&lt;/sub>, &apos;&apos;a&apos;&apos;&lt;sub>2&lt;/sub>, ..."}},"i":0}}]}' id="mwpA"><i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ...</span> is a <a rel="mw:WikiLink" href="./Sequence" title="Sequence" id="mwpQ">sequence</a> of <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwpg">real numbers</a>. It can be stated that the real number <span class="texhtml " about="#mwt86" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwpw"><i>L</i></span> is the <i id="mwqA">limit</i> of this sequence, namely:</p>
+
+<dl id="mwqQ"><dd id="mwqg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt248" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{n \\to \\infty} a_n = L "}}' id="mwqw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{n\to \infty }a_{n}=L}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{n\to \infty }a_{n}=L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec8a6da951ff8db5ca56f8e9454ed61271cf6ffd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:11.789ex; height:3.676ex;" alt="\lim _{n\to \infty }a_{n}=L"/></span><span about="#mwt248">
+</span></dd></dl>
+
+<p id="mwrA">which is read as</p>
+<dl id="mwrQ"><dd id="mwrg">"The limit of <i id="mwrw">a<sub id="mwsA">n</sub></i> as <i id="mwsQ">n</i> approaches infinity equals <i id="mwsg">L</i>"</dd></dl>
+
+<p id="mwsw">to mean</p>
+
+<dl id="mwtA"><dd id="mwtQ">For every <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwtg">real number</a> <span class="texhtml " about="#mwt88" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"ε > 0"}},"i":0}}]}' id="mwtw">ε > 0</span>, there exists a <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwuA">natural number</a> <span class="texhtml " about="#mwt89" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;N&apos;&apos;"}},"i":0}}]}' id="mwuQ"><i>N</i></span> such that for all <span class="texhtml " about="#mwt90" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;n&apos;&apos; > &apos;&apos;N&apos;&apos;"}},"i":0}}]}' id="mwug"><i>n</i> > <i>N</i></span>, we have <span class="texhtml " about="#mwt91" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"{{abs|&apos;&apos;a&apos;&apos;&lt;sub>&apos;&apos;n&apos;&apos;&lt;/sub> − {{math|&apos;&apos;L&apos;&apos;}}}} &lt; ε"}},"i":0}}]}' id="mwuw"><span typeof="mw:Entity">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;"><i>a</i><sub><i>n</i></sub> − <span class="texhtml "><i>L</i></span></span><span typeof="mw:Entity">|</span> &lt; ε</span>.</dd></dl>
+
+<p id="mwvA">Intuitively, this means that eventually all elements of the sequence get arbitrarily close to the limit, since the <a rel="mw:WikiLink" href="./Absolute_value" title="Absolute value" id="mwvQ">absolute value</a> <span class="texhtml " about="#mwt92" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"{{abs|&apos;&apos;a&apos;&apos;&lt;sub>&apos;&apos;n&apos;&apos;&lt;/sub> − {{math|&apos;&apos;L&apos;&apos;}}}}"}},"i":0}}]}' id="mwvg"><span typeof="mw:Entity">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;"><i>a</i><sub><i>n</i></sub> − <span class="texhtml "><i>L</i></span></span><span typeof="mw:Entity">|</span></span> is the distance between <span class="texhtml " about="#mwt93" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos;&lt;sub>&apos;&apos;n&apos;&apos;&lt;/sub>"}},"i":0}}]}' id="mwvw"><i>a</i><sub><i>n</i></sub></span> and <span class="texhtml " about="#mwt94" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwwA"><i>L</i></span>. Not every sequence has a limit; if it does, it is called <i id="mwwQ"><a rel="mw:WikiLink" href="./Convergent_series" title="Convergent series" id="mwwg">convergent</a></i>, and if it does not, it is <i id="mwww">divergent</i>. One can show that a convergent sequence has only one limit.</p>
+
+<p id="mwxA">The limit of a sequence and the limit of a function are closely related.  On one hand, the limit as <span class="texhtml " about="#mwt95" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;n&apos;&apos;"}},"i":0}}]}' id="mwxQ"><i>n</i></span> goes to infinity of a sequence <span class="texhtml " about="#mwt96" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos;(&apos;&apos;n&apos;&apos;)"}},"i":0}}]}' id="mwxg"><i>a</i>(<i>n</i>)</span> is simply the limit at infinity of a function defined on the <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwxw">natural numbers</a> <span class="texhtml " about="#mwt97" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;n&apos;&apos;"}},"i":0}}]}' id="mwyA"><i>n</i></span>. On the other hand, a limit <span class="texhtml " about="#mwt98" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwyQ"><i>L</i></span> of a function <span class="texhtml " about="#mwt99" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;f&apos;&apos;(&apos;&apos;x&apos;&apos;)"}},"i":0}}]}' id="mwyg"><i>f</i>(<i>x</i>)</span> as <span class="texhtml " about="#mwt100" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwyw"><i>x</i></span> goes to infinity, if it exists, is the same as the limit of any arbitrary sequence <span class="texhtml " about="#mwt101" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&lt;sub>n&lt;/sub>&apos;&apos;"}},"i":0}}]}' id="mwzA"><i>a<sub>n</sub></i></span> that approaches <span class="texhtml " about="#mwt102" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwzQ"><i>L</i></span>, and where <span class="texhtml " about="#mwt103" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&lt;sub>n&lt;/sub>&apos;&apos;"}},"i":0}}]}' id="mwzg"><i>a<sub>n</sub></i></span> is never equal to <span class="texhtml " about="#mwt104" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos;"}},"i":0}}]}' id="mwzw"><i>L</i></span>. One such sequence would be <span class="texhtml " about="#mwt105" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;L&apos;&apos; + 1/&apos;&apos;n&apos;&apos;"}},"i":0}}]}' id="mw0A"><i>L</i> + 1/<i>n</i></span>.</p>
+
+</section><section data-mw-section-id="3" id="mw0Q"><h2 id='Limit_as_"standard_part"'><span id="Limit_as_.22standard_part.22" typeof="mw:FallbackId"></span>Limit as "standard part"</h2>
+<p id="mw0g">In <a rel="mw:WikiLink" href="./Non-standard_analysis" title="Non-standard analysis" id="mw0w">non-standard analysis</a> (which involves a <a rel="mw:WikiLink" href="./Hyperreal_number" title="Hyperreal number" id="mw1A">hyperreal</a> enlargement of the number system), the limit of a sequence <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt250" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_n)"}}' id="mw1Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{n})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{n})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18bc33c7c35d82b00f88d3a9103ed4738cde41f9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.258ex; height:2.843ex;" alt="(a_{n})"/></span><span about="#mwt250">
+</span> can be expressed as the <a rel="mw:WikiLink" href="./Standard_part_function" title="Standard part function" id="mw1g">standard part</a> of the value <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt254" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a_H"}}' id="mw1w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a_{H}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{H}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f55df42c38bfeb8723ab2e49bd5b1bcf72592f57" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.921ex; height:2.009ex;" alt="a_{H}"/></span><span about="#mwt254">
+</span> of the natural extension of the sequence at an infinite <a rel="mw:WikiLink" href="./Hypernatural" title="Hypernatural" id="mw2A" class="mw-redirect">hypernatural</a> index <i id="mw2Q">n=H</i>.  Thus,</p>
+<dl id="mw2g"><dd id="mw2w"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt256" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lim_{n \\to \\infty} a_n = \\operatorname{st}(a_H) "}}' id="mw3A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{n\to \infty }a_{n}=\operatorname {st} (a_{H})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>st</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{n\to \infty }a_{n}=\operatorname {st} (a_{H})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6f0e6c9f22135be31e4fbf58d1f2dfe59e85afa" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:16.758ex; height:3.843ex;" alt="\lim _{n\to \infty }a_{n}=\operatorname {st} (a_{H})"/></span><span about="#mwt256">
+</span>.</dd></dl>
+<p id="mw3Q">Here the standard part function "st" rounds off each finite hyperreal number to the nearest real number (the difference between them is <a rel="mw:WikiLink" href="./Infinitesimal" title="Infinitesimal" id="mw3g">infinitesimal</a>).  This formalizes the natural intuition that for "very large" values of the index, the terms in the sequence are "very close" to the limit value of the sequence.  Conversely, the standard part of a hyperreal <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt258" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a=[a_n]"}}' id="mw3w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a=[a_{n}]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>=</mo>
+        <mo stretchy="false">[</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a=[a_{n}]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9e2180fadc958d8270f9131db9238ff0c1f5392" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.07ex; height:2.843ex;" alt="a=[a_{n}]"/></span><span about="#mwt258">
+</span> represented in the ultrapower construction by a Cauchy sequence <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt252" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_n)"}}' id="mw4A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{n})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{n})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/18bc33c7c35d82b00f88d3a9103ed4738cde41f9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.258ex; height:2.843ex;" alt="(a_{n})"/></span><span about="#mwt252">
+</span>, is simply the limit of that sequence:</p>
+<dl id="mw4Q"><dd id="mw4g"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt260" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\operatorname{st}(a)=\\lim_{n \\to \\infty} a_n "}}' id="mw4w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \operatorname {st} (a)=\lim _{n\to \infty }a_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>st</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {st} (a)=\lim _{n\to \infty }a_{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ef4df41cac7f872a4ec0770e4da15515c3bfbf1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:15.066ex; height:3.843ex;" alt="\operatorname {st} (a)=\lim _{n\to \infty }a_{n}"/></span><span about="#mwt260">
+</span>.</dd></dl>
+<p id="mw5A">In this sense, taking the limit and taking the standard part are equivalent procedures.</p>
+
+</section><section data-mw-section-id="4" id="mw5Q"><h2 id="Convergence_and_fixed_point">Convergence and fixed point</h2>
+<p id="mw5g">A formal definition of convergence can be stated as follows.
+Suppose  <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt262" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" { {p}_{n} } "}}' id="mw5w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {{p}_{n}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>p</mi>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {{p}_{n}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75f02710bedc982ba1b7c3979ba568d81bf5b163" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:2.477ex; height:2.176ex;" alt="{{p}_{n}}"/></span><span about="#mwt262">
+</span> as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt266" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" n "}}' id="mw6A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span><span about="#mwt266">
+</span> goes from <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt272" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" 0 "}}' id="mw6Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="{\displaystyle  0 }"/></span><span about="#mwt272">
+</span> to <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt276" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"  \\infty  "}}' id="mw6g"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \infty }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">∞<!-- ∞ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \infty }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c26c105004f30c27aa7c2a9c601550a4183b1f21" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.676ex;" alt="\infty "/></span><span about="#mwt276">
+</span> is a sequence that converges to <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt280" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" p "}}' id="mw6w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span><span about="#mwt280">
+</span>, with <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt286" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"  {p}_{n} \\neq p "}}' id="mw7A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {p}_{n}\neq p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>≠<!-- ≠ --></mo>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {p}_{n}\neq p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73129a9b25aa75aa63834b6bdd7fc78798ec81e2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:6.745ex; height:2.676ex;" alt="{p}_{n}\neq p"/></span><span about="#mwt286">
+</span> for all <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt268" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" n "}}' id="mw7Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span><span about="#mwt268">
+</span>. If positive constants <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt288" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lambda "}}' id="mw7g"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lambda }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>λ<!-- λ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;" alt="\lambda "/></span><span about="#mwt288">
+</span> and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt292" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\alpha "}}' id="mw7w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>α<!-- α --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "/></span><span about="#mwt292">
+</span> exist with</p>
+<dl id="mw8A"><dd id="mw8Q"><dl id="mw8g"><dd id="mw8w"><dl id="mw9A"><dd id="mw9Q"><dl id="mw9g"><dd id="mw9w"><dl id="mw-A"><dd id="mw-Q"><dl id="mw-g"><dd id="mw-w"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt185" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\lim_{n \\rightarrow  \\infty  }  \\frac{ \\left | { p}_{n+1 } -p   \\right |  }{ { \\left |  { p}_{n }-p   \\right |  }^{ \\alpha} } =\\lambda "}}' id="mw_A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lim _{n\rightarrow \infty }{\frac {\left|{p}_{n+1}-p\right|}{{\left|{p}_{n}-p\right|}^{\alpha }}}=\lambda }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo>|</mo>
+              <mrow>
+                <msub>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>p</mi>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>n</mi>
+                    <mo>+</mo>
+                    <mn>1</mn>
+                  </mrow>
+                </msub>
+                <mo>−<!-- − --></mo>
+                <mi>p</mi>
+              </mrow>
+              <mo>|</mo>
+            </mrow>
+            <msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow>
+                  <mo>|</mo>
+                  <mrow>
+                    <msub>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>p</mi>
+                      </mrow>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>n</mi>
+                      </mrow>
+                    </msub>
+                    <mo>−<!-- − --></mo>
+                    <mi>p</mi>
+                  </mrow>
+                  <mo>|</mo>
+                </mrow>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>α<!-- α --></mi>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>λ<!-- λ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{n\rightarrow \infty }{\frac {\left|{p}_{n+1}-p\right|}{{\left|{p}_{n}-p\right|}^{\alpha }}}=\lambda }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6eb397724ef90d039e57d9fdc3869ae7de5e513" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:19.741ex; height:6.509ex;" alt="\lim _{n\rightarrow \infty }{\frac {\left|{p}_{n+1}-p\right|}{{\left|{p}_{n}-p\right|}^{\alpha }}}=\lambda "/></span><span about="#mwt185">
+</span></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<p id="mw_Q">then <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt264" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" { {p}_{n} } "}}' id="mw_g"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {{p}_{n}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msub>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>p</mi>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+            </mrow>
+          </msub>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {{p}_{n}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75f02710bedc982ba1b7c3979ba568d81bf5b163" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:2.477ex; height:2.176ex;" alt="{{p}_{n}}"/></span><span about="#mwt264">
+</span> as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt270" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" n "}}' id="mw_w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span><span about="#mwt270">
+</span> goes from <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt274" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" 0 "}}' id="mwAQA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="{\displaystyle  0 }"/></span><span about="#mwt274">
+</span> to <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt278" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"  \\infty  "}}' id="mwAQE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \infty }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">∞<!-- ∞ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \infty }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c26c105004f30c27aa7c2a9c601550a4183b1f21" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.676ex;" alt="\infty "/></span><span about="#mwt278">
+</span> converges to <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt282" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" p "}}' id="mwAQI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span><span about="#mwt282">
+</span> of order <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt294" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\alpha "}}' id="mwAQM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \alpha }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>α<!-- α --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b79333175c8b3f0840bfb4ec41b8072c83ea88d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.488ex; height:1.676ex;" alt="\alpha "/></span><span about="#mwt294">
+</span>, with asymptotic error constant <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt290" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" \\lambda "}}' id="mwAQQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lambda }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>λ<!-- λ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b43d0ea3c9c025af1be9128e62a18fa74bedda2a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.355ex; height:2.176ex;" alt="\lambda "/></span><span about="#mwt290">
+</span></p>
+
+<p id="mwAQU">Given a function <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt187" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" f "}}' id="mwAQY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.279ex; height:2.509ex;" alt="f"/></span><span about="#mwt187">
+</span> with a fixed point <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt284" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" p "}}' id="mwAQc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span><span about="#mwt284">
+</span>, there is a nice checklist for checking the convergence of the sequence <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt189" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"p_n"}}' id="mwAQg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f79dcba35ecde0d43fbb7c914165586166ce8c2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:2.477ex; height:2.009ex;" alt="p_{n}"/></span><span about="#mwt189">
+</span>.</p>
+
+<dl id="mwAQk"><dd id="mwAQo">1) First check that p is indeed a fixed point:
+<dl id="mwAQs"><dd id="mwAQw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt191" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" f(p) = p "}}' id="mwAQ0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(p)=p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(p)=p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c24d781075e808a836b18cf84f8f58647fd93049" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.525ex; height:2.843ex;" alt="f(p)=p"/></span><span about="#mwt191">
+</span></dd></dl></dd>
+<dd id="mwAQ4">2) Check for linear convergence.  Start by finding <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt193" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^\\prime (p)  \\right | "}}' id="mwAQ8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime }(p)\right|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime }(p)\right|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c1e22458b0ac04b6d95fd8ce54aa4c49f3cd053" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.278ex; height:3.009ex;" alt="\left|f^{\prime }(p)\right|"/></span><span about="#mwt193">
+</span>.  If....</dd></dl>
+<table class="wikitable" border="1" id="mwARA">
+
+<tbody id="mwARE"><tr id="mwARI"><td id="mwARM"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt195" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^\\prime (p)  \\right | \\in (0,1)"}}' id="mwARQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime }(p)\right|\in (0,1)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+        <mo>∈<!-- ∈ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime }(p)\right|\in (0,1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0aecfceac04fd704f22ba8da40bd65cf011f1f65" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:14.286ex; height:3.009ex;" alt="\left|f^{\prime }(p)\right|\in (0,1)"/></span><span about="#mwt195">
+</span></td>
+<td id="mwARU">then there is linear convergence</td></tr>
+<tr id="mwARY">
+<td id="mwARc"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt197" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^\\prime (p)  \\right | > 1"}}' id="mwARg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime }(p)\right|>1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+        <mo>></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime }(p)\right|>1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e02fa0318f5a3c4dde0e273c923642aba5fc91d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.539ex; height:3.009ex;" alt="\left|f^{\prime }(p)\right|>1"/></span><span about="#mwt197">
+</span></td>
+<td id="mwARk">series diverges</td></tr>
+<tr id="mwARo">
+<td id="mwARs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt199" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^\\prime (p)  \\right | =0 "}}' id="mwARw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime }(p)\right|=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime }(p)\right|=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dd500af3e7dc6cd3f294869be1008b94158f5c18" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.539ex; height:3.009ex;" alt="\left|f^{\prime }(p)\right|=0"/></span><span about="#mwt199">
+</span></td>
+<td id="mwAR0">then there is at least linear convergence and maybe something better, the expression should be checked for quadratic convergence</td></tr>
+</tbody></table>
+<dl id="mwAR4"><dd id="mwAR8">3) If it is found that there is something better than linear the expression should be checked for quadratic convergence.  Start by finding <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt201" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^{\\prime\\prime} (p)  \\right | "}}' id="mwASA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime \prime }(p)\right|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime \prime }(p)\right|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/efec53bb04841101afd8e08b66025cc380e1ac2f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.73ex; height:3.009ex;" alt="\left|f^{\prime \prime }(p)\right|"/></span><span about="#mwt201">
+</span> If....</dd></dl>
+<table class="wikitable" border="1" id="mwASE">
+<tbody id="mwASI"><tr id="mwASM"><td id="mwASQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt205" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^{\\prime\\prime} (p)  \\right | \\neq 0"}}' id="mwASU"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime \prime }(p)\right|\neq 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+        <mo>≠<!-- ≠ --></mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime \prime }(p)\right|\neq 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87be5fef0eeb4365305c1f3610a5d9ed1ea54074" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.991ex; height:3.009ex;" alt="\left|f^{\prime \prime }(p)\right|\neq 0"/></span><span about="#mwt205">
+</span></td>
+<td id="mwASY">then there is quadratic convergence provided that <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt207" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" f^{\\prime\\prime} (p) "}}' id="mwASc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f^{\prime \prime }(p)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+            <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>p</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f^{\prime \prime }(p)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fca368829a8ace6ea8e1cfe2fb8ddbb74209dd63" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.436ex; height:3.009ex;" alt="f^{\prime \prime }(p)"/></span><span about="#mwt207">
+</span>  is continuous</td></tr>
+<tr id="mwASg">
+<td id="mwASk"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt209" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^{\\prime\\prime} (p)  \\right | = 0"}}' id="mwASo"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime \prime }(p)\right|=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime \prime }(p)\right|=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b1d9afc52637a6aea0ef07251db6f6bb3cbc3d6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.991ex; height:3.009ex;" alt="\left|f^{\prime \prime }(p)\right|=0"/></span><span about="#mwt209">
+</span></td>
+<td id="mwASs">then there is something even better than quadratic convergence</td></tr>
+<tr id="mwASw">
+<td id="mwAS0"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt203" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left | f^{\\prime\\prime} (p)  \\right | "}}' id="mwAS4"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left|f^{\prime \prime }(p)\right|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>|</mo>
+          <mrow>
+            <msup>
+              <mi>f</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+                <mi class="MJX-variant" mathvariant="normal">′<!-- ′ --></mi>
+              </mrow>
+            </msup>
+            <mo stretchy="false">(</mo>
+            <mi>p</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+          <mo>|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left|f^{\prime \prime }(p)\right|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/efec53bb04841101afd8e08b66025cc380e1ac2f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.73ex; height:3.009ex;" alt="\left|f^{\prime \prime }(p)\right|"/></span><span about="#mwt203">
+</span> does not exist</td>
+<td id="mwAS8">then there is convergence that is better than linear but still not quadratic</td></tr>
+</tbody></table>
+<p id="mwATA"><sup about="#mwt151" class="mw-ref" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="./Limit_(mathematics)#cite_note-3" style="counter-reset: mw-Ref 3;"><span class="mw-reflink-text">[3]</span></a></sup></p>
+
+</section><section data-mw-section-id="5" id="mwATE"><h2 id="Computability_of_the_limit">Computability of the limit</h2>
+<p id="mwATI">Limits can be difficult to compute. There exists limit expressions whose <a rel="mw:WikiLink" href="./Modulus_of_convergence" title="Modulus of convergence" id="mwATM">modulus of convergence</a> is <a rel="mw:WikiLink" href="./Undecidable_problem" title="Undecidable problem" id="mwATQ">undecidable</a>. In <a rel="mw:WikiLink" href="./Recursion_theory" title="Recursion theory" id="mwATU" class="mw-redirect">recursion theory</a>, the <a rel="mw:WikiLink" href="./Limit_lemma" title="Limit lemma" id="mwATY" class="mw-redirect">Limit lemma</a> proves that it is possible to encode undecidable problems using limits.<sup about="#mwt154" class="mw-ref" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="./Limit_(mathematics)#cite_note-4" style="counter-reset: mw-Ref 4;"><span class="mw-reflink-text">[4]</span></a></sup></p>
+
+</section><section data-mw-section-id="6" id="mwATc"><h2 id="In_topology">In topology</h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation" about="#mwt155" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Unreferenced section","href":"./Template:Unreferenced_section"},"params":{"date":{"wt":"January 2019"}},"i":0}}]}' id="mwATg"><tbody><tr><td class="mbox-image"><div style="width:52px"><figure-inline typeof="mw:Image"><a href="./File:Question_book-new.svg"><img alt="" resource="./File:Question_book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" data-file-width="512" data-file-height="399" data-file-type="drawing" height="39" width="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x"/></a></figure-inline></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a rel="mw:WikiLink" href="./Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a rel="mw:WikiLink" href="./Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Limit_(mathematics)&amp;action=edit">improve this section</a> by <a rel="mw:WikiLink" href="./Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a rel="mw:WikiLink" href="./Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small><small class="hide-when-compact"><i> (<a rel="mw:WikiLink" href="./Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Articles_needing_additional_references_from_January_2019" about="#mwt155"/><link rel="mw:PageProp/Category" href="./Category:All_articles_needing_additional_references" about="#mwt155" id="mwATk"/>
+
+<section data-mw-section-id="7" id="mwATo"><h3 id="In_spaces_without_a_metric">In spaces without a metric</h3>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation" about="#mwt156" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Expand section","href":"./Template:Expand_section"},"params":{"date":{"wt":"January 2019"}},"i":0}}]}' id="mwATs"><tbody><tr><td class="mbox-image"><figure-inline typeof="mw:Image"><a href="./File:Wiki_letter_w_cropped.svg"><img alt="[icon]" resource="./File:Wiki_letter_w_cropped.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" data-file-width="44" data-file-height="31" data-file-type="drawing" height="14" width="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x"/></a></figure-inline></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Limit_(mathematics)&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small></div></td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Articles_to_be_expanded_from_January_2019" about="#mwt156"/><link rel="mw:PageProp/Category" href="./Category:All_articles_to_be_expanded" about="#mwt156"/><link rel="mw:PageProp/Category" href="./Category:Articles_using_small_message_boxes" about="#mwt156" id="mwATw"/>
+
+<p id="mwAT0">Limits of sequences can be defined in arbitrary topological spaces, even if the spaces are not <a rel="mw:WikiLink" href="./Metric_space" title="Metric space" id="mwAT4">metric spaces</a>.  In an arbitrary topological space <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt211" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"X,"}}' id="mwAT8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>X</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/09ba32eeb405f7f5f2bac1eb12987c47d2fd42df" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.627ex; height:2.509ex;" alt="X,"/></span><span about="#mwt211">
+</span> a point <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt213" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z \\in X"}}' id="mwAUA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z\in X}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>z</mi>
+        <mo>∈<!-- ∈ --></mo>
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z\in X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dff47a41328065a0e15e3a7089cfd392ee954e36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.909ex; height:2.176ex;" alt="z\in X"/></span><span about="#mwt213">
+</span> is called a limit of the sequence <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt215" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_1, a_2, \\ldots)"}}' id="mwAUE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{1},a_{2},\ldots )}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>…<!-- … --></mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{1},a_{2},\ldots )}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/261e2c64f965d5175c86bad97ee8360c0075f13d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.169ex; height:2.843ex;" alt="{\displaystyle (a_{1},a_{2},\ldots )}"/></span><span about="#mwt215">
+</span> of points in <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt217" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"X"}}' id="mwAUI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle X}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>X</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.98ex; height:2.176ex;" alt="X"/></span><span about="#mwt217">
+</span> if for every <a rel="mw:WikiLink" href="./Open_set" title="Open set" id="mwAUM">open set</a> containing <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt219" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z,"}}' id="mwAUQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>z</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47989a9b66a4ea8a0ec19e8159749fce8a9a8ca8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.735ex; height:2.009ex;" alt="z,"/></span><span about="#mwt219">
+</span> there exists an index <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt221" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"N"}}' id="mwAUU"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle N}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="N"/></span><span about="#mwt221">
+</span> such that if <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt223" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"n > N,"}}' id="mwAUY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle n>N,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo>></mo>
+        <mi>N</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n>N,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03d63161bd124b5a3709f827e364b6f8af291164" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.204ex; height:2.509ex;" alt="{\displaystyle n>N,}"/></span><span about="#mwt223">
+</span> then <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt225" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a_n"}}' id="mwAUc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/790f9209748c2dca7ed7b81932c37c02af1dbc31" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.448ex; height:2.009ex;" alt="a_{n}"/></span><span about="#mwt225">
+</span> is contained in that open set.  In general topological spaces, unlike for the case of real numbers above, sequences can have more than one limit.  </p><!--Definitely expand-->
+
+</section><section data-mw-section-id="8" id="mwAUg"><h3 id="Nets_and_filters">Nets and filters</h3>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation" about="#mwt165" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Expand section","href":"./Template:Expand_section"},"params":{"date":{"wt":"January 2019"}},"i":0}}]}' id="mwAUk"><tbody><tr><td class="mbox-image"><figure-inline typeof="mw:Image"><a href="./File:Wiki_letter_w_cropped.svg"><img alt="[icon]" resource="./File:Wiki_letter_w_cropped.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" data-file-width="44" data-file-height="31" data-file-type="drawing" height="14" width="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x"/></a></figure-inline></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Limit_(mathematics)&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">January 2019</span>)</i></small></div></td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Articles_to_be_expanded_from_January_2019" about="#mwt165"/><link rel="mw:PageProp/Category" href="./Category:All_articles_to_be_expanded" about="#mwt165"/><link rel="mw:PageProp/Category" href="./Category:Articles_using_small_message_boxes" about="#mwt165" id="mwAUo"/>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt166" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Net (topology)"},"2":{"wt":"Filter (mathematics)"}},"i":0}}]}' id="mwAUs">Main articles: <a rel="mw:WikiLink" href="./Net_(topology)" title="Net (topology)" class="mw-redirect">Net (topology)</a> and <a rel="mw:WikiLink" href="./Filter_(mathematics)" title="Filter (mathematics)">Filter (mathematics)</a></div>
+
+<p id="mwAUw">Sequences in topological spaces can be generalized to the concepts of <a rel="mw:WikiLink" href="./Net_(topology)" title="Net (topology)" id="mwAU0" class="mw-redirect">nets</a>, along with a corresponding notion of a limit.  A related notion, that of <a rel="mw:WikiLink" href="./Filter_(mathematics)" title="Filter (mathematics)" id="mwAU4">filters</a> on topological spaces, also can have limits defined for them.</p>
+
+</section></section><section data-mw-section-id="9" id="mwAU8"><h2 id="See_also">See also</h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000" about="#mwt167" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"wikibooks","href":"./Template:Wikibooks"},"params":{"1":{"wt":"Calculus"},"2":{"wt":"Limits"}},"i":0}}]}' id="mwAVA">
+<tbody><tr>
+<td class="mbox-image"><figure-inline class="noviewer" typeof="mw:Image"><span><img alt="" resource="./File:Wikibooks-logo-en-noslogan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" data-file-width="400" data-file-height="400" data-file-type="drawing" height="40" width="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x"/></span></figure-inline></td>
+<td class="mbox-text plainlist">The Wikibook <i><a rel="mw:WikiLink/Interwiki" href="https://en.wikibooks.org/wiki/Calculus" title="wikibooks:Calculus">Calculus</a></i> has a page on the topic of: <i><b><a rel="mw:WikiLink/Interwiki" href="https://en.wikibooks.org/wiki/Calculus/Limits" title="wikibooks:Calculus/Limits">Limits</a></b></i></td></tr></tbody></table>
+<ul id="mwAVE"><li id="mwAVI"><a rel="mw:WikiLink" href="./Rate_of_convergence" title="Rate of convergence" id="mwAVM">Rate of convergence</a>: the rate at which a convergent sequence approaches its limit</li>
+<li id="mwAVQ"><a rel="mw:WikiLink" href="./Cauchy_sequence" title="Cauchy sequence" id="mwAVU">Cauchy sequence</a>
+<ul id="mwAVY"><li id="mwAVc"><a rel="mw:WikiLink" href="./Complete_metric_space" title="Complete metric space" id="mwAVg">Complete metric space</a></li></ul></li>
+<li id="mwAVk"><a rel="mw:WikiLink" href="./Limit_of_a_function" title="Limit of a function" id="mwAVo">Limit of a function</a>
+<ul id="mwAVs"><li id="mwAVw"><a rel="mw:WikiLink" href="./One-sided_limit" title="One-sided limit" id="mwAV0">One-sided limit</a>: either of the two limits of functions of a real variable <i id="mwAV4">x</i>, as <i id="mwAV8">x</i> approaches a point from above or below</li>
+<li id="mwAWA"><a rel="mw:WikiLink" href="./List_of_limits" title="List of limits" id="mwAWE">List of limits</a>: list of limits for common functions</li>
+<li id="mwAWI"><a rel="mw:WikiLink" href="./Squeeze_theorem" title="Squeeze theorem" id="mwAWM">Squeeze theorem</a>: finds a limit of a function via comparison with two other functions</li></ul></li>
+<li id="mwAWQ"><a rel="mw:WikiLink" href="./Modes_of_convergence" title="Modes of convergence" id="mwAWU">Modes of convergence</a>
+<ul id="mwAWY"><li id="mwAWc">An <a rel="mw:WikiLink" href="./Modes_of_convergence_(annotated_index)" title="Modes of convergence (annotated index)" id="mwAWg">annotated index</a></li></ul></li>
+<li id="mwAWk"><a rel="mw:WikiLink" href="./Convergence_of_random_variables" title="Convergence of random variables" id="mwAWo">Convergence of random variables</a></li>
+<li id="mwAWs"><a rel="mw:WikiLink" href="./Banach_limit" title="Banach limit" id="mwAWw">Banach limit</a> defined on the Banach space that extends the usual limits.</li>
+<li id="mwAW0"><a rel="mw:WikiLink" href="./Limit_(category_theory)" title="Limit (category theory)" id="mwAW4">Limit in category theory</a>
+<ul id="mwAW8"><li id="mwAXA"><a rel="mw:WikiLink" href="./Direct_limit" title="Direct limit" id="mwAXE">Direct limit</a></li>
+<li id="mwAXI"><a rel="mw:WikiLink" href="./Inverse_limit" title="Inverse limit" id="mwAXM">Inverse limit</a></li></ul></li>
+<li id="mwAXQ"><a rel="mw:WikiLink" href="./Asymptotic_analysis" title="Asymptotic analysis" id="mwAXU">Asymptotic analysis</a>: a method of describing limiting behavior
+<ul id="mwAXY"><li id="mwAXc"><a rel="mw:WikiLink" href="./Big_O_notation" title="Big O notation" id="mwAXg">Big O notation</a>: used to describe the limiting behavior of a function when the argument tends towards a particular value or infinity</li></ul></li>
+<li id="mwAXk"><a rel="mw:WikiLink" href="./Convergent_matrix" title="Convergent matrix" id="mwAXo">Convergent matrix</a></li></ul>
+
+</section><section data-mw-section-id="10" id="mwAXs"><h2 id="Notes">Notes</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt168" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mwAXw">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt231" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Limit_(mathematics)#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text"><cite class="citation book" about="#mwt3" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"last":{"wt":"Stewart"},"first":{"wt":"James"},"authorlink":{"wt":"James Stewart (mathematician)"},"year":{"wt":"2008"},"title":{"wt":"Calculus: Early Transcendentals"},"edition":{"wt":"6th"},"publisher":{"wt":"[[Brooks/Cole]]"},"isbn":{"wt":"978-0-495-01166-8"}},"i":0}}]}' id="mwAX0"><a rel="mw:WikiLink" href="./James_Stewart_(mathematician)" title="James Stewart (mathematician)" id="mwAX4">Stewart, James</a> (2008). <i id="mwAX8">Calculus: Early Transcendentals</i> (6th ed.). <a rel="mw:WikiLink" href="./Brooks/Cole" title="Brooks/Cole" id="mwAYA" class="mw-redirect">Brooks/Cole</a>. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mwAYE">ISBN</a><span typeof="mw:Entity" id="mwAYI"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-495-01166-8" title="Special:BookSources/978-0-495-01166-8" id="mwAYM">978-0-495-01166-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Calculus%3A+Early+Transcendentals&amp;rft.edition=6th&amp;rft.pub=Brooks%2FCole&amp;rft.date=2008&amp;rft.isbn=978-0-495-01166-8&amp;rft.aulast=Stewart&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimit+%28mathematics%29" class="Z3988" about="#mwt3" id="mwAYQ"></span><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt3" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAYU">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-Larson-2" id="cite_note-Larson-2"><span rel="mw:referencedBy"><a href="./Limit_(mathematics)#cite_ref-Larson_2-0"><span class="mw-linkback-text">1 </span></a><a href="./Limit_(mathematics)#cite_ref-Larson_2-1"><span class="mw-linkback-text">2 </span></a><a href="./Limit_(mathematics)#cite_ref-Larson_2-2"><span class="mw-linkback-text">3 </span></a></span> <span id="mw-reference-text-cite_note-Larson-2" class="mw-reference-text"><cite class="citation book" about="#mwt32" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"last1":{"wt":"Larson"},"first1":{"wt":"Ron"},"authorlink1":{"wt":"Ron Larson (mathematician)"},"last2":{"wt":"Edwards"},"first2":{"wt":"Bruce H."},"year":{"wt":"2010"},"title":{"wt":"Calculus of a single variable"},"edition":{"wt":"Ninth"},"publisher":{"wt":"[[Brooks/Cole]], [[Cengage Learning]]"},"isbn":{"wt":"978-0-547-20998-2"}},"i":0}}]}' id="mwAYY"><a rel="mw:WikiLink" href="./Ron_Larson_(mathematician)" title="Ron Larson (mathematician)" id="mwAYc" class="mw-redirect">Larson, Ron</a>; Edwards, Bruce H. (2010). <i id="mwAYg">Calculus of a single variable</i> (Ninth ed.). <a rel="mw:WikiLink" href="./Brooks/Cole" title="Brooks/Cole" id="mwAYk" class="mw-redirect">Brooks/Cole</a>, <a rel="mw:WikiLink" href="./Cengage_Learning" title="Cengage Learning" id="mwAYo" class="mw-redirect">Cengage Learning</a>. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mwAYs">ISBN</a><span typeof="mw:Entity" id="mwAYw"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-547-20998-2" title="Special:BookSources/978-0-547-20998-2" id="mwAY0">978-0-547-20998-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Calculus+of+a+single+variable&amp;rft.edition=Ninth&amp;rft.pub=Brooks%2FCole%2C+Cengage+Learning&amp;rft.date=2010&amp;rft.isbn=978-0-547-20998-2&amp;rft.aulast=Larson&amp;rft.aufirst=Ron&amp;rft.au=Edwards%2C+Bruce+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimit+%28mathematics%29" class="Z3988" about="#mwt32" id="mwAY4"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt32" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAY8"/></span></li><li about="#cite_note-3" id="cite_note-3"><a href="./Limit_(mathematics)#cite_ref-3" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-3" class="mw-reference-text"><i id="mwAZA">Numerical Analysis</i>, 8th Edition, Burden and Faires, Section 2.4 Error Analysis for Iterative Methods </span></li><li about="#cite_note-4" id="cite_note-4"><a href="./Limit_(mathematics)#cite_ref-4" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-4" class="mw-reference-text"><i id="mwAZE">Recursively enumerable sets and degrees</i>, Soare, Robert I.</span></li></ol></div></div>
+
+</section><section data-mw-section-id="11" id="mwAZI"><h2 id="External_links">External links</h2>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;text-align:left;" about="#mwt169" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Library resources box\n","href":"./Template:Library_resources_box"},"params":{"by":{"wt":"no"},"onlinebooks":{"wt":"no"},"others":{"wt":"no"},"about":{"wt":"yes"},"label":{"wt":"Limit (mathematics)"}},"i":0}}]}' id="mwAZM"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em"><a rel="mw:WikiLink" href="./Wikipedia:The_Wikipedia_Library" title="Wikipedia:The Wikipedia Library">Library resources</a> about <br/> <b>Limit (mathematics)</b> <hr/></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em">
+<ul><li><a rel="mw:ExtLink" class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=Limit+%28mathematics%29">Resources in your library</a></li></ul></td>
+</tr></tbody></table>
+<ul id="mwAZQ"><li id="mwAZU"><span class="citation mathworld" id="Reference-Mathworld-Limit" about="#mwt170" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"MathWorld ","href":"./Template:MathWorld"},"params":{"title":{"wt":"Limit"},"urlname":{"wt":"Limit"}},"i":0}}]}'><cite class="citation web"><a rel="mw:WikiLink" href="./Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a> <a rel="mw:ExtLink" class="external text" href="http://mathworld.wolfram.com/Limit.html">"Limit"</a>. <i><a rel="mw:WikiLink" href="./MathWorld" title="MathWorld">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Limit&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FLimit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALimit+%28mathematics%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt229" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}'/></span></li>
+<li id="mwAZY"><a rel="mw:ExtLink" class="external text" href="http://www.mathwords.com/l/limit.htm" id="mwAZc">Mathwords: Limit</a></li></ul>
+
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q177239&amp;#124;Edit_this_at_Wikidata" style="padding:3px" about="#mwt171" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Authority control","href":"./Template:Authority_control"},"params":{},"i":0}}]}' id="mwAZg"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q177239&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Help:Authority_control" title="Help:Authority control">Authority control</a> <figure-inline class="mw-valign-text-top" typeof="mw:Image/Frameless" data-mw='{"caption":"Edit this at Wikidata"}'><a href="https://www.wikidata.org/wiki/Q177239"><img alt="Edit this at Wikidata" resource="./File:Blue_pencil.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" data-file-width="600" data-file-height="600" data-file-type="drawing" height="10" width="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x"/></a></figure-inline></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a rel="mw:WikiLink" href="./National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00567231">00567231</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_NDL_identifiers"/></span></span></li></ul>
+
+</div></td></tr></tbody></table></div>
+<link rel="mw:PageProp/Category" href="./Category:Limits_(mathematics)#%20" id="mwAZk"/>
+<link rel="mw:PageProp/Category" href="./Category:Convergence_(mathematics)" id="mwAZo"/>
+<link rel="mw:PageProp/Category" href="./Category:Real_analysis" id="mwAZs"/>
+<link rel="mw:PageProp/Category" href="./Category:Asymptotic_analysis" id="mwAZw"/>
+<link rel="mw:PageProp/Category" href="./Category:Differential_calculus" id="mwAZ0"/>
+<link rel="mw:PageProp/Category" href="./Category:General_topology" id="mwAZ4"/></section></body></html>

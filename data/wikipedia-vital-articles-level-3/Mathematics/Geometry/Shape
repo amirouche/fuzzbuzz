@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/880215595"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="0a2f8620-2114-11e9-8705-e8b51e1f6ecd"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="169191"/><link rel="dc:replaces" resource="mwr:revision/880215471"/><meta property="dc:modified" content="2019-01-26T02:42:31.000Z"/><meta property="mw:revisionSHA1" content="efcb161a949f53384c7b08de4de75d2830263b61"/><meta property="mw:html:version" content="2.0.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Shape"/><title>Shape</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"about","href":"./Template:About"},"params":{"1":{"wt":"describing the shape of an object e.g. shapes like a triangle"},"2":{"wt":"common shapes"},"3":{"wt":"List of geometric shapes"},"4":{"wt":"other uses"}},"i":0}}]}' id="mwAg">This article is about describing the shape of an object e.g. shapes like a triangle. For common shapes, see <a rel="mw:WikiLink" href="./List_of_geometric_shapes" title="List of geometric shapes" class="mw-redirect">List of geometric shapes</a>. For other uses, see <a rel="mw:WikiLink" href="./Shape_(disambiguation)" title="Shape (disambiguation)">Shape (disambiguation)</a>.</div>
+<figure typeof="mw:Image/Thumb" id="mwAw"><a href="./File:Congruent_non-congruent_triangles.svg" id="mwBA"><img resource="./File:Congruent_non-congruent_triangles.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Congruent_non-congruent_triangles.svg/370px-Congruent_non-congruent_triangles.svg.png" data-file-width="568" data-file-height="227" data-file-type="drawing" height="148" width="370" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Congruent_non-congruent_triangles.svg/740px-Congruent_non-congruent_triangles.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Congruent_non-congruent_triangles.svg/555px-Congruent_non-congruent_triangles.svg.png 1.5x" id="mwBQ"/></a><figcaption id="mwBg">An example of the different definitions of <b id="mwBw">shape</b>.  The two triangles on the left are congruent, while the third is <a rel="mw:WikiLink" href="./Similarity_(geometry)" title="Similarity (geometry)" id="mwCA">similar</a> to them.  The last triangle is neither similar nor congruent to any of the others, but it is homeomorphic.</figcaption></figure>
+
+<p id="mwCQ">A <b id="mwCg">shape</b> is the form of an object or its external boundary, outline, or external <a rel="mw:WikiLink" href="./Surface_(mathematics)" title="Surface (mathematics)" id="mwCw">surface</a>, as opposed to other properties such as color, texture or material composition.</p>
+
+</section><section data-mw-section-id="1" id="mwDA"><h2 id="Classification_of_simple_shapes">Classification of simple shapes</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt2" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Lists of shapes"}},"i":0}}]}' id="mwDQ">Main article: <a rel="mw:WikiLink" href="./Lists_of_shapes" title="Lists of shapes">Lists of shapes</a></div>
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mwDg"><a href="./File:Polygon_types.svg" id="mwDw"><img resource="./File:Polygon_types.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polygon_types.svg/300px-Polygon_types.svg.png" data-file-width="750" data-file-height="630" data-file-type="drawing" height="252" width="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polygon_types.svg/600px-Polygon_types.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polygon_types.svg/450px-Polygon_types.svg.png 1.5x" id="mwEA"/></a><figcaption id="mwEQ">A variety of <a rel="mw:WikiLink" href="./Polygon" title="Polygon" id="mwEg">polygonal</a> shapes.</figcaption></figure>
+
+<p id="mwEw">Some simple shapes can be put into broad categories. For instance, <a rel="mw:WikiLink" href="./Polygon" title="Polygon" id="mwFA">polygons</a> are classified according to their number of edges as <a rel="mw:WikiLink" href="./Triangle" title="Triangle" id="mwFQ">triangles</a>, <a rel="mw:WikiLink" href="./Quadrilateral" title="Quadrilateral" id="mwFg">quadrilaterals</a>, <a rel="mw:WikiLink" href="./Pentagon" title="Pentagon" id="mwFw">pentagons</a>, etc. Each of these is divided into smaller categories; triangles can be <a rel="mw:WikiLink" href="./Equilateral" title="Equilateral" id="mwGA" class="mw-redirect">equilateral</a>, <a rel="mw:WikiLink" href="./Isosceles" title="Isosceles" id="mwGQ" class="mw-redirect">isosceles</a>, <a rel="mw:WikiLink" href="./Obtuse_triangle" title="Obtuse triangle" id="mwGg" class="mw-redirect">obtuse</a>, <a rel="mw:WikiLink" href="./Triangle#By_internal_angles" title="Triangle" id="mwGw">acute</a>, <a rel="mw:WikiLink" href="./Triangle" title="Triangle" id="mwHA">scalene</a>, etc. while quadrilaterals can be <a rel="mw:WikiLink" href="./Rectangle" title="Rectangle" id="mwHQ">rectangles</a>, <a rel="mw:WikiLink" href="./Rhombi" title="Rhombi" id="mwHg" class="mw-redirect">rhombi</a>, <a rel="mw:WikiLink" href="./Trapezoids" title="Trapezoids" id="mwHw" class="mw-redirect">trapezoids</a>, <a rel="mw:WikiLink" href="./Squares" title="Squares" id="mwIA" class="mw-redirect">squares</a>, etc.</p>
+
+<p id="mwIQ">Other common shapes are <a rel="mw:WikiLink" href="./Point_(geometry)" title="Point (geometry)" id="mwIg">points</a>, <a rel="mw:WikiLink" href="./Line_(geometry)" title="Line (geometry)" id="mwIw">lines</a>, <a rel="mw:WikiLink" href="./Plane_(geometry)" title="Plane (geometry)" id="mwJA">planes</a>, and <a rel="mw:WikiLink" href="./Conic_sections" title="Conic sections" id="mwJQ" class="mw-redirect">conic sections</a> such as <a rel="mw:WikiLink" href="./Ellipse" title="Ellipse" id="mwJg">ellipses</a>, <a rel="mw:WikiLink" href="./Circle" title="Circle" id="mwJw">circles</a>, and <a rel="mw:WikiLink" href="./Parabola" title="Parabola" id="mwKA">parabolas</a>.</p>
+
+<p id="mwKQ">Among the most common 3-dimensional shapes are <a rel="mw:WikiLink" href="./Polyhedra" title="Polyhedra" id="mwKg" class="mw-redirect">polyhedra</a>, which are shapes with flat faces; <a rel="mw:WikiLink" href="./Ellipsoid" title="Ellipsoid" id="mwKw">ellipsoids</a>, which are egg-shaped or sphere-shaped objects; <a rel="mw:WikiLink" href="./Cylinder_(geometry)" title="Cylinder (geometry)" id="mwLA" class="mw-redirect">cylinders</a>; and <a rel="mw:WikiLink" href="./Cone" title="Cone" id="mwLQ">cones</a>.</p>
+
+<p id="mwLg">If an object falls into one of these categories exactly or even approximately, we can use it to describe the shape of the object. Thus, we say that the shape of a <a rel="mw:WikiLink" href="./Manhole_cover" title="Manhole cover" id="mwLw">manhole cover</a> is a <a rel="mw:WikiLink" href="./Disk_(mathematics)" title="Disk (mathematics)" id="mwMA">disk</a>, because it is approximately the same geometric object as an actual geometric disk.</p>
+
+</section><section data-mw-section-id="2" id="mwMQ"><h2 id="Shape_in_geometry">Shape in geometry</h2>
+
+<p id="mwMg">There are several ways to compare the shapes of two objects:</p>
+<ul id="mwMw"><li id="mwNA"><a rel="mw:WikiLink" href="./Congruence_(geometry)" title="Congruence (geometry)" id="mwNQ">Congruence</a>: Two objects are <b id="mwNg">congruent</b> if one can be transformed  into the other by a sequence of rotations, translations, and/or reflections.</li>
+<li id="mwNw"><a rel="mw:WikiLink" href="./Similarity_(geometry)" title="Similarity (geometry)" id="mwOA">Similarity</a>: Two objects are <b id="mwOQ">similar</b> if one can be transformed into the other by a uniform scaling, together with a sequence of rotations, translations, and/or reflections.</li>
+<li id="mwOg"><a rel="mw:WikiLink" href="./Homotopy#Isotopy" title="Homotopy" id="mwOw">Isotopy</a>: Two objects are <b id="mwPA">isotopic</b> if one can be transformed into the other by a sequence of deformations that do not tear the object or put holes in it.</li></ul>
+
+<p id="mwPQ">Sometimes, two similar or congruent objects may be regarded as having a different shape if a reflection is required to transform one into the other. For instance, the letters "<b id="mwPg">b</b>" and "<b id="mwPw">d</b>" are a reflection of each other, and hence they are congruent and similar, but in some contexts they are not regarded as having the same shape. Sometimes, only the outline or external boundary of the object is considered to determine its shape. For instance, an hollow sphere may be considered to have the same shape as a solid sphere. <a rel="mw:WikiLink" href="./Procrustes_analysis" title="Procrustes analysis" id="mwQA">Procrustes analysis</a> is used in many sciences to determine whether or not two objects have the same shape, or to measure the difference between two shapes. In advanced mathematics, <a rel="mw:WikiLink" href="./Quasi-isometry" title="Quasi-isometry" id="mwQQ">quasi-isometry</a> can be used as a criterion to state that two shapes are approximately the same.</p>
+
+<p id="mwQg">Simple shapes can often be classified into basic <a rel="mw:WikiLink" href="./Geometry" title="Geometry" id="mwQw">geometric</a> objects such as a <a rel="mw:WikiLink" href="./Point_(geometry)" title="Point (geometry)" id="mwRA">point</a>, a <a rel="mw:WikiLink" href="./Line_(geometry)" title="Line (geometry)" id="mwRQ">line</a>, a <a rel="mw:WikiLink" href="./Curve" title="Curve" id="mwRg">curve</a>, a <a rel="mw:WikiLink" href="./Plane_(geometry)" title="Plane (geometry)" id="mwRw">plane</a>, a <a rel="mw:WikiLink" href="./Plane_figure" title="Plane figure" id="mwSA" class="mw-redirect">plane figure</a> (e.g. <a rel="mw:WikiLink" href="./Square_(geometry)" title="Square (geometry)" id="mwSQ" class="mw-redirect">square</a> or <a rel="mw:WikiLink" href="./Circle" title="Circle" id="mwSg">circle</a>), or a solid figure (e.g. <a rel="mw:WikiLink" href="./Cube" title="Cube" id="mwSw">cube</a> or <a rel="mw:WikiLink" href="./Sphere" title="Sphere" id="mwTA">sphere</a>). However, most shapes occurring in the physical world are complex. Some, such as plant structures and coastlines, may be so complicated as to defy traditional mathematical description<span typeof="mw:Entity" id="mwTQ"> </span>– in which case they may be analyzed by <a rel="mw:WikiLink" href="./Differential_geometry" title="Differential geometry" id="mwTg">differential geometry</a>, or as <a rel="mw:WikiLink" href="./Fractal" title="Fractal" id="mwTw">fractals</a>.</p>
+
+<section data-mw-section-id="3" id="mwUA"><h3 id="Equivalence_of_shapes">Equivalence of shapes</h3>
+
+<p id="mwUQ">In geometry, two subsets of a <a rel="mw:WikiLink" href="./Euclidean_space" title="Euclidean space" id="mwUg">Euclidean space</a> have the same shape if one can be transformed to the other by a combination of <a rel="mw:WikiLink" href="./Translation_(geometry)" title="Translation (geometry)" id="mwUw">translations</a>, <a rel="mw:WikiLink" href="./Rotation" title="Rotation" id="mwVA">rotations</a> (together also called <a rel="mw:WikiLink" href="./Rigid_transformation" title="Rigid transformation" id="mwVQ">rigid transformations</a>), and <a rel="mw:WikiLink" href="./Scaling_(geometry)" title="Scaling (geometry)" id="mwVg">uniform scalings</a>. In other words, the <i id="mwVw">shape</i> of a set of points is all the geometrical information that is invariant to translations, rotations, and size changes. Having the same shape is an <a rel="mw:WikiLink" href="./Equivalence_relation" title="Equivalence relation" id="mwWA">equivalence relation</a>, and accordingly a precise mathematical definition of the notion of shape can be given as being an <a rel="mw:WikiLink" href="./Equivalence_class" title="Equivalence class" id="mwWQ">equivalence class</a> of subsets of a Euclidean space having the same shape.</p>
+
+<p id="mwWg">Mathematician and statistician <a rel="mw:WikiLink" href="./David_George_Kendall" title="David George Kendall" id="mwWw">David George Kendall</a> writes:<sup about="#mwt44" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Shape#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup></p>
+<blockquote id="mwXA"><p id="mwXQ">In this paper ‘shape’ is used in the vulgar sense, and means what one would normally expect it to mean. [...] We here define ‘shape’ informally as  ‘all the geometrical information that remains when location, scale<sup about="#mwt7" class="mw-ref" id="cite_ref-2" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-2"}}'><a href="./Shape#cite_note-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup> and rotational effects are filtered out from an object.’</p></blockquote>
+
+<p id="mwXg">Shapes of physical objects are equal if the subsets of space these objects occupy satisfy the definition above. In particular, the shape does not depend on the size and placement in space of the object. For instance, a "<b id="mwXw"><small id="mwYA">d</small></b>" and a "<b id="mwYQ"><big id="mwYg">p</big></b>" have the same shape, as they can be perfectly superimposed if the "<b id="mwYw"><small id="mwZA">d</small></b>" is translated to the right by a given distance, rotated upside down and magnified by a given factor (see <a rel="mw:WikiLink" href="./Procrustes_superimposition" title="Procrustes superimposition" id="mwZQ" class="mw-redirect">Procrustes superimposition</a> for details). However, a <a rel="mw:WikiLink" href="./Mirror_image" title="Mirror image" id="mwZg">mirror image</a> could be called a different shape. For instance, a "<b id="mwZw"><big id="mwaA">b</big></b>" and a "<b id="mwaQ"><big id="mwag">p</big></b>" have a different shape, at least when they are constrained to move within a two-dimensional space like the page on which they are written. Even though they have the same size, there's no way to perfectly superimpose them by translating and rotating them along the page. Similarly, within a three-dimensional space, a right hand and a left hand have a different shape, even if they are the mirror images of each other. Shapes may change if the object is scaled non-uniformly. For example, a <a rel="mw:WikiLink" href="./Sphere" title="Sphere" id="mwaw">sphere</a> becomes an <a rel="mw:WikiLink" href="./Ellipsoid" title="Ellipsoid" id="mwbA">ellipsoid</a> when scaled differently in the vertical and horizontal directions. In other words, preserving axes of <a rel="mw:WikiLink" href="./Symmetry" title="Symmetry" id="mwbQ">symmetry</a> (if they exist) is important for preserving shapes. Also, shape is determined by only the outer boundary of an object.</p>
+
+</section><section data-mw-section-id="4" id="mwbg"><h3 id="Congruence_and_similarity">Congruence and similarity</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt8" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Congruence (geometry)"},"2":{"wt":"Similarity (geometry)"}},"i":0}}]}' id="mwbw">Main articles: <a rel="mw:WikiLink" href="./Congruence_(geometry)" title="Congruence (geometry)">Congruence (geometry)</a> and <a rel="mw:WikiLink" href="./Similarity_(geometry)" title="Similarity (geometry)">Similarity (geometry)</a></div>
+<p id="mwcA">Objects that can be transformed into each other by rigid transformations and mirroring (but not scaling) are <a rel="mw:WikiLink" href="./Congruence_(geometry)" title="Congruence (geometry)" id="mwcQ">congruent</a>. An object is therefore congruent to its <a rel="mw:WikiLink" href="./Mirror_image" title="Mirror image" id="mwcg">mirror image</a> (even if it is not symmetric), but not to a scaled version. Two congruent objects always have either the same shape or mirror image shapes, and have the same size.</p>
+
+<p id="mwcw">Objects that have the same shape or mirror image shapes are called <a rel="mw:WikiLink" href="./Similarity_(geometry)" title="Similarity (geometry)" id="mwdA">geometrically similar</a>, whether or not they have the same size. Thus,  objects that can be transformed into each other by rigid transformations, mirroring, and uniform scaling are similar.  Similarity is preserved when one of the objects is uniformly scaled, while congruence is not. Thus, congruent objects are always geometrically similar, but similar objects may not be congruent, as they may have different size.</p>
+
+</section><section data-mw-section-id="5" id="mwdQ"><h3 id="Homeomorphism">Homeomorphism</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt9" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Homeomorphism"}},"i":0}}]}' id="mwdg">Main article: <a rel="mw:WikiLink" href="./Homeomorphism" title="Homeomorphism">Homeomorphism</a></div>
+<p id="mwdw">A more flexible definition of shape takes into consideration the fact that realistic shapes are often deformable, e.g. a person in different postures, a tree bending in the wind or a hand with different finger positions.</p>
+
+<p id="mweA">One way of modeling non-rigid movements is by <a rel="mw:WikiLink" href="./Homeomorphism" title="Homeomorphism" id="mweQ">homeomorphisms</a>. Roughly speaking, a  homeomorphism is a continuous stretching and bending of an object into a new shape. Thus, a <a rel="mw:WikiLink" href="./Square_(geometry)" title="Square (geometry)" id="mweg" class="mw-redirect">square</a> and a <a rel="mw:WikiLink" href="./Circle" title="Circle" id="mwew">circle</a> are homeomorphic to each other, but a <a rel="mw:WikiLink" href="./Sphere" title="Sphere" id="mwfA">sphere</a> and a <a rel="mw:WikiLink" href="./Torus" title="Torus" id="mwfQ">donut</a> are not. An often-repeated <a rel="mw:WikiLink" href="./Mathematical_joke" title="Mathematical joke" id="mwfg">mathematical joke</a> is that topologists can't tell their coffee cup from their donut,<sup about="#mwt79" class="mw-ref" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="./Shape#cite_note-3" style="counter-reset: mw-Ref 3;"><span class="mw-reflink-text">[3]</span></a></sup> since a sufficiently pliable donut could be reshaped to the form of a coffee cup by creating a dimple and progressively enlarging it, while preserving the donut hole in a cup's handle.</p>
+
+</section></section><section data-mw-section-id="6" id="mwfw"><h2 id="Shape_analysis">Shape analysis</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt12" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Statistical shape analysis"}},"i":0}}]}' id="mwgA">Main article: <a rel="mw:WikiLink" href="./Statistical_shape_analysis" title="Statistical shape analysis">Statistical shape analysis</a></div>
+<p id="mwgQ">The above-mentioned mathematical definitions of rigid and non-rigid shape have arisen in the field of <a rel="mw:WikiLink" href="./Statistical_shape_analysis" title="Statistical shape analysis" id="mwgg">statistical shape analysis</a>. In particular, <a rel="mw:WikiLink" href="./Procrustes_analysis" title="Procrustes analysis" id="mwgw">Procrustes analysis</a> is a technique used for comparing shapes of similar objects (e.g. bones of different animals), or measuring the deformation of a deformable object. Other methods are designed to work with non-rigid (bendable) objects, e.g. for posture independent shape retrieval (see for example <a rel="mw:WikiLink" href="./Spectral_shape_analysis" title="Spectral shape analysis" id="mwhA">Spectral shape analysis</a>).</p>
+
+</section><section data-mw-section-id="7" id="mwhQ"><h2 id="Similarity_classes">Similarity classes</h2>
+<p id="mwhg">All <a rel="mw:WikiLink" href="./Similar_triangles" title="Similar triangles" id="mwhw" class="mw-redirect">similar triangles</a> have the same shape. These shapes can be classified using <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwiA">complex numbers</a> <i id="mwiQ">u, v, w</i> for the vertices, in a method advanced by J.A. Lester<sup about="#mwt16" class="mw-ref" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="./Shape#cite_note-4" style="counter-reset: mw-Ref 4;"><span class="mw-reflink-text">[4]</span></a></sup> and <a rel="mw:WikiLink" href="./Rafael_Artzy" title="Rafael Artzy" id="mwig">Rafael Artzy</a>. For example, an <a rel="mw:WikiLink" href="./Equilateral_triangle" title="Equilateral triangle" id="mwiw">equilateral triangle</a> can be expressed by the complex numbers 0, 1, (1 + i √3)/2 representing its vertices. Lester and Artzy call the ratio</p>
+<dl id="mwjA"><dd id="mwjQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt47" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"S(u, v, w) = \\frac{u - w}{u - v} "}}' id="mwjg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle S(u,v,w)={\frac {u-w}{u-v}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>u</mi>
+              <mo>−<!-- − --></mo>
+              <mi>w</mi>
+            </mrow>
+            <mrow>
+              <mi>u</mi>
+              <mo>−<!-- − --></mo>
+              <mi>v</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(u,v,w)={\frac {u-w}{u-v}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2b5496e0625704562c1045998778191dbcc5a63" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:19.267ex; height:5.176ex;" alt="S(u,v,w)={\frac  {u-w}{u-v}}"/></span><span about="#mwt47">
+</span></dd></dl>
+
+<p id="mwjw">the <b id="mwkA">shape</b> of triangle (<i id="mwkQ">u, v, w</i>). Then the shape of the equilateral triangle is</p>
+<dl id="mwkg"><dd id="mwkw">(0–(1+ √3)/2)/(0–1) = ( 1 + i √3)/2 = cos(60°) + i sin(60°) = exp( i π/3).</dd></dl>
+<p id="mwlA">For any <a rel="mw:WikiLink" href="./Affine_transformation" title="Affine transformation" id="mwlQ">affine transformation</a> of the <a rel="mw:WikiLink" href="./Complex_plane" title="Complex plane" id="mwlg">complex plane</a>, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt49" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z \\mapsto a z + b,\\quad a \\ne 0,"}}' id="mwlw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z\mapsto az+b,\quad a\neq 0,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>z</mi>
+        <mo stretchy="false">↦<!-- ↦ --></mo>
+        <mi>a</mi>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mspace width="1em"></mspace>
+        <mi>a</mi>
+        <mo>≠<!-- ≠ --></mo>
+        <mn>0</mn>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z\mapsto az+b,\quad a\neq 0,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ef6e2ccd29e2b67fbdecbc79665f418ca70719f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.352ex; height:2.676ex;" alt="z\mapsto az+b,\quad a\neq 0,"/></span><span about="#mwt49">
+</span> <span typeof="mw:Entity" id="mwmA"> </span> a triangle is transformed but does not change its shape. Hence shape is an <a rel="mw:WikiLink" href="./Invariant_(mathematics)" title="Invariant (mathematics)" id="mwmQ">invariant</a> of <a rel="mw:WikiLink" href="./Affine_geometry" title="Affine geometry" id="mwmg">affine geometry</a>.
+The shape <i id="mwmw">p</i> = S(<i id="mwnA">u,v,w</i>) depends on the order of the arguments of function S, but <a rel="mw:WikiLink" href="./Permutation" title="Permutation" id="mwnQ">permutations</a> lead to related values.  For instance,</p>
+<dl id="mwng"><dd id="mwnw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt51" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"1 - p = 1 - (u-w)/(u-v) = (w-v)/(u-v) = (v-w)/(v-u) = S(v,u,w)."}}' id="mwoA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 1-p=1-(u-w)/(u-v)=(w-v)/(u-v)=(v-w)/(v-u)=S(v,u,w).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <mi>p</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>−<!-- − --></mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>−<!-- − --></mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo>−<!-- − --></mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>−<!-- − --></mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>−<!-- − --></mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>−<!-- − --></mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>u</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1-p=1-(u-w)/(u-v)=(w-v)/(u-v)=(v-w)/(v-u)=S(v,u,w).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/118c0e56507208a13135b01259310c372ae495c5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:79.048ex; height:2.843ex;" alt="1-p=1-(u-w)/(u-v)=(w-v)/(u-v)=(v-w)/(v-u)=S(v,u,w)."/></span><span about="#mwt51">
+</span> Also <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt53" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"p^{-1} = S(u,w,v)."}}' id="mwoQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p^{-1}=S(u,w,v).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p^{-1}=S(u,w,v).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a880779d1a9ad32617fb73c263840b3004cac15" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:16.835ex; height:3.176ex;" alt="p^{{-1}}=S(u,w,v)."/></span><span about="#mwt53">
+</span></dd></dl>
+<p id="mwog">Combining these permutations gives <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt55" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"S(v,w,u) = (1 - p)^{-1}."}}' id="mwow"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle S(v,w,u)=(1-p)^{-1}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo>,</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <mi>p</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(v,w,u)=(1-p)^{-1}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3646c5f937736d2dd3e4b56ae453f36249e42113" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:22.558ex; height:3.176ex;" alt="S(v,w,u)=(1-p)^{{-1}}."/></span><span about="#mwt55">
+</span> Furthermore,</p>
+<dl id="mwpA"><dd id="mwpQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt57" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"p(1-p)^{-1} = S(u,v,w)S(v,w,u)=(u-w)/(v-w)=S(w,v,u). "}}' id="mwpg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p(1-p)^{-1}=S(u,v,w)S(v,w,u)=(u-w)/(v-w)=S(w,v,u).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <mi>p</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>w</mi>
+        <mo>,</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo>−<!-- − --></mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>v</mi>
+        <mo>−<!-- − --></mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>w</mi>
+        <mo>,</mo>
+        <mi>v</mi>
+        <mo>,</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(1-p)^{-1}=S(u,v,w)S(v,w,u)=(u-w)/(v-w)=S(w,v,u).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b68287959f7b529ae1f609016b6ae9e89f8afeb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:65.256ex; height:3.176ex;" alt="p(1-p)^{{-1}}=S(u,v,w)S(v,w,u)=(u-w)/(v-w)=S(w,v,u)."/></span><span about="#mwt57">
+</span> These relations are "conversion rules" for shape of a triangle.</dd></dl>
+<p id="mwpw">The shape of a <a rel="mw:WikiLink" href="./Quadrilateral" title="Quadrilateral" id="mwqA">quadrilateral</a> is associated with two complex numbers <i id="mwqQ">p,q</i>. If the quadrilateral has vertices <i id="mwqg">u,v,w,x</i>, then <i id="mwqw">p</i> = S(<i id="mwrA">u,v,w</i>) and <i id="mwrQ">q</i> = S(<i id="mwrg">v,w,x</i>). Artzy proves these propositions about quadrilateral shapes:</p>
+<ol id="mwrw"><li id="mwsA">If <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt59" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" p=(1-q)^{-1},"}}' id="mwsQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p=(1-q)^{-1},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <mi>q</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=(1-q)^{-1},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b07c1e92aeb2a2c5751606daa59aae18e8807da4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:14.219ex; height:3.176ex;" alt="p=(1-q)^{{-1}},"/></span><span about="#mwt59">
+</span>  then the quadrilateral is a <a rel="mw:WikiLink" href="./Parallelogram" title="Parallelogram" id="mwsg">parallelogram</a>.</li>
+<li id="mwsw">If a parallelogram has | arg <i id="mwtA">p</i> | = | arg <i id="mwtQ">q</i> |, then it is a <a rel="mw:WikiLink" href="./Rhombus" title="Rhombus" id="mwtg">rhombus</a>.</li>
+<li id="mwtw">When <i id="mwuA">p</i> = 1 + i and <i id="mwuQ">q</i> = (1 + i)/2, then the quadrilateral is <a rel="mw:WikiLink" href="./Square" title="Square" id="mwug">square</a>.</li>
+<li id="mwuw">If <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt61" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"p = r(1-q^{-1})"}}' id="mwvA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle p=r(1-q^{-1})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo>=</mo>
+        <mi>r</mi>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>−<!-- − --></mo>
+        <msup>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p=r(1-q^{-1})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5236dc8cc0aa29ec8f8f00ba1e3a0c3cc30471f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:14.63ex; height:3.176ex;" alt="p=r(1-q^{{-1}})"/></span><span about="#mwt61">
+</span>  and sgn <i id="mwvQ">r</i> = sgn(Im <i id="mwvg">p</i>), then the quadrilateral is a <a rel="mw:WikiLink" href="./Trapezoid" title="Trapezoid" id="mwvw">trapezoid</a>.</li></ol>
+<p id="mwwA">A <a rel="mw:WikiLink" href="./Polygon" title="Polygon" id="mwwQ">polygon</a> <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt63" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" (z_1, z_2,...z_n)"}}' id="mwwg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (z_{1},z_{2},...z_{n})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (z_{1},z_{2},...z_{n})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/993c2db7b948707d48cab297d6a8af814f4c33f5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.549ex; height:2.843ex;" alt="(z_{1},z_{2},...z_{n})"/></span><span about="#mwt63">
+</span>  has a shape defined by <i id="mwww">n</i> – 2 complex numbers <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt65" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"S(z_j,z_{j+1},z_{j+2}), \\  j=1,...,n-2."}}' id="mwxA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle S(z_{j},z_{j+1},z_{j+2}),\ j=1,...,n-2.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>j</mi>
+            <mo>+</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mtext> </mtext>
+        <mi>j</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo>−<!-- − --></mo>
+        <mn>2.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(z_{j},z_{j+1},z_{j+2}),\ j=1,...,n-2.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3ff30a824655ade8d1b4dfc6f91a941cf37a524" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:33.598ex; height:3.009ex;" alt="S(z_{j},z_{{j+1}},z_{{j+2}}),\ j=1,...,n-2."/></span><span about="#mwt65">
+</span>  The polygon bounds a <a rel="mw:WikiLink" href="./Convex_set" title="Convex set" id="mwxQ">convex set</a> when all these shape components have imaginary components of the same sign.<sup about="#mwt28" class="mw-ref" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-5"}}'><a href="./Shape#cite_note-5" style="counter-reset: mw-Ref 5;"><span class="mw-reflink-text">[5]</span></a></sup></p>
+
+</section><section data-mw-section-id="8" id="mwxg"><h2 id="Human_perception_of_shapes">Human perception of shapes</h2>
+
+<p id="mwxw">Psychologists have theorized that humans mentally break down images into simple geometric shapes called <a rel="mw:WikiLink" href="./Geon_(psychology)" title="Geon (psychology)" id="mwyA">geons</a>.<sup about="#mwt33" class="mw-ref" id="cite_ref-6" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-6"}}'><a href="./Shape#cite_note-6" style="counter-reset: mw-Ref 6;"><span class="mw-reflink-text">[6]</span></a></sup> Examples of geons include cones and spheres. A wide range of other shape representations have also been investigated.<sup about="#mwt81" class="mw-ref" id="cite_ref-7" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-7"}}'><a href="./Shape#cite_note-7" style="counter-reset: mw-Ref 7;"><span class="mw-reflink-text">[7]</span></a></sup>
+There also seems to be something about shape that can guide human <a rel="mw:WikiLink" href="./Visual_spatial_attention" title="Visual spatial attention" id="mwyQ">attention</a>.<sup about="#mwt83" class="mw-ref" id="cite_ref-8" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-8"}}'><a href="./Shape#cite_note-8" style="counter-reset: mw-Ref 8;"><span class="mw-reflink-text">[8]</span></a></sup><sup about="#mwt85" class="mw-ref" id="cite_ref-9" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-9"}}'><a href="./Shape#cite_note-9" style="counter-reset: mw-Ref 9;"><span class="mw-reflink-text">[9]</span></a></sup></p>
+
+</section><section data-mw-section-id="9" id="mwyg"><h2 id="See_also">See also</h2>
+<ul id="mwyw"><li id="mwzA"><a rel="mw:WikiLink" href="./Area" title="Area" id="mwzQ">Area</a></li>
+<li id="mwzg"><a rel="mw:WikiLink" href="./Glossary_of_shapes_with_metaphorical_names" title="Glossary of shapes with metaphorical names" id="mwzw">Glossary of shapes with metaphorical names</a></li>
+<li id="mw0A"><a rel="mw:WikiLink" href="./Shape_factor_(disambiguation)" title="Shape factor (disambiguation)" id="mw0Q" class="mw-redirect">Shape factor</a></li>
+<li id="mw0g"><a rel="mw:WikiLink" href="./Solid_geometry" title="Solid geometry" id="mw0w">Solid geometry</a></li>
+<li id="mw1A"><a rel="mw:WikiLink" href="./Region_(mathematics)" title="Region (mathematics)" id="mw1Q">Region (mathematics)</a></li></ul>
+
+</section><section data-mw-section-id="10" id="mw1g"><h2 id="References">References</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt38" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mw1w">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt87" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Shape#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text"><cite class="citation journal" about="#mwt4" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal","href":"./Template:Cite_journal"},"params":{"doi":{"wt":"10.1112/blms/16.2.81"},"author":{"wt":"Kendall, D.G."},"title":{"wt":"Shape Manifolds, Procrustean Metrics, and Complex Projective Spaces"},"journal":{"wt":"Bulletin of the London Mathematical Society"},"year":{"wt":"1984"},"volume":{"wt":"16"},"issue":{"wt":"2"},"pages":{"wt":"81–121"}},"i":0}}]}' id="mw2A">Kendall, D.G. (1984). "Shape Manifolds, Procrustean Metrics, and Complex Projective Spaces". <i id="mw2Q">Bulletin of the London Mathematical Society</i>. <b id="mw2g">16</b> (2): 81–121. <a rel="mw:WikiLink" href="./Digital_object_identifier" title="Digital object identifier" id="mw2w">doi</a>:<a rel="mw:ExtLink" class="external text" href="//doi.org/10.1112%2Fblms%2F16.2.81" id="mw3A">10.1112/blms/16.2.81</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+London+Mathematical+Society&amp;rft.atitle=Shape+Manifolds%2C+Procrustean+Metrics%2C+and+Complex+Projective+Spaces&amp;rft.volume=16&amp;rft.issue=2&amp;rft.pages=81-121&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1112%2Fblms%2F16.2.81&amp;rft.au=Kendall%2C+D.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShape" class="Z3988" about="#mwt4" id="mw3Q"></span><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt4" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mw3g">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-2" id="cite_note-2"><a href="./Shape#cite_ref-2" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-2" class="mw-reference-text">Here, scale means only <a rel="mw:WikiLink" href="./Uniform_scaling" title="Uniform scaling" id="mw3w" class="mw-redirect">uniform scaling</a>, as non-uniform scaling would change the shape of the object (e.g., it would turn a square into a rectangle).</span></li><li about="#cite_note-3" id="cite_note-3"><a href="./Shape#cite_ref-3" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-3" class="mw-reference-text"><cite class="citation book" about="#mwt11" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"title":{"wt":"Differential Equations: A Dynamical Systems Approach. Part II: Higher-Dimensional Systems"},"first1":{"wt":"John H."},"last1":{"wt":"Hubbard"},"first2":{"wt":"Beverly H."},"last2":{"wt":"West"},"publisher":{"wt":"Springer"},"series":{"wt":"Texts in Applied Mathematics"},"volume":{"wt":"18"},"year":{"wt":"1995"},"isbn":{"wt":"978-0-387-94377-0"},"page":{"wt":"204"},"url":{"wt":"https://books.google.com/books?id=SHBj2oaSALoC&amp;pg=PA204&amp;dq=%22coffee+cup%22+topologist+joke#v=onepage&amp;q=%22coffee%20cup%22%20topologist%20joke&amp;f=false"}},"i":0}}]}' id="mw4A">Hubbard, John H.; West, Beverly H. (1995). <a rel="mw:ExtLink" class="external text" href="https://books.google.com/books?id=SHBj2oaSALoC&amp;pg=PA204&amp;dq=%22coffee+cup%22+topologist+joke#v=onepage&amp;q=%22coffee%20cup%22%20topologist%20joke&amp;f=false" id="mw4Q"><i id="mw4g">Differential Equations: A Dynamical Systems Approach. Part II: Higher-Dimensional Systems</i></a>. Texts in Applied Mathematics. <b id="mw4w">18</b>. Springer. p.<span typeof="mw:Entity" id="mw5A"> </span>204. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mw5Q">ISBN</a><span typeof="mw:Entity" id="mw5g"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-387-94377-0" title="Special:BookSources/978-0-387-94377-0" id="mw5w">978-0-387-94377-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Differential+Equations%3A+A+Dynamical+Systems+Approach.+Part+II%3A+Higher-Dimensional+Systems&amp;rft.series=Texts+in+Applied+Mathematics&amp;rft.pages=204&amp;rft.pub=Springer&amp;rft.date=1995&amp;rft.isbn=978-0-387-94377-0&amp;rft.aulast=Hubbard&amp;rft.aufirst=John+H.&amp;rft.au=West%2C+Beverly+H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSHBj2oaSALoC%26pg%3DPA204%26dq%3D%2522coffee%2Bcup%2522%2Btopologist%2Bjoke%23v%3Donepage%26q%3D%2522coffee%2520cup%2522%2520topologist%2520joke%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShape" class="Z3988" about="#mwt11" id="mw6A"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt11" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mw6Q"/></span></li><li about="#cite_note-4" id="cite_note-4"><a href="./Shape#cite_ref-4" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-4" class="mw-reference-text">J.A. Lester (1996) "Triangles I: Shapes", <i id="mw6g"><a rel="mw:WikiLink" href="./Aequationes_Mathematicae" title="Aequationes Mathematicae" id="mw6w">Aequationes Mathematicae</a></i> 52:30–54</span></li><li about="#cite_note-5" id="cite_note-5"><a href="./Shape#cite_ref-5" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-5" class="mw-reference-text"><a rel="mw:WikiLink" href="./Rafael_Artzy" title="Rafael Artzy" id="mw7A">Rafael Artzy</a> (1994) "Shapes of Polygons", <i id="mw7Q">Journal of Geometry</i> 50(1–2):11–15</span></li><li about="#cite_note-6" id="cite_note-6"><a href="./Shape#cite_ref-6" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-6" class="mw-reference-text">Marr, D., &amp; Nishihara, H. (1978). Representation and recognition of the spatial organization of three-dimensional shapes. Proceedings of the Royal Society of London, 200, 269-294.</span></li><li about="#cite_note-7" id="cite_note-7"><a href="./Shape#cite_ref-7" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-7" class="mw-reference-text"><cite class="citation journal" about="#mwt31" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"doi":{"wt":"10.1016/j.cviu.2013.04.005"},"title":{"wt":"50 Years of object recognition: Directions forward"},"journal":{"wt":"Computer Vision and Image Understanding"},"volume":{"wt":"117"},"issue":{"wt":"8"},"pages":{"wt":"827–891"},"year":{"wt":"2013"},"last1":{"wt":"Andreopoulos"},"first1":{"wt":"Alexander"},"last2":{"wt":"Tsotsos"},"first2":{"wt":"John K."}},"i":0}}]}' id="mw7g">Andreopoulos, Alexander; Tsotsos, John K. (2013). "50 Years of object recognition: Directions forward". <i id="mw7w">Computer Vision and Image Understanding</i>. <b id="mw8A">117</b> (8): 827–891. <a rel="mw:WikiLink" href="./Digital_object_identifier" title="Digital object identifier" id="mw8Q">doi</a>:<a rel="mw:ExtLink" class="external text" href="//doi.org/10.1016%2Fj.cviu.2013.04.005" id="mw8g">10.1016/j.cviu.2013.04.005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Computer+Vision+and+Image+Understanding&amp;rft.atitle=50+Years+of+object+recognition%3A+Directions+forward&amp;rft.volume=117&amp;rft.issue=8&amp;rft.pages=827-891&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cviu.2013.04.005&amp;rft.aulast=Andreopoulos&amp;rft.aufirst=Alexander&amp;rft.au=Tsotsos%2C+John+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShape" class="Z3988" about="#mwt31" id="mw8w"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt31" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mw9A"/></span></li><li about="#cite_note-8" id="cite_note-8"><a href="./Shape#cite_ref-8" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-8" class="mw-reference-text"><cite class="citation journal" about="#mwt36" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"last1":{"wt":"Alexander"},"first1":{"wt":"R. G."},"last2":{"wt":"Schmidt"},"first2":{"wt":"J."},"last3":{"wt":"Zelinsky"},"first3":{"wt":"G.Z."},"title":{"wt":"Are summary statistics enough? Evidence for the importance of shape in guiding visual search."},"journal":{"wt":"Visual Cognition"},"date":{"wt":"2014"},"volume":{"wt":"22"},"issue":{"wt":"3–4"},"pages":{"wt":"595–609"},"pmid":{"wt":"26180505"},"pmc":{"wt":"4500174"},"doi":{"wt":"10.1080/13506285.2014.890989"}},"i":0}}]}' id="mw9Q">Alexander, R. G.; Schmidt, J.; Zelinsky, G.Z. (2014). <a rel="mw:ExtLink" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4500174" id="mw9g">"Are summary statistics enough? Evidence for the importance of shape in guiding visual search"</a>. <i id="mw9w">Visual Cognition</i>. <b id="mw-A">22</b> (3–4): 595–609. <a rel="mw:WikiLink" href="./Digital_object_identifier" title="Digital object identifier" id="mw-Q">doi</a>:<a rel="mw:ExtLink" class="external text" href="//doi.org/10.1080%2F13506285.2014.890989" id="mw-g">10.1080/13506285.2014.890989</a>. <a rel="mw:WikiLink" href="./PubMed_Central" title="PubMed Central" id="mw-w">PMC</a><span typeof="mw:Entity" id="mw_A"> </span><span class="cs1-lock-free" title="Freely accessible" id="mw_Q"><a rel="mw:ExtLink" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4500174" id="mw_g">4500174</a></span>. <a rel="mw:WikiLink" href="./PubMed_Identifier" title="PubMed Identifier" id="mw_w" class="mw-redirect">PMID</a><span typeof="mw:Entity" id="mwAQA"> </span><a rel="mw:ExtLink" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26180505" id="mwAQE">26180505</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Visual+Cognition&amp;rft.atitle=Are+summary+statistics+enough%3F+Evidence+for+the+importance+of+shape+in+guiding+visual+search.&amp;rft.volume=22&amp;rft.issue=3%E2%80%934&amp;rft.pages=595-609&amp;rft.date=2014&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4500174&amp;rft_id=info%3Apmid%2F26180505&amp;rft_id=info%3Adoi%2F10.1080%2F13506285.2014.890989&amp;rft.aulast=Alexander&amp;rft.aufirst=R.+G.&amp;rft.au=Schmidt%2C+J.&amp;rft.au=Zelinsky%2C+G.Z.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4500174&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShape" class="Z3988" about="#mwt36" id="mwAQI"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt36" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAQM"/></span></li><li about="#cite_note-9" id="cite_note-9"><a href="./Shape#cite_ref-9" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-9" class="mw-reference-text"><cite class="citation journal" about="#mwt37" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"last1":{"wt":"Wolfe"},"first1":{"wt":"Jeremy M."},"last2":{"wt":"Horowitz"},"first2":{"wt":"Todd S."},"title":{"wt":"Five factors that guide attention in visual search."},"journal":{"wt":"Nature Human Behaviour"},"date":{"wt":"2017"},"volume":{"wt":"1"},"issue":{"wt":"3"}},"i":0}}]}' id="mwAQQ">Wolfe, Jeremy M.; Horowitz, Todd S. (2017). "Five factors that guide attention in visual search". <i id="mwAQU">Nature Human Behaviour</i>. <b id="mwAQY">1</b> (3).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Human+Behaviour&amp;rft.atitle=Five+factors+that+guide+attention+in+visual+search.&amp;rft.volume=1&amp;rft.issue=3&amp;rft.date=2017&amp;rft.aulast=Wolfe&amp;rft.aufirst=Jeremy+M.&amp;rft.au=Horowitz%2C+Todd+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShape" class="Z3988" about="#mwt37" id="mwAQc"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt37" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAQg"/></span></li></ol></div></div>
+
+</section><section data-mw-section-id="11" id="mwAQk"><h2 id="External_links">External links</h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000" about="#mwt39" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"wiktionary","href":"./Template:Wiktionary"},"params":{},"i":0}}]}' id="mwAQo">
+<tbody><tr>
+<td class="mbox-image"><figure-inline class="noviewer" typeof="mw:Image"><span><img alt="" resource="./File:Wiktionary-logo-en-v2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" data-file-width="512" data-file-height="512" data-file-type="drawing" height="40" width="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x"/></span></figure-inline></td>
+<td class="mbox-text plainlist">Look up <i><b><a rel="mw:WikiLink/Interwiki" href="https://en.wiktionary.org/wiki/Special:Search/shape" title="wiktionary:Special:Search/shape">shape</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+
+<link rel="mw:PageProp/Category" href="./Category:Elementary_geometry" id="mwAQs"/>
+ <link rel="mw:PageProp/Category" href="./Category:Geometric_shapes#Shape" id="mwAQw"/>
+<link rel="mw:PageProp/Category" href="./Category:Morphology" id="mwAQ0"/>
+<link rel="mw:PageProp/Category" href="./Category:Structure" id="mwAQ4"/></section></body></html>

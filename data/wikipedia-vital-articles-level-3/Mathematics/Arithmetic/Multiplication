@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/885279077"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="5639b8b0-3a32-11e9-ac77-d0dc3a51751c"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="20845"/><link rel="dc:replaces" resource="mwr:revision/885275545"/><meta property="dc:modified" content="2019-02-27T01:52:20.000Z"/><meta property="mw:revisionSHA1" content="b3c2d1cd1011bc4e7f3d2539e0a31f101330c8b1"/><meta property="mw:html:version" content="2.1.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Multiplication"/><title>Multiplication</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"about","href":"./Template:About"},"params":{"1":{"wt":"the mathematical operation"}},"i":0}}]}' id="mwAg">This article is about the mathematical operation. For other uses, see <a rel="mw:WikiLink" href="./Multiplication_(disambiguation)" title="Multiplication (disambiguation)">Multiplication (disambiguation)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation" about="#mwt2" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"refimprove","href":"./Template:Refimprove"},"params":{"date":{"wt":"April 2012"}},"i":0}}]}' id="mwAw"><tbody><tr><td class="mbox-image"><div style="width:52px"><figure-inline typeof="mw:Image"><a href="./File:Question_book-new.svg"><img alt="" resource="./File:Question_book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" data-file-width="512" data-file-height="399" data-file-type="drawing" height="39" width="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x"/></a></figure-inline></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a rel="mw:WikiLink" href="./Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Multiplication&amp;action=edit">improve this article</a> by <a rel="mw:WikiLink" href="./Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i><span typeof="mw:Entity"> </span><a rel="mw:ExtLink" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Multiplication%22">"Multiplication"</a><span typeof="mw:Entity"> </span>–<span typeof="mw:Entity"> </span><a rel="mw:ExtLink" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Multiplication%22+-wikipedia">news</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//www.google.com/search?&amp;q=%22Multiplication%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Multiplication%22+-wikipedia">books</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//scholar.google.com/scholar?q=%22Multiplication%22">scholar</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Multiplication%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2012</span>)</i></small><small class="hide-when-compact"><i> (<a rel="mw:WikiLink" href="./Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Articles_needing_additional_references_from_April_2012" about="#mwt2"/><link rel="mw:PageProp/Category" href="./Category:All_articles_needing_additional_references" about="#mwt2" id="mwBA"/>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwBQ"><a href="./File:Multiply_4_bags_3_marbles.svg" id="mwBg"><img resource="./File:Multiply_4_bags_3_marbles.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Multiply_4_bags_3_marbles.svg/220px-Multiply_4_bags_3_marbles.svg.png" data-file-width="615" data-file-height="723" data-file-type="drawing" height="259" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Multiply_4_bags_3_marbles.svg/440px-Multiply_4_bags_3_marbles.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Multiply_4_bags_3_marbles.svg/330px-Multiply_4_bags_3_marbles.svg.png 1.5x" id="mwBw"/></a><figcaption id="mwCA">Four bags with three <a rel="mw:WikiLink" href="./Marble_(toy)" title="Marble (toy)" id="mwCQ">marbles</a> per bag gives twelve marbles (4 × 3 = 12).</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwCg"><a href="./File:Multiply_scaling.svg" id="mwCw"><img resource="./File:Multiply_scaling.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Multiply_scaling.svg/220px-Multiply_scaling.svg.png" data-file-width="700" data-file-height="400" data-file-type="drawing" height="126" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Multiply_scaling.svg/440px-Multiply_scaling.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Multiply_scaling.svg/330px-Multiply_scaling.svg.png 1.5x" id="mwDA"/></a><figcaption id="mwDQ">Multiplication can also be thought of as <a rel="mw:WikiLink" href="./Scale_factor" title="Scale factor" id="mwDg">scaling</a>. Here we see 2 being multiplied by 3 using scaling, giving 6 as a result.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwDw"><a href="./File:Multiplication_as_scaling_integers.gif" id="mwEA"><img resource="./File:Multiplication_as_scaling_integers.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Multiplication_as_scaling_integers.gif/220px-Multiplication_as_scaling_integers.gif" data-file-width="400" data-file-height="200" data-file-type="bitmap" height="110" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/0/02/Multiplication_as_scaling_integers.gif 2x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Multiplication_as_scaling_integers.gif/330px-Multiplication_as_scaling_integers.gif 1.5x" id="mwEQ"/></a><figcaption id="mwEg">Animation for the multiplication 2 × 3 = 6.</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwEw"><a href="./File:Multiplication_scheme_4_by_5.jpg" id="mwFA"><img resource="./File:Multiplication_scheme_4_by_5.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Multiplication_scheme_4_by_5.jpg/220px-Multiplication_scheme_4_by_5.jpg" data-file-width="423" data-file-height="338" data-file-type="bitmap" height="176" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/0/02/Multiplication_scheme_4_by_5.jpg 2x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Multiplication_scheme_4_by_5.jpg/330px-Multiplication_scheme_4_by_5.jpg 1.5x" id="mwFQ"/></a><figcaption id="mwFg">4 × 5 = 20. The large rectangle is composed of 20 squares, each having dimensions of 1 by 1.</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwFw"><a href="./File:Multiply_field_fract.svg" id="mwGA"><img resource="./File:Multiply_field_fract.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multiply_field_fract.svg/220px-Multiply_field_fract.svg.png" data-file-width="1000" data-file-height="600" data-file-type="drawing" height="132" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multiply_field_fract.svg/440px-Multiply_field_fract.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multiply_field_fract.svg/330px-Multiply_field_fract.svg.png 1.5x" id="mwGQ"/></a><figcaption id="mwGg">Area of a cloth <span class="nowrap" about="#mwt3" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"4.5m × 2.5m = 11.25m&lt;sup>2&lt;/sup>"}},"i":0}}]}' id="mwGw">4.5m × 2.5m = 11.25m<sup>2</sup></span>; <span class="nowrap" about="#mwt4" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"4½ × 2½ = 11¼"}},"i":0}}]}' id="mwHA">4½ × 2½ = 11¼</span></figcaption></figure>
+<p id="mwHQ"><b id="mwHg">Multiplication</b> (often denoted by the cross symbol "<b id="mwHw"><a rel="mw:WikiLink" href="./Multiplication_sign" title="Multiplication sign" id="mwIA">×</a></b>", by a point "<b id="mwIQ"><a rel="mw:WikiLink" href="./Interpunct" title="Interpunct" id="mwIg">⋅</a></b>", by <a rel="mw:WikiLink" href="./Juxtaposition" title="Juxtaposition" id="mwIw">juxtaposition</a>, or, on computers, by an <a rel="mw:WikiLink" href="./Asterisk" title="Asterisk" id="mwJA">asterisk</a> "<b id="mwJQ">∗</b>") is one of the four <a rel="mw:WikiLink" href="./Elementary_arithmetic" title="Elementary arithmetic" id="mwJg">elementary</a> <a rel="mw:WikiLink" href="./Operation_(mathematics)" title="Operation (mathematics)" id="mwJw">mathematical operations</a> of <a rel="mw:WikiLink" href="./Arithmetic" title="Arithmetic" id="mwKA">arithmetic</a>; with the others being <a rel="mw:WikiLink" href="./Addition" title="Addition" id="mwKQ">addition</a>, <a rel="mw:WikiLink" href="./Subtraction" title="Subtraction" id="mwKg">subtraction</a> and <a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)" id="mwKw">division</a>.</p>
+
+<p id="mwLA">The multiplication of <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwLQ">whole numbers</a> may be thought as a <a rel="mw:WikiLink" href="./Multiplication_and_repeated_addition" title="Multiplication and repeated addition" id="mwLg">repeated addition</a>; that is, the multiplication of two numbers is equivalent to adding as many copies of one of them, the <i id="mwLw">multiplicand</i>, as the value of the other one, the <i id="mwMA">multiplier</i>. The multiplier can be written first and multiplicand second (though the custom can vary by culture<sup about="#mwt234" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Multiplication#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup>); both can be called <i id="mwMQ">factors</i>.</p>
+<dl id="mwMg"><dd id="mwMw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt111" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a\\times b = \\underbrace{b + \\cdots + b}_a"}}' id="mwNA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a\times b=\underbrace {b+\cdots +b} _{a}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>×<!-- × --></mo>
+        <mi>b</mi>
+        <mo>=</mo>
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mrow>
+                <mi>b</mi>
+                <mo>+</mo>
+                <mo>⋯<!-- ⋯ --></mo>
+                <mo>+</mo>
+                <mi>b</mi>
+              </mrow>
+              <mo>⏟<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+          </mrow>
+        </munder>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\times b=\underbrace {b+\cdots +b} _{a}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3e246c3315cb4665c5c9fe6a2b362ae470822d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.838ex; margin-right: -0.028ex; width:18.593ex; height:5.676ex;" alt="a\times b=\underbrace {b+\cdots +b} _{a}"/></span><span about="#mwt111">
+</span></dd></dl>
+
+<p id="mwNQ">For example, 4 multiplied by 3 (often written as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt113" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" 3 \\times 4 "}}' id="mwNg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 3\times 4}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>3</mn>
+        <mo>×<!-- × --></mo>
+        <mn>4</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 3\times 4}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7fda443e7a6e78fa880a6dccbf8bdf43a10d9988" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.165ex; height:2.176ex;" alt="3\times 4"/></span><span about="#mwt113">
+</span> and spoken as "3 times 4") can be calculated by adding 3 copies of 4 together:</p>
+<dl id="mwNw"><dd id="mwOA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt115" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"3 \\times 4 = 4 + 4 + 4 = 12"}}' id="mwOQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 3\times 4=4+4+4=12}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>3</mn>
+        <mo>×<!-- × --></mo>
+        <mn>4</mn>
+        <mo>=</mo>
+        <mn>4</mn>
+        <mo>+</mo>
+        <mn>4</mn>
+        <mo>+</mo>
+        <mn>4</mn>
+        <mo>=</mo>
+        <mn>12</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 3\times 4=4+4+4=12}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2d08cb10c878ddc4a9c0fffc2eae77e1f1de1e9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:22.855ex; height:2.343ex;" alt="3\times 4=4+4+4=12"/></span><span about="#mwt115">
+</span></dd></dl>
+<p id="mwOg">Here 3 and 4 are the <i id="mwOw">factors</i> and 12 is the <i id="mwPA">product</i>.</p>
+
+<p id="mwPQ">One of the main <a rel="mw:WikiLink" href="./Multiplication#Properties" id="mwPg">properties</a> of multiplication is the <a rel="mw:WikiLink" href="./Commutative_property" title="Commutative property" id="mwPw">commutative property</a>: adding 3 copies of 4 gives the same result as adding 4 copies of 3:</p>
+<dl id="mwQA"><dd id="mwQQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt241" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"4 \\times 3 = 3 + 3 + 3 + 3 = 12"}}' id="mwQg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 4\times 3=3+3+3+3=12}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>4</mn>
+        <mo>×<!-- × --></mo>
+        <mn>3</mn>
+        <mo>=</mo>
+        <mn>3</mn>
+        <mo>+</mo>
+        <mn>3</mn>
+        <mo>+</mo>
+        <mn>3</mn>
+        <mo>+</mo>
+        <mn>3</mn>
+        <mo>=</mo>
+        <mn>12</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 4\times 3=3+3+3+3=12}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd36aa90d6d5cb1310f1377d9768283d163aa644" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:26.858ex; height:2.343ex;" alt="4\times 3=3+3+3+3=12"/></span><span about="#mwt241">
+</span></dd></dl>
+
+<p id="mwQw">Thus the designation of multiplier and multiplicand does not affect the result of the multiplication<sup about="#mwt291" class="mw-ref" id="cite_ref-Devlin_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Devlin"},"body":{"id":"mw-reference-text-cite_note-Devlin-2"}}'><a href="./Multiplication#cite_note-Devlin-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup>.</p>
+
+<p id="mwRA">The multiplication of <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwRQ">integers</a> (including negative numbers), <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwRg">rational numbers</a> (fractions) and <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwRw">real numbers</a> is defined by a systematic <a rel="mw:WikiLink" href="./Multiplication#Multiplication_of_different_kinds_of_numbers" title="Multiplication" id="mwSA">generalization</a> of this basic definition.</p>
+
+<p id="mwSQ">Multiplication can also be visualized as counting objects arranged in a <a rel="mw:WikiLink" href="./Rectangle" title="Rectangle" id="mwSg">rectangle</a> (for whole numbers) or as finding the <a rel="mw:WikiLink" href="./Area" title="Area" id="mwSw">area</a> of a rectangle whose sides have given <a rel="mw:WikiLink" href="./Length" title="Length" id="mwTA">lengths</a>. The area of a rectangle does not depend on which side is measured first, which illustrates the commutative property. The product of two measurements is a new type of measurement, for instance multiplying the lengths of the two sides of a rectangle gives its area, this is the subject of <a rel="mw:WikiLink" href="./Dimensional_analysis" title="Dimensional analysis" id="mwTQ">dimensional analysis</a>.</p>
+
+<p id="mwTg">The inverse operation of multiplication is <a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)" id="mwTw">division</a>. For example, since 4 multiplied by 3 equals 12, then 12 divided by 3 equals 4. Multiplication by 3, followed by division by 3, yields the original number (since the division of a number other than 0 by itself equals 1).</p>
+
+<p id="mwUA">Multiplication is also defined for other types of numbers, such as <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwUQ">complex numbers</a>, and more abstract constructs, like <a rel="mw:WikiLink" href="./Matrix_(mathematics)" title="Matrix (mathematics)" id="mwUg">matrices</a>. For some of these more abstract constructs, the order in which the operands are multiplied together matters. A listing of the many different kinds of products that are used in mathematics is given in the <a rel="mw:WikiLink" href="./Product_(mathematics)" title="Product (mathematics)" id="mwUw">product (mathematics)</a> page.</p>
+
+</section><section data-mw-section-id="1" id="mwVA"><h2 id="Notation_and_terminology">Notation and terminology</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt13" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"See also","href":"./Template:See_also"},"params":{"1":{"wt":"Multiplier (linguistics)"}},"i":0}}]}' id="mwVQ">See also: <a rel="mw:WikiLink" href="./Multiplier_(linguistics)" title="Multiplier (linguistics)">Multiplier (linguistics)</a></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwVg"><a href="./File:Multiplication_Sign.svg" id="mwVw"><img resource="./File:Multiplication_Sign.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Multiplication_Sign.svg/220px-Multiplication_Sign.svg.png" data-file-width="120" data-file-height="120" data-file-type="drawing" height="220" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Multiplication_Sign.svg/440px-Multiplication_Sign.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Multiplication_Sign.svg/330px-Multiplication_Sign.svg.png 1.5x" id="mwWA"/></a><figcaption id="mwWQ">The multiplication sign ×</figcaption></figure>
+<p id="mwWg">In <a rel="mw:WikiLink" href="./Arithmetic" title="Arithmetic" id="mwWw">arithmetic</a>, multiplication is often written using the sign "×" between the terms; that is, in <a rel="mw:WikiLink" href="./Infix_notation" title="Infix notation" id="mwXA">infix notation</a>.<sup about="#mwt297" class="mw-ref" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="./Multiplication#cite_note-3" style="counter-reset: mw-Ref 3;"><span class="mw-reflink-text">[3]</span></a></sup> For example,</p>
+<dl id="mwXQ"><dd id="mwXg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt245" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"2\\times 3 = 6"}}' id="mwXw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2\times 3=6}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>3</mn>
+        <mo>=</mo>
+        <mn>6</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2\times 3=6}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b249223f0c54e210f6ceeea7ee975b852460448" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:9.426ex; height:2.176ex;" alt="2\times 3=6"/></span><span about="#mwt245">
+</span> (verbally, "two times three <a rel="mw:WikiLink" href="./Equals_sign" title="Equals sign" id="mwYA">equals</a> six")</dd>
+<dd id="mwYQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt247" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"3\\times 4 = 12"}}' id="mwYg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 3\times 4=12}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>3</mn>
+        <mo>×<!-- × --></mo>
+        <mn>4</mn>
+        <mo>=</mo>
+        <mn>12</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 3\times 4=12}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/97a96517fcb6173c109e2716e7e3742fab069176" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:10.589ex; height:2.176ex;" alt="3\times 4=12"/></span><span about="#mwt247">
+</span></dd>
+<dd id="mwYw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt249" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"2\\times 3\\times 5 = 6\\times  5 = 30"}}' id="mwZA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2\times 3\times 5=6\times 5=30}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>3</mn>
+        <mo>×<!-- × --></mo>
+        <mn>5</mn>
+        <mo>=</mo>
+        <mn>6</mn>
+        <mo>×<!-- × --></mo>
+        <mn>5</mn>
+        <mo>=</mo>
+        <mn>30</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2\times 3\times 5=6\times 5=30}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ed6d75b1b01e01553f7f3f596efc3ca17ae13ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:22.855ex; height:2.176ex;" alt="2\times 3\times 5=6\times 5=30"/></span><span about="#mwt249">
+</span></dd>
+<dd id="mwZQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt251" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"2\\times 2\\times 2\\times 2\\times 2 = 32"}}' id="mwZg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 2\times 2\times 2\times 2\times 2=32}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>2</mn>
+        <mo>×<!-- × --></mo>
+        <mn>2</mn>
+        <mo>=</mo>
+        <mn>32</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2\times 2\times 2\times 2\times 2=32}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98dea9e990f98ca404c680a78b6b1789274bcc71" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:22.597ex; height:2.176ex;" alt="2\times 2\times 2\times 2\times 2=32"/></span><span about="#mwt251">
+</span></dd></dl>
+
+<p id="mwZw">The sign is encoded in Unicode at <span class="nowrap" about="#mwt20" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"unichar","href":"./Template:Unichar"},"params":{"1":{"wt":"D7"},"2":{"wt":"MULTIPLICATION SIGN"},"nlink":{"wt":"Multiplication sign"},"html":{"wt":""}},"i":0}}]}' id="mwaA"><style data-mw-deduplicate="TemplateStyles:r861301850" typeof="mw:Extension/templatestyles" about="#mwt307" data-mw='{"name":"templatestyles","attrs":{"src":"Mono/styles.css"}}'>.mw-parser-output .monospaced{font-family:monospace,monospace}</style><span class="monospaced">U+00D7</span></span><span typeof="mw:Entity" about="#mwt20"> </span><span style="font-size:125%" about="#mwt20"><span typeof="mw:Entity">×</span></span><span about="#mwt20"> </span><a rel="mw:WikiLink" href="./Multiplication_sign" title="Multiplication sign" about="#mwt20"><style data-mw-deduplicate="TemplateStyles:r884971704" typeof="mw:Extension/templatestyles" about="#mwt311" data-mw='{"name":"templatestyles","attrs":{"src":"smallcaps/styles.css"}}'>.mw-parser-output .smallcaps{font-variant:small-caps}</style><span class="smallcaps" style="font-size: smaller;">MULTIPLICATION SIGN</span></a><span about="#mwt20"> (HTML</span><span typeof="mw:Entity" about="#mwt20"> </span><code about="#mwt20"><span typeof="mw:Entity">&amp;</span>#215;</code><span about="#mwt20"> </span><b about="#mwt20">·</b><span about="#mwt20"> </span><span typeof="mw:Entity" about="#mwt20"> </span><code about="#mwt20"><span typeof="mw:Entity">&amp;</span>times;</code><span about="#mwt20">)</span>.</p>
+
+<p id="mwaQ">There are other <a rel="mw:WikiLink" href="./Mathematical_notation" title="Mathematical notation" id="mwag">mathematical notations</a> for multiplication:</p>
+<ul id="mwaw"><li id="mwbA">Multiplication is also denoted by <a rel="mw:WikiLink" href="./Interpunct" title="Interpunct" id="mwbQ">dot signs</a>,<sup about="#mwt299" class="mw-ref" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="./Multiplication#cite_note-4" style="counter-reset: mw-Ref 4;"><span class="mw-reflink-text">[4]</span></a></sup> usually a middle-position dot (rarely <a rel="mw:WikiLink" href="./Full_stop" title="Full stop" id="mwbg">period</a>):</li></ul>
+<dl id="mwbw"><dd id="mwcA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt256" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"5 \\cdot 2 \\quad\\text{or}\\quad 5\\,.\\,2"}}' id="mwcQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 5\cdot 2\quad {\text{or}}\quad 5\,.\,2}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>5</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>2</mn>
+        <mspace width="1em"></mspace>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>or</mtext>
+        </mrow>
+        <mspace width="1em"></mspace>
+        <mn>5</mn>
+        <mspace width="thinmathspace"></mspace>
+        <mo>.</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 5\cdot 2\quad {\text{or}}\quad 5\,.\,2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6349bd71d643d560a0ef3584f3a43b5992d676ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:14.856ex; height:2.176ex;" alt="5\cdot 2\quad {\text{or}}\quad 5\,.\,2"/></span><span about="#mwt256">
+</span></dd>
+<dd id="mwcg">The middle dot notation, encoded in Unicode as <span class="nowrap" about="#mwt24" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"unichar","href":"./Template:Unichar"},"params":{"1":{"wt":"22C5"},"2":{"wt":"dot operator"}},"i":0}}]}' id="mwcw"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861301850" about="#mwt309" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Mono/styles.css"}}'/><span class="monospaced">U+22C5</span></span><span typeof="mw:Entity" about="#mwt24"> </span><span style="font-size:125%" about="#mwt24"><span typeof="mw:Entity">⋅</span></span><span about="#mwt24"> </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r884971704" about="#mwt24" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"smallcaps/styles.css"}}'/><span class="smallcaps" style="font-size: smaller;" about="#mwt24" id="mwdA">DOT OPERATOR</span>, is standard in the United States, the United Kingdom, and other countries where the period is used as a <a rel="mw:WikiLink" href="./Decimal_separator" title="Decimal separator" id="mwdQ">decimal point</a>. When the dot operator character is not accessible, the <a rel="mw:WikiLink" href="./Interpunct" title="Interpunct" id="mwdg">interpunct</a><span typeof="mw:Entity" id="mwdw"> </span>(·) is used. In other countries that use a <a rel="mw:WikiLink" href="./Comma_(punctuation)" title="Comma (punctuation)" id="mweA" class="mw-redirect">comma</a> as a decimal mark, either the period or a middle dot is used for multiplication.<link rel="mw:PageProp/Category" href="./Category:All_articles_with_unsourced_statements" about="#mwt25" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"citation needed","href":"./Template:Citation_needed"},"params":{"date":{"wt":"August 2011"}},"i":0}}]}' id="mweQ"/><link rel="mw:PageProp/Category" href="./Category:Articles_with_unsourced_statements_from_August_2011" about="#mwt25"/><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;" about="#mwt25" id="mweg"><span typeof="mw:Entity">[</span><i><a rel="mw:WikiLink" href="./Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i><span typeof="mw:Entity">]</span></sup></dd></dl>
+<ul id="mwew"><li id="mwfA"><span id="Implicit" about="#mwt27" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"anchor","href":"./Template:Anchor"},"params":{"1":{"wt":"Implicit"},"2":{"wt":"Explicit"}},"i":0}}]}'></span><span id="Explicit" about="#mwt27"></span>In <a rel="mw:WikiLink" href="./Algebra" title="Algebra" id="mwfQ">algebra</a>, multiplication involving <a rel="mw:WikiLink" href="./Variable_(mathematics)" title="Variable (mathematics)" id="mwfg">variables</a> is often written as a <a rel="mw:WikiLink/Interwiki" href="https://en.wiktionary.org/wiki/juxtaposition" title="wikt:juxtaposition" id="mwfw">juxtaposition</a> (e.g., <i id="mwgA">xy</i> for <i id="mwgQ">x</i> times <i id="mwgg">y</i> or 5<i id="mwgw">x</i> for five times <i id="mwhA">x</i>), also called <i id="mwhQ">implied multiplication</i>.<sup about="#mwt301" class="mw-ref" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-5"}}'><a href="./Multiplication#cite_note-5" style="counter-reset: mw-Ref 5;"><span class="mw-reflink-text">[5]</span></a></sup> The notation can also be used for quantities that are surrounded by <a rel="mw:WikiLink" href="./Parentheses" title="Parentheses" id="mwhg" class="mw-redirect">parentheses</a> (e.g., 5(2) or (5)(2) for five times two). This implicit usage of multiplication can cause ambiguity when the concatenated variables happen to match the name of another variable, when a variable name in front of a parenthesis can be confused with a function name, or in the correct determination of the <a rel="mw:WikiLink" href="./Order_of_operations" title="Order of operations" id="mwhw">order of operations</a>.</li>
+<li id="mwiA">In <a rel="mw:WikiLink" href="./Vector_multiplication" title="Vector multiplication" id="mwiQ" class="mw-redirect">vector multiplication</a>, there is a distinction between the cross and the dot symbols. The cross symbol generally denotes the taking a <a rel="mw:WikiLink" href="./Cross_product" title="Cross product" id="mwig">cross product</a> of two <a rel="mw:WikiLink" href="./Vector_(mathematics)" title="Vector (mathematics)" id="mwiw" class="mw-redirect">vectors</a>, yielding a vector as the result, while the dot denotes taking the <a rel="mw:WikiLink" href="./Dot_product" title="Dot product" id="mwjA">dot product</a> of two vectors, resulting in a <a rel="mw:WikiLink" href="./Scalar_(mathematics)" title="Scalar (mathematics)" id="mwjQ">scalar</a>.</li></ul>
+
+<p id="mwjg">In <a rel="mw:WikiLink" href="./Computer_programming" title="Computer programming" id="mwjw">computer programming</a>, the <a rel="mw:WikiLink" href="./Asterisk" title="Asterisk" id="mwkA">asterisk</a> (as in <code id="mwkQ">5*2</code>) is still the most common notation. This is due to the fact that most computers historically were limited to small <a rel="mw:WikiLink" href="./Character_set" title="Character set" id="mwkg" class="mw-redirect">character sets</a> (such as <a rel="mw:WikiLink" href="./ASCII" title="ASCII" id="mwkw">ASCII</a> and <a rel="mw:WikiLink" href="./EBCDIC" title="EBCDIC" id="mwlA">EBCDIC</a>) that lacked a multiplication sign (such as <code id="mwlQ">⋅</code> or <code id="mwlg">×</code>), while the asterisk appeared on every keyboard. This usage originated in the <a rel="mw:WikiLink" href="./Fortran" title="Fortran" id="mwlw">FORTRAN</a> programming language.</p>
+
+<p id="mwmA"><span id="Terminology" about="#mwt29" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"anchor","href":"./Template:Anchor"},"params":{"1":{"wt":"Terminology"},"2":{"wt":"multiplier"}},"i":0}}]}'></span><span id="multiplier" about="#mwt29"></span>
+The numbers to be multiplied are generally called the "<a rel="mw:WikiLink" href="./Factorization" title="Factorization" id="mwmQ">factors</a>". The number to be multiplied is called the "multiplicand", while the number of times the multiplicand is to be multiplied comes from the "multiplier". Usually the multiplier is placed first and the multiplicand is placed second,<sup about="#mwt36" class="mw-ref" id="cite_ref-Devlin_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Devlin"}}'><a href="./Multiplication#cite_note-Devlin-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup> however sometimes the first factor is the multiplicand and the second the multiplier.<sup about="#mwt293" class="mw-ref" id="cite_ref-6" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-6"}}'><a href="./Multiplication#cite_note-6" style="counter-reset: mw-Ref 6;"><span class="mw-reflink-text">[6]</span></a></sup> Additionally, there are some sources in which the term "multiplicand" is regarded as a synonym for "factor".<sup about="#mwt303" class="mw-ref" id="cite_ref-7" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-7"}}'><a href="./Multiplication#cite_note-7" style="counter-reset: mw-Ref 7;"><span class="mw-reflink-text">[7]</span></a></sup> In algebra, a number that is the multiplier of a variable or expression (e.g., the 3 in 3<i id="mwmg">xy</i><sup id="mwmw">2</sup>) is called a <a rel="mw:WikiLink" href="./Coefficient" title="Coefficient" id="mwnA">coefficient</a>.</p>
+
+<p id="mwnQ">The result of a multiplication is called a <a rel="mw:WikiLink" href="./Product_(mathematics)" title="Product (mathematics)" id="mwng">product</a>. A product of integers is a <a rel="mw:WikiLink" href="./Multiple_(mathematics)" title="Multiple (mathematics)" id="mwnw">multiple</a> of each factor. For example, 15 is the product of 3 and 5, and is both a multiple of 3 and a multiple of 5.</p>
+
+</section><section data-mw-section-id="2" id="mwoA"><h2 id="Computation">Computation</h2>
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mwoQ"><a href="./File:צעצוע_מכני_משנת_1918_לחישובי_לוח_הכפל_The_Educated_Monkey.jpg" id="mwog"><img resource="./File:צעצוע_מכני_משנת_1918_לחישובי_לוח_הכפל_The_Educated_Monkey.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg/200px-%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg" data-file-width="2055" data-file-height="2187" data-file-type="bitmap" height="213" width="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg/400px-%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg 2x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg/300px-%D7%A6%D7%A2%D7%A6%D7%95%D7%A2_%D7%9E%D7%9B%D7%A0%D7%99_%D7%9E%D7%A9%D7%A0%D7%AA_1918_%D7%9C%D7%97%D7%99%D7%A9%D7%95%D7%91%D7%99_%D7%9C%D7%95%D7%97_%D7%94%D7%9B%D7%A4%D7%9C_The_Educated_Monkey.jpg 1.5x" id="mwow"/></a><figcaption id="mwpA">The Educated Monkey – a tin toy dated 1918, used as a multiplication “calculator”. <small id="mwpQ"><small id="mwpg">For example: set the monkey’s feet to 4 and 9, and get the product – 36 – in its hands.</small></small></figcaption></figure>
+
+<p id="mwpw">The common methods for multiplying numbers using pencil and paper require a <a rel="mw:WikiLink" href="./Multiplication_table" title="Multiplication table" id="mwqA">multiplication table</a> of memorized or consulted products of small numbers (typically any two numbers from 0 to 9), however one method, the <a rel="mw:WikiLink" href="./Ancient_Egyptian_multiplication" title="Ancient Egyptian multiplication" id="mwqQ">peasant multiplication</a> algorithm, does not.</p><!--Many mathematics curricula developed according to the 1989 standards of the [[NCTM]] do not teach standard arithmetic methods, instead guiding students to invent their own methods of computation. Though widely adopted by many school districts in nations such as the United States, they have encountered resistance from some parents and mathematicians, and some districts have since abandoned such curricula in favor of [[traditional mathematics]].-->
+
+<p id="mwqg">Multiplying numbers to more than a couple of decimal places by hand is tedious and error prone. <a rel="mw:WikiLink" href="./Common_logarithm" title="Common logarithm" id="mwqw">Common logarithms</a> were invented to simplify such calculations, since adding logarithms is equivalent to multiplying. The <a rel="mw:WikiLink" href="./Slide_rule" title="Slide rule" id="mwrA">slide rule</a> allowed numbers to be quickly multiplied to about three places of accuracy. Beginning in the early 20th century, mechanical <a rel="mw:WikiLink" href="./Calculator" title="Calculator" id="mwrQ">calculators</a>, such as the <a rel="mw:WikiLink" href="./Marchant_Calculator" title="Marchant Calculator" id="mwrg" class="mw-redirect">Marchant</a>, automated multiplication of up to 10<span typeof="mw:Entity" id="mwrw"> </span>digit numbers. Modern electronic <a rel="mw:WikiLink" href="./Computer" title="Computer" id="mwsA">computers</a> and calculators have greatly reduced the need for multiplication by hand.</p>
+
+<section data-mw-section-id="3" id="mwsQ"><h3 id="Historical_algorithms">Historical algorithms</h3>
+<p id="mwsg">Methods of multiplication were documented in the <a rel="mw:WikiLink" href="./Ancient_Egypt" title="Ancient Egypt" id="mwsw">Egyptian</a>, <a rel="mw:WikiLink" href="./Ancient_Greece" title="Ancient Greece" id="mwtA">Greek</a>, <a rel="mw:WikiLink" href="./Ancient_India" title="Ancient India" id="mwtQ" class="mw-redirect">Indian</a> and <a rel="mw:WikiLink" href="./History_of_China#Ancient_China" title="History of China" id="mwtg">Chinese</a> civilizations.</p>
+
+<p id="mwtw">The <a rel="mw:WikiLink" href="./Ishango_bone" title="Ishango bone" id="mwuA">Ishango bone</a>, dated to about 18,000 to 20,000<span typeof="mw:Entity" id="mwuQ"> </span>BC, hints at a knowledge of multiplication in the <a rel="mw:WikiLink" href="./Upper_Paleolithic" title="Upper Paleolithic" id="mwug">Upper Paleolithic</a> era in <a rel="mw:WikiLink" href="./Central_Africa" title="Central Africa" id="mwuw">Central Africa</a>.</p>
+
+<section data-mw-section-id="4" id="mwvA"><h4 id="Egyptians">Egyptians</h4>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt37" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Ancient Egyptian multiplication"}},"i":0}}]}' id="mwvQ">Main article: <a rel="mw:WikiLink" href="./Ancient_Egyptian_multiplication" title="Ancient Egyptian multiplication">Ancient Egyptian multiplication</a></div>
+<p id="mwvg">The Egyptian method of multiplication of integers and fractions, documented in the <a rel="mw:WikiLink" href="./Ahmes_Papyrus" title="Ahmes Papyrus" id="mwvw" class="mw-redirect">Ahmes Papyrus</a>, was by successive additions and doubling. For instance, to find the product of 13 and 21 one had to double 21 three times, obtaining <span class="nowrap" about="#mwt38" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"2 × 21 = 42"}},"i":0}}]}' id="mwwA">2 × 21 = 42</span>, <span class="nowrap" about="#mwt39" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"4 × 21 = 2 × 42 = 84"}},"i":0}}]}' id="mwwQ">4 × 21 = 2 × 42 = 84</span>, <span class="nowrap" about="#mwt40" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"8 × 21 =  2 × 84 = 168"}},"i":0}}]}' id="mwwg">8 × 21 =  2 × 84 = 168</span>. The full product could then be found by adding the appropriate terms found in the doubling sequence:</p>
+<dl id="mwww"><dd id="mwxA">13 × 21 = (1 + 4 + 8) × 21 = (1 × 21) + (4 × 21) + (8 × 21) = 21 + 84 + 168 = 273.</dd></dl>
+
+</section><section data-mw-section-id="5" id="mwxQ"><h4 id="Babylonians">Babylonians</h4>
+<p id="mwxg">The <a rel="mw:WikiLink" href="./Babylonians" title="Babylonians" id="mwxw" class="mw-redirect">Babylonians</a> used a <a rel="mw:WikiLink" href="./Sexagesimal" title="Sexagesimal" id="mwyA">sexagesimal</a> <a rel="mw:WikiLink" href="./Positional_number_system" title="Positional number system" id="mwyQ" class="mw-redirect">positional number system</a>, analogous to the modern day <a rel="mw:WikiLink" href="./Decimal_expansion" title="Decimal expansion" id="mwyg" class="mw-redirect">decimal system</a>. Thus, Babylonian multiplication was very similar to modern decimal multiplication.  Because of the relative difficulty of remembering <span class="nowrap" about="#mwt41" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"60 × 60"}},"i":0}}]}' id="mwyw">60 × 60</span> different products, Babylonian mathematicians employed <a rel="mw:WikiLink" href="./Multiplication_table" title="Multiplication table" id="mwzA">multiplication tables</a>. These tables consisted of a list of the first twenty multiples of a certain <i id="mwzQ">principal number</i> <i id="mwzg">n</i>: <i id="mwzw">n</i>, 2<i id="mw0A">n</i>, ..., 20<i id="mw0Q">n</i>; followed by the multiples of 10<i id="mw0g">n</i>: 30<i id="mw0w">n</i> 40<i id="mw1A">n</i>, and 50<i id="mw1Q">n</i>. Then to compute any sexagesimal product, say 53<i id="mw1g">n</i>, one only needed to add 50<i id="mw1w">n</i> and 3<i id="mw2A">n</i> computed from the table.</p>
+
+</section><section data-mw-section-id="6" id="mw2Q"><h4 id="Chinese">Chinese</h4>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt42" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"seealso","href":"./Template:Seealso"},"params":{"1":{"wt":"Chinese multiplication table"}},"i":0}}]}' id="mw2g">See also: <a rel="mw:WikiLink" href="./Chinese_multiplication_table" title="Chinese multiplication table">Chinese multiplication table</a></div>
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mw2w"><a href="./File:Multiplication_algorithm.GIF" id="mw3A"><img resource="./File:Multiplication_algorithm.GIF" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Multiplication_algorithm.GIF/250px-Multiplication_algorithm.GIF" data-file-width="706" data-file-height="521" data-file-type="bitmap" height="184" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Multiplication_algorithm.GIF/500px-Multiplication_algorithm.GIF 2x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Multiplication_algorithm.GIF/375px-Multiplication_algorithm.GIF 1.5x" id="mw3Q"/></a><figcaption id="mw3g"><span class="nowrap" about="#mwt43" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"38 × 76 = 2888"}},"i":0}}]}' id="mw3w">38 × 76 = 2888</span></figcaption></figure>
+<p id="mw4A">In the mathematical text <i id="mw4Q"><a rel="mw:WikiLink" href="./Zhoubi_Suanjing" title="Zhoubi Suanjing" id="mw4g">Zhoubi Suanjing</a></i>, dated prior to 300<span typeof="mw:Entity" id="mw4w"> </span>BC, and the <i id="mw5A"><a rel="mw:WikiLink" href="./Nine_Chapters_on_the_Mathematical_Art" title="Nine Chapters on the Mathematical Art" id="mw5Q" class="mw-redirect">Nine Chapters on the Mathematical Art</a></i>, multiplication calculations were written out in words, although the early Chinese mathematicians employed <a rel="mw:WikiLink" href="./Rod_calculus" title="Rod calculus" id="mw5g">Rod calculus</a> involving place value addition, subtraction, multiplication and division.  Chinese were already using a <a rel="mw:WikiLink" href="./Chinese_multiplication_table" title="Chinese multiplication table" id="mw5w">decimal multiplication table</a> since the <a rel="mw:WikiLink" href="./Warring_States" title="Warring States" id="mw6A" class="mw-redirect">Warring States</a> period<sup about="#mwt295" class="mw-ref" id="cite_ref-Nature_8-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Nature"},"body":{"id":"mw-reference-text-cite_note-Nature-8"}}'><a href="./Multiplication#cite_note-Nature-8" style="counter-reset: mw-Ref 8;"><span class="mw-reflink-text">[8]</span></a></sup>.</p>
+
+</section></section><section data-mw-section-id="7" id="mw6Q"><h3 id="Modern_methods">Modern methods</h3>
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mw6g"><a href="./File:Gelosia_multiplication_45_256.png" id="mw6w"><img resource="./File:Gelosia_multiplication_45_256.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gelosia_multiplication_45_256.png/250px-Gelosia_multiplication_45_256.png" data-file-width="513" data-file-height="395" data-file-type="bitmap" height="192" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gelosia_multiplication_45_256.png/500px-Gelosia_multiplication_45_256.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gelosia_multiplication_45_256.png/375px-Gelosia_multiplication_45_256.png 1.5x" id="mw7A"/></a><figcaption id="mw7Q">Product of 45 and 256. Note the order of the numerals in 45 is reversed down the left column. The carry step of the multiplication can be performed at the final stage of the calculation (in bold), returning the final product of <span class="nowrap" about="#mwt46" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"45 × 256 = 11520"}},"i":0}}]}' id="mw7g">45 × 256 = 11520</span>. This is a variant of <a rel="mw:WikiLink" href="./Lattice_multiplication" title="Lattice multiplication" id="mw7w">Lattice multiplication</a>.</figcaption></figure>
+<p id="mw8A">The modern method of multiplication based on the <a rel="mw:WikiLink" href="./Hindu–Arabic_numeral_system" title="Hindu–Arabic numeral system" id="mw8Q">Hindu–Arabic numeral system</a> was first described by <a rel="mw:WikiLink" href="./Brahmagupta" title="Brahmagupta" id="mw8g">Brahmagupta</a>. Brahmagupta gave rules for addition, subtraction, multiplication and division. <a rel="mw:WikiLink" href="./Henry_Burchard_Fine" title="Henry Burchard Fine" id="mw8w">Henry Burchard Fine</a>, then professor of Mathematics at <a rel="mw:WikiLink" href="./Princeton_University" title="Princeton University" id="mw9A">Princeton University</a>, wrote the following:</p>
+<dl id="mw9Q"><dd id="mw9g"><i id="mw9w">The Indians are the inventors not only of the positional decimal system itself, but of most of the processes involved in elementary reckoning with the system. Addition and subtraction they performed quite as they are performed nowadays; multiplication they effected in many ways, ours among them, but division they did cumbrously.</i><sup about="#mwt305" class="mw-ref" id="cite_ref-9" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-9"}}'><a href="./Multiplication#cite_note-9" style="counter-reset: mw-Ref 9;"><span class="mw-reflink-text">[9]</span></a></sup></dd></dl>
+<p id="mw-A">These place value decimal arithmetic algorithms were introduced to Arab countries by <a rel="mw:WikiLink" href="./Al_Khwarizmi" title="Al Khwarizmi" id="mw-Q" class="mw-redirect">Al Khwarizmi</a> in the early 9th<span typeof="mw:Entity" id="mw-g"> </span>century, and popularized in the Western world by <a rel="mw:WikiLink" href="./Fibonacci" title="Fibonacci" id="mw-w">Fibonacci</a> in the 13th century.</p>
+
+<section data-mw-section-id="8" id="mw_A"><h4 id="Grid_Method">Grid Method</h4>
+<p id="mw_Q"><a rel="mw:WikiLink" href="./Grid_method_multiplication" title="Grid method multiplication" id="mw_g">Grid method multiplication</a> or the box method, is used in primary schools in England and Wales &amp; in some areas of the United States to help teach an understanding of how multiple digit multiplication works. An example of multiplying 34 by 13 would be to lay the numbers out in a grid like:</p>
+
+<dl id="mw_w"><dd id="mwAQA"><table class="wikitable" border="1" cellspacing="0" cellpadding="15" style="text-align: center;" id="mwAQE">
+<tbody id="mwAQI"><tr id="mwAQM"><th scope="col" width="40pt" id="mwAQQ"><span typeof="mw:Entity" id="mwAQU"> </span></th>
+<th scope="col" width="120pt" id="mwAQY">30</th>
+<th scope="col" width="40pt" id="mwAQc">4</th></tr>
+<tr id="mwAQg">
+<th scope="row" id="mwAQk">10</th>
+<td id="mwAQo">300</td>
+<td id="mwAQs">40</td></tr>
+<tr id="mwAQw">
+<th scope="row" id="mwAQ0">3</th>
+<td id="mwAQ4">90</td>
+<td id="mwAQ8">12</td></tr>
+</tbody></table></dd></dl>
+
+<p id="mwARA">and then add the entries.</p>
+
+</section></section><section data-mw-section-id="9" id="mwARE"><h3 id="Computer_algorithms">Computer algorithms</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt49" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Multiplication algorithm"}},"i":0}}]}' id="mwARI">Main article: <a rel="mw:WikiLink" href="./Multiplication_algorithm" title="Multiplication algorithm">Multiplication algorithm</a></div>
+<p id="mwARM">The classical method of multiplying two <i id="mwARQ">n</i>-digit numbers requires <i id="mwARU">n</i><sup id="mwARY">2</sup> simple multiplications. <a rel="mw:WikiLink" href="./Multiplication_algorithm" title="Multiplication algorithm" id="mwARc">Multiplication algorithms</a> have been designed that reduce the computation time considerably when multiplying large numbers. In particular for very large numbers, methods based on the <a rel="mw:WikiLink" href="./Discrete_Fourier_transform#Multiplication_of_large_integers" title="Discrete Fourier transform" id="mwARg">discrete Fourier transform</a> can reduce the number of simple multiplications to the order of <i id="mwARk">n</i> log(<i id="mwARo">n</i>) log log(<i id="mwARs">n</i>).</p>
+
+</section></section><section data-mw-section-id="10" id="mwARw"><h2 id="Products_of_measurements">Products of measurements</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt50" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Dimensional analysis"}},"i":0}}]}' id="mwAR0">Main article: <a rel="mw:WikiLink" href="./Dimensional_analysis" title="Dimensional analysis">Dimensional analysis</a></div>
+<p id="mwAR4">One can only meaningfully add or subtract quantities of the same type but can multiply or divide quantities of different types. Four bags with three marbles each can be thought of as:<sup about="#mwt53" class="mw-ref" id="cite_ref-Devlin_2-2" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Devlin"}}'><a href="./Multiplication#cite_note-Devlin-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup></p>
+<dl id="mwAR8"><dd id="mwASA">[4 bags] × [3 marbles per bag] = 12 marbles.</dd></dl>
+
+<p id="mwASE">When two measurements are multiplied together the product is of a type depending on the types of the measurements. The general theory is given by <a rel="mw:WikiLink" href="./Dimensional_analysis" title="Dimensional analysis" id="mwASI">dimensional analysis</a>. This analysis is routinely applied in physics but has also found applications in finance.</p>
+
+<p id="mwASM">A common example is multiplying speed by time gives distance, so</p>
+<dl id="mwASQ"><dd id="mwASU">50 kilometers per hour × 3 hours = 150 kilometers.</dd></dl>
+<p id="mwASY">In this case, the hour units cancel out and we are left with only kilometer units.</p>
+
+<p id="mwASc">Other examples:</p>
+<dl id="mwASg"><dd id="mwASk">2.5 meters × 4.5 meters = 11.25 square meters</dd>
+<dd id="mwASo">11 meters/seconds × 9 seconds = 99 meters</dd>
+<dd id="mwASs">4.5 residents per house × 20 houses = 90 residents</dd></dl>
+
+</section><section data-mw-section-id="11" id="mwASw"><h2 id="Products_of_sequences">Products of sequences</h2><!--linked from below-->
+<section data-mw-section-id="12" id="mwAS0"><h3 id="Capital_Pi_notation">Capital Pi notation</h3><!--This section is linked from [[Pi (letter)]] and [[Capital Pi notation]]-->
+<p id="mwAS4">The product of a sequence of terms can be written with the product symbol, which derives from the capital letter Π (Pi) in the <a rel="mw:WikiLink" href="./Greek_alphabet" title="Greek alphabet" id="mwAS8">Greek alphabet</a>. Unicode position U+220F (∏) contains a glyph for denoting such a product, distinct from U+03A0 (Π), the letter. The meaning of this notation is given by:</p>
+<dl id="mwATA"><dd id="mwATE"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt265" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=1}^4 i = 1\\cdot 2\\cdot 3\\cdot 4,"}}' id="mwATI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=1}^{4}i=1\cdot 2\cdot 3\cdot 4,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </munderover>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>2</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>3</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>4</mn>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=1}^{4}i=1\cdot 2\cdot 3\cdot 4,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e328311df048233471b8d30ff78aac527298646f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:17.591ex; height:7.343ex;" alt="{\displaystyle \prod _{i=1}^{4}i=1\cdot 2\cdot 3\cdot 4,}"/></span><span about="#mwt265">
+</span></dd></dl>
+<p id="mwATM">that is</p>
+<dl id="mwATQ"><dd id="mwATU"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt267" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=1}^4 i = 24."}}' id="mwATY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=1}^{4}i=24.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </munderover>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>24.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=1}^{4}i=24.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/689f23e54dccaf8cceb4c2d715557c74632f4f64" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:10.229ex; height:7.343ex;" alt="{\displaystyle \prod _{i=1}^{4}i=24.}"/></span><span about="#mwt267">
+</span></dd></dl>
+
+<p id="mwATc">The subscript gives the symbol for a <a rel="mw:WikiLink" href="./Free_variables_and_bound_variables" title="Free variables and bound variables" id="mwATg">dummy variable</a> (<i id="mwATk">i</i> in this case), called the "index of multiplication" together with its lower bound (<i id="mwATo">1</i>), whereas the superscript (here <i id="mwATs">4</i>) gives its upper bound. The lower and upper bound are expressions denoting integers. The factors of the product are obtained by taking the expression following the product operator, with successive integer values substituted for the index of multiplication, starting from the lower bound and incremented by 1 up to and including the upper bound. So, for example:</p>
+<dl id="mwATw"><dd id="mwAT0"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt269" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=1}^6 i = 1\\cdot 2\\cdot 3\\cdot 4\\cdot 5 \\cdot 6 = 720"}}' id="mwAT4"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=1}^{6}i=1\cdot 2\cdot 3\cdot 4\cdot 5\cdot 6=720}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>6</mn>
+          </mrow>
+        </munderover>
+        <mi>i</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>2</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>3</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>4</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>5</mn>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>6</mn>
+        <mo>=</mo>
+        <mn>720</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=1}^{6}i=1\cdot 2\cdot 3\cdot 4\cdot 5\cdot 6=720}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8f5b094d2eccfa70291eb6364d2da501ea3cb42" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:29.214ex; height:7.343ex;" alt="{\displaystyle \prod _{i=1}^{6}i=1\cdot 2\cdot 3\cdot 4\cdot 5\cdot 6=720}"/></span><span about="#mwt269">
+</span></dd></dl>
+
+<p id="mwAT8">More generally, the notation is defined as</p>
+<dl id="mwAUA"><dd id="mwAUE"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt271" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=m}^n x_i = x_m \\cdot x_{m+1} \\cdot x_{m+2} \\cdot \\,\\,\\cdots\\,\\, \\cdot x_{n-1} \\cdot x_n,"}}' id="mwAUI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=m}^{n}x_{i}=x_{m}\cdot x_{m+1}\cdot x_{m+2}\cdot \,\,\cdots \,\,\cdot x_{n-1}\cdot x_{n},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mi>m</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>⋅<!-- ⋅ --></mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>⋅<!-- ⋅ --></mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+            <mo>+</mo>
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mspace width="thinmathspace"></mspace>
+        <mspace width="thinmathspace"></mspace>
+        <mo>⋯<!-- ⋯ --></mo>
+        <mspace width="thinmathspace"></mspace>
+        <mspace width="thinmathspace"></mspace>
+        <mo>⋅<!-- ⋅ --></mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>⋅<!-- ⋅ --></mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=m}^{n}x_{i}=x_{m}\cdot x_{m+1}\cdot x_{m+2}\cdot \,\,\cdots \,\,\cdot x_{n-1}\cdot x_{n},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd6a5719f5cda293cd79836a3c90f59e7447557e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:42.63ex; height:6.843ex;" alt="{\displaystyle \prod _{i=m}^{n}x_{i}=x_{m}\cdot x_{m+1}\cdot x_{m+2}\cdot \,\,\cdots \,\,\cdot x_{n-1}\cdot x_{n},}"/></span><span about="#mwt271">
+</span></dd></dl>
+<p id="mwAUM">where <i id="mwAUQ">m</i> and <i id="mwAUU">n</i> are integers or expressions that evaluate to integers. In case <span class="nowrap" about="#mwt58" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;m&apos;&apos; = &apos;&apos;n&apos;&apos;"}},"i":0}}]}' id="mwAUY"><i>m</i> = <i>n</i></span>, the value of the product is the same as that of the single factor <i id="mwAUc">x</i><sub id="mwAUg"><i id="mwAUk">m</i></sub>. If <span class="nowrap" about="#mwt59" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;m&apos;&apos; > &apos;&apos;n&apos;&apos;"}},"i":0}}]}' id="mwAUo"><i>m</i> > <i>n</i></span>, the product is the <a rel="mw:WikiLink" href="./Empty_product" title="Empty product" id="mwAUs">empty product</a>, with the value<span typeof="mw:Entity" id="mwAUw"> </span>1.</p>
+
+</section><section data-mw-section-id="13" id="mwAU0"><h3 id="Infinite_products">Infinite products</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt60" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Infinite product"}},"i":0}}]}' id="mwAU4">Main article: <a rel="mw:WikiLink" href="./Infinite_product" title="Infinite product">Infinite product</a></div>
+<p id="mwAU8">One may also consider products of infinitely many terms; these are called <a rel="mw:WikiLink" href="./Infinite_product" title="Infinite product" id="mwAVA">infinite products</a>. Notationally, we would replace <i id="mwAVE">n</i> above by the <a rel="mw:WikiLink" href="./Lemniscate" title="Lemniscate" id="mwAVI">lemniscate</a> ∞. The product of such a series is defined as the <a rel="mw:WikiLink" href="./Limit_of_a_sequence" title="Limit of a sequence" id="mwAVM">limit</a> of the product of the first <i id="mwAVQ">n</i> terms, as <i id="mwAVU">n</i> grows without bound. That is, by definition,</p>
+<dl id="mwAVY"><dd id="mwAVc"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt147" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=m}^\\infty x_i = \\lim_{n\\to\\infty} \\prod_{i=m}^n x_i."}}' id="mwAVg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=m}^{\infty }x_{i}=\lim _{n\to \infty }\prod _{i=m}^{n}x_{i}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mi>m</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">→<!-- → --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mi>m</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=m}^{\infty }x_{i}=\lim _{n\to \infty }\prod _{i=m}^{n}x_{i}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54769034d506aa9194ee35c7175118c3c359f92d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:20.015ex; height:6.843ex;" alt="{\displaystyle \prod _{i=m}^{\infty }x_{i}=\lim _{n\to \infty }\prod _{i=m}^{n}x_{i}.}"/></span><span about="#mwt147">
+</span></dd></dl>
+
+<p id="mwAVk">One can similarly replace <i id="mwAVo">m</i> with negative infinity, and define:</p>
+<dl id="mwAVs"><dd id="mwAVw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt149" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\prod_{i=-\\infty}^\\infty x_i = \\left(\\lim_{m\\to-\\infty}\\prod_{i=m}^0 x_i\\right) \\cdot \\left(\\lim_{n\\to\\infty} \\prod_{i=1}^n x_i\\right),"}}' id="mwAV0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \prod _{i=-\infty }^{\infty }x_{i}=\left(\lim _{m\to -\infty }\prod _{i=m}^{0}x_{i}\right)\cdot \left(\lim _{n\to \infty }\prod _{i=1}^{n}x_{i}\right),}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>∏<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mo>−<!-- − --></mo>
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">∞<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <munder>
+              <mo movablelimits="true" form="prefix">lim</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>m</mi>
+                <mo stretchy="false">→<!-- → --></mo>
+                <mo>−<!-- − --></mo>
+                <mi mathvariant="normal">∞<!-- ∞ --></mi>
+              </mrow>
+            </munder>
+            <munderover>
+              <mo>∏<!-- ∏ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mo>=</mo>
+                <mi>m</mi>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </munderover>
+            <msub>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+              </mrow>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <munder>
+              <mo movablelimits="true" form="prefix">lim</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+                <mo stretchy="false">→<!-- → --></mo>
+                <mi mathvariant="normal">∞<!-- ∞ --></mi>
+              </mrow>
+            </munder>
+            <munderover>
+              <mo>∏<!-- ∏ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+                <mo>=</mo>
+                <mn>1</mn>
+              </mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>n</mi>
+              </mrow>
+            </munderover>
+            <msub>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>i</mi>
+              </mrow>
+            </msub>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \prod _{i=-\infty }^{\infty }x_{i}=\left(\lim _{m\to -\infty }\prod _{i=m}^{0}x_{i}\right)\cdot \left(\lim _{n\to \infty }\prod _{i=1}^{n}x_{i}\right),}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c9de50a83cd6f6a8b1396ef59c2555631584fe9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:42.804ex; height:7.509ex;" alt="{\displaystyle \prod _{i=-\infty }^{\infty }x_{i}=\left(\lim _{m\to -\infty }\prod _{i=m}^{0}x_{i}\right)\cdot \left(\lim _{n\to \infty }\prod _{i=1}^{n}x_{i}\right),}"/></span><span about="#mwt149">
+</span></dd></dl>
+<p id="mwAV4">provided both limits exist.</p>
+
+</section></section><section data-mw-section-id="14" id="mwAV8"><h2 id="Properties">Properties</h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:Image/Thumb" id="mwAWA"><a href="./File:Multiplication_chart.svg" id="mwAWE"><img resource="./File:Multiplication_chart.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Multiplication_chart.svg/220px-Multiplication_chart.svg.png" data-file-width="685" data-file-height="556" data-file-type="drawing" height="179" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Multiplication_chart.svg/440px-Multiplication_chart.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Multiplication_chart.svg/330px-Multiplication_chart.svg.png 1.5x" id="mwAWI"/></a><figcaption id="mwAWM">Multiplication of numbers 0–10. Line labels = multiplicand. X axis = multiplier. Y axis = product.<br id="mwAWQ"/>Extension of this pattern into other quadrants gives the reason why a negative number times a negative number yields a positive number.<br id="mwAWU"/>Note also how multiplication by zero causes a reduction in dimensionality, as does multiplication by a <a rel="mw:WikiLink" href="./Singular_matrix" title="Singular matrix" id="mwAWY" class="mw-redirect">singular matrix</a> where the <a rel="mw:WikiLink" href="./Determinant" title="Determinant" id="mwAWc">determinant</a> is 0. In this process, information is lost and cannot be regained.</figcaption></figure>
+<p id="mwAWg">For the <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAWk">real</a> and <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAWo">complex</a> numbers, which includes for example <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwAWs">natural numbers</a>, <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwAWw">integers</a>, and <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAW0">fractions</a>, multiplication has certain properties:</p>
+
+<dl id="mwAW4"><dt id="mwAW8"><a rel="mw:WikiLink" href="./Commutative_property" title="Commutative property" id="mwAXA">Commutative property</a></dt>
+<dd id="mwAXE">The order in which two numbers are multiplied does not matter:
+<dl id="mwAXI"><dd id="mwAXM"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt151" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\cdot y = y\\cdot x."}}' id="mwAXQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\cdot y=y\cdot x.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>y</mi>
+        <mo>=</mo>
+        <mi>y</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>x</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot y=y\cdot x.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f21580dd12734adc7e6eee7e7b31d0f9f3f9dcc0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.074ex; height:2.009ex;" alt="{\displaystyle x\cdot y=y\cdot x.}"/></span><span about="#mwt151">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAXU"><dt id="mwAXY"><a rel="mw:WikiLink" href="./Associative_property" title="Associative property" id="mwAXc">Associative property</a></dt>
+<dd id="mwAXg">Expressions solely involving multiplication or addition are invariant with respect to <a rel="mw:WikiLink" href="./Order_of_operations" title="Order of operations" id="mwAXk">order of operations</a>:
+<dl id="mwAXo"><dd id="mwAXs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt153" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(x\\cdot y)\\cdot z = x\\cdot(y\\cdot z)"}}' id="mwAXw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (x\cdot y)\cdot z=x\cdot (y\cdot z)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>z</mi>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>y</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (x\cdot y)\cdot z=x\cdot (y\cdot z)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d27c3b680bd94bc409f7704de0cb7519d1d7bf30" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.58ex; height:2.843ex;" alt="(x\cdot y)\cdot z=x\cdot (y\cdot z)"/></span><span about="#mwt153">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAX0"><dt id="mwAX4"><a rel="mw:WikiLink" href="./Distributive_property" title="Distributive property" id="mwAX8">Distributive property</a></dt>
+<dd id="mwAYA">Holds with respect to multiplication over addition. This identity is of prime importance in simplifying algebraic expressions:
+<dl id="mwAYE"><dd id="mwAYI"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt155" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\cdot(y + z) = x\\cdot y + x\\cdot z "}}' id="mwAYM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\cdot (y+z)=x\cdot y+x\cdot z}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>y</mi>
+        <mo>+</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>y</mi>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot (y+z)=x\cdot y+x\cdot z}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bef04839940b9b2f33028670da2930e139873789" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:24.102ex; height:2.843ex;" alt="x\cdot (y+z)=x\cdot y+x\cdot z"/></span><span about="#mwt155">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAYQ"><dt id="mwAYU"><a rel="mw:WikiLink" href="./Identity_element" title="Identity element" id="mwAYY">Identity element</a></dt>
+<dd id="mwAYc">The multiplicative identity is 1; anything multiplied by 1 is itself. This feature of 1 is known as the <b id="mwAYg">identity property</b>:
+<dl id="mwAYk"><dd id="mwAYo"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt157" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\cdot 1 = x"}}' id="mwAYs"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\cdot 1=x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot 1=x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f32d3aa48ec6fa10f6432548640b212bbc2ad281" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:8.599ex; height:2.176ex;" alt="x\cdot 1=x"/></span><span about="#mwt157">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAYw"><dt id="mwAY0"><a rel="mw:WikiLink" href="./Absorbing_element" title="Absorbing element" id="mwAY4">Property of 0</a></dt>
+<dd id="mwAY8">Any number multiplied by 0 is 0. This is known as the <b id="mwAZA">zero property</b> of multiplication:
+<dl id="mwAZE"><dd id="mwAZI"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt159" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\cdot 0 = 0"}}' id="mwAZM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\cdot 0=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot 0=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44b1b207154bd1e280dfdeba3c7f12840a184ff2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:8.432ex; height:2.176ex;" alt="{\displaystyle x\cdot 0=0}"/></span><span about="#mwt159">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAZQ"><dt id="mwAZU"><a rel="mw:WikiLink" href="./Additive_inverse" title="Additive inverse" id="mwAZY">Negation</a></dt>
+<dd id="mwAZc">−1 times any number is equal to the <b id="mwAZg"><a rel="mw:WikiLink" href="./Additive_inverse" title="Additive inverse" id="mwAZk">additive inverse</a></b> of that number.
+<dl id="mwAZo"><dd id="mwAZs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt161" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(-1)\\cdot x = (-x)"}}' id="mwAZw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (-1)\cdot x=(-x)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (-1)\cdot x=(-x)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/248d74c79bb9e2e4ed765acb885d7f2d18294711" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.834ex; height:2.843ex;" alt="(-1)\cdot x=(-x)"/></span><span about="#mwt161">
+</span> where <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt163" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(-x)+x=0"}}' id="mwAZ0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (-x)+x=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (-x)+x=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d257979251e98cea2026e769b62c942fef3028a6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.378ex; height:2.843ex;" alt="{\displaystyle (-x)+x=0}"/></span><span about="#mwt163">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAZ4"><dd id="mwAZ8">–1 times –1 is 1.
+<dl id="mwAaA"><dd id="mwAaE"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt165" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(-1)\\cdot (-1) = 1"}}' id="mwAaI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (-1)\cdot (-1)=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (-1)\cdot (-1)=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bde8913289239fbd7024023a68017c6adb39086a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.5ex; height:2.843ex;" alt="(-1)\cdot (-1)=1"/></span><span about="#mwt165">
+</span></dd></dl></dd></dl>
+
+<dl id="mwAaM"><dt id="mwAaQ"><a rel="mw:WikiLink" href="./Inverse_element" title="Inverse element" id="mwAaU">Inverse element</a></dt>
+<dd id="mwAaY">Every number <i id="mwAac">x</i>, <a rel="mw:WikiLink" href="./Division_by_zero" title="Division by zero" id="mwAag">except 0</a>, has a <b id="mwAak"><a rel="mw:WikiLink" href="./Multiplicative_inverse" title="Multiplicative inverse" id="mwAao">multiplicative inverse</a></b>, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt167" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{1}{x}"}}' id="mwAas"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {1}{x}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>x</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{x}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68f89eaf83a3811c69adb4bf1119bafd661a4c08" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:2.166ex; height:5.176ex;" alt="{\frac {1}{x}}"/></span><span about="#mwt167">
+</span>, such that <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt171" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\cdot\\left(\\frac{1}{x}\\right) = 1"}}' id="mwAaw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\cdot \left({\frac {1}{x}}\right)=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>⋅<!-- ⋅ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>x</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\cdot \left({\frac {1}{x}}\right)=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1dcf6f625e02d33dcac6b78c2e0448d73accd07f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:12.857ex; height:6.176ex;" alt="x\cdot \left({\frac {1}{x}}\right)=1"/></span><span about="#mwt171">
+</span>.</dd></dl>
+
+<dl id="mwAa0"><dt id="mwAa4"><a rel="mw:WikiLink" href="./Order_theory" title="Order theory" id="mwAa8">Order</a> preservation</dt>
+<dd id="mwAbA">Multiplication by a positive number preserves <a rel="mw:WikiLink" href="./Order_theory" title="Order theory" id="mwAbE">order</a>:
+<dl id="mwAbI"><dd id="mwAbM">For <span class="nowrap" about="#mwt73" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; > 0"}},"i":0}}]}' id="mwAbQ"><i>a</i> > 0</span>, if <span class="nowrap" about="#mwt74" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos; > &apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwAbU"><i>b</i> > <i>c</i></span> then <span class="nowrap" about="#mwt75" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;ab&apos;&apos; > &apos;&apos;ac&apos;&apos;"}},"i":0}}]}' id="mwAbY"><i>ab</i> > <i>ac</i></span>.</dd></dl></dd>
+<dd id="mwAbc">Multiplication by a negative number reverses order:
+<dl id="mwAbg"><dd id="mwAbk">For <span class="nowrap" about="#mwt76" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; &lt; 0"}},"i":0}}]}' id="mwAbo"><i>a</i> &lt; 0</span>, if <span class="nowrap" about="#mwt77" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos; > &apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwAbs"><i>b</i> > <i>c</i></span> then <span class="nowrap" about="#mwt78" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;ab&apos;&apos; &lt; &apos;&apos;ac&apos;&apos;"}},"i":0}}]}' id="mwAbw"><i>ab</i> &lt; <i>ac</i></span>.</dd></dl></dd>
+<dd id="mwAb0">The <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAb4">complex numbers</a> do not have an ordering.</dd></dl>
+
+<p id="mwAb8">Other mathematical systems that include a multiplication operation may not have all these properties. For example, multiplication is not, in general, commutative for <a rel="mw:WikiLink" href="./Matrix_(mathematics)" title="Matrix (mathematics)" id="mwAcA">matrices</a> and <a rel="mw:WikiLink" href="./Quaternion" title="Quaternion" id="mwAcE">quaternions</a>.</p>
+
+</section><section data-mw-section-id="15" id="mwAcI"><h2 id="Axioms">Axioms</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt79" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Peano axioms"}},"i":0}}]}' id="mwAcM">Main article: <a rel="mw:WikiLink" href="./Peano_axioms" title="Peano axioms">Peano axioms</a></div>
+<p id="mwAcQ">In the book <i id="mwAcU"><a rel="mw:WikiLink" href="./Arithmetices_principia,_nova_methodo_exposita" title="Arithmetices principia, nova methodo exposita" id="mwAcY">Arithmetices principia, nova methodo exposita</a></i>, <a rel="mw:WikiLink" href="./Giuseppe_Peano" title="Giuseppe Peano" id="mwAcc">Giuseppe Peano</a> proposed axioms for arithmetic based on his axioms for natural numbers.<sup about="#mwt236" class="mw-ref" id="cite_ref-10" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-10"}}'><a href="./Multiplication#cite_note-10" style="counter-reset: mw-Ref 10;"><span class="mw-reflink-text">[10]</span></a></sup> Peano arithmetic has two axioms for multiplication:</p>
+<dl id="mwAcg"><dd id="mwAck"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt137" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x \\times 0 = 0"}}' id="mwAco"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\times 0=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mn>0</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\times 0=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c53848975b79c30253c1a29c94c2039626593e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:9.593ex; height:2.176ex;" alt="x\times 0=0"/></span><span about="#mwt137">
+</span></dd>
+<dd id="mwAcs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt139" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x \\times S(y) = (x \\times y) + x"}}' id="mwAcw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\times S(y)=(x\times y)+x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\times S(y)=(x\times y)+x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52009f37ff7a2abb73a860ec211bdf292b111363" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.038ex; height:2.843ex;" alt="x\times S(y)=(x\times y)+x"/></span><span about="#mwt139">
+</span></dd></dl>
+
+<p id="mwAc0">Here <i id="mwAc4">S</i>(<i id="mwAc8">y</i>) represents the <a rel="mw:WikiLink" href="./Successor_ordinal" title="Successor ordinal" id="mwAdA">successor</a> of <i id="mwAdE">y</i>, or the natural number that <i id="mwAdI">follows</i> <i id="mwAdM">y</i>. The various properties like associativity can be proved from these and the other axioms of Peano arithmetic including <a rel="mw:WikiLink" href="./Mathematical_induction" title="Mathematical induction" id="mwAdQ">induction</a>. For instance <i id="mwAdU">S</i>(0), denoted by 1, is a multiplicative identity because</p>
+<dl id="mwAdY"><dd id="mwAdc"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt141" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x \\times 1 = x \\times S(0) = (x \\times 0) + x = 0 + x = x"}}' id="mwAdg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\times 1=x\times S(0)=(x\times 0)+x=0+x=x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>×<!-- × --></mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mo>+</mo>
+        <mi>x</mi>
+        <mo>=</mo>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\times 1=x\times S(0)=(x\times 0)+x=0+x=x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/851e5d698d443dc09a34f0f51e41dc4284332345" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:44.342ex; height:2.843ex;" alt="{\displaystyle x\times 1=x\times S(0)=(x\times 0)+x=0+x=x}"/></span><span about="#mwt141">
+</span></dd></dl>
+
+<p id="mwAdk">The axioms for <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwAdo">integers</a> typically define them as equivalence classes of ordered pairs of natural numbers. The model is based on treating (<i id="mwAds">x</i>,<i id="mwAdw">y</i>) as equivalent to <span class="nowrap" about="#mwt85" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos; − &apos;&apos;y&apos;&apos;"}},"i":0}}]}' id="mwAd0"><i>x</i> − <i>y</i></span> when <i id="mwAd4">x</i> and <i id="mwAd8">y</i> are treated as integers. Thus both (0,1) and (1,2) are equivalent to −1. The multiplication axiom for integers defined this way is</p>
+<dl id="mwAeA"><dd id="mwAeE"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt143" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(x_p,\\, x_m) \\times (y_p,\\, y_m) = (x_p \\times y_p + x_m \\times y_m,\\; x_p \\times y_m + x_m \\times y_p)"}}' id="mwAeI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (x_{p},\,x_{m})\times (y_{p},\,y_{m})=(x_{p}\times y_{p}+x_{m}\times y_{m},\;x_{p}\times y_{m}+x_{m}\times y_{p})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="thinmathspace"></mspace>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>×<!-- × --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="thinmathspace"></mspace>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mspace width="thickmathspace"></mspace>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>m</mi>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (x_{p},\,x_{m})\times (y_{p},\,y_{m})=(x_{p}\times y_{p}+x_{m}\times y_{m},\;x_{p}\times y_{m}+x_{m}\times y_{p})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f240965a67023db1f14a8f77ed85b35e10d718" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:64.149ex; height:3.009ex;" alt="(x_{p},\,x_{m})\times (y_{p},\,y_{m})=(x_{p}\times y_{p}+x_{m}\times y_{m},\;x_{p}\times y_{m}+x_{m}\times y_{p})"/></span><span about="#mwt143">
+</span></dd></dl>
+
+<p id="mwAeM">The rule that −1 × −1 = 1 can then be deduced from</p>
+<dl id="mwAeQ"><dd id="mwAeU"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt145" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(0, 1) \\times (0, 1) = (0 \\times 0 + 1 \\times 1,\\, 0 \\times 1 + 1 \\times 0) = (1,0)"}}' id="mwAeY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (0,1)\times (0,1)=(0\times 0+1\times 1,\,0\times 1+1\times 0)=(1,0)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>×<!-- × --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo>×<!-- × --></mo>
+        <mn>0</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>×<!-- × --></mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mn>0</mn>
+        <mo>×<!-- × --></mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>×<!-- × --></mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (0,1)\times (0,1)=(0\times 0+1\times 1,\,0\times 1+1\times 0)=(1,0)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9a4578466cb3501b5c80d82ddefefb221e10e54" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:54.114ex; height:2.843ex;" alt="(0,1)\times (0,1)=(0\times 0+1\times 1,\,0\times 1+1\times 0)=(1,0)"/></span><span about="#mwt145">
+</span></dd></dl>
+
+<p id="mwAec">Multiplication is extended in a similar way to <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAeg">rational numbers</a> and then to <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAek">real numbers</a>.</p>
+
+</section><section data-mw-section-id="16" id="mwAeo"><h2 id="Multiplication_with_set_theory">Multiplication with set theory</h2>
+<p id="mwAes">The product of non-negative integers can be defined with set theory using <a rel="mw:WikiLink" href="./Cardinal_number#Cardinal_multiplication" title="Cardinal number" id="mwAew">cardinal numbers</a> or the <a rel="mw:WikiLink" href="./Peano_axioms#Arithmetic" title="Peano axioms" id="mwAe0">Peano axioms</a>. See <a rel="mw:WikiLink" href="./Multiplication#Multiplication_of_different_kinds_of_numbers" id="mwAe4">below</a> how to extend this to multiplying arbitrary integers, and then arbitrary rational numbers. The product of real numbers is defined in terms of products of rational numbers, see <a rel="mw:WikiLink" href="./Construction_of_the_real_numbers" title="Construction of the real numbers" id="mwAe8">construction of the real numbers</a>.</p>
+
+</section><section data-mw-section-id="17" id="mwAfA"><h2 id="Multiplication_in_group_theory">Multiplication in group theory</h2><!--linked from below-->
+<p id="mwAfE">There are many sets that, under the operation of multiplication, satisfy the axioms that define <a rel="mw:WikiLink" href="./Group_(mathematics)" title="Group (mathematics)" id="mwAfI">group</a> structure. These axioms are closure, associativity, and the inclusion of an identity element and inverses.</p>
+
+<p id="mwAfM">A simple example is the set of non-zero <a rel="mw:WikiLink" href="./Rational_numbers" title="Rational numbers" id="mwAfQ" class="mw-redirect">rational numbers</a>. Here we have identity 1, as opposed to groups under addition where the identity is typically 0. Note that with the rationals, we must exclude zero because, under multiplication, it does not have an inverse: there is no rational number that can be multiplied by zero to result in 1. In this example we have an <a rel="mw:WikiLink" href="./Abelian_group" title="Abelian group" id="mwAfU">abelian group</a>, but that is not always the case.</p>
+
+<p id="mwAfY">To see this, look at the set of invertible square matrices of a given dimension, over a given <a rel="mw:WikiLink" href="./Field_(mathematics)" title="Field (mathematics)" id="mwAfc">field</a>. Now it is straightforward to verify closure, associativity, and inclusion of identity (the <a rel="mw:WikiLink" href="./Identity_matrix" title="Identity matrix" id="mwAfg">identity matrix</a>) and inverses. However, matrix multiplication is not commutative, therefore this group is nonabelian.</p>
+
+<p id="mwAfk">Another fact of note is that the integers under multiplication is not a group, even if we exclude zero. This is easily seen by the nonexistence of an inverse for all elements other than 1 and<span typeof="mw:Entity" id="mwAfo"> </span>−1.</p>
+
+<p id="mwAfs">Multiplication in group theory is typically notated either by a dot, or by juxtaposition (the omission of an operation symbol between elements). So multiplying element <b id="mwAfw">a</b> by element <b id="mwAf0">b</b> could be notated <b id="mwAf4">a</b> <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt173" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\cdot"}}' id="mwAf8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \cdot }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⋅<!-- ⋅ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \cdot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba2c023bad1bd39ed49080f729cbf26bc448c9ba" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: 0.439ex; margin-bottom: -0.61ex; width:0.647ex; height:1.176ex;" alt="\cdot "/></span><span about="#mwt173">
+</span> <b id="mwAgA">b</b> or <b id="mwAgE">ab</b>.  When referring to a group via the indication of the set and operation, the dot is used, e.g., our first example could be indicated by <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt175" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left( \\mathbb{Q}\\smallsetminus \\{ 0 \\} ,\\cdot \\right)"}}' id="mwAgI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left(\mathbb {Q} \smallsetminus \{0\},\cdot \right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>(</mo>
+          <mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="double-struck">Q</mi>
+            </mrow>
+            <mo>∖<!-- ∖ --></mo>
+            <mo fence="false" stretchy="false">{</mo>
+            <mn>0</mn>
+            <mo fence="false" stretchy="false">}</mo>
+            <mo>,</mo>
+            <mo>⋅<!-- ⋅ --></mo>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left(\mathbb {Q} \smallsetminus \{0\},\cdot \right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5a4c92dc0e357ecbcbb44d6690b7e993473b515d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.626ex; height:2.843ex;" alt="{\displaystyle \left(\mathbb {Q} \smallsetminus \{0\},\cdot \right)}"/></span><span about="#mwt175">
+</span></p>
+
+</section><section data-mw-section-id="18" id="mwAgM"><h2 id="Multiplication_of_different_kinds_of_numbers">Multiplication of different kinds of numbers</h2><!--linked from above-->
+<p id="mwAgQ">Numbers can <i id="mwAgU">count</i> (3<span typeof="mw:Entity" id="mwAgY"> </span>apples), <i id="mwAgc">order</i> (the 3rd<span typeof="mw:Entity" id="mwAgg"> </span>apple), or <i id="mwAgk">measure</i> (3.5<span typeof="mw:Entity" id="mwAgo"> </span>feet high); as the history of mathematics has progressed from counting on our fingers to modelling quantum mechanics, multiplication has been generalized to more complicated and abstract types of numbers, and to things that are not numbers (such as <a rel="mw:WikiLink" href="./Matrix_(mathematics)" title="Matrix (mathematics)" id="mwAgs">matrices</a>) or do not look much like numbers (such as <a rel="mw:WikiLink" href="./Quaternion" title="Quaternion" id="mwAgw">quaternions</a>).</p>
+
+<dl id="mwAg0"><dt id="mwAg4">Integers</dt>
+<dd id="mwAg8"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt177" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"N\\times M"}}' id="mwAhA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle N\times M}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+        <mo>×<!-- × --></mo>
+        <mi>M</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N\times M}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f4c0be393d026f1ee4c2baa3e84a774013914a2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.346ex; height:2.176ex;" alt="N\times M"/></span><span about="#mwt177">
+</span> is the sum of <i id="mwAhE">N</i> copies of <i id="mwAhI">M</i> when <i id="mwAhM">N</i> and <i id="mwAhQ">M</i> are positive whole numbers. This gives the number of things in an array <i id="mwAhU">N</i> wide and <i id="mwAhY">M</i> high. Generalization to negative numbers can be done by</dd>
+<dd id="mwAhc"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt179" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"N\\times (-M) = (-N)\\times M = - (N\\times M)"}}' id="mwAhg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle N\times (-M)=(-N)\times M=-(N\times M)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+        <mo>×<!-- × --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>M</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>N</mi>
+        <mo stretchy="false">)</mo>
+        <mo>×<!-- × --></mo>
+        <mi>M</mi>
+        <mo>=</mo>
+        <mo>−<!-- − --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>N</mi>
+        <mo>×<!-- × --></mo>
+        <mi>M</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N\times (-M)=(-N)\times M=-(N\times M)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/55ff14b1171cce6a308b982e0cd6019b3d4c2c6e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:39.088ex; height:2.843ex;" alt="N\times (-M)=(-N)\times M=-(N\times M)"/></span><span about="#mwt179">
+</span> and</dd>
+<dd id="mwAhk"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt181" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(-N)\\times (-M) = N\\times M"}}' id="mwAho"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (-N)\times (-M)=N\times M}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>N</mi>
+        <mo stretchy="false">)</mo>
+        <mo>×<!-- × --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi>M</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>N</mi>
+        <mo>×<!-- × --></mo>
+        <mi>M</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (-N)\times (-M)=N\times M}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dee1d0390840523adbd93a78832e2c05bc4dc48b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:25.026ex; height:2.843ex;" alt="(-N)\times (-M)=N\times M"/></span><span about="#mwt181">
+</span></dd>
+<dd id="mwAhs">The same sign rules apply to rational and real numbers.</dd></dl>
+
+<dl id="mwAhw"><dt id="mwAh0"><a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAh4">Rational numbers</a></dt>
+<dd id="mwAh8">Generalization to fractions <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt183" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{A}{B}\\times \\frac{C}{D}"}}' id="mwAiA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>A</mi>
+            <mi>B</mi>
+          </mfrac>
+        </mrow>
+        <mo>×<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>C</mi>
+            <mi>D</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e096995e6dd2346db181c01dcef0a6eae03b33b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:8.201ex; height:5.343ex;" alt="{\frac {A}{B}}\times {\frac {C}{D}}"/></span><span about="#mwt183">
+</span> is by multiplying the numerators and denominators respectively: <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt185" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{A}{B}\\times \\frac{C}{D} = \\frac{(A\\times C)}{(B\\times D)}"}}' id="mwAiE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}={\frac {(A\times C)}{(B\times D)}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>A</mi>
+            <mi>B</mi>
+          </mfrac>
+        </mrow>
+        <mo>×<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>C</mi>
+            <mi>D</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>A</mi>
+              <mo>×<!-- × --></mo>
+              <mi>C</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>B</mi>
+              <mo>×<!-- × --></mo>
+              <mi>D</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {A}{B}}\times {\frac {C}{D}}={\frac {(A\times C)}{(B\times D)}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81c86d8b1575d08a100a155dc1694e975e2cc6d2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:20.473ex; height:6.509ex;" alt="{\frac {A}{B}}\times {\frac {C}{D}}={\frac {(A\times C)}{(B\times D)}}"/></span><span about="#mwt185">
+</span>. This gives the area of a rectangle <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt187" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{A}{B}"}}' id="mwAiI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {A}{B}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>A</mi>
+            <mi>B</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {A}{B}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a1926bc23f1f3411122430184cee4d8b61890d3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:2.6ex; height:5.343ex;" alt="{\frac {A}{B}}"/></span><span about="#mwt187">
+</span> high and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt189" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{C}{D}"}}' id="mwAiM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {C}{D}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>C</mi>
+            <mi>D</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {C}{D}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/adda89edc64a39ff1f56e37d0897f25241aff4e0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:2.76ex; height:5.343ex;" alt="{\frac {C}{D}}"/></span><span about="#mwt189">
+</span> wide, and is the same as the number of things in an array when the rational numbers happen to be whole numbers.</dd></dl>
+
+<dl id="mwAiQ"><dt id="mwAiU"><a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAiY">Real numbers</a></dt>
+<dd id="mwAic">Real numbers and their products <a rel="mw:WikiLink" href="./Construction_of_the_real_numbers#Construction_from_Cauchy_sequences" title="Construction of the real numbers" id="mwAig">can be defined in terms of sequences of rational numbers</a>.</dd></dl>
+
+<dl id="mwAik"><dt id="mwAio"><a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAis">Complex numbers</a></dt>
+<dd id="mwAiw">Considering complex numbers <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt191" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z_1"}}' id="mwAi0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3621e468231ab352b7caa30bcf0ce9b452241a6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.135ex; height:2.009ex;" alt="z_{1}"/></span><span about="#mwt191">
+</span> and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt193" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z_2"}}' id="mwAi4"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5abf655fa14f7ea44ad0ca781b59ff59c5f49117" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.135ex; height:2.009ex;" alt="z_{2}"/></span><span about="#mwt193">
+</span> as ordered pairs of real numbers <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt195" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_1, b_1)"}}' id="mwAi8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{1},b_{1})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{1},b_{1})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4169cf3c7bae0f4515e37aa3095f85d47636d56b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.179ex; height:2.843ex;" alt="(a_{1},b_{1})"/></span><span about="#mwt195">
+</span> and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt197" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_2, b_2)"}}' id="mwAjA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{2},b_{2})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{2},b_{2})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8eebf25545e61dd0b2385710f8ea0373a1904be3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.179ex; height:2.843ex;" alt="(a_{2},b_{2})"/></span><span about="#mwt197">
+</span>, the product <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt199" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z_1\\times z_2"}}' id="mwAjE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z_{1}\times z_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z_{1}\times z_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0dc5823066e7b39dc7997b6ca049ac67d5c413a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.111ex; height:2.009ex;" alt="z_{1}\times z_{2}"/></span><span about="#mwt199">
+</span> is <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt201" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a_1\\times a_2 - b_1\\times b_2, a_1\\times b_2 + a_2\\times b_1)"}}' id="mwAjI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a_{1}\times a_{2}-b_{1}\times b_{2},a_{1}\times b_{2}+a_{2}\times b_{1})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>−<!-- − --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a_{1}\times a_{2}-b_{1}\times b_{2},a_{1}\times b_{2}+a_{2}\times b_{1})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fc8ff838c80a8d60ebfefda07846183b88c9db7f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:37.229ex; height:2.843ex;" alt="(a_{1}\times a_{2}-b_{1}\times b_{2},a_{1}\times b_{2}+a_{2}\times b_{1})"/></span><span about="#mwt201">
+</span>. This is the same as for reals, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt203" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a_1\\times a_2"}}' id="mwAjM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a_{1}\times a_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{1}\times a_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/719f8414ce021210971518e99e745faf0ee2a574" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:7.408ex; height:2.009ex;" alt="a_{1}\times a_{2}"/></span><span about="#mwt203">
+</span>, when the <i id="mwAjQ">imaginary parts</i> <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt205" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"b_1"}}' id="mwAjU"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9af2720c91be489f57ecde4bb651b95e113d0144" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.052ex; height:2.509ex;" alt="b_{1}"/></span><span about="#mwt205">
+</span> and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt207" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"b_2"}}' id="mwAjY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2530a260ad35bf21ee61f1f4d6493ae0474f6068" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.052ex; height:2.509ex;" alt="b_{2}"/></span><span about="#mwt207">
+</span> are zero.</dd></dl>
+
+<dl id="mwAjc"><dd id="mwAjg">Equivalently, denoting <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt209" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\sqrt{-1}"}}' id="mwAjk"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\sqrt {-1}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </msqrt>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\sqrt {-1}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ea1ea9ac61e6e1e84ac39130f78143c18865719" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.906ex; height:3.009ex;" alt="{\sqrt {-1}}"/></span><span about="#mwt209">
+</span> as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt211" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"i"}}' id="mwAjo"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle i}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;" alt="i"/></span><span about="#mwt211">
+</span>, we have <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt213" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"z_1 \\times z_2 = (a_1+b_1i)(a_2+b_2i)=(a_1 \\times a_2)+(a_1\\times b_2i)+(b_1\\times a_2i)+(b_1\\times b_2i^2)=(a_1a_2-b_1b_2)+(a_1b_2+b_1a_2)i."}}' id="mwAjs"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle z_{1}\times z_{2}=(a_{1}+b_{1}i)(a_{2}+b_{2}i)=(a_{1}\times a_{2})+(a_{1}\times b_{2}i)+(b_{1}\times a_{2}i)+(b_{1}\times b_{2}i^{2})=(a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>×<!-- × --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <msup>
+          <mi>i</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>−<!-- − --></mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <msub>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mi>i</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z_{1}\times z_{2}=(a_{1}+b_{1}i)(a_{2}+b_{2}i)=(a_{1}\times a_{2})+(a_{1}\times b_{2}i)+(b_{1}\times a_{2}i)+(b_{1}\times b_{2}i^{2})=(a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d1d83413496f24893795cf11870291ee96b5d1db" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:114.84ex; height:3.176ex;" alt="z_{1}\times z_{2}=(a_{1}+b_{1}i)(a_{2}+b_{2}i)=(a_{1}\times a_{2})+(a_{1}\times b_{2}i)+(b_{1}\times a_{2}i)+(b_{1}\times b_{2}i^{2})=(a_{1}a_{2}-b_{1}b_{2})+(a_{1}b_{2}+b_{1}a_{2})i."/></span><span about="#mwt213">
+</span></dd></dl>
+
+<dl id="mwAjw"><dt id="mwAj0">Further generalizations</dt>
+<dd id="mwAj4">See <a rel="mw:WikiLink" href="./Multiplication#Multiplication_in_group_theory" title="Multiplication" id="mwAj8">Multiplication in group theory</a>, above, and <a rel="mw:WikiLink" href="./Multiplicative_group" title="Multiplicative group" id="mwAkA">Multiplicative group</a>, which for example includes matrix multiplication. A very general, and abstract, concept of multiplication is as the "multiplicatively denoted" (second) binary operation in a <a rel="mw:WikiLink" href="./Ring_(mathematics)" title="Ring (mathematics)" id="mwAkE">ring</a>. An example of a ring that is not any of the above number systems is a <a rel="mw:WikiLink" href="./Polynomial_ring" title="Polynomial ring" id="mwAkI">polynomial ring</a> (you can add and multiply polynomials, but polynomials are not numbers in any usual sense.)</dd></dl>
+
+<dl id="mwAkM"><dt id="mwAkQ">Division</dt>
+<dd id="mwAkU">Often division, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt219" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{x}{y}"}}' id="mwAkY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {x}{y}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>x</mi>
+            <mi>y</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {x}{y}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/187d36a20476c4ccaaae85662613087bc4c67d35" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:2.166ex; height:5.176ex;" alt="{\frac {x}{y}}"/></span><span about="#mwt219">
+</span>, is the same as multiplication by an inverse, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt225" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\left(\\frac{1}{y}\\right)"}}' id="mwAkc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\left({\frac {1}{y}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>y</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\left({\frac {1}{y}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/818601c5133f84a324953e979bfe2b0289f1763c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:7.137ex; height:6.176ex;" alt="x\left({\frac {1}{y}}\right)"/></span><span about="#mwt225">
+</span>. Multiplication for some types of "numbers" may have corresponding division, without inverses; in an <a rel="mw:WikiLink" href="./Integral_domain" title="Integral domain" id="mwAkg">integral domain</a> <i id="mwAkk">x</i> may have no inverse "<span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt169" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{1}{x}"}}' id="mwAko"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {1}{x}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>x</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{x}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68f89eaf83a3811c69adb4bf1119bafd661a4c08" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:2.166ex; height:5.176ex;" alt="{\frac {1}{x}}"/></span><span about="#mwt169">
+</span>" but <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt221" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{x}{y}"}}' id="mwAks"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {x}{y}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>x</mi>
+            <mi>y</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {x}{y}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/187d36a20476c4ccaaae85662613087bc4c67d35" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:2.166ex; height:5.176ex;" alt="{\frac {x}{y}}"/></span><span about="#mwt221">
+</span> may be defined. In a <a rel="mw:WikiLink" href="./Division_ring" title="Division ring" id="mwAkw">division ring</a> there are inverses, but <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt223" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{x}{y}"}}' id="mwAk0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {x}{y}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>x</mi>
+            <mi>y</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {x}{y}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/187d36a20476c4ccaaae85662613087bc4c67d35" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:2.166ex; height:5.176ex;" alt="{\frac {x}{y}}"/></span><span about="#mwt223">
+</span> may be ambiguous in non-commutative rings since <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt227" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x\\left(\\frac{1}{y}\\right)"}}' id="mwAk4"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\left({\frac {1}{y}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>y</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\left({\frac {1}{y}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/818601c5133f84a324953e979bfe2b0289f1763c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:7.137ex; height:6.176ex;" alt="x\left({\frac {1}{y}}\right)"/></span><span about="#mwt227">
+</span> need not be the same as <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt229" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\left(\\frac{1}{y}\\right)x"}}' id="mwAk8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \left({\frac {1}{y}}\right)x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>1</mn>
+              <mi>y</mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \left({\frac {1}{y}}\right)x}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/457d1d15a880bc767d849fad69db5107dd459d43" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:7.137ex; height:6.176ex;" alt="\left({\frac {1}{y}}\right)x"/></span><span about="#mwt229">
+</span>.</dd></dl>
+
+</section><section data-mw-section-id="19" id="mwAlA"><h2 id="Exponentiation">Exponentiation</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt123" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Exponentiation"}},"i":0}}]}' id="mwAlE">Main article: <a rel="mw:WikiLink" href="./Exponentiation" title="Exponentiation">Exponentiation</a></div>
+<p id="mwAlI">When multiplication is repeated, the resulting operation is known as <b id="mwAlM">exponentiation</b>. For instance, the product of three factors of two (2×2×2) is "two raised to the third power", and is denoted by 2<sup id="mwAlQ">3</sup>, a two with a <a rel="mw:WikiLink" href="./Superscript" title="Superscript" id="mwAlU" class="mw-redirect">superscript</a> three. In this example, the number two is the <b id="mwAlY">base</b>, and three is the <b id="mwAlc">exponent</b>. In general, the exponent (or superscript) indicates how many times the base appears in the expression, so that the expression</p>
+<dl id="mwAlg"><dd id="mwAlk"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt231" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a^n = \\underbrace{a\\times a \\times \\cdots  \\times a}_n"}}' id="mwAlo"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a^{n}=\underbrace {a\times a\times \cdots \times a} _{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <munder>
+          <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+            <munder>
+              <mrow>
+                <mi>a</mi>
+                <mo>×<!-- × --></mo>
+                <mi>a</mi>
+                <mo>×<!-- × --></mo>
+                <mo>⋯<!-- ⋯ --></mo>
+                <mo>×<!-- × --></mo>
+                <mi>a</mi>
+              </mrow>
+              <mo>⏟<!-- ⏟ --></mo>
+            </munder>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munder>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a^{n}=\underbrace {a\times a\times \cdots \times a} _{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd5fb3bc9a8371ec6156d5d2b25479e0ac5f64e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.671ex; margin-right: -0.028ex; width:20.508ex; height:5.676ex;" alt="a^{n}=\underbrace {a\times a\times \cdots \times a} _{n}"/></span><span about="#mwt231">
+</span></dd></dl>
+
+<p id="mwAls">indicates that <i id="mwAlw">n</i> copies of the base <i id="mwAl0">a</i> are to be multiplied together. This notation can be used whenever multiplication is known to be <a rel="mw:WikiLink" href="./Power_associativity" title="Power associativity" id="mwAl4">power associative</a>.</p>
+
+</section><section data-mw-section-id="20" id="mwAl8"><h2 id="See_also">See also</h2>
+<div about="#mwt125" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"col-begin","href":"./Template:Col-begin"},"params":{},"i":0}},"\n",{"template":{"target":{"wt":"col-break","href":"./Template:Col-break"},"params":{"width":{"wt":"33%"}},"i":1}},"\n* [[Dimensional analysis]]\n* [[Multiplication algorithm]]\n** [[Karatsuba algorithm]], for large numbers\n** [[Toom–Cook multiplication]], for very large numbers\n** [[Schönhage–Strassen algorithm]], for huge numbers\n",{"template":{"target":{"wt":"col-break","href":"./Template:Col-break"},"params":{"width":{"wt":"33%"}},"i":2}},"\n* [[Multiplication table]]\n* [[Binary multiplier]], how computers multiply\n** [[Booth&apos;s multiplication algorithm]]\n** [[Floating point]]\n** [[Fused multiply–add]]\n** [[Multiply–accumulate]]\n** [[Wallace tree]]\n",{"template":{"target":{"wt":"col-break","href":"./Template:Col-break"},"params":{},"i":3}},"\n* [[Multiplicative inverse]], reciprocal\n* [[Factorial]]\n* [[Genaille–Lucas rulers]]\n* [[Napier&apos;s bones]]\n* [[Peasant multiplication]]\n* [[Product (mathematics)]], for generalizations\n* [[Slide rule]]\n* [[Multiplicative calculus]]\n",{"template":{"target":{"wt":"col-end","href":"./Template:Col-end"},"params":{},"i":4}}]}' id="mwAmA">
+<span typeof="mw:Entity"> </span><table class=" multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%; ">
+
+<tbody><tr><td style="width: 33%;text-align: left; vertical-align: top;  ">
+<ul><li><a rel="mw:WikiLink" href="./Dimensional_analysis" title="Dimensional analysis">Dimensional analysis</a></li>
+<li><a rel="mw:WikiLink" href="./Multiplication_algorithm" title="Multiplication algorithm">Multiplication algorithm</a>
+<ul><li><a rel="mw:WikiLink" href="./Karatsuba_algorithm" title="Karatsuba algorithm">Karatsuba algorithm</a>, for large numbers</li>
+<li><a rel="mw:WikiLink" href="./Toom–Cook_multiplication" title="Toom–Cook multiplication">Toom–Cook multiplication</a>, for very large numbers</li>
+<li><a rel="mw:WikiLink" href="./Schönhage–Strassen_algorithm" title="Schönhage–Strassen algorithm">Schönhage–Strassen algorithm</a>, for huge numbers</li></ul></li></ul>
+<p><span typeof="mw:Entity"> </span></p></td>
+<td style="width: 33%;text-align: left; vertical-align: top;  ">
+<ul><li><a rel="mw:WikiLink" href="./Multiplication_table" title="Multiplication table">Multiplication table</a></li>
+<li><a rel="mw:WikiLink" href="./Binary_multiplier" title="Binary multiplier">Binary multiplier</a>, how computers multiply
+<ul><li><a rel="mw:WikiLink" href="./Booth's_multiplication_algorithm" title="Booth's multiplication algorithm">Booth's multiplication algorithm</a></li>
+<li><a rel="mw:WikiLink" href="./Floating_point" title="Floating point" class="mw-redirect">Floating point</a></li>
+<li><a rel="mw:WikiLink" href="./Fused_multiply–add" title="Fused multiply–add" class="mw-redirect">Fused multiply–add</a></li>
+<li><a rel="mw:WikiLink" href="./Multiply–accumulate" title="Multiply–accumulate" class="mw-redirect">Multiply–accumulate</a></li>
+<li><a rel="mw:WikiLink" href="./Wallace_tree" title="Wallace tree">Wallace tree</a></li></ul></li></ul>
+<p><span typeof="mw:Entity"> </span></p></td>
+<td style="text-align: left; vertical-align: top;  ">
+<ul><li><a rel="mw:WikiLink" href="./Multiplicative_inverse" title="Multiplicative inverse">Multiplicative inverse</a>, reciprocal</li>
+<li><a rel="mw:WikiLink" href="./Factorial" title="Factorial">Factorial</a></li>
+<li><a rel="mw:WikiLink" href="./Genaille–Lucas_rulers" title="Genaille–Lucas rulers">Genaille–Lucas rulers</a></li>
+<li><a rel="mw:WikiLink" href="./Napier's_bones" title="Napier's bones">Napier's bones</a></li>
+<li><a rel="mw:WikiLink" href="./Peasant_multiplication" title="Peasant multiplication" class="mw-redirect">Peasant multiplication</a></li>
+<li><a rel="mw:WikiLink" href="./Product_(mathematics)" title="Product (mathematics)">Product (mathematics)</a>, for generalizations</li>
+<li><a rel="mw:WikiLink" href="./Slide_rule" title="Slide rule">Slide rule</a></li>
+<li><a rel="mw:WikiLink" href="./Multiplicative_calculus" title="Multiplicative calculus">Multiplicative calculus</a></li></ul>
+<p><span typeof="mw:Entity"> </span></p></td></tr>
+</tbody></table></div>
+
+</section><section data-mw-section-id="21" id="mwAmE"><h2 id="Notes">Notes</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt130" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mwAmI">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt273" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Multiplication#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text"><cite class="citation web" about="#mwt6" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite web ","href":"./Template:Cite_web"},"params":{"url":{"wt":"http://d.hatena.ne.jp/enomoto-2009/touch/20090930/1254292133"},"title":{"wt":"小学校の掛け算の授業では、順序に意味があるらしい。"},"language":{"wt":"Japanese"},"trans-title":{"wt":"In elementary school multiplication lessons, the order would appear to be meaningful"},"date":{"wt":"September 30, 2009"},"accessdate":{"wt":"May 14, 2017"}},"i":0}}]}' id="mwAmM"><a rel="mw:ExtLink" class="external text" href="http://d.hatena.ne.jp/enomoto-2009/touch/20090930/1254292133" id="mwAmQ">"小学校の掛け算の授業では、順序に意味があるらしい。"</a> <span typeof="mw:Entity" id="mwAmU">[</span>In elementary school multiplication lessons, the order would appear to be meaningful<span typeof="mw:Entity" id="mwAmY">]</span> (in Japanese). September 30, 2009<span class="reference-accessdate" id="mwAmc">. Retrieved <span class="nowrap" id="mwAmg">May 14,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E5%B0%8F%E5%AD%A6%E6%A0%A1%E3%81%AE%E6%8E%9B%E3%81%91%E7%AE%97%E3%81%AE%E6%8E%88%E6%A5%AD%E3%81%A7%E3%81%AF%E3%80%81%E9%A0%86%E5%BA%8F%E3%81%AB%E6%84%8F%E5%91%B3%E3%81%8C%E3%81%82%E3%82%8B%E3%82%89%E3%81%97%E3%81%84%E3%80%82&amp;rft.date=2009-09-30&amp;rft_id=http%3A%2F%2Fd.hatena.ne.jp%2Fenomoto-2009%2Ftouch%2F20090930%2F1254292133&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt6" id="mwAmk"></span><link rel="mw:PageProp/Category" href="./Category:CS1_Japanese-language_sources_(ja)" about="#mwt6" id="mwAmo"/><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt6" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAms">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-Devlin-2" id="cite_note-Devlin-2"><span rel="mw:referencedBy"><a href="./Multiplication#cite_ref-Devlin_2-0"><span class="mw-linkback-text">1 </span></a><a href="./Multiplication#cite_ref-Devlin_2-1"><span class="mw-linkback-text">2 </span></a><a href="./Multiplication#cite_ref-Devlin_2-2"><span class="mw-linkback-text">3 </span></a></span> <span id="mw-reference-text-cite_note-Devlin-2" class="mw-reference-text"><cite class="citation web" about="#mwt12" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite web ","href":"./Template:Cite_web"},"params":{"last":{"wt":"Devlin"},"first":{"wt":"Keith"},"url":{"wt":"http://www.maa.org/external_archive/devlin/devlin_01_11.html"},"title":{"wt":"What Exactly is Multiplication?"},"author-link":{"wt":"Keith Devlin"},"publisher":{"wt":"[[Mathematical Association of America]]"},"date":{"wt":"January 2011"},"quote":{"wt":"With multiplication you have a multiplicand (written second) multiplied by a multiplier (written first)"},"accessdate":{"wt":"May 14, 2017"}},"i":0}}]}' id="mwAmw"><a rel="mw:WikiLink" href="./Keith_Devlin" title="Keith Devlin" id="mwAm0">Devlin, Keith</a> (January 2011). <a rel="mw:ExtLink" class="external text" href="http://www.maa.org/external_archive/devlin/devlin_01_11.html" id="mwAm4">"What Exactly is Multiplication?"</a>. <a rel="mw:WikiLink" href="./Mathematical_Association_of_America" title="Mathematical Association of America" id="mwAm8">Mathematical Association of America</a><span class="reference-accessdate" id="mwAnA">. Retrieved <span class="nowrap" id="mwAnE">May 14,</span> 2017</span>. <q id="mwAnI">With multiplication you have a multiplicand (written second) multiplied by a multiplier (written first)</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+Exactly+is+Multiplication%3F&amp;rft.pub=Mathematical+Association+of+America&amp;rft.date=2011-01&amp;rft.aulast=Devlin&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.maa.org%2Fexternal_archive%2Fdevlin%2Fdevlin_01_11.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt12" id="mwAnM"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt12" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAnQ"/></span></li><li about="#cite_note-3" id="cite_note-3"><a href="./Multiplication#cite_ref-3" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-3" class="mw-reference-text"><cite id="CITEREFKhan_Academy2015" class="citation" about="#mwt15" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Citation ","href":"./Template:Citation"},"params":{"last":{"wt":"Khan Academy"},"title":{"wt":"Intro to multiplication {{!}} Multiplication and division {{!}} Arithmetic {{!}} Khan Academy"},"date":{"wt":"2015-08-14"},"url":{"wt":"https://www.youtube.com/watch?v=RNxwasijbAo"},"accessdate":{"wt":"2017-03-07"}},"i":0}}]}'>Khan Academy (2015-08-14), <a rel="mw:ExtLink" class="external text" href="https://www.youtube.com/watch?v=RNxwasijbAo" id="mwAnU"><i id="mwAnY">Intro to multiplication | Multiplication and division | Arithmetic | Khan Academy</i></a><span class="reference-accessdate" id="mwAnc">, retrieved <span class="nowrap" id="mwAng">2017-03-07</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Intro+to+multiplication+%7C+Multiplication+and+division+%7C+Arithmetic+%7C+Khan+Academy&amp;rft.date=2015-08-14&amp;rft.au=Khan+Academy&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRNxwasijbAo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt15" id="mwAnk"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt15" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAno"/></span></li><li about="#cite_note-4" id="cite_note-4"><a href="./Multiplication#cite_ref-4" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-4" class="mw-reference-text"><cite id="CITEREFKhan_Academy2012" class="citation" about="#mwt22" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Citation ","href":"./Template:Citation"},"params":{"last":{"wt":"Khan Academy"},"title":{"wt":"Why aren&apos;t we using the multiplication sign? {{!}} Introduction to algebra {{!}} Algebra I {{!}} Khan Academy"},"date":{"wt":"2012-09-06"},"url":{"wt":"https://www.youtube.com/watch?v=vDaIKB19TvY"},"accessdate":{"wt":"2017-03-07"}},"i":0}}]}'>Khan Academy (2012-09-06), <a rel="mw:ExtLink" class="external text" href="https://www.youtube.com/watch?v=vDaIKB19TvY" id="mwAns"><i id="mwAnw">Why aren't we using the multiplication sign? | Introduction to algebra | Algebra I | Khan Academy</i></a><span class="reference-accessdate" id="mwAn0">, retrieved <span class="nowrap" id="mwAn4">2017-03-07</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Why+aren%27t+we+using+the+multiplication+sign%3F+%7C+Introduction+to+algebra+%7C+Algebra+I+%7C+Khan+Academy&amp;rft.date=2012-09-06&amp;rft.au=Khan+Academy&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvDaIKB19TvY&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt22" id="mwAn8"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt22" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAoA"/></span></li><li about="#cite_note-5" id="cite_note-5"><a href="./Multiplication#cite_ref-5" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-5" class="mw-reference-text"><cite class="citation book" about="#mwt28" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"title":{"wt":"Announcing the TI Programmable 88!"},"publisher":{"wt":"[[Texas Instruments]]"},"date":{"wt":"1982&lt;!--or 1983-->"},"url":{"wt":"http://www.datamath.net/Leaflets/TI-88_Announcement.pdf"},"access-date":{"wt":"2017-08-03"},"dead-url":{"wt":"no"},"archive-url":{"wt":"https://web.archive.org/web/20170803091337/http://www.datamath.net/Leaflets/TI-88_Announcement.pdf"},"archive-date":{"wt":"2017-08-03"}},"i":0}}]}' id="mwAoE"><a rel="mw:ExtLink" class="external text" href="http://www.datamath.net/Leaflets/TI-88_Announcement.pdf" id="mwAoI"><i id="mwAoM">Announcing the TI Programmable 88!</i></a> <span class="cs1-format" id="mwAoQ">(PDF)</span>. <a rel="mw:WikiLink" href="./Texas_Instruments" title="Texas Instruments" id="mwAoU">Texas Instruments</a>. 1982. <a rel="mw:ExtLink" class="external text" href="https://web.archive.org/web/20170803091337/http://www.datamath.net/Leaflets/TI-88_Announcement.pdf" id="mwAoY">Archived</a> <span class="cs1-format" id="mwAoc">(PDF)</span> from the original on 2017-08-03<span class="reference-accessdate" id="mwAog">. Retrieved <span class="nowrap" id="mwAok">2017-08-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Announcing+the+TI+Programmable+88%21&amp;rft.pub=Texas+Instruments&amp;rft.date=1982&amp;rft_id=http%3A%2F%2Fwww.datamath.net%2FLeaflets%2FTI-88_Announcement.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt28" id="mwAoo"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt28" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAos"/></span></li><li about="#cite_note-6" id="cite_note-6"><a href="./Multiplication#cite_ref-6" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-6" class="mw-reference-text"><cite class="citation web" about="#mwt33" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite web ","href":"./Template:Cite_web"},"params":{"author":{"wt":"Crewton Ramone"},"url":{"wt":"http://www.crewtonramoneshouseofmath.com/multiplicand-and-multiplier.html"},"title":{"wt":"Multiplicand and Multiplier"},"date":{"wt":""},"accessdate":{"wt":"10 November 2015"},"publisher":{"wt":"Crewton Ramone&apos;s House of Math"}},"i":0}}]}' id="mwAow">Crewton Ramone. <a rel="mw:ExtLink" class="external text" href="http://www.crewtonramoneshouseofmath.com/multiplicand-and-multiplier.html" id="mwAo0">"Multiplicand and Multiplier"</a>. Crewton Ramone's House of Math<span class="reference-accessdate" id="mwAo4">. Retrieved <span class="nowrap" id="mwAo8">10 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Multiplicand+and+Multiplier&amp;rft.pub=Crewton+Ramone%27s+House+of+Math&amp;rft.au=Crewton+Ramone&amp;rft_id=http%3A%2F%2Fwww.crewtonramoneshouseofmath.com%2Fmultiplicand-and-multiplier.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt33" id="mwApA"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt33" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwApE"/>.</span></li><li about="#cite_note-7" id="cite_note-7"><a href="./Multiplication#cite_ref-7" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-7" class="mw-reference-text"><cite class="citation book" about="#mwt34" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"author":{"wt":"Chester Litvin"},"url":{"wt":"https://books.google.com/?id=-ULmPYAA8voC&amp;pg=PA6&amp;lpg=PA6&amp;dq=Can+the+multiplicand+be+the+first+number#v=onepage&amp;q=multiplicand&amp;f=false"},"title":{"wt":"Advance Brain Stimulation by Psychoconduction"},"via":{"wt":"[[Google Book Search]]"},"date":{"wt":"2012"},"accessdate":{"wt":""},"isbn":{"wt":"978-1-4669-0152-0"},"pages":{"wt":"2–3, 5–6"}},"i":0}}]}' id="mwApI">Chester Litvin (2012). <a rel="mw:ExtLink" class="external text" href="https://books.google.com/?id=-ULmPYAA8voC&amp;pg=PA6&amp;lpg=PA6&amp;dq=Can+the+multiplicand+be+the+first+number#v=onepage&amp;q=multiplicand&amp;f=false" id="mwApM"><i id="mwApQ">Advance Brain Stimulation by Psychoconduction</i></a>. pp.<span typeof="mw:Entity" id="mwApU"> </span>2–3, 5–6. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mwApY">ISBN</a><span typeof="mw:Entity" id="mwApc"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-1-4669-0152-0" title="Special:BookSources/978-1-4669-0152-0" id="mwApg">978-1-4669-0152-0</a>  <span typeof="mw:Entity" id="mwApk">–</span> via <a rel="mw:WikiLink" href="./Google_Book_Search" title="Google Book Search" id="mwApo" class="mw-redirect">Google Book Search</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advance+Brain+Stimulation+by+Psychoconduction&amp;rft.pages=2-3%2C+5-6&amp;rft.date=2012&amp;rft.isbn=978-1-4669-0152-0&amp;rft.au=Chester+Litvin&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D-ULmPYAA8voC%26pg%3DPA6%26lpg%3DPA6%26dq%3DCan%2Bthe%2Bmultiplicand%2Bbe%2Bthe%2Bfirst%2Bnumber%23v%3Donepage%26q%3Dmultiplicand%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt34" id="mwAps"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt34" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwApw"/></span></li><li about="#cite_note-Nature-8" id="cite_note-Nature-8"><a href="./Multiplication#cite_ref-Nature_8-0" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-Nature-8" class="mw-reference-text"><cite class="citation journal" about="#mwt45" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"url":{"wt":"http://www.nature.com/news/ancient-times-table-hidden-in-chinese-bamboo-strips-1.14482"},"title":{"wt":"Ancient times table hidden in Chinese bamboo strips"},"journal":{"wt":"Nature"},"author":{"wt":"Jane Qiu"},"date":{"wt":"7 January 2014"},"accessdate":{"wt":"22 January 2014"},"doi":{"wt":"10.1038/nature.2014.14482"}},"i":0}}]}' id="mwAp0">Jane Qiu (7 January 2014). <a rel="mw:ExtLink" class="external text" href="http://www.nature.com/news/ancient-times-table-hidden-in-chinese-bamboo-strips-1.14482" id="mwAp4">"Ancient times table hidden in Chinese bamboo strips"</a>. <i id="mwAp8">Nature</i>. <a rel="mw:WikiLink" href="./Digital_object_identifier" title="Digital object identifier" id="mwAqA">doi</a>:<a rel="mw:ExtLink" class="external text" href="//doi.org/10.1038%2Fnature.2014.14482" id="mwAqE">10.1038/nature.2014.14482</a><span class="reference-accessdate" id="mwAqI">. Retrieved <span class="nowrap" id="mwAqM">22 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Ancient+times+table+hidden+in+Chinese+bamboo+strips&amp;rft.date=2014-01-07&amp;rft_id=info%3Adoi%2F10.1038%2Fnature.2014.14482&amp;rft.au=Jane+Qiu&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnews%2Fancient-times-table-hidden-in-chinese-bamboo-strips-1.14482&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt45" id="mwAqQ"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt45" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAqU"/></span></li><li about="#cite_note-9" id="cite_note-9"><a href="./Multiplication#cite_ref-9" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-9" class="mw-reference-text"><cite class="citation book" about="#mwt48" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"last":{"wt":"Fine"},"first":{"wt":"Henry B."},"author-link":{"wt":"Henry Burchard Fine"},"title":{"wt":"The Number System of Algebra – Treated Theoretically and Historically"},"edition":{"wt":"2nd"},"date":{"wt":"1907"},"page":{"wt":"90"},"url":{"wt":"https://archive.org/download/numbersystemofal00fineuoft/numbersystemofal00fineuoft.pdf"}},"i":0}}]}' id="mwAqY"><a rel="mw:WikiLink" href="./Henry_Burchard_Fine" title="Henry Burchard Fine" id="mwAqc">Fine, Henry B.</a> (1907). <a rel="mw:ExtLink" class="external text" href="https://archive.org/download/numbersystemofal00fineuoft/numbersystemofal00fineuoft.pdf" id="mwAqg"><i id="mwAqk">The Number System of Algebra – Treated Theoretically and Historically</i></a> <span class="cs1-format" id="mwAqo">(PDF)</span> (2nd ed.). p.<span typeof="mw:Entity" id="mwAqs"> </span>90.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Number+System+of+Algebra+%E2%80%93+Treated+Theoretically+and+Historically&amp;rft.pages=90&amp;rft.edition=2nd&amp;rft.date=1907&amp;rft.aulast=Fine&amp;rft.aufirst=Henry+B.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdownload%2Fnumbersystemofal00fineuoft%2Fnumbersystemofal00fineuoft.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt48" id="mwAqw"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt48" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAq0"/></span></li><li about="#cite_note-10" id="cite_note-10"><a href="./Multiplication#cite_ref-10" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-10" class="mw-reference-text"><cite class="citation web" about="#mwt81" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite web ","href":"./Template:Cite_web"},"params":{"url":{"wt":"http://planetmath.org/encyclopedia/PeanoArithmetic.html"},"title":{"wt":"Peano arithmetic"},"publisher":{"wt":"[[PlanetMath]]"}},"i":0}}]}' id="mwAq4"><a rel="mw:ExtLink" class="external text" href="http://planetmath.org/encyclopedia/PeanoArithmetic.html" id="mwAq8">"Peano arithmetic"</a>. <a rel="mw:WikiLink" href="./PlanetMath" title="PlanetMath" id="mwArA">PlanetMath</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Peano+arithmetic&amp;rft.pub=PlanetMath&amp;rft_id=http%3A%2F%2Fplanetmath.org%2Fencyclopedia%2FPeanoArithmetic.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt81" id="mwArE"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt81" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwArI"/></span></li></ol></div></div>
+
+</section><section data-mw-section-id="22" id="mwArM"><h2 id="References">References</h2>
+<ul id="mwArQ"><li id="mwArU"><cite class="citation book" about="#mwt131" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book ","href":"./Template:Cite_book"},"params":{"author":{"wt":"[[Carl Boyer|Boyer, Carl B.]] (revised by [[Uta Merzbach|Merzbach, Uta C.]])"},"title":{"wt":"History of Mathematics"},"publisher":{"wt":"John Wiley and Sons, Inc."},"year":{"wt":"1991"},"isbn":{"wt":"978-0-471-54397-8"}},"i":0}}]}' id="mwArY"><a rel="mw:WikiLink" href="./Carl_Boyer" title="Carl Boyer" class="mw-redirect">Boyer, Carl B.</a> (revised by <a rel="mw:WikiLink" href="./Uta_Merzbach" title="Uta Merzbach">Merzbach, Uta C.</a>) (1991). <i>History of Mathematics</i>. John Wiley and Sons, Inc. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number">ISBN</a><span typeof="mw:Entity"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-471-54397-8" title="Special:BookSources/978-0-471-54397-8">978-0-471-54397-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=History+of+Mathematics&amp;rft.pub=John+Wiley+and+Sons%2C+Inc.&amp;rft.date=1991&amp;rft.isbn=978-0-471-54397-8&amp;rft.au=Boyer%2C+Carl+B.+%28revised+by+Merzbach%2C+Uta+C.%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMultiplication" class="Z3988" about="#mwt131"></span><span class="cs1-maint citation-comment" about="#mwt131">CS1 maint: Multiple names: authors list (<a rel="mw:WikiLink" href="./Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span><link rel="mw:PageProp/Category" href="./Category:CS1_maint:_Multiple_names:_authors_list" about="#mwt131"/><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt131" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}'/></li></ul>
+
+</section><section data-mw-section-id="23" id="mwArc"><h2 id="External_links">External links</h2>
+<ul id="mwArg"><li id="mwArk"><a rel="mw:ExtLink" class="external text" href="http://www.cut-the-knot.org/do_you_know/multiplication.shtml" id="mwAro">Multiplication</a> and <a rel="mw:ExtLink" class="external text" href="http://www.cut-the-knot.org/blue/SysTable.shtml" id="mwArs">Arithmetic Operations In Various Number Systems</a> at <a rel="mw:WikiLink" href="./Cut-the-knot" title="Cut-the-knot" id="mwArw" class="mw-redirect">cut-the-knot</a></li>
+<li id="mwAr0"><a rel="mw:ExtLink" class="external text" href="http://webhome.idirect.com/~totton/suanpan/mod_mult/" id="mwAr4">Modern Chinese Multiplication Techniques on an Abacus</a></li></ul>
+
+<div role="navigation" class="navbox" aria-labelledby="Elementary_arithmetic" style="padding:3px" about="#mwt132" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Elementary arithmetic","href":"./Template:Elementary_arithmetic"},"params":{},"i":0}}]}' id="mwAr8"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Elementary_arithmetic" title="Template:Elementary arithmetic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Elementary_arithmetic" title="Template talk:Elementary arithmetic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Elementary_arithmetic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Elementary_arithmetic" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Elementary_arithmetic" title="Elementary arithmetic">Elementary arithmetic</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;"><tbody><tr style="vertical-align:top;"><td style="width:5em;"><span typeof="mw:Entity"> </span><span typeof="mw:Entity"> </span><span typeof="mw:Entity"> </span></td><td class="navbox-list" style="padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Addition"><img resource="./File:Symbol_support_vote.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/60px-Symbol_support_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/45px-Symbol_support_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Addition" title="Addition">Addition</a> (<a rel="mw:WikiLink" href="./Addition" title="Addition">+</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Subtraction"><img resource="./File:Symbol_oppose_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/30px-Symbol_oppose_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/60px-Symbol_oppose_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/45px-Symbol_oppose_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction</a> (<a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">−</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Multiplication"><img resource="./File:Symbol_multiplication_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/30px-Symbol_multiplication_vote.svg.png" data-file-width="1800" data-file-height="1850" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/60px-Symbol_multiplication_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/45px-Symbol_multiplication_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">Multiplication</a> (<a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">×</a> or <a rel="mw:WikiLink" href="./Interpunct" title="Interpunct">·</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Division_(mathematics)"><img resource="./File:Symbol_divide_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/30px-Symbol_divide_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/60px-Symbol_divide_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/45px-Symbol_divide_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division</a> (<a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">÷</a> or <a rel="mw:WikiLink" href="./Slash_(punctuation)" title="Slash (punctuation)">/</a>)</p>
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Hyperoperations" style="padding:3px" about="#mwt133" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Hyperoperations","href":"./Template:Hyperoperations"},"params":{},"i":0}}]}' id="mwAsA"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Hyperoperations" title="Template:Hyperoperations"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Hyperoperations" title="Template talk:Hyperoperations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hyperoperations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Hyperoperations" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Hyperoperation" title="Hyperoperation">Hyperoperations</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Primary</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Successor_function" title="Successor function">Successor (0)</a></li>
+<li><a rel="mw:WikiLink" href="./Addition" title="Addition">Addition (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">Multiplication (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Exponentiation" title="Exponentiation">Exponentiation (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Tetration" title="Tetration">Tetration (4)</a></li>
+<li><a rel="mw:WikiLink" href="./Pentation" title="Pentation">Pentation (5)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inverse for left argument</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Nth_root" title="Nth root"><i>n</i>th root (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Super-root" title="Super-root" class="mw-redirect">Super-root (4)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inverse for right argument</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Logarithm" title="Logarithm">Logarithm (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Super-logarithm" title="Super-logarithm">Super-logarithm (4)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Ackermann_function" title="Ackermann function">Ackermann function</a></li>
+<li><a rel="mw:WikiLink" href="./Bowers's_operators" title="Bowers's operators">Bowers's operators</a></li>
+<li><a rel="mw:WikiLink" href="./Conway_chained_arrow_notation" title="Conway chained arrow notation">Conway chained arrow notation</a></li>
+<li><a rel="mw:WikiLink" href="./Grzegorczyk_hierarchy" title="Grzegorczyk hierarchy">Grzegorczyk hierarchy</a></li>
+<li><a rel="mw:WikiLink" href="./Knuth's_up-arrow_notation" title="Knuth's up-arrow notation">Knuth's up-arrow notation</a></li>
+<li><a rel="mw:WikiLink" href="./Steinhaus–Moser_notation" title="Steinhaus–Moser notation">Steinhaus–Moser notation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q40276&amp;#124;Edit_this_at_Wikidata" style="padding:3px" about="#mwt134" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Authority control","href":"./Template:Authority_control"},"params":{},"i":0}}]}' id="mwAsE"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q40276&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Help:Authority_control" title="Help:Authority control">Authority control</a> <figure-inline class="mw-valign-text-top" typeof="mw:Image/Frameless" data-mw='{"caption":"Edit this at Wikidata"}'><a href="https://www.wikidata.org/wiki/Q40276"><img alt="Edit this at Wikidata" resource="./File:Blue_pencil.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" data-file-width="600" data-file-height="600" data-file-type="drawing" height="10" width="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x"/></a></figure-inline></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a rel="mw:WikiLink" href="./Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://d-nb.info/gnd/4170732-1">4170732-1</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_GND_identifiers"/></span></span></li>
+<li><span class="nowrap"><a rel="mw:WikiLink" href="./National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00575007">00575007</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_NDL_identifiers"/></span></span></li></ul>
+
+</div></td></tr></tbody></table></div>
+
+<link rel="mw:PageProp/Category" href="./Category:Elementary_arithmetic" id="mwAsI"/>
+<link rel="mw:PageProp/Category" href="./Category:Binary_operations" id="mwAsM"/>
+<link rel="mw:PageProp/Category" href="./Category:Mathematical_notation" id="mwAsQ"/>
+<link rel="mw:PageProp/Category" href="./Category:Articles_containing_proofs" id="mwAsU"/>
+<link rel="mw:PageProp/Category" href="./Category:Multiplication#%20" id="mwAsY"/></section></body></html>

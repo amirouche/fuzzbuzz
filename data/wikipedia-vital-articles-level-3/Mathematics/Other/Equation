@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/885334633"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="c5c863e0-3a80-11e9-8afb-c6440bde00e8"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="9284"/><link rel="dc:replaces" resource="mwr:revision/884932200"/><meta property="dc:modified" content="2019-02-27T11:13:50.000Z"/><meta property="mw:revisionSHA1" content="706f932e7000394b7c5156873c36c0180aea3db7"/><meta property="mw:html:version" content="2.1.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Equation"/><title>Equation</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"other uses","href":"./Template:Other_uses"},"params":{},"i":0}}]}' id="mwAg">For other uses, see <a rel="mw:WikiLink" href="./Equation_(disambiguation)" title="Equation (disambiguation)">Equation (disambiguation)</a>.</div>
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mwAw"><a href="./File:First_Equation_Ever.png" id="mwBA"><img resource="./File:First_Equation_Ever.png" src="//upload.wikimedia.org/wikipedia/commons/8/8d/First_Equation_Ever.png" data-file-width="217" data-file-height="27" data-file-type="bitmap" height="27" width="217" id="mwBQ"/></a><figcaption id="mwBg">The first use of an equals sign, equivalent to 14<i id="mwBw">x</i> + 15 = 71 in modern notation. From <i id="mwCA"><a rel="mw:WikiLink" href="./The_Whetstone_of_Witte" title="The Whetstone of Witte" id="mwCQ">The Whetstone of Witte</a></i> by <a rel="mw:WikiLink" href="./Robert_Recorde" title="Robert Recorde" id="mwCg">Robert Recorde</a> of Wales (1557).</figcaption></figure>
+
+<p id="mwCw">In <a rel="mw:WikiLink" href="./Mathematics" title="Mathematics" id="mwDA">mathematics</a>, an <b id="mwDQ">equation</b> is a statement that asserts the <a rel="mw:WikiLink" href="./Equality_(mathematics)" title="Equality (mathematics)" id="mwDg">equality</a> of two expressions.  The word <i id="mwDw">equation</i> and its <a rel="mw:WikiLink" href="./Cognate" title="Cognate" id="mwEA">cognates</a> in other languages may have subtly different meanings; for example, in <a rel="mw:WikiLink" href="./French_language" title="French language" id="mwEQ">French</a> an <i id="mwEg">équation</i> is defined as containing one or more <a rel="mw:WikiLink" href="./Variable_(mathematics)" title="Variable (mathematics)" id="mwEw">variables</a>, while in <a rel="mw:WikiLink" href="./English_language" title="English language" id="mwFA">English</a> any equality is an equation.<sup about="#mwt95" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Equation#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup></p>
+
+<p id="mwFQ"><a rel="mw:WikiLink" href="./Equation_solving" title="Equation solving" id="mwFg"><i id="mwFw">Solving</i> an equation</a> containing variables consists of determining which values of the variables make the equality true. Variables are also called <b id="mwGA">unknowns</b> and the values of the unknowns that satisfy the equality are called <a rel="mw:WikiLink" href="./Solution_(equation)" title="Solution (equation)" id="mwGQ" class="mw-redirect">solutions</a> of the equation. There are two kinds of equations: <a rel="mw:WikiLink" href="./Identity_(mathematics)" title="Identity (mathematics)" id="mwGg">identities</a> and conditional equations. An identity is true for all values of the variable. A conditional equation is true for only particular values of the variables.<sup about="#mwt97" class="mw-ref" id="cite_ref-2" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-2"}}'><a href="./Equation#cite_note-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup><sup about="#mwt87" class="mw-ref" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="./Equation#cite_note-3" style="counter-reset: mw-Ref 3;"><span class="mw-reflink-text">[3]</span></a></sup></p>
+
+<p id="mwGw">An equation is written as two <a rel="mw:WikiLink" href="./Expression_(mathematics)" title="Expression (mathematics)" id="mwHA">expressions</a>, connected by a <a rel="mw:WikiLink" href="./Equals_sign" title="Equals sign" id="mwHQ">equals sign</a> ("="). The expressions on the two <a rel="mw:WikiLink" href="./Sides_of_an_equation" title="Sides of an equation" id="mwHg">sides</a> of the equals sign are called the "left-hand side" and "right-hand side" of the equation.</p>
+
+<p id="mwHw">The most common type of equation is an <a rel="mw:WikiLink" href="./Algebraic_equation" title="Algebraic equation" id="mwIA">algebraic equation</a>, in which the two sides are <a rel="mw:WikiLink" href="./Algebraic_expression" title="Algebraic expression" id="mwIQ">algebraic expressions</a>.
+Each side of an algebraic equation will contain one or more <a rel="mw:WikiLink" href="./Addition#Notation_and_terminology" title="Addition" id="mwIg">terms</a>. For example, the equation </p>
+
+<dl id="mwIw"><dd id="mwJA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt72" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" Ax^2 +Bx + C = y "}}' id="mwJQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle Ax^{2}+Bx+C=y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi>B</mi>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>C</mi>
+        <mo>=</mo>
+        <mi>y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Ax^{2}+Bx+C=y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7be821daafcefcac94761c17251ec96c9225a074" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:18.922ex; height:3.009ex;" alt="{\displaystyle Ax^{2}+Bx+C=y}"/></span><span about="#mwt72">
+</span></dd></dl>
+
+<p id="mwJg">has left-hand side <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt74" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" Ax^2 +Bx + C "}}' id="mwJw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle Ax^{2}+Bx+C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi>B</mi>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle Ax^{2}+Bx+C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/012d611189aa132d75568d812ee74cb4bbb96f56" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:14.668ex; height:2.843ex;" alt="{\displaystyle Ax^{2}+Bx+C}"/></span><span about="#mwt74">
+</span>, which has three terms, and right-hand side <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt76" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" y "}}' id="mwKA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.155ex; height:2.009ex;" alt="y"/></span><span about="#mwt76">
+</span>, consisting of just one term. The unknowns are <i id="mwKQ">x</i> and <i id="mwKg">y</i> and the parameters are <i id="mwKw">A</i>, <i id="mwLA">B</i>, and <i id="mwLQ">C</i>.</p>
+
+<p id="mwLg">An equation is analogous to a scale into which weights are placed. When equal weights of something (grain for example) are placed into the two pans, the two weights cause the scale to be in balance and are said to be equal. If a quantity of grain is removed from one pan of the balance, an equal amount of grain must be removed from the other pan to keep the scale in balance. Likewise, to keep an equation in balance, the same operations of addition, subtraction, multiplication and division must be performed on both sides of an equation for it to remain true.</p>
+
+<p id="mwLw">In <a rel="mw:WikiLink" href="./Geometry" title="Geometry" id="mwMA">geometry</a>, equations are used to describe <a rel="mw:WikiLink" href="./Geometric_figures" title="Geometric figures" id="mwMQ" class="mw-redirect">geometric figures</a>. As the equations that are considered, such as <a rel="mw:WikiLink" href="./Implicit_equation" title="Implicit equation" id="mwMg" class="mw-redirect">implicit equations</a> or <a rel="mw:WikiLink" href="./Parametric_equation" title="Parametric equation" id="mwMw">parametric equations</a>, have infinitely many solutions, the objective is now different: instead of giving the solutions explicitly or counting them, which is impossible, one uses equations for studying properties of figures. This is the starting idea of <a rel="mw:WikiLink" href="./Algebraic_geometry" title="Algebraic geometry" id="mwNA">algebraic geometry</a>, an important area of mathematics.</p>
+
+<p id="mwNQ"><a rel="mw:WikiLink" href="./Algebra" title="Algebra" id="mwNg">Algebra</a> studies two main families of equations: <a rel="mw:WikiLink" href="./Polynomial_equations" title="Polynomial equations" id="mwNw" class="mw-redirect">polynomial equations</a> and, among them, the special case of <a rel="mw:WikiLink" href="./Linear_equations" title="Linear equations" id="mwOA" class="mw-redirect">linear equations</a>. When there is only one variable, polynomial equations have the form <i id="mwOQ">P</i>(<i id="mwOg">x</i>)<span typeof="mw:Entity" id="mwOw"> </span>=<span typeof="mw:Entity" id="mwPA"> </span>0, where <i id="mwPQ">P</i> is a <a rel="mw:WikiLink" href="./Polynomial" title="Polynomial" id="mwPg">polynomial</a>, and linear equations have the form <i id="mwPw">ax</i><span typeof="mw:Entity" id="mwQA"> </span>+<span typeof="mw:Entity" id="mwQQ"> </span><i id="mwQg">b</i><span typeof="mw:Entity" id="mwQw"> </span>=<span typeof="mw:Entity" id="mwRA"> </span>0, where <i id="mwRQ">a</i> and <i id="mwRg">b</i> are <a rel="mw:WikiLink" href="./Parameter#Mathematical_functions" title="Parameter" id="mwRw">parameters</a>. To solve equations from either family, one uses algorithmic or geometric techniques that originate from <a rel="mw:WikiLink" href="./Linear_algebra" title="Linear algebra" id="mwSA">linear algebra</a> or <a rel="mw:WikiLink" href="./Mathematical_analysis" title="Mathematical analysis" id="mwSQ">mathematical analysis</a>. Algebra also studies <a rel="mw:WikiLink" href="./Diophantine_equations" title="Diophantine equations" id="mwSg" class="mw-redirect">Diophantine equations</a> where the coefficients and solutions are <a rel="mw:WikiLink" href="./Integers" title="Integers" id="mwSw" class="mw-redirect">integers</a>. The techniques used are different and come from <a rel="mw:WikiLink" href="./Number_theory" title="Number theory" id="mwTA">number theory</a>. These equations are difficult in general; one often searches just to find the existence or absence of a solution, and, if they exist, to count the number of solutions.</p>
+
+<p id="mwTQ"><a rel="mw:WikiLink" href="./Differential_equations" title="Differential equations" id="mwTg" class="mw-redirect">Differential equations</a> are equations that involve one or more functions and their derivatives. They are <i id="mwTw">solved</i> by finding an expression for the function that does not involve derivatives. Differential equations are used to model processes that involve the rates of change of the variable, and are used in areas such as physics, chemistry, biology, and economics.</p>
+
+<p id="mwUA">The "<a rel="mw:WikiLink" href="./=" title="=" id="mwUQ" class="mw-redirect">=</a>" symbol, which appears in every equation, was invented in 1557 by <a rel="mw:WikiLink" href="./Robert_Recorde" title="Robert Recorde" id="mwUg">Robert Recorde</a>, who considered that nothing could be more equal than parallel straight lines with the same length.<sup about="#mwt16" class="mw-ref" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="./Equation#cite_note-4" style="counter-reset: mw-Ref 4;"><span class="mw-reflink-text">[4]</span></a></sup></p>
+
+</section><section data-mw-section-id="1" id="mwUw"><h2 id="Introduction">Introduction</h2>
+<section data-mw-section-id="2" id="mwVA"><h3 id="Analogous_illustration">Analogous illustration</h3>
+
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwVQ"><a href="./File:Equation_illustration_colour.svg" id="mwVg"><img resource="./File:Equation_illustration_colour.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Equation_illustration_colour.svg/220px-Equation_illustration_colour.svg.png" data-file-width="278" data-file-height="291" data-file-type="drawing" height="230" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Equation_illustration_colour.svg/440px-Equation_illustration_colour.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Equation_illustration_colour.svg/330px-Equation_illustration_colour.svg.png 1.5x" id="mwVw"/></a><figcaption id="mwWA">Illustration of a simple equation; <i id="mwWQ">x</i>, <i id="mwWg">y</i>, <i id="mwWw">z</i> are real numbers, analogous to weights.</figcaption></figure>
+
+<p id="mwXA">An equation is analogous to a <a rel="mw:WikiLink" href="./Weighing_scale" title="Weighing scale" id="mwXQ">weighing scale</a>, balance, or <a rel="mw:WikiLink" href="./Seesaw" title="Seesaw" id="mwXg">seesaw</a>.</p>
+
+<p id="mwXw">Each side of the equation corresponds to one side of the balance. Different quantities can be placed on each side: if the weights on the two sides are equal, the scale balances, and in analogy the equality that represents the balance is also balanced (if not, then the lack of balance corresponds to an <a rel="mw:WikiLink" href="./Inequality_(mathematics)" title="Inequality (mathematics)" id="mwYA">inequality</a> represented by an <a rel="mw:WikiLink" href="./Inequation" title="Inequation" id="mwYQ">inequation</a>).</p>
+
+<p id="mwYg">In the illustration, <i id="mwYw">x</i>, <i id="mwZA">y</i> and <i id="mwZQ">z</i> are all different quantities (in this case <a rel="mw:WikiLink" href="./Real_numbers" title="Real numbers" id="mwZg" class="mw-redirect">real numbers</a>) represented as circular weights, and each of <i id="mwZw">x</i>, <i id="mwaA">y</i>, and <i id="mwaQ">z</i> has a different weight. Addition corresponds to adding weight, while subtraction corresponds to removing weight from what is already there. When equality holds, the total weight on each side is the same.</p>
+
+</section><section data-mw-section-id="3" id="mwag"><h3 id="Parameters_and_unknowns">Parameters and unknowns</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt17" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"see also","href":"./Template:See_also"},"params":{"1":{"wt":"Expression (mathematics)"}},"i":0}}]}' id="mwaw">See also: <a rel="mw:WikiLink" href="./Expression_(mathematics)" title="Expression (mathematics)">Expression (mathematics)</a></div>
+<p id="mwbA">Equations often contain terms other than the unknowns. These other terms, which are assumed to be <i id="mwbQ">known</i>, are usually called <i id="mwbg">constants</i>, <i id="mwbw">coefficients</i> or <i id="mwcA">parameters</i>.</p>
+
+<p id="mwcQ">An example of an equation involving <i id="mwcg">x</i> and <i id="mwcw">y</i> as unknowns and the parameter <i id="mwdA">R</i> is</p>
+
+<dl id="mwdQ"><dd id="mwdg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt102" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" x^2 +y^2 = R^2 ."}}' id="mwdw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x^{2}+y^{2}=R^{2}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>R</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}+y^{2}=R^{2}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe1f27078e621122772fdeb967fe85a71be259b5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:14.003ex; height:3.009ex;" alt="{\displaystyle x^{2}+y^{2}=R^{2}.}"/></span><span about="#mwt102">
+</span></dd></dl>
+
+<p id="mweA">When <i id="mweQ">R </i>is chosen to have the value of 2 (<i id="mweg">R </i>= 2), this equation would be recognized, when sketched in <a rel="mw:WikiLink" href="./Cartesian_coordinates" title="Cartesian coordinates" id="mwew" class="mw-redirect">Cartesian coordinates</a>, as the equation for a particular circle with a radius of 2. Hence, the equation with <i id="mwfA">R</i> unspecified is the general equation for the circle.</p>
+
+<p id="mwfQ">Usually, the unknowns are denoted by letters at the end of the alphabet, <i id="mwfg">x</i>, <i id="mwfw">y</i>, <i id="mwgA">z</i>, <i id="mwgQ">w</i>, …, while coefficients (parameters) are denoted by letters at the beginning, <i id="mwgg">a</i>, <i id="mwgw">b</i>, <i id="mwhA">c</i>, <i id="mwhQ">d</i>, … . For example, the general <a rel="mw:WikiLink" href="./Quadratic_equation" title="Quadratic equation" id="mwhg">quadratic equation</a> is usually written <i id="mwhw">ax</i><sup id="mwiA">2</sup><span typeof="mw:Entity" id="mwiQ"> </span>+<span typeof="mw:Entity" id="mwig"> </span><i id="mwiw">bx</i><span typeof="mw:Entity" id="mwjA"> </span>+<span typeof="mw:Entity" id="mwjQ"> </span><i id="mwjg">c</i><span typeof="mw:Entity" id="mwjw"> </span>=<span typeof="mw:Entity" id="mwkA"> </span>0. The process of finding the solutions, or, in case of parameters, expressing the unknowns in terms of the parameters is called <a rel="mw:WikiLink" href="./Equation_solving" title="Equation solving" id="mwkQ">solving the equation</a>. Such expressions of the solutions in terms of the parameters are also called <i id="mwkg">solutions</i>.</p>
+
+<p id="mwkw">A <a rel="mw:WikiLink" href="./System_of_equations" title="System of equations" id="mwlA">system of equations</a> is a set of <i id="mwlQ">simultaneous equations</i>, usually in several unknowns, for which the common solutions are sought. Thus a <i id="mwlg">solution to the system</i> is a set of values for each of the unknowns, which together form a solution to each equation in the system. For example, the system</p>
+<dl id="mwlw"><dd id="mwmA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt104" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\begin{align}\n3x+5y&amp;=2\\\\\n5x+8y&amp;=3\n\\end{align}\n"}}' id="mwmQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{aligned}3x+5y&amp;=2\\5x+8y&amp;=3\end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mn>3</mn>
+                <mi>x</mi>
+                <mo>+</mo>
+                <mn>5</mn>
+                <mi>y</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mn>2</mn>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>5</mn>
+                <mi>x</mi>
+                <mo>+</mo>
+                <mn>8</mn>
+                <mi>y</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mn>3</mn>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}3x+5y&amp;=2\\5x+8y&amp;=3\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64d70f591a29304ca95853d2b2ddd15fe3b67b94" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:12.663ex; height:5.843ex;" alt="{\begin{aligned}3x+5y&amp;=2\\5x+8y&amp;=3\end{aligned}}"/></span><span about="#mwt104">
+</span></dd></dl>
+<p id="mwmg">has the unique solution <i id="mwmw">x</i><span typeof="mw:Entity" id="mwnA"> </span>=<span typeof="mw:Entity" id="mwnQ"> </span>−1, <i id="mwng">y</i><span typeof="mw:Entity" id="mwnw"> </span>=<span typeof="mw:Entity" id="mwoA"> </span>1.</p>
+
+</section><section data-mw-section-id="4" id="mwoQ"><h3 id="Identities">Identities</h3>
+
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt20" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Identity (mathematics)"},"2":{"wt":"List of trigonometric identities"}},"i":0}}]}' id="mwog">Main articles: <a rel="mw:WikiLink" href="./Identity_(mathematics)" title="Identity (mathematics)">Identity (mathematics)</a> and <a rel="mw:WikiLink" href="./List_of_trigonometric_identities" title="List of trigonometric identities">List of trigonometric identities</a></div>
+
+<p id="mwow">An <b id="mwpA">identity</b> is an equation that is true for all possible values of the variable(s) it contains. Many identities are known in algebra and calculus. In the process of solving an equation, an identity is often used to simplify an equation making it more easily solvable.</p>
+
+<p id="mwpQ">In algebra, an example of an identity is the <a rel="mw:WikiLink" href="./Difference_of_two_squares" title="Difference of two squares" id="mwpg">difference of two squares</a>:</p>
+
+<dl id="mwpw"><dd id="mwqA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt106" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x^2 - y^2 = (x+y)(x-y) "}}' id="mwqQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x^{2}-y^{2}=(x+y)(x-y)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>−<!-- − --></mo>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>−<!-- − --></mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}-y^{2}=(x+y)(x-y)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6364fdb9e9d31860302d0d4dd231cc4f06e992c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:24.807ex; height:3.176ex;" alt="x^{2}-y^{2}=(x+y)(x-y)"/></span><span about="#mwt106">
+</span></dd></dl>
+
+<p id="mwqg">which is true for all <i id="mwqw">x</i> and <i id="mwrA">y</i>.</p>
+
+<p id="mwrQ"><a rel="mw:WikiLink" href="./Trigonometry" title="Trigonometry" id="mwrg">Trigonometry</a> is an area where many identities exist; these are useful in manipulating or solving <a rel="mw:WikiLink" href="./Trigonometric_equation" title="Trigonometric equation" id="mwrw" class="mw-redirect">trigonometric equations</a>. Two of many that involve the <a rel="mw:WikiLink" href="./Sine_function" title="Sine function" id="mwsA" class="mw-redirect">sine</a> and <a rel="mw:WikiLink" href="./Cosine_function" title="Cosine function" id="mwsQ" class="mw-redirect">cosine</a> functions are:</p>
+
+<dl id="mwsg"><dd id="mwsw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt108" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\sin^2(\\theta)+\\cos^2(\\theta) = 1 "}}' id="mwtA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \sin ^{2}(\theta )+\cos ^{2}(\theta )=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>sin</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <msup>
+          <mi>cos</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sin ^{2}(\theta )+\cos ^{2}(\theta )=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47f3203bca6dc55c36d94ee525c44dac9e1716f1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:20.976ex; height:3.176ex;" alt="{\displaystyle \sin ^{2}(\theta )+\cos ^{2}(\theta )=1}"/></span><span about="#mwt108">
+</span></dd></dl>
+
+<p id="mwtQ">and</p>
+
+<dl id="mwtg"><dd id="mwtw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt110" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\sin(2\\theta)=2\\sin(\\theta) \\cos(\\theta) "}}' id="mwuA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \sin(2\theta )=2\sin(\theta )\cos(\theta )}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>sin</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>2</mn>
+        <mi>sin</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mi>cos</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sin(2\theta )=2\sin(\theta )\cos(\theta )}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49b9120d4e69a660935b978d66f352fd2e645199" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.719ex; height:2.843ex;" alt="\sin(2\theta )=2\sin(\theta )\cos(\theta )"/></span><span about="#mwt110">
+</span></dd></dl>
+
+<p id="mwuQ">which are both true for all values of <i id="mwug">θ</i>.</p>
+
+<p id="mwuw">For example, to solve for the value of <i id="mwvA">θ</i> that satisfies the equation:</p>
+
+<dl id="mwvQ"><dd id="mwvg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt112" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"3\\sin(\\theta) \\cos(\\theta)= 1\\,, "}}' id="mwvw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 3\sin(\theta )\cos(\theta )=1\,,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>3</mn>
+        <mi>sin</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mi>cos</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 3\sin(\theta )\cos(\theta )=1\,,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef5afc15255c1fbbb969663c81461fde3c67f197" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.998ex; height:2.843ex;" alt="3\sin(\theta )\cos(\theta )=1\,,"/></span><span about="#mwt112">
+</span></dd></dl>
+
+<p id="mwwA">where <i id="mwwQ">θ</i> is known to be limited to between 0 and 45 degrees, we may use the above identity for the product to give:</p>
+
+<dl id="mwwg"><dd id="mwww"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt114" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{3}{2}\\sin(2 \\theta) = 1\\,,"}}' id="mwxA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {3}{2}}\sin(2\theta )=1\,,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>3</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mi>sin</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mi>θ<!-- θ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {3}{2}}\sin(2\theta )=1\,,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d40af5eefb61021cfcf56a14ecc5407d8f2417e4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:14.598ex; height:5.176ex;" alt="{\frac {3}{2}}\sin(2\theta )=1\,,"/></span><span about="#mwt114">
+</span></dd></dl>
+
+<p id="mwxQ">yielding the solution for <i id="mwxg">θ</i></p>
+
+<dl id="mwxw"><dd id="mwyA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt116" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\theta = \\frac{1}{2} \\arcsin\\left(\\frac{2}{3}\\right) \\approx 20.9^\\circ."}}' id="mwyQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \theta ={\frac {1}{2}}\arcsin \left({\frac {2}{3}}\right)\approx 20.9^{\circ }.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>θ<!-- θ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mi>arcsin</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mn>2</mn>
+              <mn>3</mn>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>≈<!-- ≈ --></mo>
+        <msup>
+          <mn>20.9</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>∘<!-- ∘ --></mo>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \theta ={\frac {1}{2}}\arcsin \left({\frac {2}{3}}\right)\approx 20.9^{\circ }.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d051c1ae231480e303ae4e8291dfe51173147613" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:26.89ex; height:6.176ex;" alt="\theta ={\frac {1}{2}}\arcsin \left({\frac {2}{3}}\right)\approx 20.9^{\circ }."/></span><span about="#mwt116">
+</span></dd></dl>
+
+<p id="mwyg">Since the sine function is a <a rel="mw:WikiLink" href="./Periodic_function" title="Periodic function" id="mwyw">periodic function</a>, there are infinitely many solutions if there are no restrictions on <i id="mwzA">θ</i>. In this example, the restriction that <i id="mwzQ">θ</i> be between 0 and 45 degrees implies there is only one solution.</p>
+
+</section></section><section data-mw-section-id="5" id="mwzg"><h2 id="Properties">Properties</h2>
+
+<p id="mwzw">Two equations or two systems of equations are <i id="mw0A">equivalent</i> if they have the same set of solutions. The following operations transform an equation or a system of equations into an equivalent one – provided that the operations are meaningful for the expressions they are applied to:</p>
+<ul id="mw0Q"><li id="mw0g"><a rel="mw:WikiLink" href="./Addition" title="Addition" id="mw0w">Adding</a> or <a rel="mw:WikiLink" href="./Subtraction" title="Subtraction" id="mw1A">subtracting</a> the same quantity to both sides of an equation. This shows that every equation is equivalent to an equation in which the right-hand side is zero.</li>
+<li id="mw1Q"><a rel="mw:WikiLink" href="./Multiplication" title="Multiplication" id="mw1g">Multiplying</a> or <a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)" id="mw1w">dividing</a> both sides of an equation by a non-zero quantity.</li>
+<li id="mw2A">Applying an <a rel="mw:WikiLink" href="./Identity_(mathematics)" title="Identity (mathematics)" id="mw2Q">identity</a> to transform one side of the equation. For example, <a rel="mw:WikiLink" href="./Polynomial_expansion" title="Polynomial expansion" id="mw2g">expanding</a> a product or <a rel="mw:WikiLink" href="./Factorization_of_polynomials" title="Factorization of polynomials" id="mw2w">factoring</a> a sum.</li>
+<li id="mw3A">For a system: adding to both sides of an equation the corresponding side of another equation, multiplied by the same quantity.</li></ul>
+
+<p id="mw3Q">If some <a rel="mw:WikiLink" href="./Function_(mathematics)" title="Function (mathematics)" id="mw3g">function</a> is applied to both sides of an equation, the resulting equation has the solutions of the initial equation among its solutions, but may have further solutions called <a rel="mw:WikiLink" href="./Extraneous_solution" title="Extraneous solution" id="mw3w" class="mw-redirect">extraneous solutions</a>. For example, the equation <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt118" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x=1"}}' id="mw4A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee42176e76ae6b56d68c42ced807e08b962a2b54" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.591ex; height:2.176ex;" alt="x=1"/></span><span about="#mwt118">
+</span> has the solution <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt120" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x=1."}}' id="mw4Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x=1.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>=</mo>
+        <mn>1.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x=1.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45c68848dcaa8574feb04951e71070f80b77f752" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.237ex; height:2.176ex;" alt="x=1."/></span><span about="#mwt120">
+</span> Raising both sides to the exponent of 2 (which means applying the function <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt122" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"f(s)=s^2"}}' id="mw4g"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle f(s)=s^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>s</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>s</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(s)=s^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/811ad531067d574222332295705ff8220cf70a78" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.421ex; height:3.176ex;" alt="f(s)=s^{2}"/></span><span about="#mwt122">
+</span> to both sides of the equation) changes the equation to <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt124" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x^2=1"}}' id="mw4w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x^{2}=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51e28d7561fa4fe556f438b88380ef98c5631cf5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.645ex; height:2.676ex;" alt="x^{2}=1"/></span><span about="#mwt124">
+</span>, which not only has the previous solution but also introduces the extraneous solution, <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt126" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x=-1."}}' id="mw5A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x=-1.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>=</mo>
+        <mo>−<!-- − --></mo>
+        <mn>1.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x=-1.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a51899e84bbbb14d044de1e69f57f73f70178b4c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:8.046ex; height:2.343ex;" alt="x=-1."/></span><span about="#mwt126">
+</span> Moreover, if the function is not defined at some values (such as 1/<i id="mw5Q">x</i>, which is not defined for <i id="mw5g">x</i> = 0), solutions existing at those values may be lost. Thus, caution must be exercised when applying such a transformation to an equation.</p>
+
+<p id="mw5w">The above transformations are the basis of most elementary methods for equation solving as well as some less elementary ones, like <a rel="mw:WikiLink" href="./Gaussian_elimination" title="Gaussian elimination" id="mw6A">Gaussian elimination</a>.</p>
+
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt32" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"details","href":"./Template:Details"},"params":{"1":{"wt":"Equation solving"}},"i":0}}]}' id="mw6Q">Further information: <a rel="mw:WikiLink" href="./Equation_solving" title="Equation solving">Equation solving</a></div>
+
+</section><section data-mw-section-id="6" id="mw6g"><h2 id="Algebra">Algebra</h2>
+
+<section data-mw-section-id="7" id="mw6w"><h3 id="Polynomial_equations">Polynomial equations</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt33" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Polynomial equation"}},"i":0}}]}' id="mw7A">Main article: <a rel="mw:WikiLink" href="./Polynomial_equation" title="Polynomial equation" class="mw-redirect">Polynomial equation</a></div>
+
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mw7Q"><a href="./File:Polynomialdeg2.svg" id="mw7g"><img resource="./File:Polynomialdeg2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polynomialdeg2.svg/220px-Polynomialdeg2.svg.png" data-file-width="350" data-file-height="350" data-file-type="drawing" height="220" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polynomialdeg2.svg/440px-Polynomialdeg2.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polynomialdeg2.svg/330px-Polynomialdeg2.svg.png 1.5x" id="mw7w"/></a><figcaption id="mw8A">The <i id="mw8Q">solutions</i> –1 and 2 of the <i id="mw8g">polynomial equation</i> <span class="nowrap" about="#mwt34" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;&lt;sup>2&lt;/sup> – &apos;&apos;x&apos;&apos; + 2 = 0"}},"i":0}}]}' id="mw8w"><i>x</i><sup>2</sup> – <i>x</i> + 2 = 0</span> are the points where the <a rel="mw:WikiLink" href="./Graph_of_a_function" title="Graph of a function" id="mw9A">graph</a> of the <a rel="mw:WikiLink" href="./Quadratic_function" title="Quadratic function" id="mw9Q">quadratic function</a> <span class="nowrap" about="#mwt35" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;y&apos;&apos; = &apos;&apos;x&apos;&apos;&lt;sup>2&lt;/sup> – &apos;&apos;x&apos;&apos; + 2"}},"i":0}}]}' id="mw9g"><i>y</i> = <i>x</i><sup>2</sup> – <i>x</i> + 2</span> cuts the <i id="mw9w">x</i>-axis.</figcaption></figure>
+
+<p id="mw-A">In general, an <i id="mw-Q">algebraic equation</i> or <a rel="mw:WikiLink" href="./Polynomial_equation" title="Polynomial equation" id="mw-g" class="mw-redirect">polynomial equation</a> is an equation of the form</p>
+
+<dl id="mw-w"><dd id="mw_A"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt128" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"P = 0"}}' id="mw_Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6f743f37b37ce0c2ddc1db0fdca0e577c19f51d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.006ex; height:2.176ex;" alt="P=0"/></span><span about="#mwt128">
+</span>, or</dd></dl>
+
+<dl id="mw_g"><dd id="mw_w"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt130" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"P = Q"}}' id="mwAQA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P=Q}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>=</mo>
+        <mi>Q</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P=Q}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2abc7e2c5a78e9e6cb7a2a907279953f9b4a3f52" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.682ex; height:2.509ex;" alt="P=Q"/></span><span about="#mwt130">
+</span></dd></dl>
+
+<p id="mwAQE">where <i id="mwAQI">P</i> and <i id="mwAQM">Q</i> are <a rel="mw:WikiLink" href="./Polynomial" title="Polynomial" id="mwAQQ">polynomials</a> with coefficients in some <a rel="mw:WikiLink" href="./Field_(mathematics)" title="Field (mathematics)" id="mwAQU">field</a> (real numbers, complex numbers, etc.), which is often the field of the <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAQY">rational numbers</a>. An algebraic equation is <i id="mwAQc">univariate</i> if it involves only one <a rel="mw:WikiLink" href="./Variable_(mathematics)" title="Variable (mathematics)" id="mwAQg">variable</a>. On the other hand, a polynomial equation may involve several variables, in which case it is called <i id="mwAQk">multivariate</i> (multiple variables, x, y, z, etc.). The term <i id="mwAQo">polynomial equation</i> is usually preferred to <i id="mwAQs">algebraic equation</i>.</p>
+
+<p id="mwAQw">For example,</p>
+<dl id="mwAQ0"><dd id="mwAQ4"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt132" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x^5-3x+1=0"}}' id="mwAQ8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x^{5}-3x+1=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>5</mn>
+          </mrow>
+        </msup>
+        <mo>−<!-- − --></mo>
+        <mn>3</mn>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{5}-3x+1=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/698e1afb9a1d47e492390b6a5a4612ea0dfff0cc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:15.98ex; height:2.843ex;" alt="x^{5}-3x+1=0"/></span><span about="#mwt132">
+</span></dd></dl>
+<p id="mwARA">is a univariate algebraic (polynomial) equation with integer coefficients and</p>
+<dl id="mwARE"><dd id="mwARI"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt134" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"y^4+\\frac{xy}{2}=\\frac{x^3}{3}-xy^2+y^2-\\frac{1}{7}"}}' id="mwARM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle y^{4}+{\frac {xy}{2}}={\frac {x^{3}}{3}}-xy^{2}+y^{2}-{\frac {1}{7}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>4</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>x</mi>
+              <mi>y</mi>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msup>
+              <mi>x</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>3</mn>
+              </mrow>
+            </msup>
+            <mn>3</mn>
+          </mfrac>
+        </mrow>
+        <mo>−<!-- − --></mo>
+        <mi>x</mi>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>−<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>7</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle y^{4}+{\frac {xy}{2}}={\frac {x^{3}}{3}}-xy^{2}+y^{2}-{\frac {1}{7}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5e8a49bf6d100e7a8b65135f6faffd17e470ceb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.974ex; height:5.843ex;" alt="y^{4}+{\frac {xy}{2}}={\frac {x^{3}}{3}}-xy^{2}+y^{2}-{\frac {1}{7}}"/></span><span about="#mwt134">
+</span></dd></dl>
+<p id="mwARQ">is a multivariate polynomial equation over the rational numbers.</p>
+
+<p id="mwARU">Some but not all polynomial equations with <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwARY">rational coefficients</a> have a solution that is an <a rel="mw:WikiLink" href="./Algebraic_expression" title="Algebraic expression" id="mwARc">algebraic expression</a> with a finite number of operations involving just those coefficients (that is, it can be <a rel="mw:WikiLink" href="./Algebraic_solution" title="Algebraic solution" id="mwARg">solved algebraically</a>). This can be done for all such equations of <a rel="mw:WikiLink" href="./Degree_of_a_polynomial" title="Degree of a polynomial" id="mwARk">degree</a> one, two, three, or four; but for degree five or more it can be solved for some equations but, as the <a rel="mw:WikiLink" href="./Abel–Ruffini_theorem" title="Abel–Ruffini theorem" id="mwARo">Abel–Ruffini theorem</a> demonstrates, not for all. A large amount of research has been devoted to compute efficiently accurate approximations of the <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwARs">real</a> or <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwARw">complex</a> solutions of a univariate algebraic equation (see <a rel="mw:WikiLink" href="./Root-finding_algorithm" title="Root-finding algorithm" id="mwAR0">Root-finding algorithm</a>) and of the common solutions of several multivariate polynomial equations (see <a rel="mw:WikiLink" href="./System_of_polynomial_equations" title="System of polynomial equations" id="mwAR4">System of polynomial equations</a>).</p>
+
+</section><section data-mw-section-id="8" id="mwAR8"><h3 id="Systems_of_linear_equations">Systems of linear equations</h3>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwASA"><a href="./File:九章算術.gif" id="mwASE"><img resource="./File:九章算術.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif/220px-%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif" data-file-width="419" data-file-height="546" data-file-type="bitmap" height="287" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/8/88/%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif 2x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif/330px-%E4%B9%9D%E7%AB%A0%E7%AE%97%E8%A1%93.gif 1.5x" id="mwASI"/></a><figcaption id="mwASM"><a rel="mw:WikiLink" href="./The_Nine_Chapters_on_the_Mathematical_Art" title="The Nine Chapters on the Mathematical Art" id="mwASQ">The Nine Chapters on the Mathematical Art</a> is an anonymous Chinese book proposing a method of resolution for linear equations.</figcaption></figure>
+
+<p id="mwASU">A <a rel="mw:WikiLink" href="./System_of_linear_equations" title="System of linear equations" id="mwASY">system of linear equations</a> (or <i id="mwASc">linear system</i>) is a collection of <a rel="mw:WikiLink" href="./Linear_equation" title="Linear equation" id="mwASg">linear equations</a> involving the same set of <a rel="mw:WikiLink" href="./Variable_(math)" title="Variable (math)" id="mwASk" class="mw-redirect">variables</a>.<sup about="#mwt43" class="mw-ref" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-5"}}'><a href="./Equation#cite_note-5" style="counter-reset: mw-Ref 5;"><span class="mw-reflink-text">[5]</span></a></sup> For example,</p>
+<dl id="mwASo"><dd id="mwASs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt136" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\begin{alignat}{7}\n3x &amp;&amp;\\; + \\;&amp;&amp; 2y             &amp;&amp;\\; - \\;&amp;&amp; z  &amp;&amp;\\; = \\;&amp;&amp; 1 &amp; \\\\\n2x &amp;&amp;\\; - \\;&amp;&amp; 2y             &amp;&amp;\\; + \\;&amp;&amp; 4z &amp;&amp;\\; = \\;&amp;&amp; -2 &amp; \\\\\n-x &amp;&amp;\\; + \\;&amp;&amp; \\tfrac{1}{2} y &amp;&amp;\\; - \\;&amp;&amp; z  &amp;&amp;\\; = \\;&amp;&amp; 0 &amp;\n\\end{alignat}"}}' id="mwASw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{alignedat}{7}3x&amp;&amp;\;+\;&amp;&amp;2y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;1&amp;\\2x&amp;&amp;\;-\;&amp;&amp;2y&amp;&amp;\;+\;&amp;&amp;4z&amp;&amp;\;=\;&amp;&amp;-2&amp;\\-x&amp;&amp;\;+\;&amp;&amp;{\tfrac {1}{2}}y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;0&amp;\end{alignedat}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 0em 0em 0em 0em 0em 0em 0em 0em 0em 0em 0em 0em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mn>3</mn>
+                <mi>x</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>+</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mn>2</mn>
+                <mi>y</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>−<!-- − --></mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mi>z</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd></mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>2</mn>
+                <mi>x</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>−<!-- − --></mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mn>2</mn>
+                <mi>y</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>+</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mn>4</mn>
+                <mi>z</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mo>−<!-- − --></mo>
+                <mn>2</mn>
+              </mtd>
+              <mtd></mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mo>−<!-- − --></mo>
+                <mi>x</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>+</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mstyle displaystyle="false" scriptlevel="0">
+                    <mfrac>
+                      <mn>1</mn>
+                      <mn>2</mn>
+                    </mfrac>
+                  </mstyle>
+                </mrow>
+                <mi>y</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>−<!-- − --></mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mi>z</mi>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mspace width="thickmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thickmathspace"></mspace>
+              </mtd>
+              <mtd></mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd></mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{alignedat}{7}3x&amp;&amp;\;+\;&amp;&amp;2y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;1&amp;\\2x&amp;&amp;\;-\;&amp;&amp;2y&amp;&amp;\;+\;&amp;&amp;4z&amp;&amp;\;=\;&amp;&amp;-2&amp;\\-x&amp;&amp;\;+\;&amp;&amp;{\tfrac {1}{2}}y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;0&amp;\end{alignedat}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d691839a2b284331b58b0820654d32e101e26a03" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.338ex; width:21.219ex; height:9.676ex;" alt="{\begin{alignedat}{7}3x&amp;&amp;\;+\;&amp;&amp;2y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;1&amp;\\2x&amp;&amp;\;-\;&amp;&amp;2y&amp;&amp;\;+\;&amp;&amp;4z&amp;&amp;\;=\;&amp;&amp;-2&amp;\\-x&amp;&amp;\;+\;&amp;&amp;{\tfrac {1}{2}}y&amp;&amp;\;-\;&amp;&amp;z&amp;&amp;\;=\;&amp;&amp;0&amp;\end{alignedat}}"/></span><span about="#mwt136">
+</span></dd></dl>
+<p id="mwAS0">is a system of three equations in the three variables <span class="texhtml " about="#mwt44" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;, &apos;&apos;y&apos;&apos;, &apos;&apos;z&apos;&apos;"}},"i":0}}]}' id="mwAS4"><i>x</i>, <i>y</i>, <i>z</i></span>. A <b id="mwAS8">solution</b> to a linear system is an assignment of numbers to the variables such that all the equations are simultaneously satisfied. A <a rel="mw:WikiLink" href="./Equation_solving" title="Equation solving" id="mwATA">solution</a> to the system above is given by</p>
+<dl id="mwATE"><dd id="mwATI"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt138" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\begin{alignat}{2}\nx &amp;\\,=\\,&amp; 1 \\\\\ny &amp;\\,=\\,&amp; -2 \\\\\nz &amp;\\,=\\,&amp; -2\n\\end{alignat}"}}' id="mwATM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{alignedat}{2}x&amp;\,=\,&amp;1\\y&amp;\,=\,&amp;-2\\z&amp;\,=\,&amp;-2\end{alignedat}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left" rowspacing="3pt" columnspacing="0em 0em 0em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mi>x</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mspace width="thinmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thinmathspace"></mspace>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mi>y</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mspace width="thinmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thinmathspace"></mspace>
+              </mtd>
+              <mtd>
+                <mo>−<!-- − --></mo>
+                <mn>2</mn>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mi>z</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mspace width="thinmathspace"></mspace>
+                <mo>=</mo>
+                <mspace width="thinmathspace"></mspace>
+              </mtd>
+              <mtd>
+                <mo>−<!-- − --></mo>
+                <mn>2</mn>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{alignedat}{2}x&amp;\,=\,&amp;1\\y&amp;\,=\,&amp;-2\\z&amp;\,=\,&amp;-2\end{alignedat}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4460866202afb67e822389a6b11a0b453c89c1c7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.838ex; width:8.279ex; height:8.843ex;" alt="{\begin{alignedat}{2}x&amp;\,=\,&amp;1\\y&amp;\,=\,&amp;-2\\z&amp;\,=\,&amp;-2\end{alignedat}}"/></span><span about="#mwt138">
+</span></dd></dl>
+<p id="mwATQ">since it makes all three equations valid. The word "<i id="mwATU">system</i>" indicates that the equations are to be considered collectively, rather than individually.</p>
+
+<p id="mwATY">In mathematics, the theory of linear systems is the basis and a fundamental part of <a rel="mw:WikiLink" href="./Linear_algebra" title="Linear algebra" id="mwATc">linear algebra</a>, a subject which is used in most parts of modern mathematics. Computational <a rel="mw:WikiLink" href="./Algorithm" title="Algorithm" id="mwATg">algorithms</a> for finding the solutions are an important part of <a rel="mw:WikiLink" href="./Numerical_linear_algebra" title="Numerical linear algebra" id="mwATk">numerical linear algebra</a>, and play a prominent role in <a rel="mw:WikiLink" href="./Physics" title="Physics" id="mwATo">physics</a>, <a rel="mw:WikiLink" href="./Engineering" title="Engineering" id="mwATs">engineering</a>, <a rel="mw:WikiLink" href="./Chemistry" title="Chemistry" id="mwATw">chemistry</a>, <a rel="mw:WikiLink" href="./Computer_science" title="Computer science" id="mwAT0">computer science</a>, and <a rel="mw:WikiLink" href="./Economics" title="Economics" id="mwAT4">economics</a>. A <a rel="mw:WikiLink" href="./Nonlinear_system" title="Nonlinear system" id="mwAT8">system of non-linear equations</a> can often be <a rel="mw:WikiLink" href="./Approximation" title="Approximation" id="mwAUA">approximated</a> by a linear system (see <a rel="mw:WikiLink" href="./Linearization" title="Linearization" id="mwAUE">linearization</a>), a helpful technique when making a <a rel="mw:WikiLink" href="./Mathematical_model" title="Mathematical model" id="mwAUI">mathematical model</a> or <a rel="mw:WikiLink" href="./Computer_simulation" title="Computer simulation" id="mwAUM">computer simulation</a> of a relatively complex system.</p>
+
+</section></section><section data-mw-section-id="9" id="mwAUQ"><h2 id="Geometry">Geometry</h2>
+
+<section data-mw-section-id="10" id="mwAUU"><h3 id="Analytic_geometry">Analytic geometry</h3>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAUY"><a href="./File:Coniques_cone.png" id="mwAUc"><img resource="./File:Coniques_cone.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coniques_cone.png/220px-Coniques_cone.png" data-file-width="536" data-file-height="335" data-file-type="bitmap" height="138" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coniques_cone.png/440px-Coniques_cone.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coniques_cone.png/330px-Coniques_cone.png 1.5x" id="mwAUg"/></a><figcaption id="mwAUk">A <a rel="mw:WikiLink" href="./Conic_section" title="Conic section" id="mwAUo">conic section</a> is the intersection of a plane and a cone of revolution.</figcaption></figure>
+<p id="mwAUs">In <a rel="mw:WikiLink" href="./Euclidean_geometry" title="Euclidean geometry" id="mwAUw">Euclidean geometry</a>, it is possible to associate a set of coordinates to each point in space, for example by an orthogonal grid. This method allows one to characterize geometric figures by equations. A plane in three-dimensional space can be expressed as the solution set of an equation of the form <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt140" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" ax+by+cz+d=0"}}' id="mwAU0"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle ax+by+cz+d=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mi>x</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mi>y</mi>
+        <mo>+</mo>
+        <mi>c</mi>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ax+by+cz+d=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/746e9e9c5e6a562485cbc5ed6a9375ec67bad26f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:20.805ex; height:2.509ex;" alt="ax+by+cz+d=0"/></span><span about="#mwt140">
+</span>, where <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt142" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a,b,c"}}' id="mwAU4"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a,b,c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a,b,c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f13f068df656c1b1911ae9f81628c49a6181194d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.302ex; height:2.509ex;" alt="a,b,c"/></span><span about="#mwt142">
+</span> and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt146" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"d"}}' id="mwAU8"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle d}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle d}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e85ff03cbe0c7341af6b982e47e9f90d235c66ab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.216ex; height:2.176ex;" alt="d"/></span><span about="#mwt146">
+</span> are real numbers and <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt148" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x,y,z"}}' id="mwAVA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x,y,z}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo>,</mo>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x,y,z}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbeca34b28f569a407ef74a955d041df9f360268" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.641ex; height:2.009ex;" alt="x,y,z"/></span><span about="#mwt148">
+</span> are the unknowns that correspond to the coordinates of a point in the system given by the orthogonal grid. The values <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt144" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a,b,c"}}' id="mwAVE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a,b,c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>,</mo>
+        <mi>b</mi>
+        <mo>,</mo>
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a,b,c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f13f068df656c1b1911ae9f81628c49a6181194d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:5.302ex; height:2.509ex;" alt="a,b,c"/></span><span about="#mwt144">
+</span> are the coordinates of a vector perpendicular to the plane defined by the equation. A line is expressed as the intersection of two planes, that is as the solution set of a single linear equation with values in <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt150" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\mathbb{R}^2"}}' id="mwAVI"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {R} ^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">R</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e150115ab9f63023215109595b76686a1ff890fd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.732ex; height:2.676ex;" alt="\mathbb {R} ^{2}"/></span><span about="#mwt150">
+</span> or as the solution set of two linear equations with values in <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt152" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\mathbb{R}^3."}}' id="mwAVM"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {R} ^{3}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">R</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{3}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b00b2b4fd27c2cbffa02df568472f77b194a6db9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.379ex; height:2.676ex;" alt="\mathbb {R} ^{3}."/></span><span about="#mwt152">
+</span></p>
+
+<p id="mwAVQ">A <a rel="mw:WikiLink" href="./Conic_section" title="Conic section" id="mwAVU">conic section</a> is the intersection of a <a rel="mw:WikiLink" href="./Cone" title="Cone" id="mwAVY">cone</a> with equation <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt154" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"x^2+y^2=z^2"}}' id="mwAVc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x^{2}+y^{2}=z^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>y</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x^{2}+y^{2}=z^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24defb565dbcba7850e1bfb51176bcf574b4e56b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.682ex; height:3.009ex;" alt="x^{2}+y^{2}=z^{2}"/></span><span about="#mwt154">
+</span> and a plane. In other words, in space, all conics are defined as the solution set of an equation of a plane and of the equation of a cone just given. This formalism allows one to determine the positions and the properties of the focuses of a conic.</p>
+
+<p id="mwAVg">The use of equations allows one to call on a large area of mathematics to solve geometric questions. The <a rel="mw:WikiLink" href="./Cartesian_coordinate" title="Cartesian coordinate" id="mwAVk" class="mw-redirect">Cartesian coordinate</a> system transforms a geometric problem into an analysis problem, once the figures are transformed into equations; thus the name <a rel="mw:WikiLink" href="./Analytic_geometry" title="Analytic geometry" id="mwAVo">analytic geometry</a>. This point of view, outlined by <a rel="mw:WikiLink" href="./Descartes" title="Descartes" id="mwAVs" class="mw-redirect">Descartes</a>, enriches and modifies the type of geometry conceived of by the ancient Greek mathematicians.</p>
+
+<p id="mwAVw">Currently, analytic geometry designates an active branch of mathematics. Although it still uses equations to characterize figures, it also uses other sophisticated techniques such as <a rel="mw:WikiLink" href="./Functional_analysis" title="Functional analysis" id="mwAV0">functional analysis</a> and <a rel="mw:WikiLink" href="./Linear_algebra" title="Linear algebra" id="mwAV4">linear algebra</a>.</p>
+
+</section><section data-mw-section-id="11" id="mwAV8"><h3 id="Cartesian_equations">Cartesian equations</h3>
+<p id="mwAWA">A <a rel="mw:WikiLink" href="./Cartesian_coordinate_system" title="Cartesian coordinate system" id="mwAWE">Cartesian coordinate system</a> is a <a rel="mw:WikiLink" href="./Coordinate_system" title="Coordinate system" id="mwAWI">coordinate system</a> that specifies each <a rel="mw:WikiLink" href="./Point_(geometry)" title="Point (geometry)" id="mwAWM">point</a> uniquely in a <a rel="mw:WikiLink" href="./Plane_(geometry)" title="Plane (geometry)" id="mwAWQ">plane</a> by a pair of <a rel="mw:WikiLink" href="./Number" title="Number" id="mwAWU">numerical</a> <b id="mwAWY">coordinates</b>, which are the <a rel="mw:WikiLink" href="./Positive_and_negative_numbers" title="Positive and negative numbers" id="mwAWc" class="mw-redirect">signed</a> distances from the point to two fixed <a rel="mw:WikiLink" href="./Perpendicular" title="Perpendicular" id="mwAWg">perpendicular</a> directed lines, that are marked using the same <a rel="mw:WikiLink" href="./Unit_length" title="Unit length" id="mwAWk" class="mw-redirect">unit of length</a>.</p>
+
+<p id="mwAWo">One can use the same principle to specify the position of any point in three-<a rel="mw:WikiLink" href="./Dimension" title="Dimension" id="mwAWs">dimensional</a> <a rel="mw:WikiLink" href="./Space_(mathematics)" title="Space (mathematics)" id="mwAWw">space</a> by the use of three Cartesian coordinates, which are the signed distances to three mutually perpendicular planes (or, equivalently, by its perpendicular projection onto three mutually perpendicular lines).</p>
+
+<figure class="mw-halign-right" typeof="mw:Image/Thumb" id="mwAW0"><a href="./File:Cartesian-coordinate-system-with-circle.svg" id="mwAW4"><img resource="./File:Cartesian-coordinate-system-with-circle.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cartesian-coordinate-system-with-circle.svg/250px-Cartesian-coordinate-system-with-circle.svg.png" data-file-width="768" data-file-height="790" data-file-type="drawing" height="257" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cartesian-coordinate-system-with-circle.svg/500px-Cartesian-coordinate-system-with-circle.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cartesian-coordinate-system-with-circle.svg/375px-Cartesian-coordinate-system-with-circle.svg.png 1.5x" id="mwAW8"/></a><figcaption id="mwAXA">Cartesian coordinate system with a circle of radius 2 centered at the origin marked in red. The equation of a circle is <span class="nowrap" about="#mwt54" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;x&apos;&apos; − &apos;&apos;a&apos;&apos;)&lt;sup>2&lt;/sup> + (&apos;&apos;y&apos;&apos; − &apos;&apos;b&apos;&apos;)&lt;sup>2&lt;/sup> = &apos;&apos;r&apos;&apos;&lt;sup>2&lt;/sup>"}},"i":0}}]}' id="mwAXE">(<i>x</i> − <i>a</i>)<sup>2</sup> + (<i>y</i> − <i>b</i>)<sup>2</sup> = <i>r</i><sup>2</sup></span> where <i id="mwAXI">a</i> and <i id="mwAXM">b</i> are the coordinates of the center <span class="nowrap" about="#mwt55" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;a&apos;&apos;, &apos;&apos;b&apos;&apos;)"}},"i":0}}]}' id="mwAXQ">(<i>a</i>, <i>b</i>)</span> and <i id="mwAXU">r</i> is the radius.</figcaption></figure>
+
+<p id="mwAXY">The invention of Cartesian coordinates in the 17th century by <a rel="mw:WikiLink" href="./René_Descartes" title="René Descartes" id="mwAXc">René Descartes</a> (<a rel="mw:WikiLink" href="./Latinisation_(literature)" title="Latinisation (literature)" id="mwAXg" class="mw-redirect">Latinized</a> name: <i id="mwAXk">Cartesius</i>) revolutionized mathematics by providing the first systematic link between <a rel="mw:WikiLink" href="./Euclidean_geometry" title="Euclidean geometry" id="mwAXo">Euclidean geometry</a> and <a rel="mw:WikiLink" href="./Algebra" title="Algebra" id="mwAXs">algebra</a>. Using the Cartesian coordinate system, geometric shapes (such as <a rel="mw:WikiLink" href="./Curve" title="Curve" id="mwAXw">curves</a>) can be described by <b id="mwAX0">Cartesian equations</b>: algebraic equations involving the coordinates of the points lying on the shape. For example, a circle of radius 2 in a plane, centered on a particular point called the origin, may be described as the set of all points whose coordinates <i id="mwAX4">x</i> and <i id="mwAX8">y</i> satisfy the equation <span class="nowrap" about="#mwt56" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;&lt;sup>2&lt;/sup> + &apos;&apos;y&apos;&apos;&lt;sup>2&lt;/sup> = 4"}},"i":0}}]}' id="mwAYA"><i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> = 4</span>.</p>
+
+</section><section data-mw-section-id="12" id="mwAYE"><h3 id="Parametric_equations">Parametric equations</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt57" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Parametric equation"}},"i":0}}]}' id="mwAYI">Main article: <a rel="mw:WikiLink" href="./Parametric_equation" title="Parametric equation">Parametric equation</a></div>
+<p id="mwAYM">A <a rel="mw:WikiLink" href="./Parametric_equation" title="Parametric equation" id="mwAYQ">parametric equation</a> for a <a rel="mw:WikiLink" href="./Curve" title="Curve" id="mwAYU">curve</a> expresses the <a rel="mw:WikiLink" href="./Coordinates" title="Coordinates" id="mwAYY" class="mw-redirect">coordinates</a> of the points of the curve as functions of a <a rel="mw:WikiLink" href="./Variable_(mathematics)" title="Variable (mathematics)" id="mwAYc">variable</a>, called a <a rel="mw:WikiLink" href="./Parameter" title="Parameter" id="mwAYg">parameter</a>.<sup about="#mwt62" class="mw-ref" id="cite_ref-6" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-6"}}'><a href="./Equation#cite_note-6" style="counter-reset: mw-Ref 6;"><span class="mw-reflink-text">[6]</span></a></sup><sup about="#mwt64" class="mw-ref" id="cite_ref-7" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-7"}}'><a href="./Equation#cite_note-7" style="counter-reset: mw-Ref 7;"><span class="mw-reflink-text">[7]</span></a></sup> For example,</p>
+<dl id="mwAYk"><dd id="mwAYo"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt89" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\begin{align}\nx&amp;=\\cos t\\\\\ny&amp;=\\sin t\n\\end{align}"}}' id="mwAYs"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{aligned}x&amp;=\cos t\\y&amp;=\sin t\end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mi>x</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>cos</mi>
+                <mo>⁡<!-- ⁡ --></mo>
+                <mi>t</mi>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mi>y</mi>
+              </mtd>
+              <mtd>
+                <mi></mi>
+                <mo>=</mo>
+                <mi>sin</mi>
+                <mo>⁡<!-- ⁡ --></mo>
+                <mi>t</mi>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}x&amp;=\cos t\\y&amp;=\sin t\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/627bb5a6d2b57174bd596f1fc7990592b8e6076b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:9.517ex; height:5.843ex;" alt="{\begin{aligned}x&amp;=\cos t\\y&amp;=\sin t\end{aligned}}"/></span><span about="#mwt89">
+</span></dd></dl>
+<p id="mwAYw">are parametric equations for the <a rel="mw:WikiLink" href="./Unit_circle" title="Unit circle" id="mwAY0">unit circle</a>, where <i id="mwAY4">t</i> is the parameter. Together, these equations are called a <b id="mwAY8">parametric representation</b> of the curve.</p>
+
+<p id="mwAZA">The notion of <i id="mwAZE">parametric equation</i> has been generalized to <a rel="mw:WikiLink" href="./Surface_(topology)" title="Surface (topology)" id="mwAZI">surfaces</a>, <a rel="mw:WikiLink" href="./Manifold" title="Manifold" id="mwAZM">manifolds</a> and <a rel="mw:WikiLink" href="./Algebraic_variety" title="Algebraic variety" id="mwAZQ">algebraic varieties</a> of higher <a rel="mw:WikiLink" href="./Dimension_of_a_manifold" title="Dimension of a manifold" id="mwAZU" class="mw-redirect">dimension</a>, with the number of parameters being equal to the dimension of the manifold or variety, and the number of equations being equal to the dimension of the space in which the manifold or variety is considered (for curves the dimension is <i id="mwAZY">one</i> and <i id="mwAZc">one</i> parameter is used, for surfaces dimension <i id="mwAZg">two</i> and <i id="mwAZk">two</i> parameters, etc.).</p>
+
+</section></section><section data-mw-section-id="13" id="mwAZo"><h2 id="Number_theory">Number theory</h2>
+
+<section data-mw-section-id="14" id="mwAZs"><h3 id="Diophantine_equations">Diophantine equations</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt65" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Diophantine equation"}},"i":0}}]}' id="mwAZw">Main article: <a rel="mw:WikiLink" href="./Diophantine_equation" title="Diophantine equation">Diophantine equation</a></div>
+<p id="mwAZ0">A <b id="mwAZ4">Diophantine equation</b> is a <a rel="mw:WikiLink" href="./Polynomial_equation" title="Polynomial equation" id="mwAZ8" class="mw-redirect">polynomial equation</a> in two or more unknowns for which only the <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwAaA">integer</a> <a rel="mw:WikiLink" href="./Zero_of_a_function#Polynomial_roots" title="Zero of a function" id="mwAaE">solutions</a> are sought (an integer solution is a solution such that all the unknowns take integer values). A <b id="mwAaI">linear Diophantine equation</b> is an equation between two sums of <a rel="mw:WikiLink" href="./Monomials" title="Monomials" id="mwAaM" class="mw-redirect">monomials</a> of <a rel="mw:WikiLink" href="./Degree_of_a_polynomial" title="Degree of a polynomial" id="mwAaQ">degree</a> zero or one. An example of <b id="mwAaU">linear Diophantine equation</b> is <span class="texhtml " about="#mwt66" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;ax&apos;&apos; + &apos;&apos;by&apos;&apos; {{=}} &apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwAaY"><i>ax</i> + <i>by</i> = <i>c</i></span> where <i id="mwAac">a</i>, <i id="mwAag">b</i>, and <i id="mwAak">c</i> are constants. An <b id="mwAao">exponential Diophantine equation</b> is one for which exponents of the terms of the equation can be unknowns.</p>
+
+<p id="mwAas"><b id="mwAaw">Diophantine problems</b> have fewer equations than unknown variables and involve finding integers that work correctly for all equations. In more technical language, they define an <a rel="mw:WikiLink" href="./Algebraic_curve" title="Algebraic curve" id="mwAa0">algebraic curve</a>, <a rel="mw:WikiLink" href="./Algebraic_surface" title="Algebraic surface" id="mwAa4">algebraic surface</a>, or more general object, and ask about the <a rel="mw:WikiLink" href="./Lattice_point" title="Lattice point" id="mwAa8" class="mw-redirect">lattice points</a> on it.</p>
+
+<p id="mwAbA">The word <i id="mwAbE">Diophantine</i> refers to the <a rel="mw:WikiLink" href="./Greek_mathematics#Hellenistic" title="Greek mathematics" id="mwAbI">Hellenistic mathematician</a> of the 3rd century, <a rel="mw:WikiLink" href="./Diophantus" title="Diophantus" id="mwAbM">Diophantus</a> of <a rel="mw:WikiLink" href="./Alexandria" title="Alexandria" id="mwAbQ">Alexandria</a>, who made a study of such equations and was one of the first mathematicians to introduce <a rel="mw:WikiLink" href="./Mathematical_symbol" title="Mathematical symbol" id="mwAbU" class="mw-redirect">symbolism</a> into <a rel="mw:WikiLink" href="./Algebra" title="Algebra" id="mwAbY">algebra</a>. The mathematical study of Diophantine problems that Diophantus initiated is now called <b id="mwAbc">Diophantine analysis</b>.</p>
+
+</section><section data-mw-section-id="15" id="mwAbg"><h3 id="Algebraic_and_transcendental_numbers">Algebraic and transcendental numbers</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt67" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Algebraic number"},"2":{"wt":"Transcendental number"}},"i":0}}]}' id="mwAbk">Main articles: <a rel="mw:WikiLink" href="./Algebraic_number" title="Algebraic number">Algebraic number</a> and <a rel="mw:WikiLink" href="./Transcendental_number" title="Transcendental number">Transcendental number</a></div>
+<p id="mwAbo">An <a rel="mw:WikiLink" href="./Algebraic_number" title="Algebraic number" id="mwAbs">algebraic number</a> is a number that is a solution of a non-zero <a rel="mw:WikiLink" href="./Polynomial_equation" title="Polynomial equation" id="mwAbw" class="mw-redirect">polynomial equation</a> in one variable with <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAb0">rational</a> coefficients (or equivalently — by <a rel="mw:WikiLink" href="./Clearing_denominators" title="Clearing denominators" id="mwAb4">clearing denominators</a> — with <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwAb8">integer</a> coefficients). Numbers such as <a rel="mw:WikiLink" href="./Pi" title="Pi" id="mwAcA"><span class="texhtml " about="#mwt68" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"pi","href":"./Template:Pi"},"params":{},"i":0}}]}' id="mwAcE">π</span></a> that are not algebraic are said to be <a rel="mw:WikiLink" href="./Transcendental_number" title="Transcendental number" id="mwAcI">transcendental</a>. <a rel="mw:WikiLink" href="./Almost_all" title="Almost all" id="mwAcM">Almost all</a> <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAcQ">real</a> and <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAcU">complex</a> numbers are transcendental.</p>
+
+</section><section data-mw-section-id="16" id="mwAcY"><h3 id="Algebraic_geometry">Algebraic geometry</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt69" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Algebraic geometry"}},"i":0}}]}' id="mwAcc">Main article: <a rel="mw:WikiLink" href="./Algebraic_geometry" title="Algebraic geometry">Algebraic geometry</a></div>
+<p id="mwAcg"><a rel="mw:WikiLink" href="./Algebraic_geometry" title="Algebraic geometry" id="mwAck">Algebraic geometry</a> is a branch of <a rel="mw:WikiLink" href="./Mathematics" title="Mathematics" id="mwAco">mathematics</a>, classically studying solutions of <a rel="mw:WikiLink" href="./Polynomial_equations" title="Polynomial equations" id="mwAcs" class="mw-redirect">polynomial equations</a>. Modern algebraic geometry is based on more abstract techniques of <a rel="mw:WikiLink" href="./Abstract_algebra" title="Abstract algebra" id="mwAcw">abstract algebra</a>, especially <a rel="mw:WikiLink" href="./Commutative_algebra" title="Commutative algebra" id="mwAc0">commutative algebra</a>, with the language and the problems of <a rel="mw:WikiLink" href="./Geometry" title="Geometry" id="mwAc4">geometry</a>.</p>
+
+<p id="mwAc8">The fundamental objects of study in algebraic geometry are <a rel="mw:WikiLink" href="./Algebraic_variety" title="Algebraic variety" id="mwAdA">algebraic varieties</a>, which are geometric manifestations of <a rel="mw:WikiLink" href="./Solution_set" title="Solution set" id="mwAdE">solutions</a> of <a rel="mw:WikiLink" href="./Systems_of_polynomial_equations" title="Systems of polynomial equations" id="mwAdI" class="mw-redirect">systems of polynomial equations</a>. Examples of the most studied classes of algebraic varieties are: <a rel="mw:WikiLink" href="./Plane_algebraic_curve" title="Plane algebraic curve" id="mwAdM" class="mw-redirect">plane algebraic curves</a>, which include <a rel="mw:WikiLink" href="./Line_(geometry)" title="Line (geometry)" id="mwAdQ">lines</a>, <a rel="mw:WikiLink" href="./Circle" title="Circle" id="mwAdU">circles</a>, <a rel="mw:WikiLink" href="./Parabola" title="Parabola" id="mwAdY">parabolas</a>, <a rel="mw:WikiLink" href="./Ellipse" title="Ellipse" id="mwAdc">ellipses</a>, <a rel="mw:WikiLink" href="./Hyperbola" title="Hyperbola" id="mwAdg">hyperbolas</a>, <a rel="mw:WikiLink" href="./Cubic_curve" title="Cubic curve" id="mwAdk" class="mw-redirect">cubic curves</a> like <a rel="mw:WikiLink" href="./Elliptic_curve" title="Elliptic curve" id="mwAdo">elliptic curves</a> and quartic curves like <a rel="mw:WikiLink" href="./Lemniscate_of_Bernoulli" title="Lemniscate of Bernoulli" id="mwAds">lemniscates</a>, and <a rel="mw:WikiLink" href="./Cassini_oval" title="Cassini oval" id="mwAdw">Cassini ovals</a>. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given polynomial equation. Basic questions involve the study of the points of special interest like the <a rel="mw:WikiLink" href="./Singular_point_of_a_curve" title="Singular point of a curve" id="mwAd0">singular points</a>, the <a rel="mw:WikiLink" href="./Inflection_point" title="Inflection point" id="mwAd4">inflection points</a> and the <a rel="mw:WikiLink" href="./Point_at_infinity" title="Point at infinity" id="mwAd8">points at infinity</a>. More advanced questions involve the <a rel="mw:WikiLink" href="./Topology" title="Topology" id="mwAeA">topology</a> of the curve and relations between the curves given by different equations.</p>
+
+</section></section><section data-mw-section-id="17" id="mwAeE"><h2 id="Differential_equations">Differential equations</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt70" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Differential equation"}},"i":0}}]}' id="mwAeI">Main article: <a rel="mw:WikiLink" href="./Differential_equation" title="Differential equation">Differential equation</a></div>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAeM"><a href="./File:Attracteur_étrange_de_Lorenz.png" id="mwAeQ"><img resource="./File:Attracteur_étrange_de_Lorenz.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Attracteur_%C3%A9trange_de_Lorenz.png/260px-Attracteur_%C3%A9trange_de_Lorenz.png" data-file-width="965" data-file-height="784" data-file-type="bitmap" height="211" width="260" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Attracteur_%C3%A9trange_de_Lorenz.png/520px-Attracteur_%C3%A9trange_de_Lorenz.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Attracteur_%C3%A9trange_de_Lorenz.png/390px-Attracteur_%C3%A9trange_de_Lorenz.png 1.5x" id="mwAeU"/></a><figcaption id="mwAeY">A <a rel="mw:WikiLink" href="./Strange_attractor" title="Strange attractor" id="mwAec" class="mw-redirect">strange attractor</a>, which arises when solving a certain <a rel="mw:WikiLink" href="./Differential_equation" title="Differential equation" id="mwAeg">differential equation</a>.</figcaption></figure>
+<p id="mwAek">A <a rel="mw:WikiLink" href="./Differential_equation" title="Differential equation" id="mwAeo">differential equation</a> is a <a rel="mw:WikiLink" href="./Mathematics" title="Mathematics" id="mwAes">mathematical</a> equation that relates some <a rel="mw:WikiLink" href="./Function_(mathematics)" title="Function (mathematics)" id="mwAew">function</a> with its <a rel="mw:WikiLink" href="./Derivative" title="Derivative" id="mwAe0">derivatives</a>. In applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two. Because such relations are extremely common, differential equations play a prominent role in many disciplines including <a rel="mw:WikiLink" href="./Physics" title="Physics" id="mwAe4">physics</a>, <a rel="mw:WikiLink" href="./Engineering" title="Engineering" id="mwAe8">engineering</a>, <a rel="mw:WikiLink" href="./Economics" title="Economics" id="mwAfA">economics</a>, and <a rel="mw:WikiLink" href="./Biology" title="Biology" id="mwAfE">biology</a>.</p>
+
+<p id="mwAfI">In <a rel="mw:WikiLink" href="./Pure_mathematics" title="Pure mathematics" id="mwAfM">pure mathematics</a>, differential equations are studied from several different perspectives, mostly concerned with their solutions — the set of functions that satisfy the equation. Only the simplest differential equations are solvable by explicit formulas; however, some properties of solutions of a given differential equation may be determined without finding their exact form.</p>
+
+<p id="mwAfQ">If a self-contained formula for the solution is not available, the solution may be numerically approximated using computers. The theory of <a rel="mw:WikiLink" href="./Dynamical_systems" title="Dynamical systems" id="mwAfU" class="mw-redirect">dynamical systems</a> puts emphasis on qualitative analysis of systems described by differential equations, while many <a rel="mw:WikiLink" href="./Numerical_methods" title="Numerical methods" id="mwAfY" class="mw-redirect">numerical methods</a> have been developed to determine solutions with a given degree of accuracy.</p>
+
+<section data-mw-section-id="18" id="mwAfc"><h3 id="Ordinary_differential_equations">Ordinary differential equations</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt77" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Ordinary differential equation"}},"i":0}}]}' id="mwAfg">Main article: <a rel="mw:WikiLink" href="./Ordinary_differential_equation" title="Ordinary differential equation">Ordinary differential equation</a></div>
+<p id="mwAfk">An <a rel="mw:WikiLink" href="./Ordinary_differential_equation" title="Ordinary differential equation" id="mwAfo">ordinary differential equation</a> or <b id="mwAfs">ODE</b> is an equation containing a function of one <a rel="mw:WikiLink" href="./Independent_variable" title="Independent variable" id="mwAfw" class="mw-redirect">independent variable</a> and its derivatives. The term "<i id="mwAf0">ordinary</i>" is used in contrast with the term <a rel="mw:WikiLink" href="./Partial_differential_equation" title="Partial differential equation" id="mwAf4">partial differential equation</a>, which may be with respect to <i id="mwAf8">more than</i> one independent variable.</p>
+
+<p id="mwAgA">Linear differential equations, which have solutions that can be added and multiplied by coefficients, are well-defined and understood, and exact closed-form solutions are obtained. By contrast, ODEs that lack additive solutions are nonlinear, and solving them is far more intricate, as one can rarely represent them by <a rel="mw:WikiLink" href="./Elementary_functions" title="Elementary functions" id="mwAgE" class="mw-redirect">elementary functions</a> in closed form: Instead, exact and analytic solutions of ODEs are in series or integral form. Graphical and <a rel="mw:WikiLink" href="./Numerical_ordinary_differential_equations" title="Numerical ordinary differential equations" id="mwAgI" class="mw-redirect">numerical</a> methods, applied by hand or by computer, may approximate solutions of ODEs and perhaps yield useful information, often sufficing in the absence of exact, analytic solutions.</p>
+
+</section><section data-mw-section-id="19" id="mwAgM"><h3 id="Partial_differential_equations">Partial differential equations</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt78" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Partial differential equation"}},"i":0}}]}' id="mwAgQ">Main article: <a rel="mw:WikiLink" href="./Partial_differential_equation" title="Partial differential equation">Partial differential equation</a></div>
+<p id="mwAgU">A <a rel="mw:WikiLink" href="./Partial_differential_equation" title="Partial differential equation" id="mwAgY">partial differential equation</a> (<b id="mwAgc">PDE</b>) is a <a rel="mw:WikiLink" href="./Differential_equation" title="Differential equation" id="mwAgg">differential equation</a> that contains unknown <a rel="mw:WikiLink" href="./Multivariable_calculus" title="Multivariable calculus" id="mwAgk">multivariable functions</a> and their <a rel="mw:WikiLink" href="./Partial_derivative" title="Partial derivative" id="mwAgo">partial derivatives</a>. (This is in contrast to <a rel="mw:WikiLink" href="./Ordinary_differential_equations" title="Ordinary differential equations" id="mwAgs" class="mw-redirect">ordinary differential equations</a>, which deal with functions of a single variable and their derivatives.) PDEs are used to formulate problems involving functions of several variables, and are either solved by hand, or used to create a relevant <a rel="mw:WikiLink" href="./Computer_model" title="Computer model" id="mwAgw" class="mw-redirect">computer model</a>.</p>
+
+<p id="mwAg0">PDEs can be used to describe a wide variety of phenomena such as <a rel="mw:WikiLink" href="./Sound" title="Sound" id="mwAg4">sound</a>, <a rel="mw:WikiLink" href="./Heat" title="Heat" id="mwAg8">heat</a>, <a rel="mw:WikiLink" href="./Electrostatics" title="Electrostatics" id="mwAhA">electrostatics</a>, <a rel="mw:WikiLink" href="./Electrodynamics" title="Electrodynamics" id="mwAhE" class="mw-redirect">electrodynamics</a>, <a rel="mw:WikiLink" href="./Fluid_flow" title="Fluid flow" id="mwAhI" class="mw-redirect">fluid flow</a>, <a rel="mw:WikiLink" href="./Elasticity_(physics)" title="Elasticity (physics)" id="mwAhM">elasticity</a>, or <a rel="mw:WikiLink" href="./Quantum_mechanics" title="Quantum mechanics" id="mwAhQ">quantum mechanics</a>. These seemingly distinct physical phenomena can be formalised similarly in terms of PDEs. Just as ordinary differential equations often model one-dimensional <a rel="mw:WikiLink" href="./Dynamical_systems" title="Dynamical systems" id="mwAhU" class="mw-redirect">dynamical systems</a>, partial differential equations often model <a rel="mw:WikiLink" href="./Multidimensional_systems" title="Multidimensional systems" id="mwAhY" class="mw-redirect">multidimensional systems</a>. PDEs find their generalisation in <a rel="mw:WikiLink" href="./Stochastic_partial_differential_equations" title="Stochastic partial differential equations" id="mwAhc" class="mw-redirect">stochastic partial differential equations</a>.</p>
+
+</section></section><section data-mw-section-id="20" id="mwAhg"><h2 id="Types_of_equations">Types of equations</h2>
+<!--Linked from [[Simultaneous equations]]-->
+
+<p id="mwAhk">Equations can be classified according to the types of <a rel="mw:WikiLink" href="./Operation_(mathematics)" title="Operation (mathematics)" id="mwAho">operations</a> and quantities involved. Important types include:</p>
+<ul id="mwAhs"><li id="mwAhw">An <a rel="mw:WikiLink" href="./Algebraic_equation" title="Algebraic equation" id="mwAh0">algebraic equation</a> or <a rel="mw:WikiLink" href="./Polynomial" title="Polynomial" id="mwAh4">polynomial</a> equation is an equation in which both sides are polynomials (see also <a rel="mw:WikiLink" href="./System_of_polynomial_equations" title="System of polynomial equations" id="mwAh8">system of polynomial equations</a>). These are further classified by <a rel="mw:WikiLink" href="./Degree_of_a_polynomial" title="Degree of a polynomial" id="mwAiA">degree</a>:
+<ul id="mwAiE"><li id="mwAiI"><a rel="mw:WikiLink" href="./Linear_equation" title="Linear equation" id="mwAiM">linear equation</a> for degree one</li>
+<li id="mwAiQ"><a rel="mw:WikiLink" href="./Quadratic_equation" title="Quadratic equation" id="mwAiU">quadratic equation</a> for degree two</li>
+<li id="mwAiY"><a rel="mw:WikiLink" href="./Cubic_equation" title="Cubic equation" id="mwAic" class="mw-redirect">cubic equation</a> for degree three</li>
+<li id="mwAig"><a rel="mw:WikiLink" href="./Quartic_equation" title="Quartic equation" id="mwAik" class="mw-redirect">quartic equation</a> for degree four</li>
+<li id="mwAio"><a rel="mw:WikiLink" href="./Quintic_equation" title="Quintic equation" id="mwAis" class="mw-redirect">quintic equation</a> for degree five</li>
+<li id="mwAiw"><a rel="mw:WikiLink" href="./Sextic_equation" title="Sextic equation" id="mwAi0">sextic equation</a> for degree six</li>
+<li id="mwAi4"><a rel="mw:WikiLink" href="./Septic_equation" title="Septic equation" id="mwAi8">septic equation</a> for degree seven</li>
+<li id="mwAjA"><a rel="mw:WikiLink" href="./Octic_equation" title="Octic equation" id="mwAjE">octic equation</a> for degree eight</li></ul></li>
+<li id="mwAjI">A <a rel="mw:WikiLink" href="./Diophantine_equation" title="Diophantine equation" id="mwAjM">Diophantine equation</a> is an equation where the unknowns are required to be <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwAjQ">integers</a></li>
+<li id="mwAjU">A <a rel="mw:WikiLink" href="./Transcendental_equation" title="Transcendental equation" id="mwAjY">transcendental equation</a> is an equation involving a <a rel="mw:WikiLink" href="./Transcendental_function" title="Transcendental function" id="mwAjc">transcendental function</a> of its unknowns</li>
+<li id="mwAjg">A <a rel="mw:WikiLink" href="./Parametric_equation" title="Parametric equation" id="mwAjk">parametric equation</a> is an equation in which the solutions for the variables are expressed as functions of some other variables, called <a rel="mw:WikiLink" href="./Parameter" title="Parameter" id="mwAjo">parameters</a> appearing in the equations</li>
+<li id="mwAjs">A <a rel="mw:WikiLink" href="./Functional_equation" title="Functional equation" id="mwAjw">functional equation</a> is an equation in which the unknowns are <a rel="mw:WikiLink" href="./Function_(mathematics)" title="Function (mathematics)" id="mwAj0">functions</a> rather than simple quantities</li>
+<li id="mwAj4">A <a rel="mw:WikiLink" href="./Differential_equation" title="Differential equation" id="mwAj8">differential equation</a> is a functional equation involving <a rel="mw:WikiLink" href="./Derivative" title="Derivative" id="mwAkA">derivatives</a> of the unknown functions</li>
+<li id="mwAkE">An <a rel="mw:WikiLink" href="./Integral_equation" title="Integral equation" id="mwAkI">integral equation</a> is a functional equation involving the <a rel="mw:WikiLink" href="./Antiderivative" title="Antiderivative" id="mwAkM">antiderivatives</a> of the unknown functions</li>
+<li id="mwAkQ">An <a rel="mw:WikiLink" href="./Integro-differential_equation" title="Integro-differential equation" id="mwAkU">integro-differential equation</a> is a functional equation involving both the <a rel="mw:WikiLink" href="./Derivative" title="Derivative" id="mwAkY">derivatives</a> and the <a rel="mw:WikiLink" href="./Antiderivative" title="Antiderivative" id="mwAkc">antiderivatives</a> of the unknown functions</li>
+<li id="mwAkg">A <a rel="mw:WikiLink" href="./Difference_equation" title="Difference equation" id="mwAkk" class="mw-redirect">difference equation</a> is an equation where the unknown is a function <i id="mwAko">f</i> that occurs in the equation through <i id="mwAks">f</i>(<i id="mwAkw">x</i>), <i id="mwAk0">f</i>(<i id="mwAk4">x</i>−1), …, <i id="mwAk8">f</i>(<i id="mwAlA">x</i>−<i id="mwAlE">k</i>), for some whole integer <i id="mwAlI">k</i> called the <i id="mwAlM">order</i> of the equation. If <i id="mwAlQ">x</i> is restricted to be an integer, a difference equation is the same as a <a rel="mw:WikiLink" href="./Recurrence_relation" title="Recurrence relation" id="mwAlU">recurrence relation</a></li></ul>
+
+</section><section data-mw-section-id="21" id="mwAlY"><h2 id="See_also">See also</h2>
+<ul id="mwAlc"><li id="mwAlg"><figure-inline class="noviewer" typeof="mw:Transclusion mw:Image" about="#mwt79" data-mw='{"parts":[{"template":{"target":{"wt":"Portal-inline","href":"./Template:Portal-inline"},"params":{"1":{"wt":"Equations"},"size":{"wt":"tiny"}},"i":0}}]}' id="mwAlk"><a href="./File:Portal-puzzle.svg"><img resource="./File:Portal-puzzle.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" data-file-width="32" data-file-height="28" data-file-type="drawing" height="14" width="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x"/></a></figure-inline><span about="#mwt79"> </span><a rel="mw:WikiLink" href="./Portal:Equations" title="Portal:Equations" about="#mwt79" id="mwAlo">Equations<span typeof="mw:Entity"> </span>portal</a></li></ul>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;   " about="#mwt80" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Div col","href":"./Template:Div_col"},"params":{"colwidth":{"wt":"25em"}},"i":0}},"\n* &apos;&apos;[[Five Equations That Changed the World: The Power and Poetry of Mathematics]]&apos;&apos; (book)\n* [[Formula]]\n* [[Formula editor]]\n* [[History of algebra]]\n* [[List of equations]]\n* [[List of scientific equations named after people]]\n* [[Term (logic)]]\n* [[Theory of equations]]\n* [[Cancelling out]]\n",{"template":{"target":{"wt":"Div col end","href":"./Template:Div_col_end"},"params":{},"i":1}}]}' id="mwAls">
+<ul><li><i><a rel="mw:WikiLink" href="./Five_Equations_That_Changed_the_World:_The_Power_and_Poetry_of_Mathematics" title="Five Equations That Changed the World: The Power and Poetry of Mathematics" class="mw-redirect">Five Equations That Changed the World: The Power and Poetry of Mathematics</a></i> (book)</li>
+<li><a rel="mw:WikiLink" href="./Formula" title="Formula">Formula</a></li>
+<li><a rel="mw:WikiLink" href="./Formula_editor" title="Formula editor">Formula editor</a></li>
+<li><a rel="mw:WikiLink" href="./History_of_algebra" title="History of algebra">History of algebra</a></li>
+<li><a rel="mw:WikiLink" href="./List_of_equations" title="List of equations">List of equations</a></li>
+<li><a rel="mw:WikiLink" href="./List_of_scientific_equations_named_after_people" title="List of scientific equations named after people">List of scientific equations named after people</a></li>
+<li><a rel="mw:WikiLink" href="./Term_(logic)" title="Term (logic)">Term (logic)</a></li>
+<li><a rel="mw:WikiLink" href="./Theory_of_equations" title="Theory of equations">Theory of equations</a></li>
+<li><a rel="mw:WikiLink" href="./Cancelling_out" title="Cancelling out">Cancelling out</a></li></ul>
+</div>
+
+</section><section data-mw-section-id="22" id="mwAlw"><h2 id="References">References</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt82" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mwAl0">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt100" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Equation#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text"><cite class="citation journal" about="#mwt3" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite journal ","href":"./Template:Cite_journal"},"params":{"last1":{"wt":"Marcus"},"first1":{"wt":"Solomon"},"last2":{"wt":"Watt"},"first2":{"wt":"Stephen M."},"date":{"wt":""},"title":{"wt":"What is an Equation?"},"url":{"wt":"https://www.academia.edu/3287674/What_is_an_Equation"},"journal":{"wt":""},"volume":{"wt":""},"issue":{"wt":""},"pages":{"wt":""},"doi":{"wt":""},"access-date":{"wt":"2019-02-27"}},"i":0}}]}' id="mwAl4">Marcus, Solomon; Watt, Stephen M. <a rel="mw:ExtLink" class="external text" href="https://www.academia.edu/3287674/What_is_an_Equation" id="mwAl8">"What is an Equation?"</a><span class="reference-accessdate" id="mwAmA">. Retrieved <span class="nowrap" id="mwAmE">2019-02-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=What+is+an+Equation%3F&amp;rft.aulast=Marcus&amp;rft.aufirst=Solomon&amp;rft.au=Watt%2C+Stephen+M.&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F3287674%2FWhat_is_an_Equation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEquation" class="Z3988" about="#mwt3" id="mwAmI"></span><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt3" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAmM">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-2" id="cite_note-2"><a href="./Equation#cite_ref-2" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-2" class="mw-reference-text"><cite class="citation book" about="#mwt6" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book\n ","href":"./Template:Cite_book"},"params":{"chapterurl":{"wt":"http://www.universalis.fr/encyclopedie/NT01240/EQUATION_mathematique.htm"},"chapter":{"wt":"Équation, mathématique"},"first":{"wt":"Gilles"},"last":{"wt":"Lachaud"},"title":{"wt":"Encyclopædia Universalis"},"language":{"wt":"French"}},"i":0}}]}' id="mwAmQ">Lachaud, Gilles. <a rel="mw:ExtLink" class="external text" href="http://www.universalis.fr/encyclopedie/NT01240/EQUATION_mathematique.htm" id="mwAmU">"Équation, mathématique"</a>. <i id="mwAmY">Encyclopædia Universalis</i> (in French).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%C3%89quation%2C+math%C3%A9matique&amp;rft.btitle=Encyclop%C3%A6dia+Universalis&amp;rft.aulast=Lachaud&amp;rft.aufirst=Gilles&amp;rft_id=http%3A%2F%2Fwww.universalis.fr%2Fencyclopedie%2FNT01240%2FEQUATION_mathematique.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEquation" class="Z3988" about="#mwt6" id="mwAmc"></span><link rel="mw:PageProp/Category" href="./Category:CS1_French-language_sources_(fr)" about="#mwt6" id="mwAmg"/><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt6" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAmk"/></span></li><li about="#cite_note-3" id="cite_note-3"><a href="./Equation#cite_ref-3" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-3" class="mw-reference-text">"A statement of equality between two expressions. Equations are of two types, <b id="mwAmo">identities</b> and <b id="mwAms">conditional equations</b> (or usually simply "equations")". « <i id="mwAmw">Equation</i> », in <i id="mwAm0"><span lang="en" title="English language text" about="#mwt7" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Lang","href":"./Template:Lang"},"params":{"1":{"wt":"en"},"2":{"wt":"Mathematics Dictionary"}},"i":0}}]}' id="mwAm4">Mathematics Dictionary</span><link rel="mw:PageProp/Category" href="./Category:Articles_containing_explicitly_cited_English-language_text" about="#mwt7" id="mwAm8"/></i>, <a rel="mw:WikiLink" href="./Glenn_James_(mathematician)" title="Glenn James (mathematician)" about="#mwt8" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"ill","href":"./Template:Ill"},"params":{"1":{"wt":"Glenn James (mathematician)"},"2":{"wt":"de"},"3":{"wt":"Glenn James"},"lt":{"wt":"Glenn James"}},"i":0}}]}' id="mwAnA" class="new">Glenn James</a><span class="noprint" style="font-size:85%; font-style: normal; " about="#mwt8" id="mwAnE"><span typeof="mw:Entity" id="mwAnI"> </span><span typeof="mw:Entity" id="mwAnM">[</span><a rel="mw:WikiLink/Interwiki" href="https://de.wikipedia.org/wiki/Glenn%20James" title="de:Glenn James" id="mwAnQ">de</a><link rel="mw:PageProp/Category" href="./Category:Interlanguage_link_template_link_number#A" id="mwAnU"/><span typeof="mw:Entity" id="mwAnY">]</span></span> et <a rel="mw:WikiLink" href="./Robert_C._James" title="Robert C. James" about="#mwt9" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"ill","href":"./Template:Ill"},"params":{"1":{"wt":"Robert C. James"},"2":{"wt":"de"}},"i":0}}]}' id="mwAnc" class="new">Robert C. James</a><span class="noprint" style="font-size:85%; font-style: normal; " about="#mwt9" id="mwAng"><span typeof="mw:Entity" id="mwAnk"> </span><span typeof="mw:Entity" id="mwAno">[</span><a rel="mw:WikiLink/Interwiki" href="https://de.wikipedia.org/wiki/Robert%20C.%20James" title="de:Robert C. James" id="mwAns">de</a><link rel="mw:PageProp/Category" href="./Category:Interlanguage_link_template_link_number#A" id="mwAnw"/><span typeof="mw:Entity" id="mwAn0">]</span></span> (éd.), Van Nostrand, 1968, 3 ed. 1st ed. 1948, <span about="#mwt10" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"p.","href":"./Template:P."},"params":{"1":{"wt":"131"}},"i":0}}]}' id="mwAn4">p.</span><span typeof="mw:Entity" about="#mwt10" id="mwAn8"> </span><span about="#mwt10" id="mwAoA">131</span>.</span></li><li about="#cite_note-4" id="cite_note-4"><a href="./Equation#cite_ref-4" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-4" class="mw-reference-text">Recorde, Robert, <i id="mwAoE">The Whetstone of Witte</i> … (London, England: Jhon Kyngstone, 1557), <a rel="mw:ExtLink" class="external text" href="https://archive.org/stream/TheWhetstoneOfWitte#page/n237/mode/2up" id="mwAoI">the third page of the chapter "The rule of equation, commonly called Algebers Rule."</a></span></li><li about="#cite_note-5" id="cite_note-5"><a href="./Equation#cite_ref-5" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-5" class="mw-reference-text">The subject of this article is basic in mathematics, and is treated in a lot of textbooks. Among them, Lay 2005, Meyer 2001, and Strang 2005 contain the material of this article.</span></li><li about="#cite_note-6" id="cite_note-6"><a href="./Equation#cite_ref-6" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-6" class="mw-reference-text">Thomas, George B., and Finney, Ross L., <i id="mwAoM">Calculus and Analytic Geometry</i>, Addison Wesley Publishing Co., fifth edition, 1979, p. 91.</span></li><li about="#cite_note-7" id="cite_note-7"><a href="./Equation#cite_ref-7" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-7" class="mw-reference-text">Weisstein, Eric W. "Parametric Equations." From MathWorld--A Wolfram Web Resource. <a rel="mw:ExtLink" class="external free" href="http://mathworld.wolfram.com/ParametricEquations.html" id="mwAoQ">http://mathworld.wolfram.com/ParametricEquations.html</a></span></li></ol></div></div>
+
+</section><section data-mw-section-id="23" id="mwAoU"><h2 id="External_links">External links</h2>
+<ul id="mwAoY"><li id="mwAoc"><a rel="mw:ExtLink" class="external text" href="https://web.archive.org/web/20090816161008/http://math.exeter.edu/rparris/winplot.html" id="mwAog">Winplot</a>: General Purpose plotter that can draw and animate 2D and 3D mathematical equations.</li>
+<li id="mwAok"><a rel="mw:ExtLink" class="external text" href="http://www.wessa.net/math.wasp" id="mwAoo">Mathematical equation plotter</a>: Plots 2D mathematical equations, computes integrals, and finds solutions online.</li>
+<li id="mwAos"><a rel="mw:ExtLink" class="external text" href="http://www.cs.cornell.edu/w8/~andru/relplot" id="mwAow">Equation plotter</a>: A web page for producing and downloading pdf or postscript plots of the solution sets to equations and inequations in two variables (<i id="mwAo0">x</i> and <i id="mwAo4">y</i>).</li>
+<li id="mwAo8"><a rel="mw:ExtLink" class="external text" href="http://eqworld.ipmnet.ru/" id="mwApA">EqWorld</a>—contains information on solutions to many different classes of mathematical equations.</li>
+<li id="mwApE"><a rel="mw:ExtLink" class="external text" href="http://www.fxsolver.com" id="mwApI">fxSolver</a>: Online formula database and graphing calculator for mathematics, natural science and engineering.</li>
+<li id="mwApM"><a rel="mw:ExtLink" class="external text" href="http://www.numberz.co.uk/ES.html" id="mwApQ">EquationSolver</a>: A webpage that can solve single equations and linear equation systems.</li>
+<li id="mwApU"><a rel="mw:ExtLink" class="external text" href="https://www.vcalc.com/app/" id="mwApY">vCalc</a>: A webpage with an extensive user modifiable equation library.</li></ul>
+
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11345&amp;#124;Edit_this_at_Wikidata" style="padding:3px" about="#mwt83" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Authority control","href":"./Template:Authority_control"},"params":{},"i":0}}]}' id="mwApc"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q11345&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Help:Authority_control" title="Help:Authority control">Authority control</a> <figure-inline class="mw-valign-text-top" typeof="mw:Image/Frameless" data-mw='{"caption":"Edit this at Wikidata"}'><a href="https://www.wikidata.org/wiki/Q11345"><img alt="Edit this at Wikidata" resource="./File:Blue_pencil.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" data-file-width="600" data-file-height="600" data-file-type="drawing" height="10" width="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x"/></a></figure-inline></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a rel="mw:WikiLink" href="./Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://d-nb.info/gnd/4021246-4">4021246-4</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_GND_identifiers"/></span></span></li>
+<li><span class="nowrap"><a rel="mw:WikiLink" href="./National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00563553">00563553</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_NDL_identifiers"/></span></span></li>
+<li><span class="nowrap"><a rel="mw:WikiLink" href="./National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph125241&amp;CON_LNG=ENG">ph125241</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_NKC_identifiers"/></span></span></li></ul>
+
+</div></td></tr></tbody></table></div>
+
+<link rel="mw:PageProp/Category" href="./Category:Elementary_algebra" id="mwApg"/>
+<link rel="mw:PageProp/Category" href="./Category:Equations#%20" id="mwApk"/></section></body></html>

@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/885081057"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="534dd250-3940-11e9-b4ba-834c33ef6d94"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="26691"/><link rel="dc:replaces" resource="mwr:revision/885079638"/><meta property="dc:modified" content="2019-02-25T20:59:58.000Z"/><meta property="mw:revisionSHA1" content="c34a50aa70ff133c75b705355fd6a1d4704d7d37"/><meta property="mw:html:version" content="2.1.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Set_(mathematics)"/><title>Set (mathematics)</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"about","href":"./Template:About"},"params":{"1":{"wt":"what mathematicians call \"intuitive\" or \"naive\" set theory"},"2":{"wt":"a more detailed account"},"3":{"wt":"Naive set theory"},"4":{"wt":"a rigorous modern [[axiom]]atic treatment of sets"},"5":{"wt":"Set theory"}},"i":0}}]}' id="mwAg">This article is about what mathematicians call "intuitive" or "naive" set theory. For a more detailed account, see <a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory">Naive set theory</a>. For a rigorous modern <a rel="mw:WikiLink" href="./Axiom" title="Axiom">axiomatic</a> treatment of sets, see <a rel="mw:WikiLink" href="./Set_theory" title="Set theory">Set theory</a>.</div>
+
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAw"><a href="./File:Example_of_a_set.svg" id="mwBA"><img resource="./File:Example_of_a_set.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Example_of_a_set.svg/220px-Example_of_a_set.svg.png" data-file-width="458" data-file-height="391" data-file-type="drawing" height="188" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Example_of_a_set.svg/440px-Example_of_a_set.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Example_of_a_set.svg/330px-Example_of_a_set.svg.png 1.5x" id="mwBQ"/></a><figcaption id="mwBg">A set of polygons in an <a rel="mw:WikiLink" href="./Euler_diagram" title="Euler diagram" id="mwBw">Euler diagram</a></figcaption></figure>
+
+<p id="mwCA">In <a rel="mw:WikiLink" href="./Mathematics" title="Mathematics" id="mwCQ">mathematics</a>, a <b id="mwCg">set</b> is a collection of distinct objects, considered as an <a rel="mw:WikiLink" href="./Object_(mathematics)" title="Object (mathematics)" id="mwCw" class="mw-redirect">object</a> in its own right. For example, the numbers 2, 4, and 6 are distinct objects when considered separately, but when they are considered collectively they form a single set of size three, written <span about="#mwt2" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"2, 4, 6"}},"i":0}}]}' id="mwDA">{2, 4, 6}</span>. The concept of a set is one of the most fundamental in mathematics. Developed at the end of the 19th century, <a rel="mw:WikiLink" href="./Set_theory" title="Set theory" id="mwDQ">set theory</a> is now a ubiquitous part of mathematics, and can be used as a foundation from which nearly all of mathematics can be derived. In <a rel="mw:WikiLink" href="./Mathematics_education" title="Mathematics education" id="mwDg">mathematics education</a>, elementary topics from set theory such as <a rel="mw:WikiLink" href="./Venn_diagram" title="Venn diagram" id="mwDw">Venn diagrams</a> are taught at a young age, while more advanced concepts are taught as part of a university degree.</p>
+
+<p id="mwEA">The German word <i id="mwEQ">Menge</i>, rendered as "set" in English, was coined by <a rel="mw:WikiLink" href="./Bernard_Bolzano" title="Bernard Bolzano" id="mwEg">Bernard Bolzano</a> in his work <i id="mwEw"><a rel="mw:WikiLink" href="./The_Paradoxes_of_the_Infinite" title="The Paradoxes of the Infinite" id="mwFA">The Paradoxes of the Infinite</a></i>.</p>
+
+</section><section data-mw-section-id="1" id="mwFQ"><h2 id="Definition">Definition</h2>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwFg"><a href="./File:Passage_with_the_set_definition_of_Georg_Cantor.png" id="mwFw"><img resource="./File:Passage_with_the_set_definition_of_Georg_Cantor.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Passage_with_the_set_definition_of_Georg_Cantor.png/220px-Passage_with_the_set_definition_of_Georg_Cantor.png" data-file-width="1401" data-file-height="594" data-file-type="bitmap" height="93" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Passage_with_the_set_definition_of_Georg_Cantor.png/440px-Passage_with_the_set_definition_of_Georg_Cantor.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Passage_with_the_set_definition_of_Georg_Cantor.png/330px-Passage_with_the_set_definition_of_Georg_Cantor.png 1.5x" id="mwGA"/></a><figcaption id="mwGQ">Passage with a translation of the original set definition of Georg Cantor. The German word <i id="mwGg">Menge</i> for <i id="mwGw">set</i> is translated with <i id="mwHA">aggregate</i> here.</figcaption></figure>
+<p id="mwHQ">A set is a well-defined collection of distinct objects. The objects that make up a set (also known as the set's <i id="mwHg"><a rel="mw:WikiLink" href="./Element_(mathematics)" title="Element (mathematics)" id="mwHw">elements</a></i> or <i id="mwIA">members</i>) can be anything: numbers, people, letters of the alphabet, other sets, and so on. <a rel="mw:WikiLink" href="./Georg_Cantor" title="Georg Cantor" id="mwIQ">Georg Cantor</a>, one of the founders of set theory, gave the following definition of a set at the beginning of his <i id="mwIg"><a rel="mw:ExtLink" class="external text" href="http://gdz.sub.uni-goettingen.de/index.php?id=pdf&amp;no_cache=1&amp;IDDOC=36218" id="mwIw">Beiträge zur Begründung der transfiniten Mengenlehre</a></i>:<sup about="#mwt143" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Set_(mathematics)#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup></p>
+
+<style data-mw-deduplicate="TemplateStyles:r856303468" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt5" data-mw='{"parts":[{"template":{"target":{"wt":"quote","href":"./Template:Quote"},"params":{"1":{"wt":"A set is a gathering together into a whole of definite, distinct objects of our perception [Anschauung] or of our thought—which are called elements of the set."}},"i":0}}]}' id="mwJA">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote" about="#mwt5" id="mwJQ"><p>A set is a gathering together into a whole of definite, distinct objects of our perception [Anschauung] or of our thought—which are called elements of the set.</p>
+</blockquote>
+
+<p id="mwJg">Sets are conventionally denoted with <a rel="mw:WikiLink" href="./Capital_letters" title="Capital letters" id="mwJw" class="mw-redirect">capital letters</a>. Sets <i id="mwKA">A</i> and <i id="mwKQ">B</i> are equal <a rel="mw:WikiLink" href="./If_and_only_if" title="If and only if" id="mwKg">if and only if</a> they have precisely the same elements.<sup about="#mwt141" class="mw-ref" id="cite_ref-Stoll_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Stoll"},"body":{"id":"mw-reference-text-cite_note-Stoll-2"}}'><a href="./Set_(mathematics)#cite_note-Stoll-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup></p>
+
+<p id="mwKw">For technical reasons, Cantor's definition turned out to be inadequate; today, in contexts where more rigor is required, one can use <a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" id="mwLA" class="mw-redirect">axiomatic set theory</a>, in which the notion of a "set" is taken as a <a rel="mw:WikiLink" href="./Primitive_notion" title="Primitive notion" id="mwLQ">primitive notion</a> and the properties of sets are defined by a collection of <a rel="mw:WikiLink" href="./Axiom" title="Axiom" id="mwLg">axioms</a>. The most basic properties are that a set can have elements, and that two sets are equal (one and the same) if and only if every element of each set is an element of the other; this property is called the <i id="mwLw">extensionality of sets</i>.</p>
+
+</section><section data-mw-section-id="2" id="mwMA"><h2 id="Describing_sets">Describing sets</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt8" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Set notation"}},"i":0}}]}' id="mwMQ">Main article: <a rel="mw:WikiLink" href="./Set_notation" title="Set notation">Set notation</a></div>
+<p id="mwMg">There are two ways of describing, or specifying the members of, a set. One way is by <a rel="mw:WikiLink" href="./Intensional_definition" title="Intensional definition" id="mwMw" class="mw-redirect">intensional definition</a>, using a rule or semantic description:</p>
+
+<dl id="mwNA"><dd id="mwNQ"><i id="mwNg">A</i> is the set whose members are the first four positive <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwNw">integers</a>.</dd>
+<dd id="mwOA"><i id="mwOQ">B</i> is the set of colors of the <a rel="mw:WikiLink" href="./Flag_of_France" title="Flag of France" id="mwOg">French flag</a>.</dd></dl>
+
+<p id="mwOw">The second way is by <a rel="mw:WikiLink" href="./Extension_(semantics)" title="Extension (semantics)" id="mwPA">extension</a> – that is, listing each member of the set.  An <a rel="mw:WikiLink" href="./Extensional_and_intensional_definitions" title="Extensional and intensional definitions" id="mwPQ">extensional definition</a> is denoted by enclosing the list of members in <a rel="mw:WikiLink" href="./Curly_bracket" title="Curly bracket" id="mwPg" class="mw-redirect">curly brackets</a>:</p>
+
+<dl id="mwPw"><dd id="mwQA"><i id="mwQQ">C</i> = <span about="#mwt9" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"4, 2, 1, 3"}},"i":0}}]}' id="mwQg">{4, 2, 1, 3}</span></dd>
+<dd id="mwQw"><i id="mwRA">D</i> = <span about="#mwt10" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"blue, white, red"}},"i":0}}]}' id="mwRQ">{blue, white, red}</span>.</dd></dl>
+
+<p id="mwRg">One often has the choice of specifying a set either intensionally or extensionally.  In the examples above, for instance, <i id="mwRw">A</i> = <i id="mwSA">C</i> and <i id="mwSQ">B</i> = <i id="mwSg">D</i>.</p>
+
+<p id="mwSw">In an extensional definition, a set member can be listed two or more times, for example, <span about="#mwt11" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"11, 6, 6"}},"i":0}}]}' id="mwTA">{11, 6, 6}</span>.  However, per extensionality, two definitions of sets which differ only in that one of the definitions lists members multiple times define the same set.  Hence, the set <span about="#mwt12" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"11, 6, 6"}},"i":0}}]}' id="mwTQ">{11, 6, 6}</span> is identical to the set <span about="#mwt13" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"11, 6"}},"i":0}}]}' id="mwTg">{11, 6}</span>. Moreover, the order in which the elements of a set are listed is irrelevant (unlike for a <a rel="mw:WikiLink" href="./Sequence" title="Sequence" id="mwTw">sequence</a> or <a rel="mw:WikiLink" href="./Tuple" title="Tuple" id="mwUA">tuple</a>), so <span about="#mwt14" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"6, 11"}},"i":0}}]}' id="mwUQ">{6, 11}</span> is yet again the same set.</p>
+
+<p id="mwUg">For sets with many elements, the enumeration of members can be abbreviated. For instance, the set of the first thousand positive integers may be specified extensionally as</p>
+
+<dl id="mwUw"><dd id="mwVA"><span about="#mwt15" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3, ..., 1000"}},"i":0}}]}' id="mwVQ">{1, 2, 3, ..., 1000}</span>,</dd></dl>
+
+<p id="mwVg">where the <a rel="mw:WikiLink" href="./Ellipsis#In_mathematical_notation" title="Ellipsis" id="mwVw">ellipsis</a> ("...") indicates that the list continues in the obvious way.</p>
+
+<p id="mwWA">The notation with braces may also be used in an intensional specification of a set.  In this usage, the braces have the meaning "the set of all ...". So, <i id="mwWQ">E</i> = <span about="#mwt16" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"[[Suit (cards)|playing card suits]]"}},"i":0}}]}' id="mwWg">{</span><a rel="mw:WikiLink" href="./Suit_(cards)" title="Suit (cards)" about="#mwt16" class="mw-redirect">playing card suits</a><span about="#mwt16">}</span> is the set whose four members are spades, diamonds, hearts, and clubs.  A more general form of this is <a rel="mw:WikiLink" href="./Set-builder_notation" title="Set-builder notation" id="mwWw">set-builder notation</a>, through which, for instance, the set <i id="mwXA">F</i> of the twenty smallest integers that are four less than a <a rel="mw:WikiLink" href="./Square_number" title="Square number" id="mwXQ">perfect square</a> can be denoted</p>
+
+<dl id="mwXg"><dd id="mwXw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt145" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"F = \\{n^2 - 4 : n \\text{ is an integer, and } 0 \\leq n \\leq 19\\}."}}' id="mwYA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle F=\{n^{2}-4:n{\text{ is an integer, and }}0\leq n\leq 19\}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <msup>
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>−<!-- − --></mo>
+        <mn>4</mn>
+        <mo>:</mo>
+        <mi>n</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext> is an integer, and </mtext>
+        </mrow>
+        <mn>0</mn>
+        <mo>≤<!-- ≤ --></mo>
+        <mi>n</mi>
+        <mo>≤<!-- ≤ --></mo>
+        <mn>19</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F=\{n^{2}-4:n{\text{ is an integer, and }}0\leq n\leq 19\}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2382f1f9587f43d6ffbe8518e42f23e42cfa79ef" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:46.972ex; height:3.176ex;" alt="{\displaystyle F=\{n^{2}-4:n{\text{ is an integer, and }}0\leq n\leq 19\}.}"/></span><span about="#mwt145">
+</span></dd></dl>
+
+<p id="mwYQ">In this notation, the <a rel="mw:WikiLink" href="./Colon_(punctuation)" title="Colon (punctuation)" id="mwYg">colon</a> (":") means "such that", and the description can be interpreted as "<i id="mwYw">F</i> is the set of all numbers of the form <i id="mwZA">n</i><sup id="mwZQ">2</sup> − 4, such that <i id="mwZg">n</i> is a whole number in the range from 0 to 19 inclusive." Sometimes the <a rel="mw:WikiLink" href="./Vertical_bar" title="Vertical bar" id="mwZw">vertical bar</a> ("|") is used instead of the colon.</p>
+
+</section><section data-mw-section-id="3" id="mwaA"><h2 id="Membership">Membership</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt18" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Element (mathematics)"}},"i":0}}]}' id="mwaQ">Main article: <a rel="mw:WikiLink" href="./Element_(mathematics)" title="Element (mathematics)">Element (mathematics)</a></div>
+<p id="mwag">If <i id="mwaw">B</i> is a set and <i id="mwbA">x</i> is one of the objects of <i id="mwbQ">B</i>, this is denoted <i id="mwbg">x</i> ∈ <i id="mwbw">B</i>, and is read as "x belongs to B", or "x is an element of B". If <i id="mwcA">y</i> is not a member of <i id="mwcQ">B</i> then this is written as <i id="mwcg">y</i> ∉ <i id="mwcw">B</i>, and is read as "y does not belong to B".</p>
+
+<p id="mwdA">For example, with respect to the sets <i id="mwdQ">A</i> = <span about="#mwt19" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3, 4"}},"i":0}}]}' id="mwdg">{1, 2, 3, 4}</span>, <i id="mwdw">B</i> = <span about="#mwt20" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"blue, white, red"}},"i":0}}]}' id="mweA">{blue, white, red}</span>, and <i id="mweQ">F</i> = <span about="#mwt21" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&apos;&apos;n&apos;&apos;&lt;sup>2&lt;/sup> − 4 : &apos;&apos;n&apos;&apos; is an integer, and 0 ≤ &apos;&apos;n&apos;&apos; ≤ 19"}},"i":0}}]}' id="mweg">{</span><i about="#mwt21">n</i><sup about="#mwt21">2</sup><span about="#mwt21"> − 4</span><span typeof="mw:DisplaySpace mw:Placeholder" about="#mwt21"> </span><span about="#mwt21">: </span><i about="#mwt21">n</i><span about="#mwt21"> is an integer, and 0 ≤ </span><i about="#mwt21">n</i><span about="#mwt21"> ≤ 19}</span> defined above,</p>
+<dl id="mwew"><dd id="mwfA">4 ∈ <i id="mwfQ">A</i> and 12 ∈ <i id="mwfg">F</i>; but</dd>
+<dd id="mwfw">9 ∉ <i id="mwgA">F</i> and green ∉ <i id="mwgQ">B</i>.</dd></dl>
+
+<section data-mw-section-id="4" id="mwgg"><h3 id="Subsets">Subsets</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt22" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Subset"}},"i":0}}]}' id="mwgw">Main article: <a rel="mw:WikiLink" href="./Subset" title="Subset">Subset</a></div>
+<p id="mwhA">If every member of set <i id="mwhQ">A</i> is also a member of set <i id="mwhg">B</i>, then <i id="mwhw">A</i> is said to be a <i id="mwiA">subset</i> of <i id="mwiQ">B</i>, written <i id="mwig">A</i> ⊆ <i id="mwiw">B</i> (also pronounced <i id="mwjA">A is contained in B</i>). Equivalently, we can write <i id="mwjQ">B</i> ⊇ <i id="mwjg">A</i>, read as <i id="mwjw">B is a superset of A</i>, <i id="mwkA">B includes A</i>, or <i id="mwkQ">B contains A</i>. The <a rel="mw:WikiLink" href="./Relation_(mathematics)" title="Relation (mathematics)" id="mwkg" class="mw-redirect">relationship</a> between sets established by ⊆ is called <i id="mwkw">inclusion</i> or <i id="mwlA">containment</i>.</p>
+
+<p id="mwlQ">If <i id="mwlg">A</i> is a subset of, but not equal to, <i id="mwlw">B</i>, then <i id="mwmA">A</i> is called a <i id="mwmQ">proper subset</i> of <i id="mwmg">B</i>, written <i id="mwmw">A</i> ⊊ <i id="mwnA">B</i> (<i id="mwnQ">A is a proper subset of B</i>) or <i id="mwng">B</i> ⊋ <i id="mwnw">A</i> (<i id="mwoA">B is a proper superset of A</i>).</p>
+
+<p id="mwoQ">The expressions <i id="mwog">A</i> ⊂ <i id="mwow">B</i> and <i id="mwpA">B</i> ⊃ <i id="mwpQ">A</i> are used differently by different authors; some authors use them to mean the same as <i id="mwpg">A</i> ⊆ <i id="mwpw">B</i> (respectively <i id="mwqA">B</i> ⊇ <i id="mwqQ">A</i>), whereas others use them to mean the same as <i id="mwqg">A</i> ⊊ <i id="mwqw">B</i> (respectively <i id="mwrA">B</i> ⊋ <i id="mwrQ">A</i>).</p>
+
+<figure typeof="mw:Image/Thumb" id="mwrg"><a href="./File:Venn_A_subset_B.svg" id="mwrw"><img resource="./File:Venn_A_subset_B.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Venn_A_subset_B.svg/150px-Venn_A_subset_B.svg.png" data-file-width="155" data-file-height="155" data-file-type="drawing" height="150" width="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Venn_A_subset_B.svg/300px-Venn_A_subset_B.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Venn_A_subset_B.svg/225px-Venn_A_subset_B.svg.png 1.5x" id="mwsA"/></a><figcaption id="mwsQ"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;" about="#mwt23" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"center","href":"./Template:Center"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; is a &apos;&apos;&apos;subset&apos;&apos;&apos; of &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwsg"><i>A</i> is a <b>subset</b> of <i>B</i></div></figcaption></figure>
+
+<p id="mwsw">Examples:</p>
+<ul id="mwtA"><li id="mwtQ">The set of all men is a proper <a rel="mw:WikiLink" href="./Subset" title="Subset" id="mwtg">subset</a> of the set of all people.</li>
+<li id="mwtw"><span about="#mwt24" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 3"}},"i":0}}]}' id="mwuA">{1, 3}</span> ⊆ <span about="#mwt25" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3, 4"}},"i":0}}]}' id="mwuQ">{1, 2, 3, 4}</span>.</li>
+<li id="mwug"><span about="#mwt26" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3, 4"}},"i":0}}]}' id="mwuw">{1, 2, 3, 4}</span> ⊆ <span about="#mwt27" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3, 4"}},"i":0}}]}' id="mwvA">{1, 2, 3, 4}</span>.</li></ul>
+
+<p id="mwvQ">The <a rel="mw:WikiLink" href="./Empty_set" title="Empty set" id="mwvg">empty set</a> is a subset of every set, and every set is a subset of itself:</p>
+<ul id="mwvw"><li id="mwwA">∅ ⊆ <i id="mwwQ">A</i>.</li>
+<li id="mwwg"><i id="mwww">A</i> ⊆ <i id="mwxA">A</i>.</li></ul>
+
+<p id="mwxQ">Every set is a subset of the <a rel="mw:WikiLink" href="./Universal_set" title="Universal set" id="mwxg">universal set</a>:</p>
+<ul id="mwxw"><li id="mwyA"><i id="mwyQ">A</i> ⊆ <i id="mwyg">U</i>.</li></ul>
+
+<p id="mwyw">A useful characterization of set equality can be used to show that two sets described differently are, in fact, equal:</p>
+<ul id="mwzA"><li id="mwzQ"><span class="nowrap" about="#mwt28" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; = &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwzg"><i>A</i> = <i>B</i></span> if and only if <span class="nowrap" about="#mwt29" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ⊆ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwzw"><i>A</i> ⊆ <i>B</i></span> and <span class="nowrap" about="#mwt30" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;B&apos;&apos; ⊆ &apos;&apos;A&apos;&apos;"}},"i":0}}]}' id="mw0A"><i>B</i> ⊆ <i>A</i></span>.</li></ul>
+
+<p id="mw0Q">A <a rel="mw:WikiLink" href="./Partition_of_a_set" title="Partition of a set" id="mw0g">partition of a set</a> <i id="mw0w">S</i> is a set of nonempty subsets of <i id="mw1A">S</i> such that every element <i id="mw1Q">x</i> in <i id="mw1g">S</i> is in exactly one of these subsets.</p>
+
+</section><section data-mw-section-id="5" id="mw1w"><h3 id="Power_sets">Power sets</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt31" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Power set"}},"i":0}}]}' id="mw2A">Main article: <a rel="mw:WikiLink" href="./Power_set" title="Power set">Power set</a></div>
+<p id="mw2Q">The power set of a set <i id="mw2g">S</i> is the set of all subsets of <i id="mw2w">S</i>. The power set contains <i id="mw3A">S</i> itself and the empty set because these are both subsets of <i id="mw3Q">S</i>. For example, the power set of the set <span about="#mwt32" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3"}},"i":0}}]}' id="mw3g">{1, 2, 3}</span> is <span about="#mwt33" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"{{mset|1, 2, 3}}, {{mset|1, 2}}, {{mset|1, 3}}, {{mset|2, 3}}, {{mset|1}}, {{mset|2}}, {{mset|3}}, ∅"}},"i":0}}]}' id="mw3w">{{1, 2, 3}, {1, 2}, {1, 3}, {2, 3}, {1}, {2}, {3}, ∅}</span>. The power set of a set <i id="mw4A">S</i> is usually written as <i id="mw4Q">P</i>(<i id="mw4g">S</i>).</p>
+
+<p id="mw4w">The power set of a finite set with <i id="mw5A">n</i> elements has 2<sup id="mw5Q"><i id="mw5g">n</i></sup> elements. For example, the set <span about="#mwt34" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3"}},"i":0}}]}' id="mw5w">{1, 2, 3}</span> contains three elements, and the power set shown above contains 2<sup id="mw6A">3</sup> = 8 elements.</p>
+
+<p id="mw6Q">The power set of an infinite (either <a rel="mw:WikiLink" href="./Countable" title="Countable" id="mw6g" class="mw-redirect">countable</a> or <a rel="mw:WikiLink" href="./Uncountable" title="Uncountable" id="mw6w" class="mw-redirect">uncountable</a>) set is always uncountable. Moreover, the power set of a set is always strictly "bigger" than the original set in the sense that there is no way to pair every element of <i id="mw7A">S</i> with exactly one element of <i id="mw7Q">P</i>(<i id="mw7g">S</i>). (There is never an onto map or <a rel="mw:WikiLink" href="./Surjection" title="Surjection" id="mw7w" class="mw-redirect">surjection</a> from <i id="mw8A">S</i> onto <i id="mw8Q">P</i>(<i id="mw8g">S</i>).)</p>
+
+<p id="mw8w">Every partition of a set <i id="mw9A">S</i> is a subset of the powerset of <i id="mw9Q">S</i>.</p>
+
+</section></section><section data-mw-section-id="6" id="mw9g"><h2 id="Cardinality">Cardinality</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt35" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Cardinality"}},"i":0}}]}' id="mw9w">Main article: <a rel="mw:WikiLink" href="./Cardinality" title="Cardinality">Cardinality</a></div>
+
+<p id="mw-A">The cardinality of a set <i id="mw-Q">S</i>, denoted <span about="#mwt36" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mabs","href":"./Template:Mabs"},"params":{"1":{"wt":"&apos;&apos;S&apos;&apos;"}},"i":0}}]}' id="mw-g">|</span>, is the number of members of <i id="mw-w">S</i>. For example, if <i id="mw_A">B</i> = <span about="#mwt37" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"blue, white, red"}},"i":0}}]}' id="mw_Q">{blue, white, red}</span>, then <span class="nowrap" about="#mwt38" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{{mabs|B}} = 3"}},"i":0}}]}' id="mw_g">|B| = 3</span>.</p>
+
+<p id="mw_w">There is a unique set with no members, called the <i id="mwAQA"><a rel="mw:WikiLink" href="./Empty_set" title="Empty set" id="mwAQE">empty set</a></i> (or the <i id="mwAQI">null set</i>), which is denoted by the symbol ∅ (other notations are used; see <a rel="mw:WikiLink" href="./Empty_set" title="Empty set" id="mwAQM">empty set</a>).  The cardinality of the empty set is zero. For example, the set of all three-sided squares has zero members and thus is the empty set. Though it may seem trivial, the empty set, like the <a rel="mw:WikiLink" href="./0_(number)" title="0 (number)" id="mwAQQ" class="mw-redirect">number zero</a>, is important in mathematics. Indeed, the existence of this set is one of the fundamental concepts of <a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" id="mwAQU" class="mw-redirect">axiomatic set theory</a>.</p>
+
+<p id="mwAQY">Some sets have <a rel="mw:WikiLink" href="./Infinite_set" title="Infinite set" id="mwAQc">infinite</a> cardinality.  The set <b id="mwAQg">N</b> of <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwAQk">natural numbers</a>, for instance, is infinite. Some infinite cardinalities are greater than others.  For instance, the set of <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAQo">real numbers</a> has greater cardinality than the set of natural numbers. However, it can be shown that the cardinality of (which is to say, the number of points on) a <a rel="mw:WikiLink" href="./Straight_line" title="Straight line" id="mwAQs" class="mw-redirect">straight line</a> is the same as the cardinality of any <a rel="mw:WikiLink" href="./Line_segment" title="Line segment" id="mwAQw">segment</a> of that line, of the entire <a rel="mw:WikiLink" href="./Plane_(mathematics)" title="Plane (mathematics)" id="mwAQ0" class="mw-redirect">plane</a>, and indeed of any <a rel="mw:WikiLink" href="./Dimension_(mathematics)" title="Dimension (mathematics)" id="mwAQ4" class="mw-redirect">finite-dimensional</a> <a rel="mw:WikiLink" href="./Euclidean_space" title="Euclidean space" id="mwAQ8">Euclidean space</a>.</p>
+
+</section><section data-mw-section-id="7" id="mwARA"><h2 id="Special_sets">Special sets</h2>
+<p id="mwARE">There are some sets or kinds of sets that hold great mathematical importance and are referred to with such regularity that they have acquired special names and notational conventions to identify them. One of these is the <a rel="mw:WikiLink" href="./Empty_set" title="Empty set" id="mwARI">empty set</a>, denoted <span about="#mwt40" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&amp;nbsp;"}},"i":0}}]}' id="mwARM">{</span><span typeof="mw:Entity" about="#mwt40"> </span><span about="#mwt40">}</span> or ∅. A set with exactly one element, <i id="mwARQ">x</i>, is a <a rel="mw:WikiLink" href="./Unit_set" title="Unit set" id="mwARU" class="mw-redirect">unit set</a>, or singleton, <span about="#mwt41" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwARY">{</span><i about="#mwt41">x</i><span about="#mwt41">}</span>.<sup about="#mwt43" class="mw-ref" id="cite_ref-Stoll_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Stoll"}}'><a href="./Set_(mathematics)#cite_note-Stoll-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup></p>
+
+<p id="mwARc">Many of these sets are represented using <a rel="mw:WikiLink" href="./Blackboard_bold" title="Blackboard bold" id="mwARg">blackboard bold</a> or bold typeface. Special sets of numbers include</p>
+<ul id="mwARk"><li id="mwARo"><b id="mwARs">P</b> or ℙ, denoting the set of all <a rel="mw:WikiLink" href="./Prime_number" title="Prime number" id="mwARw">primes</a>: <b id="mwAR0">P</b> = <span about="#mwt44" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"2, 3, 5, 7, 11, 13, 17, ..."}},"i":0}}]}' id="mwAR4">{2, 3, 5, 7, 11, 13, 17, ...}</span>.</li>
+<li id="mwAR8"><b id="mwASA">N</b> or <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt147" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\mathbb{N}"}}' id="mwASE"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdf9a96b565ea202d0f4322e9195613fb26a9bed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {N} "/></span><span about="#mwt147">
+</span>, denoting the set of all <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwASI">natural numbers</a>: <b id="mwASM">N</b> = <span about="#mwt46" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"0, 1, 2, 3, ..."}},"i":0}}]}' id="mwASQ">{0, 1, 2, 3, ...}</span> (sometimes defined excluding 0).</li>
+<li id="mwASU"><b id="mwASY">Z</b> or <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt149" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\mathbb{Z}"}}' id="mwASc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {Z} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">Z</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {Z} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/449494a083e0a1fda2b61c62b2f09b6bee4633dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.176ex;" alt="\mathbb {Z} "/></span><span about="#mwt149">
+</span>, denoting the set of all <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwASg">integers</a> (whether positive, negative or zero): <b id="mwASk">Z</b> = <span about="#mwt48" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"..., −2, −1, 0, 1, 2, ..."}},"i":0}}]}' id="mwASo">{..., −2, −1, 0, 1, 2, ...}</span>.</li>
+<li id="mwASs"><b id="mwASw">Q</b> or ℚ, denoting the set of all <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAS0">rational numbers</a> (that is, the set of all <a rel="mw:WikiLink" href="./Proper_fraction" title="Proper fraction" id="mwAS4" class="mw-redirect">proper</a> and <a rel="mw:WikiLink" href="./Improper_fraction" title="Improper fraction" id="mwAS8" class="mw-redirect">improper fractions</a>): <b id="mwATA">Q</b> = <span about="#mwt49" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos;/&apos;&apos;b&apos;&apos; "},"2":{"wt":" &apos;&apos;a&apos;&apos;, &apos;&apos;b&apos;&apos; ∈ &apos;&apos;&apos;Z&apos;&apos;&apos;, &apos;&apos;b&apos;&apos; ≠ 0"}},"i":0}}]}' id="mwATE">{</span><i about="#mwt49">a</i><span about="#mwt49">/</span><i about="#mwt49">b</i><span about="#mwt49"> | </span><i about="#mwt49">a</i><span about="#mwt49">, </span><i about="#mwt49">b</i><span about="#mwt49"> ∈ </span><b about="#mwt49">Z</b><span about="#mwt49">, </span><i about="#mwt49">b</i><span about="#mwt49"> ≠ 0}</span>. For example, 1/4 ∈ <b id="mwATI">Q</b> and 11/6 ∈ <b id="mwATM">Q</b>. All integers are in this set since every integer <i id="mwATQ">a</i> can be expressed as the fraction <i id="mwATU">a</i>/1 (<b id="mwATY">Z</b> ⊊ <b id="mwATc">Q</b>).</li>
+<li id="mwATg"><b id="mwATk">R</b> or <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt151" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\mathbb{R}"}}' id="mwATo"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {R} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {R} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.678ex; height:2.176ex;" alt="\mathbb {R} "/></span><span about="#mwt151">
+</span>, denoting the set of all <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwATs">real numbers</a>. This set includes all rational numbers, together with all <a rel="mw:WikiLink" href="./Irrational_number" title="Irrational number" id="mwATw">irrational</a> numbers (that is, <a rel="mw:WikiLink" href="./Algebraic_number" title="Algebraic number" id="mwAT0">algebraic numbers</a> that cannot be rewritten as fractions such as <span class="nowrap" about="#mwt51" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"radic","href":"./Template:Radic"},"params":{"1":{"wt":"2"}},"i":0}}]}' id="mwAT4"><span typeof="mw:Entity">√</span><span style="border-top:1px solid; padding:0 0.1em;">2</span></span>, as well as <a rel="mw:WikiLink" href="./Transcendental_numbers" title="Transcendental numbers" id="mwAT8" class="mw-redirect">transcendental numbers</a> such as <a rel="mw:WikiLink" href="./Pi" title="Pi" id="mwAUA">π</a>, <a rel="mw:WikiLink" href="./E_(mathematical_constant)" title="E (mathematical constant)" id="mwAUE"><i id="mwAUI">e</i></a>).</li>
+<li id="mwAUM"><b id="mwAUQ">C</b> or ℂ, denoting the set of all <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAUU">complex numbers</a>: <b id="mwAUY">C</b> = <span about="#mwt52" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; + &apos;&apos;bi&apos;&apos;"},"2":{"wt":"&apos;&apos;a&apos;&apos;, &apos;&apos;b&apos;&apos; ∈ &apos;&apos;&apos;R&apos;&apos;&apos;"}},"i":0}}]}' id="mwAUc">{</span><i about="#mwt52">a</i><span about="#mwt52"> + </span><i about="#mwt52">bi</i><span about="#mwt52">|</span><i about="#mwt52">a</i><span about="#mwt52">, </span><i about="#mwt52">b</i><span about="#mwt52"> ∈ </span><b about="#mwt52">R</b><span about="#mwt52">}</span>. For example, 1 + 2<i id="mwAUg">i</i> ∈ <b id="mwAUk">C</b>.</li>
+<li id="mwAUo"><b id="mwAUs">H</b> or ℍ, denoting the set of all <a rel="mw:WikiLink" href="./Quaternion" title="Quaternion" id="mwAUw">quaternions</a>: <b id="mwAU0">H</b> = <span about="#mwt53" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;mset&quot;,&quot;href&quot;:&quot;./Template:Mset&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;''a'' + ''bi'' + ''cj'' + ''dk''&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;''a'', ''b'', ''c'', ''d'' ∈ '''R'''&quot;}},&quot;i&quot;:0}}]}" id="mwAU4">{</span><i about="#mwt53">a</i><span about="#mwt53"> + </span><i about="#mwt53">bi</i><span about="#mwt53"> + </span><i about="#mwt53">cj</i><span about="#mwt53"> + </span><i about="#mwt53">dk</i><span about="#mwt53">|</span><i about="#mwt53">a</i><span about="#mwt53">, </span><i about="#mwt53">b</i><span about="#mwt53">, </span><i about="#mwt53">c</i><span about="#mwt53">, </span><i about="#mwt53">d</i><span about="#mwt53"> ∈ </span><b about="#mwt53">R</b><span about="#mwt53">}</span>. For example, 1 + <i id="mwAU8">i</i> + 2<i id="mwAVA">j</i> − <i id="mwAVE">k</i> ∈ <b id="mwAVI">H</b>.</li></ul>
+
+<p id="mwAVM">Each of the above sets of numbers has an infinite number of elements, and each can be considered to be a proper subset of the sets listed below it. The primes are used less frequently than the others outside of <a rel="mw:WikiLink" href="./Number_theory" title="Number theory" id="mwAVQ">number theory</a> and related fields.</p>
+
+<p id="mwAVU">Positive and negative sets are sometimes denoted by superscript plus and minus signs, respectively. For example, ℚ<sup id="mwAVY">+</sup> represents the set of positive rational numbers.</p>
+
+</section><section data-mw-section-id="8" id="mwAVc"><h2 id="Basic_operations">Basic operations</h2>
+<p id="mwAVg">There are several fundamental operations for constructing new sets from given sets.</p>
+
+<section data-mw-section-id="9" id="mwAVk"><h3 id="Unions">Unions</h3>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAVo"><a href="./File:Venn0111.svg" id="mwAVs"><img resource="./File:Venn0111.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/220px-Venn0111.svg.png" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/440px-Venn0111.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Venn0111.svg/330px-Venn0111.svg.png 1.5x" id="mwAVw"/></a><figcaption id="mwAV0"><div class="center" id="mwAV4">The <b id="mwAV8">union</b> of <i id="mwAWA">A</i> and <i id="mwAWE">B</i>, denoted <span class="nowrap" about="#mwt54" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAWI"><i>A</i> ∪ <i>B</i></span></div></figcaption></figure>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt55" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Union (set theory)"}},"i":0}}]}' id="mwAWM">Main article: <a rel="mw:WikiLink" href="./Union_(set_theory)" title="Union (set theory)">Union (set theory)</a></div>
+<p id="mwAWQ">Two sets can be "added" together. The <i id="mwAWU">union</i> of <i id="mwAWY">A</i> and <i id="mwAWc">B</i>, denoted by <i id="mwAWg">A</i><span typeof="mw:Entity" id="mwAWk"> </span>∪<span typeof="mw:Entity" id="mwAWo"> </span><i id="mwAWs">B</i>, is the set of all things that are members of either <i id="mwAWw">A</i> or <i id="mwAW0">B</i>.</p>
+
+<p id="mwAW4">Examples:</p>
+<ul id="mwAW8"><li id="mwAXA"><span class="nowrap" about="#mwt56" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} ∪ {1, 2} = {1, 2}."}},"i":0}}]}' id="mwAXE">{1, 2} ∪ {1, 2} = {1, 2}.</span></li>
+<li id="mwAXI"><span class="nowrap" about="#mwt57" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} ∪ {2, 3} = {1, 2, 3}."}},"i":0}}]}' id="mwAXM">{1, 2} ∪ {2, 3} = {1, 2, 3}.</span></li>
+<li id="mwAXQ">{1, 2, 3} ∪ {3, 4, 5} = {1, 2, 3, 4, 5}</li></ul>
+
+<p id="mwAXU"><b id="mwAXY">Some basic properties of unions:</b></p>
+<ul id="mwAXc"><li id="mwAXg"><span class="nowrap" about="#mwt58" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;B&apos;&apos; = &apos;&apos;B&apos;&apos; ∪ &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAXk"><i>A</i> ∪ <i>B</i> = <i>B</i> ∪ <i>A</i>.</span></li>
+<li id="mwAXo"><span class="nowrap" about="#mwt59" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;nowrap&quot;,&quot;href&quot;:&quot;./Template:Nowrap&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;''A'' ∪ (''B'' ∪ ''C'') = (''A'' ∪ ''B'') ∪ ''C''.&quot;}},&quot;i&quot;:0}}]}" id="mwAXs"><i>A</i> ∪ (<i>B</i> ∪ <i>C</i>) = (<i>A</i> ∪ <i>B</i>) ∪ <i>C</i>.</span></li>
+<li id="mwAXw"><span class="nowrap" about="#mwt60" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ⊆ (&apos;&apos;A&apos;&apos; ∪ &apos;&apos;B&apos;&apos;)."}},"i":0}}]}' id="mwAX0"><i>A</i> ⊆ (<i>A</i> ∪ <i>B</i>).</span></li>
+<li id="mwAX4"><span class="nowrap" about="#mwt61" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;A&apos;&apos; = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAX8"><i>A</i> ∪ <i>A</i> = <i>A</i>.</span></li>
+<li id="mwAYA"><span class="nowrap" about="#mwt62" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;U&apos;&apos; = &apos;&apos;U&apos;&apos;."}},"i":0}}]}' id="mwAYE"><i>A</i> ∪ <i>U</i> = <i>U</i>.</span></li>
+<li id="mwAYI"><span class="nowrap" about="#mwt63" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ ∅ = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAYM"><i>A</i> ∪ ∅ = <i>A</i>.</span></li>
+<li id="mwAYQ"><span class="nowrap" about="#mwt64" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ⊆ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAYU"><i>A</i> ⊆ <i>B</i></span> <a rel="mw:WikiLink" href="./If_and_only_if" title="If and only if" id="mwAYY">if and only if</a> <span class="nowrap" about="#mwt65" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;B&apos;&apos; = &apos;&apos;B&apos;&apos;."}},"i":0}}]}' id="mwAYc"><i>A</i> ∪ <i>B</i> = <i>B</i>.</span></li></ul>
+
+</section><section data-mw-section-id="10" id="mwAYg"><h3 id="Intersections">Intersections</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt66" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Intersection (set theory)"}},"i":0}}]}' id="mwAYk">Main article: <a rel="mw:WikiLink" href="./Intersection_(set_theory)" title="Intersection (set theory)">Intersection (set theory)</a></div>
+<p id="mwAYo">A new set can also be constructed by determining which members two sets have "in common". The <i id="mwAYs">intersection</i> of <i id="mwAYw">A</i> and <i id="mwAY0">B</i>, denoted by <span class="nowrap" about="#mwt67" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos;,"}},"i":0}}]}' id="mwAY4"><i>A</i> ∩ <i>B</i>,</span> is the set of all things that are members of both <i id="mwAY8">A</i> and <i id="mwAZA">B</i>. If <span class="nowrap" about="#mwt68" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos; = ∅,"}},"i":0}}]}' id="mwAZE"><i>A</i> ∩ <i>B</i> = ∅,</span> then <i id="mwAZI">A</i> and <i id="mwAZM">B</i> are said to be <i id="mwAZQ">disjoint</i>.</p>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAZU"><a href="./File:Venn0001.svg" id="mwAZY"><img resource="./File:Venn0001.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/220px-Venn0001.svg.png" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/440px-Venn0001.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/330px-Venn0001.svg.png 1.5x" id="mwAZc"/></a><figcaption id="mwAZg"><div class="center" id="mwAZk">The <b id="mwAZo">intersection</b> of <i id="mwAZs">A</i> and <i id="mwAZw">B</i>, denoted <span class="nowrap" about="#mwt69" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos;."}},"i":0}}]}' id="mwAZ0"><i>A</i> ∩ <i>B</i>.</span></div></figcaption></figure>
+
+<p id="mwAZ4">Examples:</p>
+<ul id="mwAZ8"><li id="mwAaA"><span class="nowrap" about="#mwt70" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} ∩ {1, 2} = {1, 2}."}},"i":0}}]}' id="mwAaE">{1, 2} ∩ {1, 2} = {1, 2}.</span></li>
+<li id="mwAaI"><span class="nowrap" about="#mwt71" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} ∩ {2, 3} = {2}."}},"i":0}}]}' id="mwAaM">{1, 2} ∩ {2, 3} = {2}.</span></li></ul>
+
+<p id="mwAaQ"><b id="mwAaU">Some basic properties of intersections:</b></p>
+<ul id="mwAaY"><li id="mwAac"><span class="nowrap" about="#mwt72" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos; = &apos;&apos;B&apos;&apos; ∩ &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAag"><i>A</i> ∩ <i>B</i> = <i>B</i> ∩ <i>A</i>.</span></li>
+<li id="mwAak"><span class="nowrap" about="#mwt73" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;nowrap&quot;,&quot;href&quot;:&quot;./Template:Nowrap&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;''A'' ∩ (''B'' ∩ ''C'') = (''A'' ∩ ''B'') ∩ ''C''.&quot;}},&quot;i&quot;:0}}]}" id="mwAao"><i>A</i> ∩ (<i>B</i> ∩ <i>C</i>) = (<i>A</i> ∩ <i>B</i>) ∩ <i>C</i>.</span></li>
+<li id="mwAas"><span class="nowrap" about="#mwt74" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos; ⊆ &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAaw"><i>A</i> ∩ <i>B</i> ⊆ <i>A</i>.</span></li>
+<li id="mwAa0"><span class="nowrap" about="#mwt75" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;A&apos;&apos; = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAa4"><i>A</i> ∩ <i>A</i> = <i>A</i>.</span></li>
+<li id="mwAa8"><span class="nowrap" about="#mwt76" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;U&apos;&apos; = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAbA"><i>A</i> ∩ <i>U</i> = <i>A</i>.</span></li>
+<li id="mwAbE"><span class="nowrap" about="#mwt77" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ ∅ = ∅."}},"i":0}}]}' id="mwAbI"><i>A</i> ∩ ∅ = ∅.</span></li>
+<li id="mwAbM"><span class="nowrap" about="#mwt78" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ⊆ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAbQ"><i>A</i> ⊆ <i>B</i></span> <a rel="mw:WikiLink" href="./If_and_only_if" title="If and only if" id="mwAbU">if and only if</a> <span class="nowrap" about="#mwt79" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos; = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAbY"><i>A</i> ∩ <i>B</i> = <i>A</i>.</span></li></ul>
+
+</section><section data-mw-section-id="11" id="mwAbc"><h3 id="Complements">Complements</h3>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAbg"><a href="./File:Venn0100.svg" id="mwAbk"><img resource="./File:Venn0100.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Venn0100.svg/220px-Venn0100.svg.png" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Venn0100.svg/440px-Venn0100.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Venn0100.svg/330px-Venn0100.svg.png 1.5x" id="mwAbo"/></a><figcaption id="mwAbs"><div class="center" id="mwAbw">The <b id="mwAb0">relative complement</b><br id="mwAb4"/>of <i id="mwAb8">B</i> in <i id="mwAcA">A</i></div></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAcE"><a href="./File:Venn1010.svg" id="mwAcI"><img resource="./File:Venn1010.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/220px-Venn1010.svg.png" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/440px-Venn1010.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Venn1010.svg/330px-Venn1010.svg.png 1.5x" id="mwAcM"/></a><figcaption id="mwAcQ"><div class="center" id="mwAcU">The <b id="mwAcY">complement</b> of <i id="mwAcc">A</i> in <i id="mwAcg">U</i></div></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAck"><a href="./File:Venn0110.svg" id="mwAco"><img resource="./File:Venn0110.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/220px-Venn0110.svg.png" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/440px-Venn0110.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/330px-Venn0110.svg.png 1.5x" id="mwAcs"/></a><figcaption id="mwAcw"><div class="center" id="mwAc0">The <b id="mwAc4">symmetric difference</b> of <i id="mwAc8">A</i> and <i id="mwAdA">B</i></div></figcaption></figure>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt80" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Complement (set theory)"}},"i":0}}]}' id="mwAdE">Main article: <a rel="mw:WikiLink" href="./Complement_(set_theory)" title="Complement (set theory)">Complement (set theory)</a></div>
+<p id="mwAdI">Two sets can also be "subtracted". The <i id="mwAdM">relative complement</i> of <i id="mwAdQ">B</i> in <i id="mwAdU">A</i> (also called the <i id="mwAdY">set-theoretic difference</i> of <i id="mwAdc">A</i> and <i id="mwAdg">B</i>), denoted by <span class="nowrap" about="#mwt81" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAdk"><i>A</i> \ <i>B</i></span> (or <span class="nowrap" about="#mwt82" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; − &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAdo"><i>A</i> − <i>B</i></span>), is the set of all elements that are members of <i id="mwAds">A</i> but not members of <i id="mwAdw">B</i>. Note that it is valid to "subtract" members of a set that are not in the set, such as removing the element <i id="mwAd0">green</i> from the set <span about="#mwt83" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"1, 2, 3"}},"i":0}}]}' id="mwAd4">{1, 2, 3}</span>; doing so has no effect.</p>
+
+<p id="mwAd8">In certain settings all sets under discussion are considered to be subsets of a given <a rel="mw:WikiLink" href="./Universe_(mathematics)" title="Universe (mathematics)" id="mwAeA">universal set</a> <i id="mwAeE">U</i>. In such cases, <span class="nowrap" about="#mwt84" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;U&apos;&apos; \\ &apos;&apos;A&apos;&apos;"}},"i":0}}]}' id="mwAeI"><i>U</i> \ <i>A</i></span> is called the <i id="mwAeM">absolute complement</i> or simply <i id="mwAeQ">complement</i> of <i id="mwAeU">A</i>, and is denoted by <i id="mwAeY">A</i>′.</p>
+<ul id="mwAec"><li id="mwAeg"><span class="nowrap" about="#mwt85" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos;′ = &apos;&apos;U&apos;&apos; \\ &apos;&apos;A&apos;&apos;"}},"i":0}}]}' id="mwAek"><i>A</i>′ = <i>U</i> \ <i>A</i></span></li></ul>
+
+<p id="mwAeo">Examples:</p>
+<ul id="mwAes"><li id="mwAew"><span class="nowrap" about="#mwt86" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} \\ {1, 2} = ∅."}},"i":0}}]}' id="mwAe0">{1, 2} \ {1, 2} = ∅.</span></li>
+<li id="mwAe4"><span class="nowrap" about="#mwt87" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2, 3, 4} \\ {1, 3} = {2, 4}."}},"i":0}}]}' id="mwAe8">{1, 2, 3, 4} \ {1, 3} = {2, 4}.</span></li>
+<li id="mwAfA">If <i id="mwAfE">U</i> is the set of integers, <i id="mwAfI">E</i> is the set of even integers, and <i id="mwAfM">O</i> is the set of odd integers, then <i id="mwAfQ">U</i> \ <i id="mwAfU">E</i> = <i id="mwAfY">E</i>′ = <i id="mwAfc">O</i>.</li></ul>
+
+<p id="mwAfg">Some basic properties of complements:</p>
+<ul id="mwAfk"><li id="mwAfo"><span class="nowrap" about="#mwt88" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos; ≠ &apos;&apos;B&apos;&apos; \\ &apos;&apos;A&apos;&apos;"}},"i":0}}]}' id="mwAfs"><i>A</i> \ <i>B</i> ≠ <i>B</i> \ <i>A</i></span> for <span class="nowrap" about="#mwt89" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ≠ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAfw"><i>A</i> ≠ <i>B</i></span>.</li>
+<li id="mwAf0"><span class="nowrap" about="#mwt90" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∪ &apos;&apos;A&apos;&apos;′ = &apos;&apos;U&apos;&apos;."}},"i":0}}]}' id="mwAf4"><i>A</i> ∪ <i>A</i>′ = <i>U</i>.</span></li>
+<li id="mwAf8"><span class="nowrap" about="#mwt91" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ∩ &apos;&apos;A&apos;&apos;′ = ∅."}},"i":0}}]}' id="mwAgA"><i>A</i> ∩ <i>A</i>′ = ∅.</span></li>
+<li id="mwAgE"><span class="nowrap" about="#mwt92" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;A&apos;&apos;′)′ = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAgI">(<i>A</i>′)′ = <i>A</i>.</span></li>
+<li id="mwAgM"><span class="nowrap" about="#mwt93" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"∅ \\ &apos;&apos;A&apos;&apos; = ∅."}},"i":0}}]}' id="mwAgQ">∅ \ <i>A</i> = ∅.</span></li>
+<li id="mwAgU"><span class="nowrap" about="#mwt94" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ ∅ = &apos;&apos;A&apos;&apos;."}},"i":0}}]}' id="mwAgY"><i>A</i> \ ∅ = <i>A</i>.</span></li>
+<li id="mwAgc"><span class="nowrap" about="#mwt95" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;A&apos;&apos; = ∅."}},"i":0}}]}' id="mwAgg"><i>A</i> \ <i>A</i> = ∅.</span></li>
+<li id="mwAgk"><span class="nowrap" about="#mwt97" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;U&apos;&apos; = ∅."}},"i":0}}]}' id="mwAgo"><i>A</i> \ <i>U</i> = ∅.</span></li>
+<li id="mwAgs"><span class="nowrap" about="#mwt98" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;A&apos;&apos;′ = &apos;&apos;A&apos;&apos;"}},"i":0}}]}' id="mwAgw"><i>A</i> \ <i>A</i>′ = <i>A</i></span> and <span class="nowrap" about="#mwt99" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos;′ \\ &apos;&apos;A&apos;&apos; = &apos;&apos;A&apos;&apos;′."}},"i":0}}]}' id="mwAg0"><i>A</i>′ \ <i>A</i> = <i>A</i>′.</span></li>
+<li id="mwAg4"><span class="nowrap" about="#mwt102" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;U&apos;&apos;′ = ∅"}},"i":0}}]}' id="mwAg8"><i>U</i>′ = ∅</span> and <span class="nowrap" about="#mwt103" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"∅′ = &apos;&apos;U&apos;&apos;."}},"i":0}}]}' id="mwAhA">∅′ = <i>U</i>.</span></li>
+<li id="mwAhE"><span class="nowrap" about="#mwt104" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos; = &apos;&apos;A&apos;&apos; ∩ &apos;&apos;B&apos;&apos;′"}},"i":0}}]}' id="mwAhI"><i>A</i> \ <i>B</i> = <i>A</i> ∩ <i>B</i>′</span>.</li>
+<li id="mwAhM">if <span class="nowrap" about="#mwt105" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; ⊆ &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAhQ"><i>A</i> ⊆ <i>B</i></span> then <span class="nowrap" about="#mwt106" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos; = ∅."}},"i":0}}]}' id="mwAhU"><i>A</i> \ <i>B</i> = ∅.</span></li></ul>
+
+<p id="mwAhY">An extension of the complement is the <a rel="mw:WikiLink" href="./Symmetric_difference" title="Symmetric difference" id="mwAhc">symmetric difference</a>, defined for sets <i id="mwAhg">A</i>, <i id="mwAhk">B</i> as</p>
+<dl id="mwAho"><dd id="mwAhs"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt155" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"A\\,\\Delta\\,B = (A \\setminus B) \\cup (B \\setminus A)."}}' id="mwAhw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mspace width="thinmathspace"></mspace>
+        <mi mathvariant="normal">Δ<!-- Δ --></mi>
+        <mspace width="thinmathspace"></mspace>
+        <mi>B</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>A</mi>
+        <mo class="MJX-variant">∖<!-- ∖ --></mo>
+        <mi>B</mi>
+        <mo stretchy="false">)</mo>
+        <mo>∪<!-- ∪ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>B</mi>
+        <mo class="MJX-variant">∖<!-- ∖ --></mo>
+        <mi>A</mi>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A\,\Delta \,B=(A\setminus B)\cup (B\setminus A).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e5172394b4cecafa3508bb9176a18ba15917e11" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:27.567ex; height:2.843ex;" alt="A\,\Delta \,B=(A\setminus B)\cup (B\setminus A)."/></span><span about="#mwt155">
+</span></dd></dl>
+<p id="mwAh0">For example, the symmetric difference of <span about="#mwt108" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"7, 8, 9, 10"}},"i":0}}]}' id="mwAh4">{7, 8, 9, 10}</span> and <span about="#mwt109" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"9, 10, 11, 12"}},"i":0}}]}' id="mwAh8">{9, 10, 11, 12}</span> is the set <span about="#mwt110" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"7, 8, 11, 12"}},"i":0}}]}' id="mwAiA">{7, 8, 11, 12}</span>. The power set of any set becomes a <a rel="mw:WikiLink" href="./Boolean_ring" title="Boolean ring" id="mwAiE">Boolean ring</a> with symmetric difference as the addition of the ring (with the empty set as neutral element) and intersection as the multiplication of the ring.</p>
+
+</section><section data-mw-section-id="12" id="mwAiI"><h3 id="Cartesian_product">Cartesian product</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt111" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Cartesian product"}},"i":0}}]}' id="mwAiM">Main article: <a rel="mw:WikiLink" href="./Cartesian_product" title="Cartesian product">Cartesian product</a></div>
+<p id="mwAiQ">A new set can be constructed by associating every element of one set with every element of another set.  The <i id="mwAiU">Cartesian product</i> of two sets <i id="mwAiY">A</i> and <i id="mwAic">B</i>, denoted by <i id="mwAig">A</i> × <i id="mwAik">B</i> is the set of all <a rel="mw:WikiLink" href="./Ordered_pairs" title="Ordered pairs" id="mwAio" class="mw-redirect">ordered pairs</a> (<i id="mwAis">a</i>, <i id="mwAiw">b</i>) such that <i id="mwAi0">a</i> is a member of <i id="mwAi4">A</i> and <i id="mwAi8">b</i> is a member of <i id="mwAjA">B</i>.</p>
+
+<p id="mwAjE">Examples:</p>
+<ul id="mwAjI"><li id="mwAjM"><span class="nowrap" about="#mwt112" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} × {red, white, green} = {(1, red), (1, white), (1, green), (2, red), (2, white), (2, green)}."}},"i":0}}]}' id="mwAjQ">{1, 2} × {red, white, green} = {(1, red), (1, white), (1, green), (2, red), (2, white), (2, green)}.</span></li>
+<li id="mwAjU"><span class="nowrap" about="#mwt113" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{1, 2} × {1, 2} = {(1, 1), (1, 2), (2, 1), (2, 2)}."}},"i":0}}]}' id="mwAjY">{1, 2} × {1, 2} = {(1, 1), (1, 2), (2, 1), (2, 2)}.</span></li>
+<li id="mwAjc"><span class="nowrap" about="#mwt114" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"{a, b, c} × {d, e, f} = {(a, d), (a, e), (a, f), (b, d), (b, e), (b, f), (c, d), (c, e), (c, f)}."}},"i":0}}]}' id="mwAjg">{a, b, c} × {d, e, f} = {(a, d), (a, e), (a, f), (b, d), (b, e), (b, f), (c, d), (c, e), (c, f)}.</span></li></ul>
+
+<p id="mwAjk">Some basic properties of Cartesian products:</p>
+<ul id="mwAjo"><li id="mwAjs"><span class="nowrap" about="#mwt115" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; × [[∅]] = ∅."}},"i":0}}]}' id="mwAjw"><i>A</i> × <a rel="mw:WikiLink" href="./∅" title="∅" class="mw-redirect">∅</a> = ∅.</span></li>
+<li id="mwAj0"><span class="nowrap" about="#mwt116" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;nowrap&quot;,&quot;href&quot;:&quot;./Template:Nowrap&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;''A'' × (''B'' ∪ ''C'') = (''A'' × ''B'') ∪ (''A'' × ''C'').&quot;}},&quot;i&quot;:0}}]}" id="mwAj4"><i>A</i> × (<i>B</i> ∪ <i>C</i>) = (<i>A</i> × <i>B</i>) ∪ (<i>A</i> × <i>C</i>).</span></li>
+<li id="mwAj8"><span class="nowrap" about="#mwt117" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;nowrap&quot;,&quot;href&quot;:&quot;./Template:Nowrap&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;(''A'' ∪ ''B'') × ''C'' = (''A'' × ''C'') ∪ (''B'' × ''C'').&quot;}},&quot;i&quot;:0}}]}" id="mwAkA">(<i>A</i> ∪ <i>B</i>) × <i>C</i> = (<i>A</i> × <i>C</i>) ∪ (<i>B</i> × <i>C</i>).</span></li></ul>
+<p id="mwAkE">Let <i id="mwAkI">A</i> and <i id="mwAkM">B</i> be finite sets; then the <a rel="mw:WikiLink" href="./Set_(mathematics)#Cardinality" title="Set (mathematics)" id="mwAkQ">cardinality</a> of the Cartesian product is the product of the cardinalities:</p>
+<ul id="mwAkU"><li id="mwAkY">|<span typeof="mw:Entity" id="mwAkc"> </span><i id="mwAkg">A</i> × <i id="mwAkk">B</i><span typeof="mw:Entity" id="mwAko"> </span>| = |<span typeof="mw:Entity" id="mwAks"> </span><i id="mwAkw">B</i> × <i id="mwAk0">A</i><span typeof="mw:Entity" id="mwAk4"> </span>| = |<span typeof="mw:Entity" id="mwAk8"> </span><i id="mwAlA">A</i><span typeof="mw:Entity" id="mwAlE"> </span>| × |<span typeof="mw:Entity" id="mwAlI"> </span><i id="mwAlM">B</i><span typeof="mw:Entity" id="mwAlQ"> </span>|.</li></ul>
+
+</section></section><section data-mw-section-id="13" id="mwAlU"><h2 id="Applications">Applications</h2>
+<p id="mwAlY">Set theory is seen as the foundation from which virtually all of mathematics can be derived. For example, <a rel="mw:WikiLink" href="./Algebraic_structure" title="Algebraic structure" id="mwAlc">structures</a> in <a rel="mw:WikiLink" href="./Abstract_algebra" title="Abstract algebra" id="mwAlg">abstract algebra</a>, such as <a rel="mw:WikiLink" href="./Group_(mathematics)" title="Group (mathematics)" id="mwAlk">groups</a>, <a rel="mw:WikiLink" href="./Field_(mathematics)" title="Field (mathematics)" id="mwAlo">fields</a> and <a rel="mw:WikiLink" href="./Ring_(mathematics)" title="Ring (mathematics)" id="mwAls">rings</a>, are sets <a rel="mw:WikiLink" href="./Closure_(mathematics)" title="Closure (mathematics)" id="mwAlw">closed</a> under one or more operations.</p>
+
+<p id="mwAl0">One of the main applications of naive set theory is constructing <a rel="mw:WikiLink" href="./Relation_(mathematics)" title="Relation (mathematics)" id="mwAl4" class="mw-redirect">relations</a>.  A relation from a <a rel="mw:WikiLink" href="./Domain_(mathematics)" title="Domain (mathematics)" id="mwAl8" class="mw-redirect">domain</a> <i id="mwAmA">A</i> to a <a rel="mw:WikiLink" href="./Codomain" title="Codomain" id="mwAmE">codomain</a> <i id="mwAmI">B</i> is a subset of the Cartesian product <i id="mwAmM">A</i> × <i id="mwAmQ">B</i>.  Given this concept, we are quick to see that the set <i id="mwAmU">F</i> of all ordered pairs (<i id="mwAmY">x</i>, <i id="mwAmc">x</i><sup id="mwAmg">2</sup>), where <i id="mwAmk">x</i> is real, is quite familiar.  It has a domain set <b id="mwAmo">R</b> and a codomain set that is also <b id="mwAms">R</b>, because the set of all squares is subset of the set of all real numbers.  If placed in functional notation, this relation becomes <i id="mwAmw">f</i>(<i id="mwAm0">x</i>) = <i id="mwAm4">x</i><sup id="mwAm8">2</sup>.  The reason these two are equivalent is for any given value, <i id="mwAnA">y</i> that the function is defined for, its corresponding ordered pair, (<i id="mwAnE">y</i>, <i id="mwAnI">y</i><sup id="mwAnM">2</sup>) is a member of the set <i id="mwAnQ">F</i>.</p>
+<!-- Expand -->
+
+</section><section data-mw-section-id="14" id="mwAnU"><h2 id="Axiomatic_set_theory">Axiomatic set theory</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt118" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main article","href":"./Template:Main_article"},"params":{"1":{"wt":"Axiomatic set theory"}},"i":0}}]}' id="mwAnY">Main article: <a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" class="mw-redirect">Axiomatic set theory</a></div>
+<p id="mwAnc">Although initially <a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory" id="mwAng">naive set theory</a>, which defines a set merely as <i id="mwAnk">any <a rel="mw:WikiLink" href="./Well-defined" title="Well-defined" id="mwAno">well-defined</a></i> collection, was well accepted, it soon ran into several obstacles. It was found that this definition spawned <a rel="mw:WikiLink" href="./Category:Paradoxes_of_naive_set_theory" title="Category:Paradoxes of naive set theory" id="mwAns">several paradoxes</a>, most notably:</p>
+<ul id="mwAnw"><li id="mwAn0"><a rel="mw:WikiLink" href="./Russell's_paradox" title="Russell's paradox" id="mwAn4">Russell's paradox</a><span typeof="mw:Transclusion mw:Entity" about="#mwt119" data-mw='{"parts":[{"template":{"target":{"wt":"snd","href":"./Template:Snd"},"params":{},"i":0}}]}' id="mwAn8"> </span><span typeof="mw:Entity" about="#mwt119">–</span><span typeof="mw:Entity" about="#mwt119"> </span>It shows that the "set of all sets that <i id="mwAoA">do not contain themselves</i>," i.e. the "set" <span about="#mwt120" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mset","href":"./Template:Mset"},"params":{"1":{"wt":"&apos;&apos;x&apos;&apos;"},"2":{"wt":"&apos;&apos;x&apos;&apos; is a set and &apos;&apos;x&apos;&apos; ∉ &apos;&apos;x&apos;&apos;"}},"i":0}}]}' id="mwAoE">{</span><i about="#mwt120">x</i><span about="#mwt120">|</span><i about="#mwt120">x</i><span about="#mwt120"> is a set and </span><i about="#mwt120">x</i><span about="#mwt120"> ∉ </span><i about="#mwt120">x</i><span about="#mwt120">}</span> does not exist.</li>
+<li id="mwAoI"><a rel="mw:WikiLink" href="./Cantor's_paradox" title="Cantor's paradox" id="mwAoM">Cantor's paradox</a><span typeof="mw:Transclusion mw:Entity" about="#mwt121" data-mw='{"parts":[{"template":{"target":{"wt":"snd","href":"./Template:Snd"},"params":{},"i":0}}]}' id="mwAoQ"> </span><span typeof="mw:Entity" about="#mwt121">–</span><span typeof="mw:Entity" about="#mwt121"> </span>It shows that "the set of all sets" cannot exist.</li></ul>
+
+<p id="mwAoU">The reason is that the phrase <i id="mwAoY">well-defined</i> is not very well-defined. It was important to free set theory of these paradoxes because nearly all of mathematics was being redefined in terms of set theory. In an attempt to avoid these paradoxes, set theory was axiomatized based on <a rel="mw:WikiLink" href="./First-order_logic" title="First-order logic" id="mwAoc">first-order logic</a>, and thus <b id="mwAog"><a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" id="mwAok" class="mw-redirect">axiomatic set theory</a></b> was born.</p>
+
+<p id="mwAoo">For most purposes, however, <a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory" id="mwAos">naive set theory</a> is still useful.</p>
+
+</section><section data-mw-section-id="15" id="mwAow"><h2 id="Principle_of_inclusion_and_exclusion">Principle of inclusion and exclusion</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt122" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Main","href":"./Template:Main"},"params":{"1":{"wt":"Inclusion–exclusion principle"}},"i":0}}]}' id="mwAo0">Main article: <a rel="mw:WikiLink" href="./Inclusion–exclusion_principle" title="Inclusion–exclusion principle">Inclusion–exclusion principle</a></div>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwAo4"><a href="./File:A_union_B.svg" id="mwAo8"><img resource="./File:A_union_B.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_union_B.svg/220px-A_union_B.svg.png" data-file-width="226" data-file-height="168" data-file-type="drawing" height="164" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_union_B.svg/440px-A_union_B.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/A_union_B.svg/330px-A_union_B.svg.png 1.5x" id="mwApA"/></a><figcaption id="mwApE">The inclusion-exclusion principle can be used to calculate the size of the union of sets: the size of the union is the size of the two sets, minus the size of their intersection.</figcaption></figure>
+
+<p id="mwApI">The inclusion–exclusion principle is a counting technique that can be used to count the number of elements in a union of two sets, if the size of each set and the size of their intersection are known. It can be expressed symbolically as</p>
+<dl id="mwApM"><dd id="mwApQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt157" data-mw='{"name":"math","attrs":{},"body":{"extsrc":" |A \\cup B| = |A| + |B| - |A \\cap B|."}}' id="mwApU"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle |A\cup B|=|A|+|B|-|A\cap B|.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>A</mi>
+        <mo>∪<!-- ∪ --></mo>
+        <mi>B</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>A</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>B</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>−<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>A</mi>
+        <mo>∩<!-- ∩ --></mo>
+        <mi>B</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |A\cup B|=|A|+|B|-|A\cap B|.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0bbdac1eb429befc47b8dca8180078642af9592" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:30.287ex; height:2.843ex;" alt="{\displaystyle |A\cup B|=|A|+|B|-|A\cap B|.}"/></span><span about="#mwt157">
+</span></dd></dl>
+
+<p id="mwApY">A more general form of the principle can be used to find the cardinality of any finite union of sets:</p>
+<dl id="mwApc"><dd id="mwApg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt159" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\begin{align}\n\\left|A_{1}\\cup A_{2}\\cup A_{3}\\cup\\ldots\\cup A_{n}\\right|=&amp; \\left(\\left|A_{1}\\right|+\\left|A_{2}\\right|+\\left|A_{3}\\right|+\\ldots\\left|A_{n}\\right|\\right) \\\\\n&amp;{} - \\left(\\left|A_{1}\\cap A_{2}\\right|+\\left|A_{1}\\cap A_{3}\\right|+\\ldots\\left|A_{n-1}\\cap A_{n}\\right|\\right) \\\\\n&amp;{} + \\ldots \\\\\n&amp;{} + \\left(-1\\right)^{n-1}\\left(\\left|A_{1}\\cap A_{2}\\cap A_{3}\\cap\\ldots\\cap A_{n}\\right|\\right).\n\\end{align}"}}' id="mwApk"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\begin{aligned}\left|A_{1}\cup A_{2}\cup A_{3}\cup \ldots \cup A_{n}\right|=&amp;\left(\left|A_{1}\right|+\left|A_{2}\right|+\left|A_{3}\right|+\ldots \left|A_{n}\right|\right)\\&amp;{}-\left(\left|A_{1}\cap A_{2}\right|+\left|A_{1}\cap A_{3}\right|+\ldots \left|A_{n-1}\cap A_{n}\right|\right)\\&amp;{}+\ldots \\&amp;{}+\left(-1\right)^{n-1}\left(\left|A_{1}\cap A_{2}\cap A_{3}\cap \ldots \cap A_{n}\right|\right).\end{aligned}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtable columnalign="right left right left right left right left right left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+            <mtr>
+              <mtd>
+                <mrow>
+                  <mo>|</mo>
+                  <mrow>
+                    <msub>
+                      <mi>A</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>1</mn>
+                      </mrow>
+                    </msub>
+                    <mo>∪<!-- ∪ --></mo>
+                    <msub>
+                      <mi>A</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>2</mn>
+                      </mrow>
+                    </msub>
+                    <mo>∪<!-- ∪ --></mo>
+                    <msub>
+                      <mi>A</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mn>3</mn>
+                      </mrow>
+                    </msub>
+                    <mo>∪<!-- ∪ --></mo>
+                    <mo>…<!-- … --></mo>
+                    <mo>∪<!-- ∪ --></mo>
+                    <msub>
+                      <mi>A</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mi>n</mi>
+                      </mrow>
+                    </msub>
+                  </mrow>
+                  <mo>|</mo>
+                </mrow>
+                <mo>=</mo>
+              </mtd>
+              <mtd>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mrow>
+                      <mo>|</mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>1</mn>
+                        </mrow>
+                      </msub>
+                      <mo>|</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <mrow>
+                      <mo>|</mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>2</mn>
+                        </mrow>
+                      </msub>
+                      <mo>|</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <mrow>
+                      <mo>|</mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>3</mn>
+                        </mrow>
+                      </msub>
+                      <mo>|</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <mo>…<!-- … --></mo>
+                    <mrow>
+                      <mo>|</mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>n</mi>
+                        </mrow>
+                      </msub>
+                      <mo>|</mo>
+                    </mrow>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd></mtd>
+              <mtd>
+                <mi></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+                <mo>−<!-- − --></mo>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mrow>
+                      <mo>|</mo>
+                      <mrow>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>1</mn>
+                          </mrow>
+                        </msub>
+                        <mo>∩<!-- ∩ --></mo>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>2</mn>
+                          </mrow>
+                        </msub>
+                      </mrow>
+                      <mo>|</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <mrow>
+                      <mo>|</mo>
+                      <mrow>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>1</mn>
+                          </mrow>
+                        </msub>
+                        <mo>∩<!-- ∩ --></mo>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mn>3</mn>
+                          </mrow>
+                        </msub>
+                      </mrow>
+                      <mo>|</mo>
+                    </mrow>
+                    <mo>+</mo>
+                    <mo>…<!-- … --></mo>
+                    <mrow>
+                      <mo>|</mo>
+                      <mrow>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mi>n</mi>
+                            <mo>−<!-- − --></mo>
+                            <mn>1</mn>
+                          </mrow>
+                        </msub>
+                        <mo>∩<!-- ∩ --></mo>
+                        <msub>
+                          <mi>A</mi>
+                          <mrow class="MJX-TeXAtom-ORD">
+                            <mi>n</mi>
+                          </mrow>
+                        </msub>
+                      </mrow>
+                      <mo>|</mo>
+                    </mrow>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd></mtd>
+              <mtd>
+                <mi></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+                <mo>+</mo>
+                <mo>…<!-- … --></mo>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd></mtd>
+              <mtd>
+                <mi></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+
+                </mrow>
+                <mo>+</mo>
+                <msup>
+                  <mrow>
+                    <mo>(</mo>
+                    <mrow>
+                      <mo>−<!-- − --></mo>
+                      <mn>1</mn>
+                    </mrow>
+                    <mo>)</mo>
+                  </mrow>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mi>n</mi>
+                    <mo>−<!-- − --></mo>
+                    <mn>1</mn>
+                  </mrow>
+                </msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mo>|</mo>
+                    <mrow>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>1</mn>
+                        </mrow>
+                      </msub>
+                      <mo>∩<!-- ∩ --></mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>2</mn>
+                        </mrow>
+                      </msub>
+                      <mo>∩<!-- ∩ --></mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mn>3</mn>
+                        </mrow>
+                      </msub>
+                      <mo>∩<!-- ∩ --></mo>
+                      <mo>…<!-- … --></mo>
+                      <mo>∩<!-- ∩ --></mo>
+                      <msub>
+                        <mi>A</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mi>n</mi>
+                        </mrow>
+                      </msub>
+                    </mrow>
+                    <mo>|</mo>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mo>.</mo>
+              </mtd>
+            </mtr>
+          </mtable>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}\left|A_{1}\cup A_{2}\cup A_{3}\cup \ldots \cup A_{n}\right|=&amp;\left(\left|A_{1}\right|+\left|A_{2}\right|+\left|A_{3}\right|+\ldots \left|A_{n}\right|\right)\\&amp;{}-\left(\left|A_{1}\cap A_{2}\right|+\left|A_{1}\cap A_{3}\right|+\ldots \left|A_{n-1}\cap A_{n}\right|\right)\\&amp;{}+\ldots \\&amp;{}+\left(-1\right)^{n-1}\left(\left|A_{1}\cap A_{2}\cap A_{3}\cap \ldots \cap A_{n}\right|\right).\end{aligned}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/784bb31a02981a4f1854676abd7cdf7094bfa196" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -5.671ex; width:73.188ex; height:12.509ex;" alt="{\displaystyle {\begin{aligned}\left|A_{1}\cup A_{2}\cup A_{3}\cup \ldots \cup A_{n}\right|=&amp;\left(\left|A_{1}\right|+\left|A_{2}\right|+\left|A_{3}\right|+\ldots \left|A_{n}\right|\right)\\&amp;{}-\left(\left|A_{1}\cap A_{2}\right|+\left|A_{1}\cap A_{3}\right|+\ldots \left|A_{n-1}\cap A_{n}\right|\right)\\&amp;{}+\ldots \\&amp;{}+\left(-1\right)^{n-1}\left(\left|A_{1}\cap A_{2}\cap A_{3}\cap \ldots \cap A_{n}\right|\right).\end{aligned}}}"/></span><span about="#mwt159">
+</span></dd></dl>
+
+</section><section data-mw-section-id="16" id="mwApo"><h2 id="De_Morgan's_laws"><span id="De_Morgan.27s_laws" typeof="mw:FallbackId"></span>De Morgan's laws</h2>
+<p id="mwAps"><a rel="mw:WikiLink" href="./Augustus_De_Morgan" title="Augustus De Morgan" id="mwApw">Augustus De Morgan</a> stated <a rel="mw:WikiLink" href="./De_Morgan's_laws" title="De Morgan's laws" id="mwAp0">two laws</a> about sets.</p>
+
+<p id="mwAp4">If A and B are any two sets then,</p>
+<ul id="mwAp8"><li id="mwAqA"><b id="mwAqE">(A ∪ B)′ = A′ ∩ B′</b></li></ul>
+<p id="mwAqI">The complement of A union B equals the complement of A intersected with the complement of B.</p>
+<ul id="mwAqM"><li id="mwAqQ"><b id="mwAqU">(A ∩ B)′ = A′ ∪ B′</b></li></ul>
+<p id="mwAqY">The complement of A intersected with B is equal to the complement of A union to the complement of B.</p>
+
+</section><section data-mw-section-id="17" id="mwAqc"><h2 id="See_also">See also</h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px" about="#mwt125" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Portal","href":"./Template:Portal"},"params":{"1":{"wt":"Logic"}},"i":0}}]}' id="mwAqg">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><figure-inline class="noviewer" typeof="mw:Image"><a href="./File:Logic_portal.svg"><img alt="icon" resource="./File:Logic_portal.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/32px-Logic_portal.svg.png" data-file-width="287" data-file-height="218" data-file-type="drawing" height="24" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/64px-Logic_portal.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logic_portal.svg/48px-Logic_portal.svg.png 1.5x"/></a></figure-inline></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a rel="mw:WikiLink" href="./Portal:Logic" title="Portal:Logic">Logic portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;   " about="#mwt126" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Div col","href":"./Template:Div_col"},"params":{"colwidth":{"wt":"20em"}},"i":0}},"\n* [[Set notation]]\n* [[Mathematical object]]\n* [[Alternative set theory]]\n* [[Axiomatic set theory]]\n* [[Category of sets]]\n* [[Class (set theory)]]\n* [[Dense set]]\n* [[Family of sets]]\n* [[Fuzzy set]]\n* [[Internal set]]\n* [[Mereology]]\n* [[Multiset]]\n* [[Naive set theory]]\n* [[Principia Mathematica]]\n* [[Rough set]]\n* [[Russell&apos;s paradox]]\n* [[Sequence (mathematics)]]\n* [[Taxonomy (general)|Taxonomy]]\n* [[Tuple]]\n",{"template":{"target":{"wt":"Div col end","href":"./Template:Div_col_end"},"params":{},"i":1}}]}' id="mwAqk">
+<ul><li><a rel="mw:WikiLink" href="./Set_notation" title="Set notation">Set notation</a></li>
+<li><a rel="mw:WikiLink" href="./Mathematical_object" title="Mathematical object">Mathematical object</a></li>
+<li><a rel="mw:WikiLink" href="./Alternative_set_theory" title="Alternative set theory">Alternative set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" class="mw-redirect">Axiomatic set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Category_of_sets" title="Category of sets">Category of sets</a></li>
+<li><a rel="mw:WikiLink" href="./Class_(set_theory)" title="Class (set theory)">Class (set theory)</a></li>
+<li><a rel="mw:WikiLink" href="./Dense_set" title="Dense set">Dense set</a></li>
+<li><a rel="mw:WikiLink" href="./Family_of_sets" title="Family of sets">Family of sets</a></li>
+<li><a rel="mw:WikiLink" href="./Fuzzy_set" title="Fuzzy set">Fuzzy set</a></li>
+<li><a rel="mw:WikiLink" href="./Internal_set" title="Internal set">Internal set</a></li>
+<li><a rel="mw:WikiLink" href="./Mereology" title="Mereology">Mereology</a></li>
+<li><a rel="mw:WikiLink" href="./Multiset" title="Multiset">Multiset</a></li>
+<li><a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory">Naive set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Principia_Mathematica" title="Principia Mathematica">Principia Mathematica</a></li>
+<li><a rel="mw:WikiLink" href="./Rough_set" title="Rough set">Rough set</a></li>
+<li><a rel="mw:WikiLink" href="./Russell's_paradox" title="Russell's paradox">Russell's paradox</a></li>
+<li><a rel="mw:WikiLink" href="./Sequence_(mathematics)" title="Sequence (mathematics)" class="mw-redirect">Sequence (mathematics)</a></li>
+<li><a rel="mw:WikiLink" href="./Taxonomy_(general)" title="Taxonomy (general)">Taxonomy</a></li>
+<li><a rel="mw:WikiLink" href="./Tuple" title="Tuple">Tuple</a></li></ul>
+</div>
+
+</section><section data-mw-section-id="18" id="mwAqo"><h2 id="Notes">Notes</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt128" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mwAqs">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt166" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Set_(mathematics)#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text">"Eine Menge, ist die Zusammenfassung bestimmter, wohlunterschiedener Objekte unserer Anschauung oder unseres Denkens – welche Elemente der Menge genannt werden – zu einem Ganzen." <cite class="citation web" about="#mwt4" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite web ","href":"./Template:Cite_web"},"params":{"url":{"wt":"http://www.brinkmann-du.de/mathe/fos/fos01_03.htm"},"title":{"wt":"Archived copy"},"accessdate":{"wt":"2011-04-22"},"deadurl":{"wt":"no"},"archiveurl":{"wt":"https://web.archive.org/web/20110610133240/http://brinkmann-du.de/mathe/fos/fos01_03.htm"},"archivedate":{"wt":"2011-06-10"},"df":{"wt":""}},"i":0}}]}' id="mwAqw"><a rel="mw:ExtLink" class="external text" href="http://www.brinkmann-du.de/mathe/fos/fos01_03.htm" id="mwAq0">"Archived copy"</a>. <a rel="mw:ExtLink" class="external text" href="https://web.archive.org/web/20110610133240/http://brinkmann-du.de/mathe/fos/fos01_03.htm" id="mwAq4">Archived</a> from the original on 2011-06-10<span class="reference-accessdate" id="mwAq8">. Retrieved <span class="nowrap" id="mwArA">2011-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.brinkmann-du.de%2Fmathe%2Ffos%2Ffos01_03.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASet+%28mathematics%29" class="Z3988" about="#mwt4" id="mwArE"></span><span class="cs1-maint citation-comment" about="#mwt4" id="mwArI">CS1 maint: Archived copy as title (<a rel="mw:WikiLink" href="./Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title" id="mwArM">link</a>)</span><link rel="mw:PageProp/Category" href="./Category:CS1_maint:_Archived_copy_as_title" about="#mwt4" id="mwArQ"/><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt4" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwArU">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-Stoll-2" id="cite_note-Stoll-2"><span rel="mw:referencedBy"><a href="./Set_(mathematics)#cite_ref-Stoll_2-0"><span class="mw-linkback-text">1 </span></a><a href="./Set_(mathematics)#cite_ref-Stoll_2-1"><span class="mw-linkback-text">2 </span></a></span> <span id="mw-reference-text-cite_note-Stoll-2" class="mw-reference-text">
+<cite class="citation book" about="#mwt7" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Cite book  ","href":"./Template:Cite_book"},"params":{"last":{"wt":"Stoll"},"first":{"wt":"Robert"},"authorlink":{"wt":""},"title":{"wt":"Sets, Logic and Axiomatic Theories"},"publisher":{"wt":"W. H. Freeman and Company"},"series":{"wt":""},"volume":{"wt":""},"edition":{"wt":""},"date":{"wt":""},"location":{"wt":""},"pages":{"wt":"5"},"language":{"wt":""},"url":{"wt":""},"doi":{"wt":""},"id":{"wt":""},"isbn":{"wt":""},"mr":{"wt":""},"zbl":{"wt":""},"jfm":{"wt":""}},"i":0}}]}' id="mwArY">Stoll, Robert. <i id="mwArc">Sets, Logic and Axiomatic Theories</i>. W. H. Freeman and Company. p.<span typeof="mw:Entity" id="mwArg"> </span>5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sets%2C+Logic+and+Axiomatic+Theories&amp;rft.pages=5&amp;rft.pub=W.+H.+Freeman+and+Company&amp;rft.aulast=Stoll&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASet+%28mathematics%29" class="Z3988" about="#mwt7" id="mwArk"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt7" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAro"/></span></li></ol></div></div>
+
+</section><section data-mw-section-id="19" id="mwArs"><h2 id="References">References</h2>
+<ul id="mwArw"><li id="mwAr0"><a rel="mw:WikiLink" href="./Joseph_Dauben" title="Joseph Dauben" id="mwAr4">Dauben, Joseph W.</a>, <i id="mwAr8">Georg Cantor: His Mathematics and Philosophy of the Infinite</i>, Boston: <a rel="mw:WikiLink" href="./Harvard_University_Press" title="Harvard University Press" id="mwAsA">Harvard University Press</a> (1979) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt129" typeof="mw:Extension/templatestyles mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"isbn","href":"./Template:Isbn"},"params":{"1":{"wt":"978-0-691-02447-9"}},"i":0}}]}' id="mwAsE"/><a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" about="#mwt129">ISBN</a><span typeof="mw:Entity" about="#mwt129"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-691-02447-9" title="Special:BookSources/978-0-691-02447-9" about="#mwt129" id="mwAsI">978-0-691-02447-9</a>.</li>
+<li id="mwAsM"><a rel="mw:WikiLink" href="./Paul_Halmos" title="Paul Halmos" id="mwAsQ">Halmos, Paul R.</a>, <i id="mwAsU">Naive Set Theory</i>, Princeton, N.J.: Van Nostrand (1960) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt130" typeof="mw:Extension/templatestyles mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"isbn","href":"./Template:Isbn"},"params":{"1":{"wt":"0-387-90092-6"}},"i":0}}]}' id="mwAsY"/><a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" about="#mwt130">ISBN</a><span typeof="mw:Entity" about="#mwt130"> </span><a rel="mw:WikiLink" href="./Special:BookSources/0-387-90092-6" title="Special:BookSources/0-387-90092-6" about="#mwt130" id="mwAsc">0-387-90092-6</a>.</li>
+<li id="mwAsg">Stoll, Robert R., <i id="mwAsk">Set Theory and Logic</i>, Mineola, N.Y.: <a rel="mw:WikiLink" href="./Dover_Publications" title="Dover Publications" id="mwAso">Dover Publications</a> (1979) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt131" typeof="mw:Extension/templatestyles mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"isbn","href":"./Template:Isbn"},"params":{"1":{"wt":"0-486-63829-4"}},"i":0}}]}' id="mwAss"/><a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" about="#mwt131">ISBN</a><span typeof="mw:Entity" about="#mwt131"> </span><a rel="mw:WikiLink" href="./Special:BookSources/0-486-63829-4" title="Special:BookSources/0-486-63829-4" about="#mwt131" id="mwAsw">0-486-63829-4</a>.</li>
+<li id="mwAs0">Velleman, Daniel, <i id="mwAs4">How To Prove It: A Structured Approach</i>, <a rel="mw:WikiLink" href="./Cambridge_University_Press" title="Cambridge University Press" id="mwAs8">Cambridge University Press</a> (2006) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt132" typeof="mw:Extension/templatestyles mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"isbn","href":"./Template:Isbn"},"params":{"1":{"wt":"978-0-521-67599-4"}},"i":0}}]}' id="mwAtA"/><a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" about="#mwt132">ISBN</a><span typeof="mw:Entity" about="#mwt132"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-521-67599-4" title="Special:BookSources/978-0-521-67599-4" about="#mwt132" id="mwAtE">978-0-521-67599-4</a></li></ul>
+
+<div role="navigation" class="navbox" aria-labelledby="Mathematical_logic" style="padding:3px" about="#mwt133" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Mathematical logic","href":"./Template:Mathematical_logic"},"params":{},"i":0}}]}' id="mwAtI"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Mathematical_logic" title="Template:Mathematical logic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Mathematical_logic" title="Template talk:Mathematical logic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mathematical_logic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Mathematical_logic" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Mathematical_logic" title="Mathematical logic">Mathematical logic</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Formal_language" title="Formal language">Formal language</a></li>
+<li><a rel="mw:WikiLink" href="./Formation_rule" title="Formation rule">Formation rule</a></li>
+<li><a rel="mw:WikiLink" href="./Formal_proof" title="Formal proof">Formal proof</a></li>
+<li><a rel="mw:WikiLink" href="./Formal_semantics_(logic)" title="Formal semantics (logic)" class="mw-redirect">Formal semantics</a></li>
+<li><a rel="mw:WikiLink" href="./Well-formed_formula" title="Well-formed formula">Well-formed formula</a></li>
+<li><a rel="mw:WikiLink" href="./Set_(mathematics)" title="Set (mathematics)">Set</a></li>
+<li><a rel="mw:WikiLink" href="./Element_(mathematics)" title="Element (mathematics)">Element</a></li>
+<li><a rel="mw:WikiLink" href="./Class_(set_theory)" title="Class (set theory)">Class</a></li>
+<li><a rel="mw:WikiLink" href="./Classical_logic" title="Classical logic">Classical logic</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom" title="Axiom">Axiom</a></li>
+<li><a rel="mw:WikiLink" href="./Rule_of_inference" title="Rule of inference">Rule of inference</a></li>
+<li><a rel="mw:WikiLink" href="./Finitary_relation" title="Finitary relation">Relation</a></li>
+<li><a rel="mw:WikiLink" href="./Theorem" title="Theorem">Theorem</a></li>
+<li><a rel="mw:WikiLink" href="./Logical_consequence" title="Logical consequence">Logical consequence</a></li>
+<li><a rel="mw:WikiLink" href="./Type_theory" title="Type theory">Type theory</a></li>
+<li><a rel="mw:WikiLink" href="./Symbol_(formal)" title="Symbol (formal)">Symbol</a></li>
+<li><a rel="mw:WikiLink" href="./Syntax_(logic)" title="Syntax (logic)">Syntax</a></li>
+<li><a rel="mw:WikiLink" href="./Theory_(mathematical_logic)" title="Theory (mathematical logic)">Theory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Systems</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Formal_system" title="Formal system">Formal system</a></li>
+<li><a rel="mw:WikiLink" href="./Deductive_system" title="Deductive system" class="mw-redirect">Deductive system</a></li>
+<li><a rel="mw:WikiLink" href="./Axiomatic_system" title="Axiomatic system">Axiomatic system</a></li>
+<li><a rel="mw:WikiLink" href="./Hilbert_system" title="Hilbert system">Hilbert style systems</a></li>
+<li><a rel="mw:WikiLink" href="./Natural_deduction" title="Natural deduction">Natural deduction</a></li>
+<li><a rel="mw:WikiLink" href="./Sequent_calculus" title="Sequent calculus">Sequent calculus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Term_logic" title="Term logic">Traditional logic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Proposition" title="Proposition">Proposition</a></li>
+<li><a rel="mw:WikiLink" href="./Inference" title="Inference">Inference</a></li>
+<li><a rel="mw:WikiLink" href="./Argument" title="Argument">Argument</a></li>
+<li><a rel="mw:WikiLink" href="./Validity_(logic)" title="Validity (logic)">Validity</a></li>
+<li><a rel="mw:WikiLink" href="./Cogency" title="Cogency">Cogency</a></li>
+<li><a rel="mw:WikiLink" href="./Syllogism" title="Syllogism">Syllogism</a></li>
+<li><a rel="mw:WikiLink" href="./Square_of_opposition" title="Square of opposition">Square of opposition</a></li>
+<li><a rel="mw:WikiLink" href="./Venn_diagram" title="Venn diagram">Venn diagram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a rel="mw:WikiLink" href="./Propositional_calculus" title="Propositional calculus">Propositional calculus</a><br/>and <a rel="mw:WikiLink" href="./Boolean_algebra" title="Boolean algebra">Boolean logic</a></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Boolean_function" title="Boolean function">Boolean functions</a></li>
+<li><a rel="mw:WikiLink" href="./Propositional_calculus" title="Propositional calculus">Propositional calculus</a></li>
+<li><a rel="mw:WikiLink" href="./Propositional_formula" title="Propositional formula">Propositional formula</a></li>
+<li><a rel="mw:WikiLink" href="./Logical_connective" title="Logical connective">Logical connectives</a></li>
+<li><a rel="mw:WikiLink" href="./Truth_table" title="Truth table">Truth tables</a></li>
+<li><a rel="mw:WikiLink" href="./Many-valued_logic" title="Many-valued logic">Many-valued logic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Predicate_logic" title="Predicate logic" class="mw-redirect">Predicate logic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./First-order_logic" title="First-order logic">First-order</a></li>
+<li><a rel="mw:WikiLink" href="./Quantifier_(logic)" title="Quantifier (logic)">Quantifiers</a></li>
+<li><a rel="mw:WikiLink" href="./Predicate_(mathematical_logic)" title="Predicate (mathematical logic)">Predicate</a></li>
+<li><a rel="mw:WikiLink" href="./Second-order_logic" title="Second-order logic">Second-order</a></li>
+<li><a rel="mw:WikiLink" href="./Monadic_predicate_calculus" title="Monadic predicate calculus">Monadic predicate calculus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory">Naive set theory</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Set_(mathematics)" title="Set (mathematics)">Set</a></li>
+<li><a rel="mw:WikiLink" href="./Empty_set" title="Empty set">Empty set</a></li>
+<li><a rel="mw:WikiLink" href="./Element_(mathematics)" title="Element (mathematics)">Element</a></li>
+<li><a rel="mw:WikiLink" href="./Enumeration" title="Enumeration">Enumeration</a></li>
+<li><a rel="mw:WikiLink" href="./Extensionality" title="Extensionality">Extensionality</a></li>
+<li><a rel="mw:WikiLink" href="./Finite_set" title="Finite set">Finite set</a></li>
+<li><a rel="mw:WikiLink" href="./Infinite_set" title="Infinite set">Infinite set</a></li>
+<li><a rel="mw:WikiLink" href="./Subset" title="Subset">Subset</a></li>
+<li><a rel="mw:WikiLink" href="./Power_set" title="Power set">Power set</a></li>
+<li><a rel="mw:WikiLink" href="./Countable_set" title="Countable set">Countable set</a></li>
+<li><a rel="mw:WikiLink" href="./Uncountable_set" title="Uncountable set">Uncountable set</a></li>
+<li><a rel="mw:WikiLink" href="./Recursive_set" title="Recursive set">Recursive set</a></li>
+<li><a rel="mw:WikiLink" href="./Domain_of_a_function" title="Domain of a function">Domain</a></li>
+<li><a rel="mw:WikiLink" href="./Codomain" title="Codomain">Codomain</a></li>
+<li><a rel="mw:WikiLink" href="./Image_(mathematics)" title="Image (mathematics)">Image</a></li>
+<li><a rel="mw:WikiLink" href="./Map_(mathematics)" title="Map (mathematics)">Map</a></li>
+<li><a rel="mw:WikiLink" href="./Function_(mathematics)" title="Function (mathematics)">Function</a></li>
+<li><a rel="mw:WikiLink" href="./Binary_operation" title="Binary operation">Relation</a></li>
+<li><a rel="mw:WikiLink" href="./Ordered_pair" title="Ordered pair">Ordered pair</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Set_theory" title="Set theory">Set theory</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Foundations_of_mathematics" title="Foundations of mathematics">Foundations of mathematics</a></li>
+<li><a rel="mw:WikiLink" href="./Zermelo–Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_choice" title="Axiom of choice">Axiom of choice</a></li>
+<li><a rel="mw:WikiLink" href="./General_set_theory" title="General set theory">General set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Kripke–Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Von_Neumann–Bernays–Gödel_set_theory" title="Von Neumann–Bernays–Gödel set theory">Von Neumann–Bernays–Gödel set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Morse–Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley set theory</a></li>
+<li><a rel="mw:WikiLink" href="./Tarski–Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck set theory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Model_theory" title="Model theory">Model theory</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Structure_(mathematical_logic)" title="Structure (mathematical logic)">Model</a></li>
+<li><a rel="mw:WikiLink" href="./Interpretation_(logic)" title="Interpretation (logic)">Interpretation</a></li>
+<li><a rel="mw:WikiLink" href="./Non-standard_model" title="Non-standard model">Non-standard model</a></li>
+<li><a rel="mw:WikiLink" href="./Finite_model_theory" title="Finite model theory">Finite model theory</a></li>
+<li><a rel="mw:WikiLink" href="./Truth_value" title="Truth value">Truth value</a></li>
+<li><a rel="mw:WikiLink" href="./Validity_(logic)" title="Validity (logic)">Validity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Proof_theory" title="Proof theory">Proof theory</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Formal_proof" title="Formal proof">Formal proof</a></li>
+<li><a rel="mw:WikiLink" href="./Deductive_system" title="Deductive system" class="mw-redirect">Deductive system</a></li>
+<li><a rel="mw:WikiLink" href="./Formal_system" title="Formal system">Formal system</a></li>
+<li><a rel="mw:WikiLink" href="./Theorem" title="Theorem">Theorem</a></li>
+<li><a rel="mw:WikiLink" href="./Logical_consequence" title="Logical consequence">Logical consequence</a></li>
+<li><a rel="mw:WikiLink" href="./Rule_of_inference" title="Rule of inference">Rule of inference</a></li>
+<li><a rel="mw:WikiLink" href="./Syntax_(logic)" title="Syntax (logic)">Syntax</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Computability_theory" title="Computability theory">Computability <br/>theory</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Recursion" title="Recursion">Recursion</a></li>
+<li><a rel="mw:WikiLink" href="./Recursive_set" title="Recursive set">Recursive set</a></li>
+<li><a rel="mw:WikiLink" href="./Recursively_enumerable_set" title="Recursively enumerable set">Recursively enumerable set</a></li>
+<li><a rel="mw:WikiLink" href="./Decision_problem" title="Decision problem">Decision problem</a></li>
+<li><a rel="mw:WikiLink" href="./Church–Turing_thesis" title="Church–Turing thesis">Church–Turing thesis</a></li>
+<li><a rel="mw:WikiLink" href="./Computable_function" title="Computable function">Computable function</a></li>
+<li><a rel="mw:WikiLink" href="./Primitive_recursive_function" title="Primitive recursive function">Primitive recursive function</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Set_theory" style="padding:3px" about="#mwt134" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Set theory","href":"./Template:Set_theory"},"params":{},"i":0}}]}' id="mwAtM"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Set_theory" title="Template:Set theory"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Set_theory" title="Template talk:Set theory"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Set_theory&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Set_theory" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Set_theory" title="Set theory">Set theory</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Axiom" title="Axiom">Axioms</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Axiom_of_adjunction" title="Axiom of adjunction">Adjunction</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_choice" title="Axiom of choice">Choice</a>
+<ul><li><a rel="mw:WikiLink" href="./Axiom_of_countable_choice" title="Axiom of countable choice">countable</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_dependent_choice" title="Axiom of dependent choice">dependent</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_constructibility" title="Axiom of constructibility">Constructibility (V=L)</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_determinacy" title="Axiom of determinacy">Determinacy</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_extensionality" title="Axiom of extensionality">Extensionality</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_infinity" title="Axiom of infinity">Infinity</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_limitation_of_size" title="Axiom of limitation of size">Limitation of size</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_pairing" title="Axiom of pairing">Pairing</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_power_set" title="Axiom of power set">Power set</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_regularity" title="Axiom of regularity">Regularity</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_of_union" title="Axiom of union">Union</a></li>
+<li><a rel="mw:WikiLink" href="./Martin's_axiom" title="Martin's axiom">Martin's axiom</a></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="./Axiom_schema" title="Axiom schema">Axiom schema</a>
+<ul><li><a rel="mw:WikiLink" href="./Axiom_schema_of_replacement" title="Axiom schema of replacement">replacement</a></li>
+<li><a rel="mw:WikiLink" href="./Axiom_schema_of_specification" title="Axiom schema of specification">specification</a></li></ul></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><figure-inline typeof="mw:Image"><a href="./Venn_diagram"><img alt="Venn diagram of set intersection" resource="./File:Venn_A_intersect_B.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/100px-Venn_A_intersect_B.svg.png" data-file-width="350" data-file-height="250" data-file-type="drawing" height="71" width="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/200px-Venn_A_intersect_B.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Venn_A_intersect_B.svg/150px-Venn_A_intersect_B.svg.png 1.5x"/></a></figure-inline></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Set_(mathematics)#Basic_operations" title="Set (mathematics)">Operations</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Cartesian_product" title="Cartesian product">Cartesian product</a></li>
+<li><a rel="mw:WikiLink" href="./Complement_(set_theory)" title="Complement (set theory)">Complement</a></li>
+<li><a rel="mw:WikiLink" href="./De_Morgan's_laws" title="De Morgan's laws">De Morgan's laws</a></li>
+<li><a rel="mw:WikiLink" href="./Disjoint_union" title="Disjoint union">Disjoint union</a></li>
+<li><a rel="mw:WikiLink" href="./Intersection_(set_theory)" title="Intersection (set theory)">Intersection</a></li>
+<li><a rel="mw:WikiLink" href="./Power_set" title="Power set">Power set</a></li>
+<li><a rel="mw:WikiLink" href="./Complement_(set_theory)" title="Complement (set theory)">Set difference</a></li>
+<li><a rel="mw:WikiLink" href="./Symmetric_difference" title="Symmetric difference">Symmetric difference</a></li>
+<li><a rel="mw:WikiLink" href="./Union_(set_theory)" title="Union (set theory)">Union</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div class="hlist hlist-separated"><ul><li>Concepts</li><li>Methods</li></ul></div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Cardinality" title="Cardinality">Cardinality</a></li>
+<li><a rel="mw:WikiLink" href="./Cardinal_number" title="Cardinal number">Cardinal number</a><span typeof="mw:Entity"> </span>(<a rel="mw:WikiLink" href="./Large_cardinal" title="Large cardinal">large</a>)</li>
+<li><a rel="mw:WikiLink" href="./Class_(set_theory)" title="Class (set theory)">Class</a></li>
+<li><a rel="mw:WikiLink" href="./Constructible_universe" title="Constructible universe">Constructible universe</a></li>
+<li><a rel="mw:WikiLink" href="./Continuum_hypothesis" title="Continuum hypothesis">Continuum hypothesis</a></li>
+<li><a rel="mw:WikiLink" href="./Cantor's_diagonal_argument" title="Cantor's diagonal argument">Diagonal argument</a></li>
+<li><a rel="mw:WikiLink" href="./Element_(mathematics)" title="Element (mathematics)">Element</a>
+<ul><li><a rel="mw:WikiLink" href="./Ordered_pair" title="Ordered pair">ordered pair</a></li>
+<li><a rel="mw:WikiLink" href="./Tuple" title="Tuple">tuple</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Family_of_sets" title="Family of sets">Family</a></li>
+<li><a rel="mw:WikiLink" href="./Forcing_(mathematics)" title="Forcing (mathematics)">Forcing</a></li>
+<li><a rel="mw:WikiLink" href="./Bijection" title="Bijection">One-to-one correspondence</a></li>
+<li><a rel="mw:WikiLink" href="./Ordinal_number" title="Ordinal number">Ordinal number</a></li>
+<li><a rel="mw:WikiLink" href="./Transfinite_induction" title="Transfinite induction">Transfinite induction</a></li>
+<li><a rel="mw:WikiLink" href="./Venn_diagram" title="Venn diagram">Venn diagram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Set_(mathematics)" title="Set (mathematics)">Set</a> types</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Countable_set" title="Countable set">Countable</a></li>
+<li><a rel="mw:WikiLink" href="./Empty_set" title="Empty set">Empty</a></li>
+<li><a rel="mw:WikiLink" href="./Finite_set" title="Finite set">Finite</a><span typeof="mw:Entity"> </span>(<a rel="mw:WikiLink" href="./Hereditarily_finite_set" title="Hereditarily finite set">hereditarily</a>)</li>
+<li><a rel="mw:WikiLink" href="./Fuzzy_set" title="Fuzzy set">Fuzzy</a></li>
+<li><a rel="mw:WikiLink" href="./Infinite_set" title="Infinite set">Infinite</a> (<a rel="mw:WikiLink" href="./Dedekind-infinite_set" title="Dedekind-infinite set">Dedekind-infinite</a>)</li>
+<li><a rel="mw:WikiLink" href="./Recursive_set" title="Recursive set">Recursive</a></li>
+<li><a rel="mw:WikiLink" href="./Subset_and_superset" title="Subset and superset" class="mw-redirect">Subset <b>·</b> Superset</a></li>
+<li><a rel="mw:WikiLink" href="./Transitive_set" title="Transitive set">Transitive</a></li>
+<li><a rel="mw:WikiLink" href="./Uncountable_set" title="Uncountable set">Uncountable</a></li>
+<li><a rel="mw:WikiLink" href="./Universal_set" title="Universal set">Universal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Alternative_set_theory" title="Alternative set theory">Alternative</a></li>
+<li><a rel="mw:WikiLink" href="./Axiomatic_set_theory" title="Axiomatic set theory" class="mw-redirect">Axiomatic</a></li>
+<li><a rel="mw:WikiLink" href="./Naive_set_theory" title="Naive set theory">Naive</a></li>
+<li><a rel="mw:WikiLink" href="./Cantor's_theorem" title="Cantor's theorem">Cantor's theorem</a></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="./Zermelo_set_theory" title="Zermelo set theory">Zermelo</a>                                 
+<ul><li><a rel="mw:WikiLink" href="./General_set_theory" title="General set theory">General</a></li></ul></li>
+<li><i><a rel="mw:WikiLink" href="./Principia_Mathematica" title="Principia Mathematica">Principia Mathematica</a></i>                                   
+<ul><li><a rel="mw:WikiLink" href="./New_Foundations" title="New Foundations">New Foundations</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Zermelo–Fraenkel_set_theory" title="Zermelo–Fraenkel set theory">Zermelo–Fraenkel </a> 
+<ul><li><a rel="mw:WikiLink" href="./Von_Neumann–Bernays–Gödel_set_theory" title="Von Neumann–Bernays–Gödel set theory">von Neumann–Bernays–Gödel </a> 
+<ul><li><a rel="mw:WikiLink" href="./Morse–Kelley_set_theory" title="Morse–Kelley set theory">Morse–Kelley</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Kripke–Platek_set_theory" title="Kripke–Platek set theory">Kripke–Platek</a></li>
+<li><a rel="mw:WikiLink" href="./Tarski–Grothendieck_set_theory" title="Tarski–Grothendieck set theory">Tarski–Grothendieck</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div class="hlist hlist-separated"><ul><li><a rel="mw:WikiLink" href="./Paradoxes_of_set_theory" title="Paradoxes of set theory">Paradoxes</a></li><li>Problems</li></ul></div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Russell's_paradox" title="Russell's paradox">Russell's paradox</a></li>
+<li><a rel="mw:WikiLink" href="./Suslin's_problem" title="Suslin's problem">Suslin's problem</a></li>
+<li><a rel="mw:WikiLink" href="./Burali-Forti_paradox" title="Burali-Forti paradox">Burali-Forti paradox</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Category:Set_theorists" title="Category:Set theorists">Set theorists</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Abraham_Fraenkel" title="Abraham Fraenkel">Abraham Fraenkel</a></li>
+<li><a rel="mw:WikiLink" href="./Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a rel="mw:WikiLink" href="./Ernst_Zermelo" title="Ernst Zermelo">Ernst Zermelo</a></li>
+<li><a rel="mw:WikiLink" href="./Georg_Cantor" title="Georg Cantor">Georg Cantor</a></li>
+<li><a rel="mw:WikiLink" href="./John_von_Neumann" title="John von Neumann">John von Neumann</a></li>
+<li><a rel="mw:WikiLink" href="./Kurt_Gödel" title="Kurt Gödel">Kurt Gödel</a></li>
+<li><a rel="mw:WikiLink" href="./Paul_Bernays" title="Paul Bernays">Paul Bernays</a></li>
+<li><a rel="mw:WikiLink" href="./Paul_Cohen" title="Paul Cohen">Paul Cohen</a></li>
+<li><a rel="mw:WikiLink" href="./Richard_Dedekind" title="Richard Dedekind">Richard Dedekind</a></li>
+<li><a rel="mw:WikiLink" href="./Thomas_Jech" title="Thomas Jech">Thomas Jech</a></li>
+<li><a rel="mw:WikiLink" href="./Thoralf_Skolem" title="Thoralf Skolem">Thoralf Skolem</a></li>
+<li><a rel="mw:WikiLink" href="./Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard Quine</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q36161&amp;#124;Edit_this_at_Wikidata" style="padding:3px" about="#mwt135" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Authority control","href":"./Template:Authority_control"},"params":{},"i":0}}]}' id="mwAtQ"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q36161&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Help:Authority_control" title="Help:Authority control">Authority control</a> <figure-inline class="mw-valign-text-top" typeof="mw:Image/Frameless" data-mw='{"caption":"Edit this at Wikidata"}'><a href="https://www.wikidata.org/wiki/Q36161"><img alt="Edit this at Wikidata" resource="./File:Blue_pencil.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" data-file-width="600" data-file-height="600" data-file-type="drawing" height="10" width="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x"/></a></figure-inline></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a rel="mw:WikiLink" href="./Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://d-nb.info/gnd/4038613-2">4038613-2</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_GND_identifiers"/></span></span></li></ul>
+
+</div></td></tr></tbody></table></div>
+
+<link rel="mw:PageProp/Category" href="./Category:Concepts_in_logic" id="mwAtU"/>
+<link rel="mw:PageProp/Category" href="./Category:Mathematical_objects" id="mwAtY"/>
+<link rel="mw:PageProp/Category" href="./Category:Set_theory#*" id="mwAtc"/></section></body></html>

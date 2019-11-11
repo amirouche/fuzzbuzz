@@ -15,7 +15,7 @@ from lsm import SEEK_LE, SEEK_GE
 from tuple import pack, unpack, strinc
 
 
-HASH_SIZE = 32
+HASH_SIZE = 512
 
 
 DATA = Path('./data').resolve()
@@ -137,7 +137,7 @@ if sys.argv[1] == 'index':
         bitstring = int2bits(value)
         value = value.to_bytes(HASH_SIZE // 8, 'big')
         assert len(bitstring) == HASH_SIZE, "bitstring is not good"
-        for subspace, chunk in enumerate(chunks(bitstring, 8)):
+        for subspace, chunk in enumerate(chunks(bitstring, HASH_SIZE // 4)):
             out = fuzzbuzz(chunk)
             length = (HASH_SIZE * 2) // 8
             key = out.to_bytes(length, 'big')
@@ -153,7 +153,7 @@ elif sys.argv[1] == 'query':
     distances = Counter()
 
     bitstring = int2bits(integer)
-    for subspace, chunk in enumerate(chunks(bitstring, 8)):
+    for subspace, chunk in enumerate(chunks(bitstring, HASH_SIZE // 4)):
         with db.cursor() as cursor:
             out = fuzzbuzz(chunk)
             length = (HASH_SIZE * 2) // 8

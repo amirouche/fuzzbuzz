@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html prefix="dc: http://purl.org/dc/terms/ mw: http://mediawiki.org/rdf/" about="http://en.wikipedia.org/wiki/Special:Redirect/revision/881880976"><head prefix="mwr: http://en.wikipedia.org/wiki/Special:Redirect/"><meta property="mw:TimeUuid" content="be35dcb0-3879-11e9-9a9d-657eacbfa1c9"/><meta charset="utf-8"/><meta property="mw:pageNamespace" content="0"/><meta property="mw:pageId" content="53696"/><link rel="dc:replaces" resource="mwr:revision/875219663"/><meta property="dc:modified" content="2019-02-05T12:17:18.000Z"/><meta property="mw:revisionSHA1" content="8fa25dc54e833ca0f91de8d2bfea3e1df42034bf"/><meta property="mw:html:version" content="2.1.0"/><link rel="dc:isVersionOf" href="//en.wikipedia.org/wiki/Division_(mathematics)"/><title>Division (mathematics)</title><base href="//en.wikipedia.org/wiki/"/><link rel="stylesheet" href="//en.wikipedia.org/w/load.php?modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.parsoid%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Csite.styles%7Cext.cite.style%7Cext.cite.styles%7Cmediawiki.page.gallery.styles%7Cext.math.styles&amp;only=styles&amp;skin=vector"/><!--[if lt IE 9]><script src="//en.wikipedia.org/w/load.php?modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><script>html5.addElements('figure-inline');</script><![endif]--><meta http-equiv="content-language" content="en"/><meta http-equiv="vary" content="Accept"/></head><body id="mwAA" lang="en" class="mw-content-ltr sitedir-ltr ltr mw-body-content parsoid-body mediawiki mw-parser-output" dir="ltr"><section data-mw-section-id="0" id="mwAQ"><div role="note" class="hatnote navigation-not-searchable" about="#mwt1" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"about","href":"./Template:About"},"params":{"1":{"wt":"the arithmetical operation"},"2":{"wt":""},"3":{"wt":"Division (disambiguation)"}},"i":0}}]}' id="mwAg">This article is about the arithmetical operation. For other uses, see <a rel="mw:WikiLink" href="./Division_(disambiguation)" title="Division (disambiguation)" class="mw-redirect">Division (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt2" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"redirect","href":"./Template:Redirect"},"params":{"1":{"wt":"Divided"}},"i":0}}]}' id="mwAw">"Divided" redirects here. For other uses, see <a rel="mw:WikiLink" href="./Divided_(disambiguation)" title="Divided (disambiguation)">Divided (disambiguation)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation" about="#mwt3" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Refimprove","href":"./Template:Refimprove"},"params":{"date":{"wt":"October 2014"}},"i":0}}]}' id="mwBA"><tbody><tr><td class="mbox-image"><div style="width:52px"><figure-inline typeof="mw:Image"><a href="./File:Question_book-new.svg"><img alt="" resource="./File:Question_book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" data-file-width="512" data-file-height="399" data-file-type="drawing" height="39" width="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x"/></a></figure-inline></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a rel="mw:WikiLink" href="./Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Division_(mathematics)&amp;action=edit">improve this article</a> by <a rel="mw:WikiLink" href="./Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br/><small><span class="plainlinks"><i>Find sources:</i><span typeof="mw:Entity"> </span><a rel="mw:ExtLink" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Division%22+mathematics">"Division"<span typeof="mw:Entity"> </span>mathematics</a><span typeof="mw:Entity"> </span>–<span typeof="mw:Entity"> </span><a rel="mw:ExtLink" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Division%22+mathematics+-wikipedia">news</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//www.google.com/search?&amp;q=%22Division%22+mathematics+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Division%22+mathematics+-wikipedia">books</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="//scholar.google.com/scholar?q=%22Division%22+mathematics">scholar</a> <b>·</b> <a rel="mw:ExtLink" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Division%22+mathematics&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2014</span>)</i></small><small class="hide-when-compact"><i> (<a rel="mw:WikiLink" href="./Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Articles_needing_additional_references_from_October_2014" about="#mwt3"/><link rel="mw:PageProp/Category" href="./Category:All_articles_needing_additional_references" about="#mwt3" id="mwBQ"/>
+<figure class="mw-default-size" typeof="mw:Image/Thumb" id="mwBg"><a href="./File:Divide20by4.svg" id="mwBw"><img resource="./File:Divide20by4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Divide20by4.svg/220px-Divide20by4.svg.png" data-file-width="462" data-file-height="625" data-file-type="drawing" height="298" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Divide20by4.svg/440px-Divide20by4.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Divide20by4.svg/330px-Divide20by4.svg.png 1.5x" id="mwCA"/></a><figcaption id="mwCQ">20 ÷ 4 = 5 with apples. This is said verbally, "twenty divided by four equals five.</figcaption></figure>
+
+<p id="mwCg"><b id="mwCw">Division</b> is one of the four basic operations of <a rel="mw:WikiLink" href="./Arithmetic" title="Arithmetic" id="mwDA">arithmetic</a>, the others being <a rel="mw:WikiLink" href="./Addition" title="Addition" id="mwDQ">addition</a>, <a rel="mw:WikiLink" href="./Subtraction" title="Subtraction" id="mwDg">subtraction</a>, and <a rel="mw:WikiLink" href="./Multiplication" title="Multiplication" id="mwDw">multiplication</a>.</p>
+
+<p id="mwEA">At an elementary level the division of two <a rel="mw:WikiLink" href="./Natural_number" title="Natural number" id="mwEQ">natural numbers</a> is – among other <a rel="mw:WikiLink" href="./Quotition_and_partition" title="Quotition and partition" id="mwEg">possible interpretations</a> – the process of calculating the number of times one number is contained within another one.<sup about="#mwt140" class="mw-ref" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="./Division_(mathematics)#cite_note-1" style="counter-reset: mw-Ref 1;"><span class="mw-reflink-text">[1]</span></a></sup><sup class="reference" style="white-space:nowrap;" about="#mwt6" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"rp","href":"./Template:Rp"},"params":{"1":{"wt":"7"}},"i":0}}]}' id="mwEw">:<span>7</span></sup> This number of times is not always an <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwFA">integer</a>, and this led to two different concepts.</p>
+
+<p id="mwFQ">The <a rel="mw:WikiLink" href="./Division_with_remainder" title="Division with remainder" id="mwFg" class="mw-redirect">division with remainder</a> or <a rel="mw:WikiLink" href="./Euclidean_division" title="Euclidean division" id="mwFw">Euclidean division</a> of two <a rel="mw:WikiLink" href="./Natural_numbers" title="Natural numbers" id="mwGA" class="mw-redirect">natural numbers</a> provides a <i id="mwGQ">quotient</i>, which is the number of times the second one is contained in the first one, and a <i id="mwGg">remainder</i>, which is the part of the first number that remains, when in the course of computing the quotient, no further full chunk of the size of the second number can be allocated.</p>
+
+<p id="mwGw">For a modification of this division to yield only one single result, the natural numbers must be extended to <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwHA">rational numbers</a> or <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwHQ">real numbers</a>. In these enlarged <a rel="mw:WikiLink" href="./Number_system" title="Number system" id="mwHg" class="mw-redirect">number systems</a>, division is the inverse operation to multiplication, that is <span class="texhtml " about="#mwt10" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; {{=}} &apos;&apos;c&apos;&apos; ÷ &apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mwHw"><i>a</i> = <i>c</i> ÷ <i>b</i></span> means <span class="texhtml " about="#mwt11" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; × &apos;&apos;b&apos;&apos; {{=}} &apos;&apos;c&apos;&apos;"}},"i":0}}]}' id="mwIA"><i>a</i> × <i>b</i> = <i>c</i></span>, as long as <span class="texhtml " about="#mwt12" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mwIQ"><i>b</i></span> is not zero—if <span class="texhtml " about="#mwt13" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos; = 0"}},"i":0}}]}' id="mwIg"><i>b</i> = 0</span>, then this is a <a rel="mw:WikiLink" href="./Division_by_zero" title="Division by zero" id="mwIw">division by zero</a>, which is not defined.<sup about="#mwt14" class="mw-ref" id="cite_ref-4" rel="dc:references" typeof="mw:Transclusion  mw:Extension/ref" data-mw='{"parts":[{"template":{"target":{"wt":"efn","href":"./Template:Efn"},"params":{"1":{"wt":"Division by zero may be defined in some circumstances, either by extending the real numbers to the [[extended real number line]] or to the [[projectively extended real line]] or when occurring as limit of divisions by numbers tending to 0. For example: {{math|lim&lt;sub>&apos;&apos;x&apos;&apos;→0&lt;/sub> {{sfrac|sin &apos;&apos;x&apos;&apos;|&apos;&apos;x&apos;&apos;}} {{=}} 1.}}&lt;ref name=\"mwdiv\" />&lt;ref name=\"db0\">{{MathWorld|id=DivisionbyZero|title=Division by Zero}}&lt;/ref>"}},"i":0}}]}'><a href="./Division_(mathematics)#cite_note-4" style="counter-reset: mw-Ref 1;" data-mw-group="lower-alpha"><span class="mw-reflink-text">[lower-alpha 1]</span></a></sup><sup about="#mwt142" class="mw-ref" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-5"}}'><a href="./Division_(mathematics)#cite_note-5" style="counter-reset: mw-Ref 4;"><span class="mw-reflink-text">[4]</span></a></sup><sup class="reference" style="white-space:nowrap;" about="#mwt16" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"rp","href":"./Template:Rp"},"params":{"1":{"wt":"246"}},"i":0}}]}' id="mwJA">:<span>246</span></sup></p>
+
+<p id="mwJQ">Both forms of divisions appear in various <a rel="mw:WikiLink" href="./Algebraic_structure" title="Algebraic structure" id="mwJg">algebraic structures</a>. Those in which a Euclidean division (with remainder) is defined are called <a rel="mw:WikiLink" href="./Euclidean_domain" title="Euclidean domain" id="mwJw">Euclidean domains</a> and include <a rel="mw:WikiLink" href="./Polynomial_ring" title="Polynomial ring" id="mwKA">polynomial rings</a> in one <a rel="mw:WikiLink" href="./Indeterminate_(variable)" title="Indeterminate (variable)" id="mwKQ">indeterminate</a>. Those in which a division (with a single result) by all nonzero elements is defined are called <a rel="mw:WikiLink" href="./Field_(mathematics)" title="Field (mathematics)" id="mwKg">fields</a> and <a rel="mw:WikiLink" href="./Division_ring" title="Division ring" id="mwKw">division rings</a>. In a <a rel="mw:WikiLink" href="./Ring_(mathematics)" title="Ring (mathematics)" id="mwLA">ring</a> the elements by which division is always possible are called the <a rel="mw:WikiLink" href="./Unit_(ring_theory)" title="Unit (ring theory)" id="mwLQ">units</a>; e.g., within the ring of integers the units are 1 and –1.</p>
+
+</section><section data-mw-section-id="1" id="mwLg"><h2 id="Introduction">Introduction</h2>
+<p id="mwLw">In its most simple form, division can be viewed either as a <a rel="mw:WikiLink" href="./Quotition_and_partition" title="Quotition and partition" id="mwMA">quotition or a partition</a>. In terms of quotition, 20<span typeof="mw:Entity" id="mwMQ"> </span>÷<span typeof="mw:Entity" id="mwMg"> </span>5 means the number of 5s that must be added to get<span typeof="mw:Entity" id="mwMw"> </span>20. In terms of partition, 20<span typeof="mw:Entity" id="mwNA"> </span>÷<span typeof="mw:Entity" id="mwNQ"> </span>5 means the size of each of 5 parts into which a set of size 20 is divided. For example, 20 apples divide into four groups of five apples, meaning that <i id="mwNg">twenty divided by five is equal to  four</i>. This is denoted as <span class="texhtml " about="#mwt18" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"20 / 5 = 4"}},"i":0}}]}' id="mwNw">20 / 5 = 4</span>, <span class="texhtml " about="#mwt19" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"20 ÷ 5 {{=}} 4"}},"i":0}}]}' id="mwOA">20 ÷ 5 = 4</span>, or <span class="texhtml " about="#mwt20" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"{{sfrac|20|5}} = 4"}},"i":0}}]}' id="mwOQ"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">20</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span> = 4</span>.<sup about="#mwt226" class="mw-ref" id="cite_ref-mwdiv_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"mwdiv"},"body":{"id":"mw-reference-text-cite_note-mwdiv-2"}}'><a href="./Division_(mathematics)#cite_note-mwdiv-2" style="counter-reset: mw-Ref 2;"><span class="mw-reflink-text">[2]</span></a></sup> Notationally, the <i id="mwOg">dividend</i> is divided by the <i id="mwOw">divisor</i> to get a <i id="mwPA">quotient</i>. In the example, 20 is the dividend, five is the divisor, and four is the quotient.</p>
+
+<p id="mwPQ">Unlike the other basic operations, when dividing natural numbers there is sometimes a <a rel="mw:WikiLink" href="./Remainder" title="Remainder" id="mwPg">remainder</a> that will not go evenly into the dividend; for example, <span class="texhtml " about="#mwt23" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"10 ÷ 3"}},"i":0}}]}' id="mwPw">10 ÷ 3</span> leaves a remainder of one, as 10 is not a multiple of three. Sometimes this remainder is added to the quotient as a <a rel="mw:WikiLink" href="./Fractional_part" title="Fractional part" id="mwQA">fractional part</a>, so <span class="texhtml " about="#mwt24" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"10 ÷ 3"}},"i":0}}]}' id="mwQQ">10 ÷ 3</span> is equal to <span class="texhtml " about="#mwt25" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"3{{sfrac|1|3}}"}},"i":0}}]}' id="mwQg">3<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></span> or <span class="texhtml " about="#mwt26" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"3.33..."}},"i":0}}]}' id="mwQw">3.33...</span>, but in the context of <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwRA">integer</a> division, where numbers have no fractional part, the remainder is kept separately or discarded.<sup about="#mwt228" class="mw-ref" id="cite_ref-mwintdiv_6-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"mwintdiv"},"body":{"id":"mw-reference-text-cite_note-mwintdiv-6"}}'><a href="./Division_(mathematics)#cite_note-mwintdiv-6" style="counter-reset: mw-Ref 5;"><span class="mw-reflink-text">[5]</span></a></sup> When the remainder is kept as a fraction, it leads to a <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwRQ">rational number</a>. The set of all rational numbers is created by every possible division using integers. In modern mathematical terms, this is known as <i id="mwRg">extending the system</i>.</p>
+
+<p id="mwRw">Unlike multiplication and addition, Division is not <a rel="mw:WikiLink" href="./Commutative" title="Commutative" id="mwSA" class="mw-redirect">commutative</a>, meaning that <span class="texhtml " about="#mwt30" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"a ÷ b"}},"i":0}}]}' id="mwSQ">a ÷ b</span> is not always equal to <span class="texhtml " about="#mwt31" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"b ÷ a"}},"i":0}}]}' id="mwSg">b ÷ a</span>.<sup about="#mwt36" class="mw-ref" id="cite_ref-7" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-7"}}'><a href="./Division_(mathematics)#cite_note-7" style="counter-reset: mw-Ref 6;"><span class="mw-reflink-text">[6]</span></a></sup> Division is also not <a rel="mw:WikiLink" href="./Associative" title="Associative" id="mwSw" class="mw-redirect">associative</a>, meaning that when dividing multiple times, the order of the division changes the answer to the problem.<sup about="#mwt38" class="mw-ref" id="cite_ref-8" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-8"}}'><a href="./Division_(mathematics)#cite_note-8" style="counter-reset: mw-Ref 7;"><span class="mw-reflink-text">[7]</span></a></sup> For example, <span class="texhtml " about="#mwt32" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"(20 ÷ 5) ÷ 2 {{=}} 2"}},"i":0}}]}' id="mwTA">(20 ÷ 5) ÷ 2 = 2</span>, but <span class="texhtml " about="#mwt33" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"20 ÷ (5 ÷ 2) {{=}} 8"}},"i":0}}]}' id="mwTQ">20 ÷ (5 ÷ 2) = 8</span>, where the parentheses mean that the operation inside the parentheses is performed before the operations outside.</p>
+
+<p id="mwTg">Division is, however, distributive. This means that <span class="texhtml " about="#mwt34" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"math","href":"./Template:Math"},"params":{"1":{"wt":"(a+b) ÷ c {{=}} (a ÷ c) + (b ÷ c)"}},"i":0}}]}' id="mwTw">(a+b) ÷ c = (a ÷ c) + (b ÷ c)</span> for every number. Specifically, division has the right-<a rel="mw:WikiLink" href="./Distributive_property" title="Distributive property" id="mwUA">distributive property</a> over addition and subtraction. That means:</p>
+<dl id="mwUQ"><dd id="mwUg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt165" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{a + b}{c} = (a + b) \\div c = \\frac{a}{c} + \\frac{b}{c}"}}' id="mwUw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {a+b}{c}}=(a+b)\div c={\frac {a}{c}}+{\frac {b}{c}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>a</mi>
+              <mo>+</mo>
+              <mi>b</mi>
+            </mrow>
+            <mi>c</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>a</mi>
+            <mi>c</mi>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>b</mi>
+            <mi>c</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {a+b}{c}}=(a+b)\div c={\frac {a}{c}}+{\frac {b}{c}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a7f7432ac2a4f3ea8c9a41c8727ae4803174067" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:29.574ex; height:5.343ex;" alt="{\frac {a+b}{c}}=(a+b)\div c={\frac {a}{c}}+{\frac {b}{c}}"/></span><span about="#mwt165">
+</span></dd></dl>
+
+<p id="mwVA">This is the same as <a rel="mw:WikiLink" href="./Multiplication" title="Multiplication" id="mwVQ">multiplication</a>: <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt167" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"(a + b) \\times c = a \\times c + b \\times c"}}' id="mwVg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (a+b)\times c=a\times c+b\times c}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>×<!-- × --></mo>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>×<!-- × --></mo>
+        <mi>c</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mo>×<!-- × --></mo>
+        <mi>c</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (a+b)\times c=a\times c+b\times c}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f17a22f7efbc086d3f4bc4a0d98457b25b9b89c3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:26.585ex; height:2.843ex;" alt="(a+b)\times c=a\times c+b\times c"/></span><span about="#mwt167">
+</span>. However, division is not left-distributive:</p>
+<dl id="mwVw"><dd id="mwWA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt169" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac{a}{b + c} = a \\div (b + c) = \\left(\\frac{b}{a} + \\frac{c}{a}\\right)^{-1} \\ne \\frac{a}{b} + \\frac{a}{c}"}}' id="mwWQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {a}{b+c}}=a\div (b+c)=\left({\frac {b}{a}}+{\frac {c}{a}}\right)^{-1}\neq {\frac {a}{b}}+{\frac {a}{c}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>a</mi>
+            <mrow>
+              <mi>b</mi>
+              <mo>+</mo>
+              <mi>c</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>+</mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msup>
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mi>b</mi>
+                  <mi>a</mi>
+                </mfrac>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mi>c</mi>
+                  <mi>a</mi>
+                </mfrac>
+              </mrow>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>≠<!-- ≠ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>a</mi>
+            <mi>b</mi>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>a</mi>
+            <mi>c</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {a}{b+c}}=a\div (b+c)=\left({\frac {b}{a}}+{\frac {c}{a}}\right)^{-1}\neq {\frac {a}{b}}+{\frac {a}{c}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40586edb6ce846083738177e1e7f73b130d870ae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:45.399ex; height:6.509ex;" alt="{\displaystyle {\frac {a}{b+c}}=a\div (b+c)=\left({\frac {b}{a}}+{\frac {c}{a}}\right)^{-1}\neq {\frac {a}{b}}+{\frac {a}{c}}}"/></span><span about="#mwt169">
+</span></dd></dl>
+
+<p id="mwWg">This is unlike multiplication.</p>
+
+<p id="mwWw">If there are multiple divisions in a row the order of calculation traditionally goes from left to right<sup about="#mwt46" class="mw-ref" id="cite_ref-9" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-9"}}'><a href="./Division_(mathematics)#cite_note-9" style="counter-reset: mw-Ref 8;"><span class="mw-reflink-text">[8]</span></a></sup><sup about="#mwt48" class="mw-ref" id="cite_ref-10" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-10"}}'><a href="./Division_(mathematics)#cite_note-10" style="counter-reset: mw-Ref 9;"><span class="mw-reflink-text">[9]</span></a></sup>, which is called <a rel="mw:WikiLink" href="./Left_associative_operator" title="Left associative operator" id="mwXA" class="mw-redirect">left-associative</a>:</p>
+<dl id="mwXQ"><dd id="mwXg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt171" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a \\div b \\div c = (a \\div b) \\div c = a \\div (b \\times c) = a \\times b^{-1} \\times c^{-1}"}}' id="mwXw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a\div b\div c=(a\div b)\div c=a\div (b\times c)=a\times b^{-1}\times c^{-1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>b</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>c</mi>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>b</mi>
+        <mo>×<!-- × --></mo>
+        <mi>c</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo>×<!-- × --></mo>
+        <msup>
+          <mi>b</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>×<!-- × --></mo>
+        <msup>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\div b\div c=(a\div b)\div c=a\div (b\times c)=a\times b^{-1}\times c^{-1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88ab85a95f594e94587846c0e8c9d7b5029cf4ea" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:53.24ex; height:3.176ex;" alt="{\displaystyle a\div b\div c=(a\div b)\div c=a\div (b\times c)=a\times b^{-1}\times c^{-1}}"/></span><span about="#mwt171">
+</span>.</dd></dl>
+
+</section><section data-mw-section-id="2" id="mwYA"><h2 id="Notation">Notation</h2>
+<p id="mwYQ">Division is often shown in algebra and science by placing the <i id="mwYg">dividend</i> over the <i id="mwYw">divisor</i> with a horizontal line, also called a <a rel="mw:WikiLink" href="./Fraction_bar" title="Fraction bar" id="mwZA" class="mw-redirect">fraction bar</a>, between them. For example, <i id="mwZQ">a</i> divided by <i id="mwZg">b</i> is written</p>
+<dl id="mwZw"><dd id="mwaA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt173" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\frac ab"}}' id="mwaQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {a}{b}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>a</mi>
+            <mi>b</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {a}{b}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fbb66e57f89debc3cde3213de12228971148a93" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:2.066ex; height:4.843ex;" alt="{\frac {a}{b}}"/></span><span about="#mwt173">
+</span></dd></dl>
+<p id="mwag">This can be read out loud as "<i id="mwaw">a</i> divided by <i id="mwbA">b</i>", "<i id="mwbQ">a</i> by <i id="mwbg">b</i>" or "<i id="mwbw">a</i> over <i id="mwcA">b</i>". A way to express division all on one line is to write the <i id="mwcQ">dividend</i> (or numerator), then a <a rel="mw:WikiLink" href="./Slash_(punctuation)" title="Slash (punctuation)" id="mwcg">slash</a>, then the <i id="mwcw">divisor</i> (or denominator), like this:</p>
+<dl id="mwdA"><dd id="mwdQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt175" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a/b\\,"}}' id="mwdg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a/b\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>b</mi>
+        <mspace width="thinmathspace"></mspace>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a/b\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/28e4b061d3c8b873df82729312f85b79644c94ae" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.777ex; height:2.843ex;" alt="a/b\,"/></span><span about="#mwt175">
+</span></dd></dl>
+
+<p id="mwdw">This is the usual way to specify division in most computer <a rel="mw:WikiLink" href="./Programming_language" title="Programming language" id="mweA">programming languages</a> since it can easily be typed as a simple sequence of <a rel="mw:WikiLink" href="./ASCII" title="ASCII" id="mweQ">ASCII</a> characters. Some <a rel="mw:WikiLink" href="./Mathematical_software" title="Mathematical software" id="mweg">mathematical software</a>, such as <a rel="mw:WikiLink" href="./MATLAB" title="MATLAB" id="mwew">MATLAB</a> and <a rel="mw:WikiLink" href="./GNU_Octave" title="GNU Octave" id="mwfA">GNU Octave</a>, allows the operands to be written in the reverse order by using the <a rel="mw:WikiLink" href="./Backslash" title="Backslash" id="mwfQ">backslash</a> as the division operator:</p>
+<dl id="mwfg"><dd id="mwfw"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt177" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"b\\backslash a"}}' id="mwgA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b\backslash a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mi class="MJX-variant" mathvariant="normal">∖<!-- ∖ --></mi>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b\backslash a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b3cffa3d83f6a87418ecff74618d737dd67b6b30" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.39ex; height:2.843ex;" alt="b\backslash a"/></span><span about="#mwt177">
+</span></dd></dl>
+
+<p id="mwgQ">A typographical variation halfway between these two forms uses a <a rel="mw:WikiLink" href="./Solidus_(punctuation)" title="Solidus (punctuation)" id="mwgg" class="mw-redirect">solidus</a> (fraction slash) but elevates the dividend, and lowers the divisor:</p>
+<dl id="mwgw"><dd id="mwhA"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt179" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"{}^{a}/{}_{b}"}}' id="mwhQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {}^{a}/{}_{b}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>a</mi>
+          </mrow>
+        </msup>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>b</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {}^{a}/{}_{b}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f37a710f0dc96d090ac51d756e1af3b27b81ad5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.202ex; height:2.843ex;" alt="{\displaystyle {}^{a}/{}_{b}}"/></span><span about="#mwt179">
+</span></dd></dl>
+
+<p id="mwhg">Any of these forms can be used to display a <a rel="mw:WikiLink" href="./Fraction_(mathematics)" title="Fraction (mathematics)" id="mwhw">fraction</a>. A fraction is a division expression where both dividend and divisor are <a rel="mw:WikiLink" href="./Integer" title="Integer" id="mwiA">integers</a> (typically called the <i id="mwiQ">numerator</i> and <i id="mwig">denominator</i>), and there is no implication that the division must be evaluated further. A second way to show division is to use the <a rel="mw:WikiLink" href="./Obelus" title="Obelus" id="mwiw">obelus</a> (or division sign), common in arithmetic, in this manner:</p>
+<dl id="mwjA"><dd id="mwjQ"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt181" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a \\div b"}}' id="mwjg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a\div b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>÷<!-- ÷ --></mo>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a\div b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/021958e4ad3e896d02f70c725544ad3fac40727c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.068ex; height:2.176ex;" alt="a\div b"/></span><span about="#mwt181">
+</span></dd></dl>
+
+<p id="mwjw">This form is infrequent except in elementary arithmetic. <a rel="mw:WikiLink" href="./ISO_80000-2" title="ISO 80000-2" id="mwkA">ISO 80000-2</a>-9.6 states it should not be used. The obelus is also used alone to represent the division operation itself, as for instance as a label on a key of a <a rel="mw:WikiLink" href="./Calculator" title="Calculator" id="mwkQ">calculator</a>. The obelus was introduced by Swiss mathematician <a rel="mw:WikiLink" href="./Johann_Rahn" title="Johann Rahn" id="mwkg">Johann Rahn</a> in 1659 in <i id="mwkw">Teutsche Algebra</i>.<sup about="#mwt230" class="mw-ref" id="cite_ref-Cajori_11-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Cajori"},"body":{"id":"mw-reference-text-cite_note-Cajori-11"}}'><a href="./Division_(mathematics)#cite_note-Cajori-11" style="counter-reset: mw-Ref 10;"><span class="mw-reflink-text">[10]</span></a></sup><sup class="reference" style="white-space:nowrap;" about="#mwt56" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"rp","href":"./Template:Rp"},"params":{"1":{"wt":"211"}},"i":0}}]}' id="mwlA">:<span>211</span></sup></p>
+<dl id="mwlQ"><dd id="mwlg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt185" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"a : b"}}' id="mwlw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle a:b}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo>:</mo>
+        <mi>b</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a:b}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3149b4f815ad9e8b3e8cdd29adcd02a42c22e5ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:4.165ex; height:2.176ex;" alt="a:b"/></span><span about="#mwt185">
+</span></dd></dl>
+
+<p id="mwmA">In some non-<a rel="mw:WikiLink" href="./English_language" title="English language" id="mwmQ">English</a>-speaking countries colon is used to denote division.<sup about="#mwt232" class="mw-ref" id="cite_ref-12" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-12"}}'><a href="./Division_(mathematics)#cite_note-12" style="counter-reset: mw-Ref 11;"><span class="mw-reflink-text">[11]</span></a></sup> This notation was introduced by <a rel="mw:WikiLink" href="./Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz" id="mwmg">Gottfried Wilhelm Leibniz</a> in his 1684 <i id="mwmw">Acta eruditorum</i>.<sup about="#mwt63" class="mw-ref" id="cite_ref-Cajori_11-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Cajori"}}'><a href="./Division_(mathematics)#cite_note-Cajori-11" style="counter-reset: mw-Ref 10;"><span class="mw-reflink-text">[10]</span></a></sup><sup class="reference" style="white-space:nowrap;" about="#mwt61" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"rp","href":"./Template:Rp"},"params":{"1":{"wt":"295"}},"i":0}}]}' id="mwnA">:<span>295</span></sup> Leibniz disliked having separate symbols for ratio and division. However, in English usage the <a rel="mw:WikiLink" href="./Colon_(punctuation)" title="Colon (punctuation)" id="mwnQ">colon</a> is restricted to expressing the related concept of <a rel="mw:WikiLink" href="./Ratio" title="Ratio" id="mwng">ratios</a>.</p>
+
+<p id="mwnw">Since the 19th century US textbooks have used <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt189" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"b)~a"}}' id="mwoA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b)~a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo stretchy="false">)</mo>
+        <mtext> </mtext>
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b)~a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3066bac55bbdd099e22e491c8dbd6150995a2b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.713ex; height:2.843ex;" alt="b)~a"/></span><span about="#mwt189">
+</span> or <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt191" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"b \\overline{)a}"}}' id="mwoQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle b{\overline {)a}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mover>
+            <mrow>
+              <mo stretchy="false">)</mo>
+              <mi>a</mi>
+            </mrow>
+            <mo accent="false">¯<!-- ¯ --></mo>
+          </mover>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b{\overline {)a}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff28fe4694d9493646d5e4b12c6a90849c8a824f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.247ex; height:3.676ex;" alt="b{\overline {)a}}"/></span><span about="#mwt191">
+</span> to denote <i id="mwog">a</i> divided by <i id="mwow">b</i>, especially when discussing <a rel="mw:WikiLink" href="./Long_division" title="Long division" id="mwpA">long division</a>. The history of this notation is not entirely clear because it evolved over time.<sup about="#mwt234" class="mw-ref" id="cite_ref-Smith_13-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"Smith"},"body":{"id":"mw-reference-text-cite_note-Smith-13"}}'><a href="./Division_(mathematics)#cite_note-Smith-13" style="counter-reset: mw-Ref 12;"><span class="mw-reflink-text">[12]</span></a></sup></p>
+
+</section><section data-mw-section-id="3" id="mwpQ"><h2 id="Computing">Computing</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt68" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Long division"},"2":{"wt":"Division algorithm"}},"i":0}}]}' id="mwpg">Main articles: <a rel="mw:WikiLink" href="./Long_division" title="Long division">Long division</a> and <a rel="mw:WikiLink" href="./Division_algorithm" title="Division algorithm">Division algorithm</a></div>
+
+<section data-mw-section-id="4" id="mwpw"><h3 id="Manual_methods">Manual methods</h3>
+<p id="mwqA">Division is often introduced through the notion of "sharing out" a set of objects, for example a pile of lollies, into a number of equal portions. Distributing the objects several at a time in each round of sharing to each portion leads to the idea of "<a rel="mw:WikiLink" href="./Chunking_(division)" title="Chunking (division)" id="mwqQ">chunking</a>", i.e., division by repeated subtraction.</p>
+
+<p id="mwqg">More systematic and more efficient (but also more formalised and more rule-based, and more removed from an overall holistic picture of what division is achieving), a person who knows the <a rel="mw:WikiLink" href="./Multiplication_tables" title="Multiplication tables" id="mwqw" class="mw-redirect">multiplication tables</a> can divide two integers using pencil and paper using the method of <a rel="mw:WikiLink" href="./Short_division" title="Short division" id="mwrA">short division</a>, if the divisor is simple. <a rel="mw:WikiLink" href="./Long_division" title="Long division" id="mwrQ">Long division</a> is used for larger integer divisors. If the dividend has a <a rel="mw:WikiLink" href="./Fraction_(mathematics)" title="Fraction (mathematics)" id="mwrg">fractional</a> part (expressed as a <a rel="mw:WikiLink" href="./Decimal_fraction" title="Decimal fraction" id="mwrw" class="mw-redirect">decimal fraction</a>), one can continue the algorithm past the ones place as far as desired. If the divisor has a fractional part, we can restate the problem by moving the decimal to the right in both numbers until the divisor has no fraction.</p>
+
+<p id="mwsA">A person can calculate division with an <a rel="mw:WikiLink" href="./Abacus" title="Abacus" id="mwsQ">abacus</a> by repeatedly placing the dividend on the abacus, and then subtracting the divisor the offset of each digit in the result, counting the number of divisions possible at each offset.</p>
+
+<p id="mwsg">A person can use <a rel="mw:WikiLink" href="./Logarithm_tables" title="Logarithm tables" id="mwsw" class="mw-redirect">logarithm tables</a> to divide two numbers, by subtracting the two numbers' logarithms, then looking up the antilogarithm of the result.</p>
+
+<p id="mwtA">A person can calculate division with a <a rel="mw:WikiLink" href="./Slide_rule" title="Slide rule" id="mwtQ">slide rule</a> by aligning the divisor on the C scale with the dividend on the D scale. The quotient can be found on the D scale where it is aligned with the left index on the C scale. The user is responsible, however, for mentally keeping track of the decimal point.</p>
+
+</section><section data-mw-section-id="5" id="mwtg"><h3 id="By_computer_or_with_computer_assistance">By computer or with computer assistance</h3>
+<p id="mwtw">Modern computers compute division by methods that are faster than long division. For <a rel="mw:WikiLink" href="./Division_with_remainder" title="Division with remainder" id="mwuA" class="mw-redirect">division with remainder</a>, see <a rel="mw:WikiLink" href="./Division_algorithm" title="Division algorithm" id="mwuQ">Division algorithm</a>.</p>
+
+<p id="mwug">In <a rel="mw:WikiLink" href="./Modular_arithmetic" title="Modular arithmetic" id="mwuw">modular arithmetic</a> (modulo a prime number) and for <a rel="mw:WikiLink" href="./Real_numbers" title="Real numbers" id="mwvA" class="mw-redirect">real numbers</a>, nonzero numbers have a <a rel="mw:WikiLink" href="./Modular_multiplicative_inverse" title="Modular multiplicative inverse" id="mwvQ">multiplicative inverse</a>. In these cases, a division by <span class="texhtml mvar" style="font-style:italic;" about="#mwt69" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mvar","href":"./Template:Mvar"},"params":{"1":{"wt":"x"}},"i":0}}]}' id="mwvg">x</span> may be computed as the product by the multiplicative inverse of <span class="texhtml mvar" style="font-style:italic;" about="#mwt70" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"mvar","href":"./Template:Mvar"},"params":{"1":{"wt":"x"}},"i":0}}]}' id="mwvw">x</span>. This approach is often the most efficient one.</p>
+
+</section></section><section data-mw-section-id="6" id="mwwA"><h2 id="Division_in_different_contexts">Division in different contexts</h2>
+<section data-mw-section-id="7" id="mwwQ"><h3 id="Euclidean_division">Euclidean division</h3>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt71" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Euclidean division"}},"i":0}}]}' id="mwwg">Main article: <a rel="mw:WikiLink" href="./Euclidean_division" title="Euclidean division">Euclidean division</a></div>
+<p id="mwww">The Euclidean division is the mathematical formulation of the outcome of the usual process of division of integers. It asserts that, given two integers, <i id="mwxA">a</i>, the <i id="mwxQ">dividend</i>, and <i id="mwxg">b</i>, the <i id="mwxw">divisor</i>, such that <i id="mwyA">b</i> ≠ 0, there are <a rel="mw:WikiLink" href="./Uniqueness_quantification" title="Uniqueness quantification" id="mwyQ">unique</a> integers <i id="mwyg">q</i>, the <i id="mwyw">quotient</i>, and <i id="mwzA">r</i>, the remainder,  such that <i id="mwzQ">a</i> = <i id="mwzg">bq</i> + <i id="mwzw">r</i> and 0 ≤ <i id="mw0A">r</i> &lt; <span typeof="mw:Transclusion mw:Entity" about="#mwt72" data-mw='{"parts":[{"template":{"target":{"wt":"abs","href":"./Template:Abs"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mw0Q">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;" about="#mwt72"><i>b</i></span><span typeof="mw:Entity" about="#mwt72">|</span>, where <span typeof="mw:Transclusion mw:Entity" about="#mwt73" data-mw='{"parts":[{"template":{"target":{"wt":"abs","href":"./Template:Abs"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mw0g">|</span><span class="nowrap" style="padding-left:0.1em; padding-right:0.1em;" about="#mwt73"><i>b</i></span><span typeof="mw:Entity" about="#mwt73">|</span> denotes the <a rel="mw:WikiLink" href="./Absolute_value" title="Absolute value" id="mw0w">absolute value</a> of <i id="mw1A">b</i>.</p>
+
+</section><section data-mw-section-id="8" id="mw1Q"><h3 id="Of_integers">Of integers</h3>
+<p id="mw1g">Division of integers is not <a rel="mw:WikiLink" href="./Closure_(mathematics)" title="Closure (mathematics)" id="mw1w">closed</a>. Apart from division by zero being undefined, the quotient is not an integer unless the dividend is an integer multiple of the divisor. For example, 26 cannot be divided by 11 to give an integer. Such a case uses one of five approaches:</p>
+<ol id="mw2A"><li id="mw2Q">Say that 26 cannot be divided by 11; division becomes a <a rel="mw:WikiLink" href="./Partial_function" title="Partial function" id="mw2g">partial function</a>.</li>
+<li id="mw2w">Give an approximate answer as a <a rel="mw:WikiLink" href="./Decimal_fraction" title="Decimal fraction" id="mw3A" class="mw-redirect">decimal fraction</a> or a <a rel="mw:WikiLink" href="./Mixed_number" title="Mixed number" id="mw3Q" class="mw-redirect">mixed number</a>, so <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt194" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11} \\simeq 2.36"}}' id="mw3g"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}\simeq 2.36}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>≃<!-- ≃ --></mo>
+        <mn>2.36</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}\simeq 2.36}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9fca6c3f2ac684f06e5c92205f0d43e29d2d0dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:9.713ex; height:3.509ex;" alt="{\tfrac {26}{11}}\simeq 2.36"/></span><span about="#mwt194">
+</span> or <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt196" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11} \\simeq 2 \\tfrac {36}{100}."}}' id="mw3w"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}\simeq 2{\tfrac {36}{100}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>≃<!-- ≃ --></mo>
+        <mn>2</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>36</mn>
+              <mn>100</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}\simeq 2{\tfrac {36}{100}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da06de811e375fbb10f28619dbcd7f9af1b9e43b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:10.69ex; height:3.676ex;" alt="{\tfrac {26}{11}}\simeq 2{\tfrac {36}{100}}."/></span><span about="#mwt196">
+</span> This is the approach usually taken in <a rel="mw:WikiLink" href="./Numerical_computation" title="Numerical computation" id="mw4A" class="mw-redirect">numerical computation</a>.</li>
+<li id="mw4Q">Give the answer as a <a rel="mw:WikiLink" href="./Fraction_(mathematics)" title="Fraction (mathematics)" id="mw4g">fraction</a> representing a <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mw4w">rational number</a>, so the result of the division of 26 by 11 is <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt198" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11}."}}' id="mw5A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/884155b2b968559da9d3ba7041d2a1369344892e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:3.127ex; height:3.509ex;" alt="{\tfrac {26}{11}}."/></span><span about="#mwt198">
+</span> But, usually, the resulting fraction should be simplified: the result of the division of 52 by 22 is also <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt200" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11}"}}' id="mw5Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/851895934403a1a501ecd2c27677589b2247ada7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:2.48ex; height:3.509ex;" alt="{\tfrac {26}{11}}"/></span><span about="#mwt200">
+</span>. This simplification may be done by factoring out the <a rel="mw:WikiLink" href="./Greatest_common_divisor" title="Greatest common divisor" id="mw5g">greatest common divisor</a>.</li>
+<li id="mw5w">Give the answer as an integer <i id="mw6A"><a rel="mw:WikiLink" href="./Quotient" title="Quotient" id="mw6Q">quotient</a></i> and a <i id="mw6g"><a rel="mw:WikiLink" href="./Remainder" title="Remainder" id="mw6w">remainder</a></i>, so <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt202" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11} = 2 \\mbox{ remainder } 4."}}' id="mw7A"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}=2{\mbox{ remainder }}4.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mn>2</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext> remainder </mtext>
+          </mstyle>
+        </mrow>
+        <mn>4.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}=2{\mbox{ remainder }}4.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4dfb93617ba5c9142b7472db4f9160369ce7121a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:19.93ex; height:3.509ex;" alt="{\tfrac {26}{11}}=2{\mbox{ remainder }}4."/></span><span about="#mwt202">
+</span> To make the distinction with the previous case, this division, with two integers as result, is sometimes called <i id="mw7Q"><a rel="mw:WikiLink" href="./Euclidean_division" title="Euclidean division" id="mw7g">Euclidean division</a></i>, because it is the basis of the <a rel="mw:WikiLink" href="./Euclidean_algorithm" title="Euclidean algorithm" id="mw7w">Euclidean algorithm</a>.</li>
+<li id="mw8A">Give the integer quotient as the answer, so <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt204" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"\\tfrac{26}{11} = 2."}}' id="mw8Q"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\tfrac {26}{11}}=2.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mfrac>
+              <mn>26</mn>
+              <mn>11</mn>
+            </mfrac>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mn>2.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\tfrac {26}{11}}=2.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fef9c85f988d214710be8597288b6e5608edce1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:7.388ex; height:3.509ex;" alt="{\tfrac {26}{11}}=2."/></span><span about="#mwt204">
+</span> This is sometimes called <i id="mw8g">integer division</i>.</li></ol>
+<p id="mw8w">Dividing integers in a <a rel="mw:WikiLink" href="./Computer_program" title="Computer program" id="mw9A">computer program</a> requires special care. Some <a rel="mw:WikiLink" href="./Programming_language" title="Programming language" id="mw9Q">programming languages</a>, such as <a rel="mw:WikiLink" href="./C_(programming_language)" title="C (programming language)" id="mw9g">C</a>, treat integer division as in case 5 above, so the answer is an integer. Other languages, such as <a rel="mw:WikiLink" href="./MATLAB" title="MATLAB" id="mw9w">MATLAB</a> and every <a rel="mw:WikiLink" href="./Computer_algebra_system" title="Computer algebra system" id="mw-A">computer algebra system</a> return a rational number as the answer, as in case 3 above. These languages also provide functions to get the results of the other cases, either directly or from the result of case 3.</p>
+
+<p id="mw-Q">Names and symbols used for integer division include div, /, \, and %. Definitions vary regarding integer division when the dividend or the divisor is negative: rounding may be toward zero (so called T-division) or toward <a rel="mw:WikiLink" href="./Extended_real_number_line" title="Extended real number line" id="mw-g">−∞</a> (F-division); rarer styles can occur – see <a rel="mw:WikiLink" href="./Modulo_operation" title="Modulo operation" id="mw-w">Modulo operation</a> for the details.</p>
+
+<p id="mw_A"><a rel="mw:WikiLink" href="./Divisibility_rule" title="Divisibility rule" id="mw_Q">Divisibility rules</a> can sometimes be used to quickly determine whether one integer divides exactly into another.</p>
+
+</section><section data-mw-section-id="9" id="mw_g"><h3 id="Of_rational_numbers">Of rational numbers</h3>
+<p id="mw_w">The result of dividing two <a rel="mw:WikiLink" href="./Rational_number" title="Rational number" id="mwAQA">rational numbers</a> is another rational number when the divisor is not 0. The division of two rational numbers <i id="mwAQE">p</i>/<i id="mwAQI">q</i> and <i id="mwAQM">r</i>/<i id="mwAQQ">s</i> can be computed as</p>
+<dl id="mwAQU"><dd id="mwAQY"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt206" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"{p/q \\over r/s} = {p \\over q} \\times {s \\over r} = {ps \\over qr}."}}' id="mwAQc"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {p/q \over r/s}={p \over q}\times {s \over r}={ps \over qr}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>/</mo>
+              </mrow>
+              <mi>q</mi>
+            </mrow>
+            <mrow>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>/</mo>
+              </mrow>
+              <mi>s</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>p</mi>
+            <mi>q</mi>
+          </mfrac>
+        </mrow>
+        <mo>×<!-- × --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>s</mi>
+            <mi>r</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mi>s</mi>
+            </mrow>
+            <mrow>
+              <mi>q</mi>
+              <mi>r</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {p/q \over r/s}={p \over q}\times {s \over r}={ps \over qr}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3a577d142e5c545772656efdbaf1026e1217d13" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:20.95ex; height:6.509ex;" alt="{p/q \over r/s}={p \over q}\times {s \over r}={ps \over qr}."/></span><span about="#mwt206">
+</span></dd></dl>
+
+<p id="mwAQg">All four quantities are integers, and only <i id="mwAQk">p</i> may be 0. This definition ensures that division is the inverse operation of <a rel="mw:WikiLink" href="./Multiplication" title="Multiplication" id="mwAQo">multiplication</a>.</p>
+
+</section><section data-mw-section-id="10" id="mwAQs"><h3 id="Of_real_numbers">Of real numbers</h3>
+<p id="mwAQw">Division of two <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAQ0">real numbers</a> results in another real number when the divisor is not 0. It is defined such <i id="mwAQ4">a</i>/<i id="mwAQ8">b</i> = <i id="mwARA">c</i> if and only if <i id="mwARE">a</i> = <i id="mwARI">cb</i> and <i id="mwARM">b</i> ≠ 0.</p>
+
+</section><section data-mw-section-id="11" id="mwARQ"><h3 id="Of_complex_numbers">Of complex numbers</h3>
+<p id="mwARU">Dividing two <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwARY">complex numbers</a> results in another complex number when the divisor is not 0, which is found using the conjugate of the denominator:</p>
+<dl id="mwARc"><dd id="mwARg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt208" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"{p+iq \\over r+is} = {(p+iq)(r-is) \\over (r+is)(r-is)} = {pr+qs + i(qr-ps) \\over r^2+s^2} = {pr+qs \\over r^2+s^2} + i{qr-ps \\over r^2+s^2}."}}' id="mwARk"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {p+iq \over r+is}={(p+iq)(r-is) \over (r+is)(r-is)}={pr+qs+i(qr-ps) \over r^{2}+s^{2}}={pr+qs \over r^{2}+s^{2}}+i{qr-ps \over r^{2}+s^{2}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mi>q</mi>
+            </mrow>
+            <mrow>
+              <mi>r</mi>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mi>s</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>p</mi>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mi>q</mi>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mi>r</mi>
+              <mo>−<!-- − --></mo>
+              <mi>i</mi>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mi>r</mi>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mi>r</mi>
+              <mo>−<!-- − --></mo>
+              <mi>i</mi>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mi>r</mi>
+              <mo>+</mo>
+              <mi>q</mi>
+              <mi>s</mi>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mo stretchy="false">(</mo>
+              <mi>q</mi>
+              <mi>r</mi>
+              <mo>−<!-- − --></mo>
+              <mi>p</mi>
+              <mi>s</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <msup>
+                <mi>s</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <mi>r</mi>
+              <mo>+</mo>
+              <mi>q</mi>
+              <mi>s</mi>
+            </mrow>
+            <mrow>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <msup>
+                <mi>s</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mi>i</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>q</mi>
+              <mi>r</mi>
+              <mo>−<!-- − --></mo>
+              <mi>p</mi>
+              <mi>s</mi>
+            </mrow>
+            <mrow>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <msup>
+                <mi>s</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {p+iq \over r+is}={(p+iq)(r-is) \over (r+is)(r-is)}={pr+qs+i(qr-ps) \over r^{2}+s^{2}}={pr+qs \over r^{2}+s^{2}}+i{qr-ps \over r^{2}+s^{2}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5faa05bffdca57c46ee8ae92276e3c4c3abf5953" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:73.256ex; height:6.509ex;" alt="{p+iq \over r+is}={(p+iq)(r-is) \over (r+is)(r-is)}={pr+qs+i(qr-ps) \over r^{2}+s^{2}}={pr+qs \over r^{2}+s^{2}}+i{qr-ps \over r^{2}+s^{2}}."/></span><span about="#mwt208">
+</span></dd></dl>
+
+<p id="mwARo">This process of multiplying and dividing by <span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt210" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"r-is"}}' id="mwARs"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle r-is}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+        <mo>−<!-- − --></mo>
+        <mi>i</mi>
+        <mi>s</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r-is}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7ba7e464762b75cebf817c579a0aa0ff4635566" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:5.782ex; height:2.343ex;" alt="{\displaystyle r-is}"/></span><span about="#mwt210">
+</span> is called 'realisation' or (by analogy) <a rel="mw:WikiLink" href="./Rationalisation_(mathematics)" title="Rationalisation (mathematics)" id="mwARw">rationalisation</a>. All four quantities <i id="mwAR0">p</i>, <i id="mwAR4">q</i>, <i id="mwAR8">r</i>, <i id="mwASA">s</i> are real numbers, and <i id="mwASE">r</i> and <i id="mwASI">s</i> may not both be 0.</p>
+
+<p id="mwASM">Division for complex numbers expressed in polar form is simpler than the definition above:</p>
+<dl id="mwASQ"><dd id="mwASU"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt212" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"{p e^{iq} \\over r e^{is}} = {p e^{iq} e^{-is} \\over r e^{is} e^{-is}} = {p \\over r}e^{i(q - s)}. "}}' id="mwASY"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {pe^{iq} \over re^{is}}={pe^{iq}e^{-is} \over re^{is}e^{-is}}={p \over r}e^{i(q-s)}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mi>q</mi>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mi>r</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>p</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mi>q</mi>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>−<!-- − --></mo>
+                  <mi>i</mi>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+            <mrow>
+              <mi>r</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>−<!-- − --></mo>
+                  <mi>i</mi>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>p</mi>
+            <mi>r</mi>
+          </mfrac>
+        </mrow>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo stretchy="false">(</mo>
+            <mi>q</mi>
+            <mo>−<!-- − --></mo>
+            <mi>s</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {pe^{iq} \over re^{is}}={pe^{iq}e^{-is} \over re^{is}e^{-is}}={p \over r}e^{i(q-s)}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db2ca47a7524626a165dde7a56f45f260e5f7c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:28.041ex; height:5.843ex;" alt="{pe^{iq} \over re^{is}}={pe^{iq}e^{-is} \over re^{is}e^{-is}}={p \over r}e^{i(q-s)}."/></span><span about="#mwt212">
+</span></dd></dl>
+
+<p id="mwASc">Again all four quantities <i id="mwASg">p</i>, <i id="mwASk">q</i>, <i id="mwASo">r</i>, <i id="mwASs">s</i> are real numbers, and <i id="mwASw">r</i> may not be 0.</p>
+
+</section><section data-mw-section-id="12" id="mwAS0"><h3 id="Of_polynomials">Of polynomials</h3>
+<p id="mwAS4">One can define the division operation for <a rel="mw:WikiLink" href="./Polynomial" title="Polynomial" id="mwAS8">polynomials</a> in one variable over a <a rel="mw:WikiLink" href="./Field_(mathematics)" title="Field (mathematics)" id="mwATA">field</a>. Then, as in the case of integers, one has a remainder. See <a rel="mw:WikiLink" href="./Euclidean_division_of_polynomials" title="Euclidean division of polynomials" id="mwATE" class="mw-redirect">Euclidean division of polynomials</a>, and, for hand-written computation, <a rel="mw:WikiLink" href="./Polynomial_long_division" title="Polynomial long division" id="mwATI">polynomial long division</a> or <a rel="mw:WikiLink" href="./Synthetic_division" title="Synthetic division" id="mwATM">synthetic division</a>.</p>
+
+</section><section data-mw-section-id="13" id="mwATQ"><h3 id="Of_matrices">Of matrices</h3>
+<p id="mwATU">One can define a division operation for matrices. The usual way to do this is to define <span class="nowrap" about="#mwt84" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; / &apos;&apos;B&apos;&apos; = &apos;&apos;AB&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwATY"><i>A</i> / <i>B</i> = <i>AB</i><sup>−1</sup></span>, where <span class="nowrap" about="#mwt85" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;B&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwATc"><i>B</i><sup>−1</sup></span> denotes the <a rel="mw:WikiLink" href="./Inverse_matrix" title="Inverse matrix" id="mwATg" class="mw-redirect">inverse</a> of <i id="mwATk">B</i>, but it is far more common to write out <span class="nowrap" about="#mwt86" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;AB&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwATo"><i>AB</i><sup>−1</sup></span> explicitly to avoid confusion.
+An <a rel="mw:WikiLink" href="./Elementwise_division" title="Elementwise division" id="mwATs" class="mw-redirect">elementwise division</a> can also be defined in terms of the <a rel="mw:WikiLink" href="./Hadamard_product_(matrices)" title="Hadamard product (matrices)" id="mwATw">Hadamard product</a>.</p>
+
+<section data-mw-section-id="14" id="mwAT0"><h4 id="Left_and_right_division">Left and right division</h4>
+<p id="mwAT4">Because <a rel="mw:WikiLink" href="./Matrix_multiplication" title="Matrix multiplication" id="mwAT8">matrix multiplication</a> is not <a rel="mw:WikiLink" href="./Commutative" title="Commutative" id="mwAUA" class="mw-redirect">commutative</a>, one can also define a <a rel="mw:WikiLink" href="./Left_division" title="Left division" id="mwAUE" class="mw-redirect">left division</a> or so-called <i id="mwAUI">backslash-division</i> as <span class="nowrap" about="#mwt87" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos; = &apos;&apos;A&apos;&apos;&lt;sup>−1&lt;/sup>&apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAUM"><i>A</i> \ <i>B</i> = <i>A</i><sup>−1</sup><i>B</i></span>. For this to be well defined, <span class="nowrap" about="#mwt88" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;B&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwAUQ"><i>B</i><sup>−1</sup></span> need not exist, however <span class="nowrap" about="#mwt89" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwAUU"><i>A</i><sup>−1</sup></span> does need to exist. To avoid confusion, division as defined by <span class="nowrap" about="#mwt90" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; / &apos;&apos;B&apos;&apos; = &apos;&apos;AB&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwAUY"><i>A</i> / <i>B</i> = <i>AB</i><sup>−1</sup></span> is sometimes called <i id="mwAUc">right division</i> or <i id="mwAUg">slash-division</i> in this context.</p>
+
+<p id="mwAUk">Note that with left and right division defined this way, <span class="nowrap" about="#mwt91" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; / (&apos;&apos;BC&apos;&apos;)"}},"i":0}}]}' id="mwAUo"><i>A</i> / (<i>BC</i>)</span> is in general not the same as <span class="nowrap" about="#mwt92" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;A&apos;&apos; / &apos;&apos;B&apos;&apos;) / &apos;&apos;C&apos;&apos;"}},"i":0}}]}' id="mwAUs">(<i>A</i> / <i>B</i>) / <i>C</i></span> and nor is <span class="nowrap" about="#mwt93" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;AB&apos;&apos;) \\ &apos;&apos;C&apos;&apos;"}},"i":0}}]}' id="mwAUw">(<i>AB</i>) \ <i>C</i></span> the same as <span class="nowrap" about="#mwt94" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ (&apos;&apos;B&apos;&apos; \\ &apos;&apos;C&apos;&apos;)"}},"i":0}}]}' id="mwAU0"><i>A</i> \ (<i>B</i> \ <i>C</i>)</span>, but <span class="nowrap" about="#mwt95" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; / (&apos;&apos;BC&apos;&apos;) = (&apos;&apos;A&apos;&apos; / &apos;&apos;C&apos;&apos;) / &apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAU4"><i>A</i> / (<i>BC</i>) = (<i>A</i> / <i>C</i>) / <i>B</i></span> and <span class="nowrap" about="#mwt96" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"(&apos;&apos;AB&apos;&apos;) \\ &apos;&apos;C&apos;&apos; = &apos;&apos;B&apos;&apos; \\ (&apos;&apos;A&apos;&apos; \\ &apos;&apos;C&apos;&apos;)"}},"i":0}}]}' id="mwAU8">(<i>AB</i>) \ <i>C</i> = <i>B</i> \ (<i>A</i> \ <i>C</i>)</span>.</p>
+
+</section><section data-mw-section-id="15" id="mwAVA"><h4 id="Pseudoinverse">Pseudoinverse</h4>
+<p id="mwAVE">To avoid problems when <span class="nowrap" about="#mwt97" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwAVI"><i>A</i><sup>−1</sup></span> and/or <span class="nowrap" about="#mwt98" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;B&apos;&apos;&lt;sup>−1&lt;/sup>"}},"i":0}}]}' id="mwAVM"><i>B</i><sup>−1</sup></span> do not exist, division can also be defined as multiplication with the <a rel="mw:WikiLink" href="./Moore–Penrose_pseudoinverse" title="Moore–Penrose pseudoinverse" id="mwAVQ" class="mw-redirect">pseudoinverse</a>, i.e., <span class="nowrap" about="#mwt99" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; / &apos;&apos;B&apos;&apos; = &apos;&apos;AB&apos;&apos;&lt;sup>+&lt;/sup>"}},"i":0}}]}' id="mwAVU"><i>A</i> / <i>B</i> = <i>AB</i><sup>+</sup></span> and <span class="nowrap" about="#mwt100" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos; \\ &apos;&apos;B&apos;&apos; = &apos;&apos;A&apos;&apos;&lt;sup>+&lt;/sup>&apos;&apos;B&apos;&apos;"}},"i":0}}]}' id="mwAVY"><i>A</i> \ <i>B</i> = <i>A</i><sup>+</sup><i>B</i></span>, where <span class="nowrap" about="#mwt101" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;A&apos;&apos;&lt;sup>+&lt;/sup>"}},"i":0}}]}' id="mwAVc"><i>A</i><sup>+</sup></span> and <span class="nowrap" about="#mwt102" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;B&apos;&apos;&lt;sup>+&lt;/sup>"}},"i":0}}]}' id="mwAVg"><i>B</i><sup>+</sup></span> denote the pseudoinverse of <i id="mwAVk">A</i> and <i id="mwAVo">B</i>.</p>
+
+</section></section><section data-mw-section-id="16" id="mwAVs"><h3 id="Abstract_algebra">Abstract algebra</h3>
+<p id="mwAVw">In <a rel="mw:WikiLink" href="./Abstract_algebra" title="Abstract algebra" id="mwAV0">abstract algebra</a>, given a <a rel="mw:WikiLink" href="./Magma_(algebra)" title="Magma (algebra)" id="mwAV4">magma</a> with binary operation ∗ (which could nominally be termed multiplication), left division of <i id="mwAV8">b</i> by <i id="mwAWA">a</i> (written <span class="nowrap" about="#mwt103" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; \\ &apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mwAWE"><i>a</i> \ <i>b</i></span>) is typically defined as the solution <i id="mwAWI">x</i> to the equation <span class="nowrap" about="#mwt104" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;a&apos;&apos; ∗ &apos;&apos;x&apos;&apos; = &apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mwAWM"><i>a</i> ∗ <i>x</i> = <i>b</i></span>, if this exists and is unique.  Similarly, right division of <i id="mwAWQ">b</i> by <i id="mwAWU">a</i> (written <span class="nowrap" about="#mwt105" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;b&apos;&apos; / &apos;&apos;a&apos;&apos;"}},"i":0}}]}' id="mwAWY"><i>b</i> / <i>a</i></span>) is the solution <i id="mwAWc">y</i> to the equation <span class="nowrap" about="#mwt106" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"nowrap","href":"./Template:Nowrap"},"params":{"1":{"wt":"&apos;&apos;y&apos;&apos; ∗ &apos;&apos;a&apos;&apos; = &apos;&apos;b&apos;&apos;"}},"i":0}}]}' id="mwAWg"><i>y</i> ∗ <i>a</i> = <i>b</i></span>.  Division in this sense does not require ∗ to have any particular properties (such as commutativity, associativity, or an identity element).</p>
+
+<p id="mwAWk">"Division" in the sense of "cancellation" can be done in any magma by an element with the <a rel="mw:WikiLink" href="./Cancellation_property" title="Cancellation property" id="mwAWo">cancellation property</a>.  Examples include <a rel="mw:WikiLink" href="./Matrix_(mathematics)" title="Matrix (mathematics)" id="mwAWs">matrix</a> algebras and <a rel="mw:WikiLink" href="./Quaternion" title="Quaternion" id="mwAWw">quaternion</a> algebras.  A <a rel="mw:WikiLink" href="./Quasigroup" title="Quasigroup" id="mwAW0">quasigroup</a> is a structure in which division is always possible, even without an identity element and hence inverses.  In an <a rel="mw:WikiLink" href="./Integral_domain" title="Integral domain" id="mwAW4">integral domain</a>, where not every element need have an inverse, <i id="mwAW8">division</i> by a cancellative element <i id="mwAXA">a</i> can still be performed on elements of the form <i id="mwAXE">ab</i> or <i id="mwAXI">ca</i> by left or right cancellation, respectively.  If a <a rel="mw:WikiLink" href="./Ring_(mathematics)" title="Ring (mathematics)" id="mwAXM">ring</a> is finite and every nonzero element is cancellative, then by an application of the <a rel="mw:WikiLink" href="./Pigeonhole_principle" title="Pigeonhole principle" id="mwAXQ">pigeonhole principle</a>, every nonzero element of the ring is invertible, and <i id="mwAXU">division</i> by any nonzero element is possible. To learn about when <i id="mwAXY">algebras</i> (in the technical sense) have a division operation, refer to the page on <a rel="mw:WikiLink" href="./Division_algebra" title="Division algebra" id="mwAXc">division algebras</a>. In particular <a rel="mw:WikiLink" href="./Bott_periodicity" title="Bott periodicity" id="mwAXg" class="mw-redirect">Bott periodicity</a> can be used to show that any <a rel="mw:WikiLink" href="./Real_number" title="Real number" id="mwAXk">real</a> <a rel="mw:WikiLink" href="./Normed_division_algebra" title="Normed division algebra" id="mwAXo" class="mw-redirect">normed division algebra</a> must be <a rel="mw:WikiLink" href="./Isomorphic" title="Isomorphic" id="mwAXs" class="mw-redirect">isomorphic</a> to either the real numbers <b id="mwAXw">R</b>, the <a rel="mw:WikiLink" href="./Complex_number" title="Complex number" id="mwAX0">complex numbers</a> <b id="mwAX4">C</b>, the <a rel="mw:WikiLink" href="./Quaternion" title="Quaternion" id="mwAX8">quaternions</a> <b id="mwAYA">H</b>, or the <a rel="mw:WikiLink" href="./Octonion" title="Octonion" id="mwAYE">octonions</a> <b id="mwAYI">O</b>.</p>
+<!-- Left vs right, definition of quasigroup, relationship to inverse elements in presence of associativity, examples: groups, octonions -->
+
+</section><section data-mw-section-id="17" id="mwAYM"><h3 id="Calculus">Calculus</h3>
+<p id="mwAYQ">The <a rel="mw:WikiLink" href="./Derivative" title="Derivative" id="mwAYU">derivative</a> of the quotient of two functions is given by the <a rel="mw:WikiLink" href="./Quotient_rule" title="Quotient rule" id="mwAYY">quotient rule</a>:</p>
+<dl id="mwAYc"><dd id="mwAYg"><span class="mwe-math-element" typeof="mw:Extension/math" about="#mwt151" data-mw='{"name":"math","attrs":{},"body":{"extsrc":"{\\left(\\frac fg\\right)}&apos; = \\frac{f&apos;g - fg&apos;}{g^2}."}}' id="mwAYk"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\left({\frac {f}{g}}\right)}'={\frac {f'g-fg'}{g^{2}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow>
+              <mo>(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mi>f</mi>
+                  <mi>g</mi>
+                </mfrac>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>′</mo>
+        </msup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>f</mi>
+                <mo>′</mo>
+              </msup>
+              <mi>g</mi>
+              <mo>−<!-- − --></mo>
+              <mi>f</mi>
+              <msup>
+                <mi>g</mi>
+                <mo>′</mo>
+              </msup>
+            </mrow>
+            <msup>
+              <mi>g</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn>
+              </mrow>
+            </msup>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\left({\frac {f}{g}}\right)}'={\frac {f'g-fg'}{g^{2}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/39369741ad9fe39d87c4c15cc9b71ee0eecb62be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:19.845ex; height:6.343ex;" alt="{\left({\frac {f}{g}}\right)}'={\frac {f'g-fg'}{g^{2}}}."/></span><span about="#mwt151">
+</span></dd></dl>
+
+</section></section><section data-mw-section-id="18" id="mwAYo"><h2 id="Division_by_zero">Division by zero</h2>
+<div role="note" class="hatnote navigation-not-searchable" about="#mwt108" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"main","href":"./Template:Main"},"params":{"1":{"wt":"Division by zero"}},"i":0}}]}' id="mwAYs">Main article: <a rel="mw:WikiLink" href="./Division_by_zero" title="Division by zero">Division by zero</a></div>
+<p id="mwAYw">Division of any number by <a rel="mw:WikiLink" href="./Zero" title="Zero" id="mwAY0" class="mw-redirect">zero</a> in most mathematical systems is undefined because zero multiplied by any finite number always results in a <a rel="mw:WikiLink" href="./Multiplication" title="Multiplication" id="mwAY4">product</a> of zero.<sup about="#mwt112" class="mw-ref" id="cite_ref-14" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-14"}}'><a href="./Division_(mathematics)#cite_note-14" style="counter-reset: mw-Ref 13;"><span class="mw-reflink-text">[13]</span></a></sup> Entry of such an expression into most <a rel="mw:WikiLink" href="./Calculator" title="Calculator" id="mwAY8">calculators</a> produces an error message. However, in certain higher level mathematics division by zero is possible by the <a rel="mw:WikiLink" href="./Zero_ring" title="Zero ring" id="mwAZA">zero ring</a> and algebras such as <a rel="mw:WikiLink" href="./Wheel_theory" title="Wheel theory" id="mwAZE">wheels</a>.<sup about="#mwt114" class="mw-ref" id="cite_ref-15" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-15"}}'><a href="./Division_(mathematics)#cite_note-15" style="counter-reset: mw-Ref 14;"><span class="mw-reflink-text">[14]</span></a></sup> In these algebras, the meaning of division is different from traditional definitions.</p>
+
+</section><section data-mw-section-id="19" id="mwAZI"><h2 id="See_also">See also</h2>
+<ul id="mwAZM"><li id="mwAZQ"><a rel="mw:WikiLink" href="./Rod_calculus#Division" title="Rod calculus" id="mwAZU">400AD Sunzi division algorithm</a></li>
+<li id="mwAZY"><a rel="mw:WikiLink" href="./Division_by_two" title="Division by two" id="mwAZc">Division by two</a></li>
+<li id="mwAZg"><a rel="mw:WikiLink" href="./Galley_division" title="Galley division" id="mwAZk">Galley division</a></li>
+<li id="mwAZo"><a rel="mw:WikiLink" href="./Group_(mathematics)" title="Group (mathematics)" id="mwAZs">Group</a></li>
+<li id="mwAZw"><a rel="mw:WikiLink" href="./Inverse_element" title="Inverse element" id="mwAZ0">Inverse element</a></li>
+<li id="mwAZ4"><a rel="mw:WikiLink" href="./Order_of_operations" title="Order of operations" id="mwAZ8">Order of operations</a></li>
+<li id="mwAaA"><a rel="mw:WikiLink" href="./Repeating_decimal" title="Repeating decimal" id="mwAaE">Repeating decimal</a></li></ul>
+
+</section><section data-mw-section-id="20" id="mwAaI"><h2 id="Notes">Notes</h2>
+<div class="reflist " style=" list-style-type: lower-alpha;" about="#mwt115" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Notelist","href":"./Template:Notelist"},"params":{},"i":0}}]}' id="mwAaM">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt158" data-mw='{"name":"references","attrs":{"group":"lower-alpha","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references" data-mw-group="lower-alpha"><li about="#cite_note-4" id="cite_note-4"><a href="./Division_(mathematics)#cite_ref-4" data-mw-group="lower-alpha" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-4" class="mw-reference-text">Division by zero may be defined in some circumstances, either by extending the real numbers to the <a rel="mw:WikiLink" href="./Extended_real_number_line" title="Extended real number line" id="mwAaQ">extended real number line</a> or to the <a rel="mw:WikiLink" href="./Projectively_extended_real_line" title="Projectively extended real line" id="mwAaU">projectively extended real line</a> or when occurring as limit of divisions by numbers tending to 0. For example: <span class="texhtml " id="mwAaY">lim<sub id="mwAac"><i id="mwAag">x</i>→0</sub> <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;" id="mwAak"><span style="display:block; line-height:1em; margin:0 0.1em;" id="mwAao">sin <i id="mwAas">x</i></span><span class="visualhide" id="mwAaw">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;" id="mwAa0"><i id="mwAa4">x</i></span></span> = 1.</span><sup about="#mwt133" class="mw-ref" id="cite_ref-mwdiv_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"mwdiv"}}'><a href="./Division_(mathematics)#cite_note-mwdiv-2" style="counter-reset: mw-Ref 2;" id="mwAa8"><span class="mw-reflink-text" id="mwAbA">[2]</span></a></sup><sup about="#mwt147" class="mw-ref" id="cite_ref-db0_3-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"db0"},"body":{"id":"mw-reference-text-cite_note-db0-3"}}'><a href="./Division_(mathematics)#cite_note-db0-3" style="counter-reset: mw-Ref 3;" id="mwAbE"><span class="mw-reflink-text" id="mwAbI">[3]</span></a></sup></span></li></ol></div></div>
+
+</section><section data-mw-section-id="21" id="mwAbM"><h2 id="References">References</h2>
+<div class="reflist " style=" list-style-type: decimal;" about="#mwt116" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Reflist","href":"./Template:Reflist"},"params":{},"i":0}}]}' id="mwAbQ">
+<div class="mw-references-wrap mw-references-columns" typeof="mw:Extension/references" about="#mwt160" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"html":""}}'><ol class="mw-references references"><li about="#cite_note-1" id="cite_note-1"><a href="./Division_(mathematics)#cite_ref-1" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-1" class="mw-reference-text"><cite class="citation book" about="#mwt5" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"last1":{"wt":"Blake"},"first1":{"wt":"A. G."},"title":{"wt":"Arithmetic"},"date":{"wt":"1887"},"publisher":{"wt":"[[Alexander Thom (almanac editor)|Alexander Thom &amp; Company]]"},"location":{"wt":"[[Dublin|Dublin, Ireland]]"}},"i":0}}]}' id="mwAbU">Blake, A. G. (1887). <i id="mwAbY">Arithmetic</i>. <a rel="mw:WikiLink" href="./Dublin" title="Dublin" id="mwAbc">Dublin, Ireland</a>: <a rel="mw:WikiLink" href="./Alexander_Thom_(almanac_editor)" title="Alexander Thom (almanac editor)" id="mwAbg">Alexander Thom &amp; Company</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Arithmetic&amp;rft.place=Dublin%2C+Ireland&amp;rft.pub=Alexander+Thom+%26+Company&amp;rft.date=1887&amp;rft.aulast=Blake&amp;rft.aufirst=A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt5" id="mwAbk"></span><style data-mw-deduplicate="TemplateStyles:r879151008" typeof="mw:Extension/templatestyles" about="#mwt5" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAbo">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span></li><li about="#cite_note-mwdiv-2" id="cite_note-mwdiv-2"><span rel="mw:referencedBy"><a href="./Division_(mathematics)#cite_ref-mwdiv_2-0"><span class="mw-linkback-text">1 </span></a><a href="./Division_(mathematics)#cite_ref-mwdiv_2-1"><span class="mw-linkback-text">2 </span></a></span> <span id="mw-reference-text-cite_note-mwdiv-2" class="mw-reference-text"><span class="citation mathworld" id="Reference-Mathworld-Division" about="#mwt21" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"MathWorld","href":"./Template:MathWorld"},"params":{"id":{"wt":"Division"},"title":{"wt":"Division"}},"i":0}}]}'><cite class="citation web" id="mwAbs"><a rel="mw:WikiLink" href="./Eric_W._Weisstein" title="Eric W. Weisstein" id="mwAbw">Weisstein, Eric W.</a> <a rel="mw:ExtLink" class="external text" href="http://mathworld.wolfram.com/Division.html" id="mwAb0">"Division"</a>. <i id="mwAb4"><a rel="mw:WikiLink" href="./MathWorld" title="MathWorld" id="mwAb8">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Division&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FDivision.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" id="mwAcA"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt214" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAcE"/></span></span></li><li about="#cite_note-db0-3" id="cite_note-db0-3"><a href="./Division_(mathematics)#cite_ref-db0_3-0" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-db0-3" class="mw-reference-text"><span class="citation mathworld" id="Reference-Mathworld-Division_by_Zero"><cite class="citation web" id="mwAcI"><a rel="mw:WikiLink" href="./Eric_W._Weisstein" title="Eric W. Weisstein" id="mwAcM">Weisstein, Eric W.</a> <a rel="mw:ExtLink" class="external text" href="http://mathworld.wolfram.com/DivisionbyZero.html" id="mwAcQ">"Division by Zero"</a>. <i id="mwAcU"><a rel="mw:WikiLink" href="./MathWorld" title="MathWorld" id="mwAcY">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Division+by+Zero&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FDivisionbyZero.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" id="mwAcc"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt145" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAcg"/></span></span></li><li about="#cite_note-5" id="cite_note-5"><a href="./Division_(mathematics)#cite_ref-5" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-5" class="mw-reference-text"><cite class="citation book" about="#mwt15" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"last1":{"wt":"Derbyshire"},"first1":{"wt":"John"},"title":{"wt":"Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics"},"date":{"wt":"2004"},"publisher":{"wt":"[[Penguin Books]]"},"location":{"wt":"[[New York City]]"},"isbn":{"wt":"978-0-452-28525-5"}},"i":0}}]}' id="mwAck">Derbyshire, John (2004). <i id="mwAco">Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics</i>. <a rel="mw:WikiLink" href="./New_York_City" title="New York City" id="mwAcs">New York City</a>: <a rel="mw:WikiLink" href="./Penguin_Books" title="Penguin Books" id="mwAcw">Penguin Books</a>. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mwAc0">ISBN</a><span typeof="mw:Entity" id="mwAc4"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-452-28525-5" title="Special:BookSources/978-0-452-28525-5" id="mwAc8">978-0-452-28525-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Prime+Obsession%3A+Bernhard+Riemann+and+the+Greatest+Unsolved+Problem+in+Mathematics&amp;rft.place=New+York+City&amp;rft.pub=Penguin+Books&amp;rft.date=2004&amp;rft.isbn=978-0-452-28525-5&amp;rft.aulast=Derbyshire&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt15" id="mwAdA"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt15" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAdE"/></span></li><li about="#cite_note-mwintdiv-6" id="cite_note-mwintdiv-6"><a href="./Division_(mathematics)#cite_ref-mwintdiv_6-0" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-mwintdiv-6" class="mw-reference-text"><span class="citation mathworld" id="Reference-Mathworld-Integer_Division" about="#mwt27" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"MathWorld","href":"./Template:MathWorld"},"params":{"id":{"wt":"IntegerDivision"},"title":{"wt":"Integer Division"}},"i":0}}]}'><cite class="citation web" id="mwAdI"><a rel="mw:WikiLink" href="./Eric_W._Weisstein" title="Eric W. Weisstein" id="mwAdM">Weisstein, Eric W.</a> <a rel="mw:ExtLink" class="external text" href="http://mathworld.wolfram.com/IntegerDivision.html" id="mwAdQ">"Integer Division"</a>. <i id="mwAdU"><a rel="mw:WikiLink" href="./MathWorld" title="MathWorld" id="mwAdY">MathWorld</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Integer+Division&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FIntegerDivision.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" id="mwAdc"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt216" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAdg"/></span></span></li><li about="#cite_note-7" id="cite_note-7"><a href="./Division_(mathematics)#cite_ref-7" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-7" class="mw-reference-text"><a rel="mw:ExtLink" class="external free" href="http://www.mathwords.com/c/commutative.htm" id="mwAdk">http://www.mathwords.com/c/commutative.htm</a> Retrieved October 23 2018</span></li><li about="#cite_note-8" id="cite_note-8"><a href="./Division_(mathematics)#cite_ref-8" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-8" class="mw-reference-text"><a rel="mw:ExtLink" class="external free" href="http://www.mathwords.com/a/associative_operation.htm" id="mwAdo">http://www.mathwords.com/a/associative_operation.htm</a> Retrieved October 23 2018</span></li><li about="#cite_note-9" id="cite_note-9"><a href="./Division_(mathematics)#cite_ref-9" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-9" class="mw-reference-text">George Mark Bergman: <a rel="mw:ExtLink" class="external text" href="https://math.berkeley.edu/~gbergman/misc/numbers/ord_ops.html" id="mwAds">Order of arithmetic operations</a></span></li><li about="#cite_note-10" id="cite_note-10"><a href="./Division_(mathematics)#cite_ref-10" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-10" class="mw-reference-text">Education Place: <a rel="mw:ExtLink" class="external text" href="http://eduplace.com/math/mathsteps/4/a/index.html" id="mwAdw">The Order of Operations</a></span></li><li about="#cite_note-Cajori-11" id="cite_note-Cajori-11"><span rel="mw:referencedBy"><a href="./Division_(mathematics)#cite_ref-Cajori_11-0"><span class="mw-linkback-text">1 </span></a><a href="./Division_(mathematics)#cite_ref-Cajori_11-1"><span class="mw-linkback-text">2 </span></a></span> <span id="mw-reference-text-cite_note-Cajori-11" class="mw-reference-text"><cite class="citation book" about="#mwt55" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"author":{"wt":"Cajori, Florian"},"title":{"wt":"A History of Mathematical Notations"},"publisher":{"wt":"Open Court Pub. Co."},"year":{"wt":"1929"}},"i":0}}]}' id="mwAd0">Cajori, Florian (1929). <i id="mwAd4">A History of Mathematical Notations</i>. Open Court Pub. Co.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+Mathematical+Notations&amp;rft.pub=Open+Court+Pub.+Co.&amp;rft.date=1929&amp;rft.au=Cajori%2C+Florian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt55" id="mwAd8"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt55" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAeA"/></span></li><li about="#cite_note-12" id="cite_note-12"><a href="./Division_(mathematics)#cite_ref-12" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-12" class="mw-reference-text"><cite class="citation book" about="#mwt60" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"title":{"wt":"Mathematics for Teachers: An Interactive Approach for Grades K–8"},"page":{"wt":"126"},"author":{"wt":"Thomas Sonnabend"},"publisher":{"wt":"Brooks/Cole, Cengage Learning (Charles Van Wagner)"},"year":{"wt":"2010"},"isbn":{"wt":"978-0-495-56166-8"}},"i":0}}]}' id="mwAeE">Thomas Sonnabend (2010). <i id="mwAeI">Mathematics for Teachers: An Interactive Approach for Grades K–8</i>. Brooks/Cole, Cengage Learning (Charles Van Wagner). p.<span typeof="mw:Entity" id="mwAeM"> </span>126. <a rel="mw:WikiLink" href="./International_Standard_Book_Number" title="International Standard Book Number" id="mwAeQ">ISBN</a><span typeof="mw:Entity" id="mwAeU"> </span><a rel="mw:WikiLink" href="./Special:BookSources/978-0-495-56166-8" title="Special:BookSources/978-0-495-56166-8" id="mwAeY">978-0-495-56166-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mathematics+for+Teachers%3A+An+Interactive+Approach+for+Grades+K%E2%80%938&amp;rft.pages=126&amp;rft.pub=Brooks%2FCole%2C+Cengage+Learning+%28Charles+Van+Wagner%29&amp;rft.date=2010&amp;rft.isbn=978-0-495-56166-8&amp;rft.au=Thomas+Sonnabend&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt60" id="mwAec"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt60" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAeg"/></span></li><li about="#cite_note-Smith-13" id="cite_note-Smith-13"><a href="./Division_(mathematics)#cite_ref-Smith_13-0" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-Smith-13" class="mw-reference-text"><cite class="citation book" about="#mwt67" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"cite book","href":"./Template:Cite_book"},"params":{"title":{"wt":"History Of Mathematics Vol II"},"author":{"wt":"Smith, David Eugene"},"publisher":{"wt":"Ginn And Company"},"year":{"wt":"1925"}},"i":0}}]}' id="mwAek">Smith, David Eugene (1925). <i id="mwAeo">History Of Mathematics Vol II</i>. Ginn And Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=History+Of+Mathematics+Vol+II&amp;rft.pub=Ginn+And+Company&amp;rft.date=1925&amp;rft.au=Smith%2C+David+Eugene&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt67" id="mwAes"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt67" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}' id="mwAew"/></span></li><li about="#cite_note-14" id="cite_note-14"><a href="./Division_(mathematics)#cite_ref-14" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-14" class="mw-reference-text"><a rel="mw:ExtLink" class="external free" href="http://mathworld.wolfram.com/DivisionbyZero.html" id="mwAe0">http://mathworld.wolfram.com/DivisionbyZero.html</a> Retrieved October 23 2018</span></li><li about="#cite_note-15" id="cite_note-15"><a href="./Division_(mathematics)#cite_ref-15" rel="mw:referencedBy"><span class="mw-linkback-text">↑ </span></a> <span id="mw-reference-text-cite_note-15" class="mw-reference-text">Jesper Carlström. <a rel="mw:ExtLink" class="external text" href="https://www2.math.su.se/reports/2001/11/2001-11.pdf%7C" id="mwAe4">"On Division by Zero"</a> Retrieved October 23 2018</span></li></ol></div></div>
+
+</section><section data-mw-section-id="22" id="mwAe8"><h2 id="External_links">External links</h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000" about="#mwt117" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Commons category","href":"./Template:Commons_category"},"params":{"1":{"wt":"Division (mathematics)"}},"i":0}}]}' id="mwAfA">
+<tbody><tr>
+<td class="mbox-image"><figure-inline class="noviewer" typeof="mw:Image"><span><img alt="" resource="./File:Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" data-file-width="1024" data-file-height="1376" data-file-type="drawing" height="40" width="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x"/></span></figure-inline></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a rel="mw:WikiLink/Interwiki" href="https://commons.wikimedia.org/wiki/Category:Division%20(mathematics)" title="commons:Category:Division (mathematics)">Division (mathematics)</a></b></i>.</td></tr></tbody></table><link rel="mw:PageProp/Category" href="./Category:Commons_category_link_is_on_Wikidata" about="#mwt117" id="mwAfE"/>
+<ul id="mwAfI"><li id="mwAfM"><cite class="citation web" about="#mwt118" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"planetmath reference","href":"./Template:Planetmath_reference"},"params":{"id":{"wt":"6148"},"title":{"wt":"Division"}},"i":0}}]}' id="mwAfQ"><a rel="mw:ExtLink" class="external text" href="http://planetmath.org/?op=getobj&amp;from=objects&amp;id=6148">"Division"</a>. <i><a rel="mw:WikiLink" href="./PlanetMath" title="PlanetMath">PlanetMath</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PlanetMath&amp;rft.atitle=Division&amp;rft_id=http%3A%2F%2Fplanetmath.org%2F%3Fop%3Dgetobj%26amp%3Bfrom%3Dobjects%26amp%3Bid%3D6148&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADivision+%28mathematics%29" class="Z3988" about="#mwt118"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r879151008" about="#mwt118" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Module:Citation/CS1/styles.css"},"body":{"extsrc":""}}'/></li>
+<li id="mwAfU"><a rel="mw:ExtLink" class="external text" href="http://webhome.idirect.com/~totton/abacus/pages.htm#Division1" id="mwAfY">Division on a Japanese abacus</a> selected from <a rel="mw:ExtLink" class="external text" href="http://webhome.idirect.com/~totton/abacus/" id="mwAfc">Abacus: Mystery of the Bead</a></li>
+<li id="mwAfg"><a rel="mw:ExtLink" class="external text" href="http://webhome.idirect.com/~totton/suanpan/sh_div/" id="mwAfk">Chinese Short Division Techniques on a Suan Pan</a></li>
+<li id="mwAfo"><a rel="mw:ExtLink" class="external text" href="http://www.math.wichita.edu/history/topics/arithmetic.html#div" id="mwAfs">Rules of divisibility</a></li></ul>
+
+<div role="navigation" class="navbox" aria-labelledby="Elementary_arithmetic" style="padding:3px" about="#mwt119" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Elementary arithmetic","href":"./Template:Elementary_arithmetic"},"params":{},"i":0}}]}' id="mwAfw"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Elementary_arithmetic" title="Template:Elementary arithmetic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Elementary_arithmetic" title="Template talk:Elementary arithmetic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Elementary_arithmetic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Elementary_arithmetic" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Elementary_arithmetic" title="Elementary arithmetic">Elementary arithmetic</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;"><tbody><tr style="vertical-align:top;"><td style="width:5em;"><span typeof="mw:Entity"> </span><span typeof="mw:Entity"> </span><span typeof="mw:Entity"> </span></td><td class="navbox-list" style="padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Addition"><img resource="./File:Symbol_support_vote.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/30px-Symbol_support_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/60px-Symbol_support_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/45px-Symbol_support_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Addition" title="Addition">Addition</a> (<a rel="mw:WikiLink" href="./Addition" title="Addition">+</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Subtraction"><img resource="./File:Symbol_oppose_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/30px-Symbol_oppose_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/60px-Symbol_oppose_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Symbol_oppose_vote.svg/45px-Symbol_oppose_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction</a> (<a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">−</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Multiplication"><img resource="./File:Symbol_multiplication_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/30px-Symbol_multiplication_vote.svg.png" data-file-width="1800" data-file-height="1850" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/60px-Symbol_multiplication_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Symbol_multiplication_vote.svg/45px-Symbol_multiplication_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">Multiplication</a> (<a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">×</a> or <a rel="mw:WikiLink" href="./Interpunct" title="Interpunct">·</a>)</p>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;text-align: center;;;width:25%;"><div>
+<p><figure-inline typeof="mw:Image"><a href="./Division_(mathematics)"><img resource="./File:Symbol_divide_vote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/30px-Symbol_divide_vote.svg.png" data-file-width="180" data-file-height="185" data-file-type="drawing" height="31" width="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/60px-Symbol_divide_vote.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Symbol_divide_vote.svg/45px-Symbol_divide_vote.svg.png 1.5x"/></a></figure-inline><br/><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division</a> (<a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">÷</a> or <a rel="mw:WikiLink" href="./Slash_(punctuation)" title="Slash (punctuation)">/</a>)</p>
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Fractions_and_ratios" style="padding:3px" about="#mwt120" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Fractions and ratios","href":"./Template:Fractions_and_ratios"},"params":{},"i":0}}]}' id="mwAf0"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="4"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Fractions_and_ratios" title="Template:Fractions and ratios"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Fractions_and_ratios" title="Template talk:Fractions and ratios" class="new"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fractions_and_ratios&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Fractions_and_ratios" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Fraction_(mathematics)" title="Fraction (mathematics)">Fractions</a> and <a rel="mw:WikiLink" href="./Ratio" title="Ratio">ratios</a></div></th></tr><tr><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 2px 0px 0px"><div><figure-inline typeof="mw:Image"><a href="./File:Percent_18e.svg"><img resource="./File:Percent_18e.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Percent_18e.svg/50px-Percent_18e.svg.png" data-file-width="256" data-file-height="232" data-file-type="drawing" height="45" width="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Percent_18e.svg/100px-Percent_18e.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Percent_18e.svg/75px-Percent_18e.svg.png 1.5x"/></a></figure-inline></div></td><th scope="row" class="navbox-group" style="width:1%;text-align: center;">Division and ratio</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Dividend</a><span typeof="mw:DisplaySpace mw:Placeholder"> </span>: <a rel="mw:WikiLink" href="./Divisor" title="Divisor">Divisor</a> = <a rel="mw:WikiLink" href="./Quotient" title="Quotient">Quotient</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><figure-inline typeof="mw:Image mw:ExpandedAttrs" about="#mwt161" data-mw='{"attribs":[["alt",{"html":"alt=The ratio of width to height of &lt;a rel=\"mw:WikiLink\" href=\"./Standard-definition_television\" title=\"Standard-definition television\" data-parsoid=&apos;{\"stx\":\"simple\",\"a\":{\"href\":\"./Standard-definition_television\"},\"sa\":{\"href\":\"standard-definition television\"}}&apos;>standard-definition television&lt;/a>.","txt":"The ratio of width to height of standard-definition television."}]]}'><span><img alt="The ratio of width to height of standard-definition television." resource="./File:Aspect-ratio-4x3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aspect-ratio-4x3.svg/60px-Aspect-ratio-4x3.svg.png" data-file-width="139" data-file-height="106" data-file-type="drawing" height="46" width="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aspect-ratio-4x3.svg/120px-Aspect-ratio-4x3.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aspect-ratio-4x3.svg/90px-Aspect-ratio-4x3.svg.png 1.5x"/></span></figure-inline></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center;">Fraction</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Numerator / Denominator = Quotient</li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Algebraic_fraction" title="Algebraic fraction">Algebraic</a></li>
+<li><a rel="mw:WikiLink" href="./Aspect_ratio" title="Aspect ratio">Aspect</a></li>
+<li><a rel="mw:WikiLink" href="./Binary_number" title="Binary number">Binary</a></li>
+<li><a rel="mw:WikiLink" href="./Continued_fraction" title="Continued fraction">Continued</a></li>
+<li><a rel="mw:WikiLink" href="./Decimal#Decimal_fractions" title="Decimal">Decimal</a></li>
+<li><a rel="mw:WikiLink" href="./Dyadic_rational" title="Dyadic rational">Dyadic</a></li>
+<li><a rel="mw:WikiLink" href="./Egyptian_fraction" title="Egyptian fraction">Egyptian</a></li>
+<li><a rel="mw:WikiLink" href="./Golden_ratio" title="Golden ratio">Golden</a>
+<ul><li><a rel="mw:WikiLink" href="./Silver_ratio" title="Silver ratio">Silver</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Integer" title="Integer">Integer</a></li>
+<li><a rel="mw:WikiLink" href="./Irreducible_fraction" title="Irreducible fraction">Irreducible</a>
+<ul><li><a rel="mw:WikiLink" href="./Reduction_(mathematics)" title="Reduction (mathematics)">Reduction</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="./Lowest_common_denominator" title="Lowest common denominator">LCD</a></li>
+<li><a rel="mw:WikiLink" href="./Interval_(music)" title="Interval (music)">Musical interval</a></li>
+<li><a rel="mw:WikiLink" href="./Paper_size" title="Paper size">Paper size</a></li>
+<li><a rel="mw:WikiLink" href="./Percentage" title="Percentage">Percentage</a></li>
+<li><a rel="mw:WikiLink" href="./Unit_fraction" title="Unit fraction">Unit</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Hyperoperations" style="padding:3px" about="#mwt121" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Hyperoperations","href":"./Template:Hyperoperations"},"params":{},"i":0}}]}' id="mwAf4"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a rel="mw:WikiLink" href="./Template:Hyperoperations" title="Template:Hyperoperations"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a rel="mw:WikiLink" href="./Template_talk:Hyperoperations" title="Template talk:Hyperoperations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a rel="mw:ExtLink" class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hyperoperations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Hyperoperations" style="font-size:114%;margin:0 4em"><a rel="mw:WikiLink" href="./Hyperoperation" title="Hyperoperation">Hyperoperations</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Primary</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Successor_function" title="Successor function">Successor (0)</a></li>
+<li><a rel="mw:WikiLink" href="./Addition" title="Addition">Addition (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Multiplication" title="Multiplication">Multiplication (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Exponentiation" title="Exponentiation">Exponentiation (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Tetration" title="Tetration">Tetration (4)</a></li>
+<li><a rel="mw:WikiLink" href="./Pentation" title="Pentation">Pentation (5)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inverse for left argument</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Nth_root" title="Nth root"><i>n</i>th root (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Super-root" title="Super-root" class="mw-redirect">Super-root (4)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inverse for right argument</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Subtraction" title="Subtraction">Subtraction (1)</a></li>
+<li><a rel="mw:WikiLink" href="./Division_(mathematics)" title="Division (mathematics)">Division (2)</a></li>
+<li><a rel="mw:WikiLink" href="./Logarithm" title="Logarithm">Logarithm (3)</a></li>
+<li><a rel="mw:WikiLink" href="./Super-logarithm" title="Super-logarithm">Super-logarithm (4)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="mw:WikiLink" href="./Ackermann_function" title="Ackermann function">Ackermann function</a></li>
+<li><a rel="mw:WikiLink" href="./Bowers's_operators" title="Bowers's operators">Bowers's operators</a></li>
+<li><a rel="mw:WikiLink" href="./Conway_chained_arrow_notation" title="Conway chained arrow notation">Conway chained arrow notation</a></li>
+<li><a rel="mw:WikiLink" href="./Grzegorczyk_hierarchy" title="Grzegorczyk hierarchy">Grzegorczyk hierarchy</a></li>
+<li><a rel="mw:WikiLink" href="./Knuth's_up-arrow_notation" title="Knuth's up-arrow notation">Knuth's up-arrow notation</a></li>
+<li><a rel="mw:WikiLink" href="./Steinhaus–Moser_notation" title="Steinhaus–Moser notation">Steinhaus–Moser notation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1226939&amp;#124;Edit_this_at_Wikidata" style="padding:3px" about="#mwt122" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":"Authority control","href":"./Template:Authority_control"},"params":{},"i":0}}]}' id="mwAf8"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1226939&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a rel="mw:WikiLink" href="./Help:Authority_control" title="Help:Authority control">Authority control</a> <figure-inline class="mw-valign-text-top" typeof="mw:Image/Frameless" data-mw='{"caption":"Edit this at Wikidata"}'><a href="https://www.wikidata.org/wiki/Q1226939"><img alt="Edit this at Wikidata" resource="./File:Blue_pencil.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" data-file-width="600" data-file-height="600" data-file-type="drawing" height="10" width="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x"/></a></figure-inline></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a rel="mw:WikiLink" href="./Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://d-nb.info/gnd/4150319-3">4150319-3</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_GND_identifiers"/></span></span></li>
+<li><span class="nowrap"><a rel="mw:WikiLink" href="./National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="mw:ExtLink" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00575006">00575006</a><link rel="mw:PageProp/Category" href="./Category:Wikipedia_articles_with_NDL_identifiers"/></span></span></li></ul>
+
+</div></td></tr></tbody></table></div>
+
+<link rel="mw:PageProp/Category" href="./Category:Elementary_arithmetic" id="mwAgA"/>
+<link rel="mw:PageProp/Category" href="./Category:Binary_operations" id="mwAgE"/>
+<link rel="mw:PageProp/Category" href="./Category:Division_(mathematics)#%20" id="mwAgI"/></section></body></html>
