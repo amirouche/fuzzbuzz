@@ -90,6 +90,8 @@ def merkeltree(booleans):
     length = (2 * len(booleans) - 1)
     out = [False] * length
     index = length - 1
+    # TODO: this is not top-down depth first search I was thinking
+    # about
     booleans = list(reversed(booleans))
     while len(booleans) > 1:
         for boolean in booleans:
@@ -112,7 +114,7 @@ def fuzzbuzz(bitstring):
 
 
 def hamming2(s1, s2):
-    """Calculate the Hamming distance between two bit strings"""
+    """Calculate the Hamming distance between two integers"""
     s1 = int2bits(s1)
     s2 = int2bits(s2)
     # Taken from https://stackoverflow.com/a/31007358/140837
