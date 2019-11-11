@@ -9,6 +9,12 @@ sortedcontainers = "*"
 
 [packages]
 pyblake2 = "*"
+pystemmer = "*"
+cython = "*"
+wordfreq = "*"
+unidecode = "*"
+html2text = "*"
+lsm-db = {git = "https://github.com/coleifer/python-lsm-db/"}
 
 [requires]
 python_version = "3.7"
