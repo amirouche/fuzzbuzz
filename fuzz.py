@@ -151,13 +151,16 @@ elif sys.argv[1] == 'query':
 
     # check that bbk fuzzbuzz does something similar
     distances = Counter()
-    length = (HASH_SIZE * 2) // 8
-    key = integer.to_bytes(length, 'big')
 
-
-    for subspace in range(HASH_SIZE // 8):
+    bitstring = int2bits(integer)
+    for subspace, chunk in enumerate(chunks(bitstring, 8)):
         with db.cursor() as cursor:
+            out = fuzzbuzz(chunk)
+            length = (HASH_SIZE * 2) // 8
+            key = out.to_bytes(length, 'big')
+            # strip the NULL byte suffix included in all strings by pack
             start = pack((subspace, key))
+            start = start[:-1]
             cursor.seek(start, SEEK_LE)
             current = cursor.key()
             def lcp(a, b):
@@ -184,6 +187,9 @@ elif sys.argv[1] == 'query':
     print('* most similar according to bbk fuzzbuzz')
     for key, distance in distances.most_common(LIMIT):
         print('**', key, "\t", distance)
+    print('* bbk fuzzbuzz computed the hamming distance against:', len(distances), "documents")
+
+    # compute the hamming distance with all the documents
 
     distances = Counter()
 
@@ -200,6 +206,7 @@ elif sys.argv[1] == 'query':
     print('* most similar according to hamming distance over the simhash')
     for key, distance in distances.most_common(LIMIT):
         print('**', key, "\t", distance)
+    print('* There is grand total of:', len(distances), "documents")
 
 else:
     raise NotImplementedError()
