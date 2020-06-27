@@ -1,81 +1,30 @@
 import sys
-from pathlib import Path
-from string import punctuation
-from collections import namedtuple
+from itertools import product
+from string import ascii_lowercase
 
-from html2text import HTML2Text
-from wordfreq import top_n_list
-from unidecode import unidecode
-from Stemmer import Stemmer
 from collections import Counter
 from pyblake2 import blake2b
+from Levenshtein import distance
 
 from lsm import LSM
 from lsm import SEEK_LE, SEEK_GE
 from tuple import pack, unpack, strinc
 
 
-HASH_SIZE = 512
+HASH_SIZE = 2**10
+BBKH_LENGTH = HASH_SIZE * 2 / 8
+
+chars = ascii_lowercase + "$"
+ONE_HOT_ENCODER = sorted([''.join(x) for x in product(chars, chars)])
 
 
-DATA = Path('./data').resolve()
+def ngram(string, n):
+    return [string[i:i+n] for i in range(len(string)-n+1)]
 
 
-GARBAGE_TO_SPACE = dict.fromkeys((ord(x) for x in punctuation), " ")
-STOP_WORDS = set(top_n_list("en", 500))
+def integer2booleans(integer):
+    return [x == '1' for x in bin(integer)[2:].zfill(HASH_SIZE)]
 
-WORD_MIN_LENGTH = 4
-WORD_MAX_LENGTH = 64  # sha2 length
-
-
-instance = HTML2Text()
-instance.ignore_links = True
-html2text = instance.handle
-
-stem = Stemmer("english").stemWord
-
-
-def hash(string):
-    digest_size = HASH_SIZE // 8
-    return int.from_bytes(blake2b(string.encode('utf-8'), digest_size).digest(), 'big')
-
-
-def sane(word):
-    return WORD_MIN_LENGTH <= len(word) <= WORD_MAX_LENGTH
-
-
-def string2bag(string):
-    """Converts a string to a list of words.
-
-    Removes punctuation, lowercase, words strictly smaller than 2 and strictly bigger than 64
-    characters
-
-    Returns a set.
-    """
-    clean = string.translate(GARBAGE_TO_SPACE).lower()
-    unaccented = unidecode(clean)
-    bag = (stem(word) for word in unaccented.split() if (sane(word) and word not in STOP_WORDS))
-    bag = Counter(bag)
-    return bag
-
-
-def int2bits(integer):
-    return list(bin(integer)[2:].zfill(HASH_SIZE))
-
-
-def simhash(features):
-    intermediate = [0] * HASH_SIZE
-    for feature, count in features.items():
-        feature = hash(feature)
-        bits = int2bits(feature)
-        assert len(bits) == HASH_SIZE
-        for index, bit in enumerate(bits):
-            intermediate[index] += count if bit == '1' else -count
-    # compute simhash
-    out = ''.join(['1' if v > 0 else '0' for v in intermediate])
-    assert len(out) == HASH_SIZE
-    out = int(out, 2)
-    return out
 
 def chunks(l, n):
     """Yield successive n-sized chunks from l."""
@@ -83,15 +32,11 @@ def chunks(l, n):
         yield l[i:i + n]
 
 
-db = LSM('fuzzbuzz.ldb')
-
-
-def merkeltree(booleans):
+def merkletree(booleans):
+    assert len(booleans) == HASH_SIZE
     length = (2 * len(booleans) - 1)
     out = [False] * length
     index = length - 1
-    # TODO: this is not top-down depth first search I was thinking
-    # about
     booleans = list(reversed(booleans))
     while len(booleans) > 1:
         for boolean in booleans:
@@ -105,114 +50,107 @@ def merkeltree(booleans):
     return out
 
 
-def fuzzbuzz(bitstring):
+def bbkh(string):
+    tokens = string.split()
+    integer = 0
+    for gram in ngram(token, 2):
+        hotbit = ONE_HOT_ENCODER.index(gram)
+        hotinteger = 1 << hotbit
+        integer = integer | hotinteger
+    booleans = integer2booleans(integer)
     booleans = [bit == '1' for bit in bitstring]
-    tree = merkeltree(booleans)
-    buzz = ''.join('1' if x else '0' for x in tree)
-    out = int(buzz, 2)
-    return out
+    tree = merkletree(booleans)
+    fuzz = ''.join('1' if x else '0' for x in tree)
+    buzz = int(buzz, 2)
+    hash = buzz.to_bytes(BBKH_LENGTH, 'big')
+    return hash
 
 
-def hamming2(s1, s2):
-    """Calculate the Hamming distance between two integers"""
-    s1 = int2bits(s1)
-    s2 = int2bits(s2)
-    # Taken from https://stackoverflow.com/a/31007358/140837
-    assert len(s1) == len(s2)
-    return sum(c1 != c2 for c1, c2 in zip(s1, s2))
+def lcp(a, b):
+    """Longest Common Prefix between a and b"""
+    out = []
+    for x, y in zip(a, b):
+        if x == y:
+            out.append(x)
+        else:
+            break
+    return ''.join(out)
 
 
-input = list(DATA.glob('*/*/*/*'))
-LIMIT = 10
+def main():
+    LIMIT = 10
+    db = LSM('fuzzbuzz.ldb')
 
-if sys.argv[1] == 'index':
+    if sys.argv[1] == 'index':
 
-    for filepath in input:
-        print(filepath)
+        with open(sys.argv[2]) as f:
+            for index, line in enumerate(f):
+                line = line.strip()
+                if index % 10_000_000 == 0:
+                    print(index, line)
+                # TODO: uncomment or comment
+                if index == 10_000_000:
+                    break
+                url, label = line.split('\t')
+                if not all(x in ascii_lowercase for x in label):
+                    continue
+                if ' ' in label:
+                    continue
+                key = bbkh(label)
+                db[pack((key, label))] = b'\x42'
 
-        with filepath.open() as f:
-            html = f.read()
+    elif sys.argv[1] == 'query':
+        limit = int(sys.argv[2])
+        query = sys.argv[3]
 
-        text = html2text(html)
-        bag = string2bag(text)
-        value = simhash(bag)
-        bitstring = int2bits(value)
-        value = value.to_bytes(HASH_SIZE // 8, 'big')
-        assert len(bitstring) == HASH_SIZE, "bitstring is not good"
-        for subspace, chunk in enumerate(chunks(bitstring, HASH_SIZE // 4)):
-            out = fuzzbuzz(chunk)
-            length = (HASH_SIZE * 2) // 8
-            key = out.to_bytes(length, 'big')
-            db[pack((subspace, key, value, str(filepath)))] = b'\x42'
+        key = bbkh(query)
 
-elif sys.argv[1] == 'query':
-    html = sys.stdin.read()
-    text = html2text(html)
-    bag = string2bag(text)
-    integer = simhash(bag)
+        distances = Counter()
+        start = pack((key,))
 
-    # check that bbk fuzzbuzz does something similar
-    distances = Counter()
-
-    bitstring = int2bits(integer)
-    for subspace, chunk in enumerate(chunks(bitstring, HASH_SIZE // 4)):
         with db.cursor() as cursor:
-            out = fuzzbuzz(chunk)
-            length = (HASH_SIZE * 2) // 8
-            key = out.to_bytes(length, 'big')
-            # strip the NULL byte suffix included in all strings by pack
-            start = pack((subspace, key))
-            start = start[:-1]
             cursor.seek(start, SEEK_LE)
-            current = cursor.key()
-            def lcp(a, b):
-                """Longest Common Prefix between a and b"""
-                out = []
-                for x, y in zip(a, b):
-                    if x == y:
-                        out.append(x.to_bytes(1, 'big'))
-                    else:
-                        break
-                return b''.join(out)
+            nearest = cursor.key()
+
+            # Look every keys that are above the neareest match
+            for _ in range(limit * 10):
+                packed = cursor.key()
+                key, label = unpack(packed)
+                d = -distance(label, query)
+                # Replace with a levenshtein distance, that returns
+                # None in the case the maximum threshold is reached,
+                # to speed up the algorithm.
+                if d >= -2:
+                    distances[label] = d
+                if not cursor.previous():
+                    break
+
+            cursor.seek(nearest, SEEK_GE)
+
+            for _ in range(limit * 10):
+                packed = cursor.key()
+                key, label = unpack(packed)
+                d = -distance(label, query)
+                # Replace with a levenshtein distance, that returns
+                # None in the case the maximum threshold is reached.
+                # to speed up the algorithm.
+                if d >= -2:
+                    distances[label] = d
+                cursor.next()
+
+        print('* most similar according to bbk fuzzbuzz')
+        print(distances)
+        for key, d in distances.most_common(limit):
+            print('**', key, "\t", d)
 
 
-
-            prefix = lcp(start, current)
-            end = strinc(prefix)
-
-            cursor.seek(prefix, SEEK_GE)
-            for packed, _ in cursor.fetch_until(end):
-                _, _, other, filepath = unpack(packed)
-                other = int.from_bytes(other, 'big')
-                distances[filepath] = -hamming2(integer, other)
-
-    print('* most similar according to bbk fuzzbuzz')
-    for key, distance in distances.most_common(LIMIT):
-        print('**', key, "\t", distance)
-    print('* bbk fuzzbuzz computed the hamming distance against:', len(distances), "documents")
-
-    # compute the hamming distance with all the documents
-
-    distances = Counter()
-
-    for filepath in input:
-        with filepath.open() as f:
-            html = f.read()
-
-        text = html2text(html)
-        bag = string2bag(text)
-        other = simhash(bag)
-        distances[str(filepath)] = -hamming2(integer, other)
-
-    # check that hamming distance capture something
-    print('* most similar according to hamming distance over the simhash')
-    for key, distance in distances.most_common(LIMIT):
-        print('**', key, "\t", distance)
-    print('* There is grand total of:', len(distances), "documents")
-
-else:
-    raise NotImplementedError()
+    else:
+        raise NotImplementedError()
 
 
-# at last!
-db.close()
+    # at last!
+    db.close()
+
+
+if __name__ == "__main__":
+    main()
