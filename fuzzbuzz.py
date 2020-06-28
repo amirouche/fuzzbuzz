@@ -3,7 +3,7 @@ from collections import Counter
 from pyblake2 import blake2b
 
 
-HASH_SIZE = 32
+HASH_SIZE = 512
 
 
 def ngram(string, n=2):
@@ -19,7 +19,7 @@ def features(string):
     tokens = ['$' + token + '$' for token in string.split()]
     out = Counter()
     for token in tokens:
-        iterator = chain(*[ngram(token, n) for n in range(2, len('$CONCEPT$'))])
+        iterator = chain(*[ngram(token, n) for n in range(2, len(token))])
         for gram in iterator:
             out[hash(gram)] += 1
     return out

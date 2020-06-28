@@ -3,7 +3,6 @@ from itertools import product
 from string import ascii_lowercase
 
 from collections import Counter
-from pyblake2 import blake2b
 from Levenshtein import distance
 
 from lsm import LSM
@@ -12,7 +11,7 @@ from tuple import pack, unpack, strinc
 
 
 HASH_SIZE = 2**10
-BBKH_LENGTH = HASH_SIZE * 2 / 8
+BBKH_LENGTH = int(HASH_SIZE * 2 / 8)
 
 chars = ascii_lowercase + "$"
 ONE_HOT_ENCODER = sorted([''.join(x) for x in product(chars, chars)])
@@ -51,17 +50,16 @@ def merkletree(booleans):
 
 
 def bbkh(string):
-    tokens = string.split()
     integer = 0
-    for gram in ngram(token, 2):
+    string = "$" + string + "$"
+    for gram in ngram(string, 2):
         hotbit = ONE_HOT_ENCODER.index(gram)
         hotinteger = 1 << hotbit
         integer = integer | hotinteger
     booleans = integer2booleans(integer)
-    booleans = [bit == '1' for bit in bitstring]
     tree = merkletree(booleans)
     fuzz = ''.join('1' if x else '0' for x in tree)
-    buzz = int(buzz, 2)
+    buzz = int(fuzz, 2)
     hash = buzz.to_bytes(BBKH_LENGTH, 'big')
     return hash
 
@@ -86,11 +84,8 @@ def main():
         with open(sys.argv[2]) as f:
             for index, line in enumerate(f):
                 line = line.strip()
-                if index % 10_000_000 == 0:
+                if index % 1_000_000 == 0:
                     print(index, line)
-                # TODO: uncomment or comment
-                if index == 10_000_000:
-                    break
                 url, label = line.split('\t')
                 if not all(x in ascii_lowercase for x in label):
                     continue
@@ -139,10 +134,8 @@ def main():
                 cursor.next()
 
         print('* most similar according to bbk fuzzbuzz')
-        print(distances)
         for key, d in distances.most_common(limit):
             print('**', key, "\t", d)
-
 
     else:
         raise NotImplementedError()
