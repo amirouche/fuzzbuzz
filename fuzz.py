@@ -4,6 +4,8 @@ from string import ascii_lowercase
 
 from collections import Counter
 from Levenshtein import distance
+from unidecode import unidecode
+
 
 from lsm import LSM
 from lsm import SEEK_LE, SEEK_GE
@@ -91,12 +93,14 @@ def main():
                     continue
                 if ' ' in label:
                     continue
+                label = unidecode(label)
                 key = bbkh(label)
                 db[pack((key, label))] = b'\x42'
 
     elif sys.argv[1] == 'query':
         limit = int(sys.argv[2])
         query = sys.argv[3]
+        query = unidecode(query)
 
         key = bbkh(query)
 
