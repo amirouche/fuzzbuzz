@@ -9,7 +9,7 @@ from Levenshtein import distance
 from lsm import LSM
 from lsm import SEEK_LE, SEEK_GE
 from tuple import pack, unpack, strinc
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 
 
 HASH_SIZE = 2**10
@@ -114,8 +114,8 @@ def main():
             for _ in range(limit * 10):
                 packed = cursor.key()
                 key, label = unpack(packed)
-                d = fuzz.ratio(label, query)
-                if d >= 80:
+                d = fuzz.ratio(label, query, score_cutoff=80)
+                if d:
                     distances[label] = d
                 if not cursor.previous():
                     break
@@ -125,8 +125,8 @@ def main():
             for _ in range(limit * 10):
                 packed = cursor.key()
                 key, label = unpack(packed)
-                d = fuzz.ratio(label, query)
-                if d >= 80:
+                d = fuzz.ratio(label, query, score_cutoff=80)
+                if d:
                     distances[label] = d
                 cursor.next()
 
