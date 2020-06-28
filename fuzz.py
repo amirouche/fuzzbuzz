@@ -1,15 +1,15 @@
 import sys
+from time import time
 from itertools import product
 from string import ascii_lowercase
 
 from collections import Counter
 from Levenshtein import distance
-from unidecode import unidecode
-
 
 from lsm import LSM
 from lsm import SEEK_LE, SEEK_GE
 from tuple import pack, unpack, strinc
+from fuzzywuzzy import fuzz
 
 
 HASH_SIZE = 2**10
@@ -86,21 +86,20 @@ def main():
         with open(sys.argv[2]) as f:
             for index, line in enumerate(f):
                 line = line.strip()
-                if index % 1_000_000 == 0:
+                if index % 10_000 == 0:
                     print(index, line)
                 url, label = line.split('\t')
                 if not all(x in ascii_lowercase for x in label):
                     continue
                 if ' ' in label:
                     continue
-                label = unidecode(label)
                 key = bbkh(label)
                 db[pack((key, label))] = b'\x42'
 
     elif sys.argv[1] == 'query':
+        begin = time()
         limit = int(sys.argv[2])
         query = sys.argv[3]
-        query = unidecode(query)
 
         key = bbkh(query)
 
@@ -115,11 +114,8 @@ def main():
             for _ in range(limit * 10):
                 packed = cursor.key()
                 key, label = unpack(packed)
-                d = -distance(label, query)
-                # Replace with a levenshtein distance, that returns
-                # None in the case the maximum threshold is reached,
-                # to speed up the algorithm.
-                if d >= -2:
+                d = fuzz.ratio(label, query)
+                if d >= 80:
                     distances[label] = d
                 if not cursor.previous():
                     break
@@ -129,11 +125,8 @@ def main():
             for _ in range(limit * 10):
                 packed = cursor.key()
                 key, label = unpack(packed)
-                d = -distance(label, query)
-                # Replace with a levenshtein distance, that returns
-                # None in the case the maximum threshold is reached.
-                # to speed up the algorithm.
-                if d >= -2:
+                d = fuzz.ratio(label, query)
+                if d >= 80:
                     distances[label] = d
                 cursor.next()
 
@@ -141,6 +134,8 @@ def main():
         for key, d in distances.most_common(limit):
             print('**', key, "\t", d)
 
+        delta = time() - begin
+        print(delta)
     else:
         raise NotImplementedError()
 

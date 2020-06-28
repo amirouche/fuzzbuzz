@@ -17,6 +17,7 @@ html2text = "*"
 lsm-db = {git = "https://github.com/coleifer/python-lsm-db/"}
 python-levenshtein = "*"
 xxhash = "*"
+fuzzywuzzy = {extras = ["speedup"],version = "*"}
 
 [requires]
 python_version = "3.7"
