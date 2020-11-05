@@ -1,6 +1,6 @@
 import sys
 import time
-from fuzzywuzzy import process
+from rapidfuzz import process
 
 
 

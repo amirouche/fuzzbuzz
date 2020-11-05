@@ -3,7 +3,7 @@ import sys
 from time import time
 from collections import Counter
 
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 from fuzz import bbkh
 from lsm import LSM
 from lsm import SEEK_LE, SEEK_GE
@@ -40,8 +40,8 @@ for index, line in enumerate(f):
         for _ in range(limit * 10):
             packed = cursor.key()
             key, label = unpack(packed)
-            d = fuzz.ratio(label, query)
-            if d >= 70:
+            d = fuzz.ratio(label, query, score_cutoff=70)
+            if d:
                 distances[label] = d
             try:
                 cursor.previous()
@@ -53,8 +53,8 @@ for index, line in enumerate(f):
         for _ in range(limit * 10):
             packed = cursor.key()
             key, label = unpack(packed)
-            d = fuzz.ratio(label, query)
-            if d >= 70:
+            d = fuzz.ratio(label, query, score_cutoff=70)
+            if d:
                 distances[label] = d
             try:
                 cursor.next()
